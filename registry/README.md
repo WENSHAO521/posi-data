@@ -26,10 +26,20 @@ first one that matches an existing registry row wins; if none match, mint a
 new id using the highest-priority identity available on the incoming record:
 
 1. ISSN-L
-2. Canonical (print, online) ISSN pair
+2. Canonical (print, online) ISSN pair — deduplicated; a record where print and online ISSN are identical is one ISSN, not two, and gets flagged as a normalization warning, not treated as stronger evidence
 3. OpenAlex Source ID
-4. Another stable upstream source id (Crossref member+title, DOAJ id, …)
+4. A genuinely stable upstream journal-level id (e.g. a DOAJ journal id — not a DOAJ *search match*)
 5. Unresolved — flagged for manual identity review, not auto-assigned
+
+**Deliberately excluded from this list:** Crossref member id + title, normalized
+title + publisher, and any other title/name-based similarity signal. A
+Crossref member id identifies a *depositing organization*, not a journal, and
+a title can legitimately change — neither is stable enough to mint or match a
+permanent id against. These signals are still useful, but only as
+`candidate_duplicate` evidence for human review — never for automatic
+merging. See `posi-engine`'s migration pipeline: "a strong conflict always
+overrides a weaker match," and no automatic merge is ever driven by title or
+publisher similarity alone.
 
 ## Before the first bulk migration
 
