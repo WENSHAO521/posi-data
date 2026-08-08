@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-08-08T17:10:26.717Z",
+  "mode": "dry-run",
+  "source_repository": "WENSHAO521/Panorama-Open-Scholarly-Index",
+  "source_commit": "9b2d4ad90073ae069c7d47a25af7778e5e41a65f",
+  "source_file": "migration-source.jsonl",
+  "engine_commit": "d637a2672208ddd688034fa4b430417378f4006f",
+  "schema_commit": "2f099e80ee1d6ee553fddf0b4bef478f6fc2d889",
+  "posi_j_ids_generated": 0,
+  "counts": {
+    "source_records": 23822,
+    "by_source_collection": {
+      "psg": 12,
+      "indexed": 3,
+      "shiharr": 13,
+      "other_indexed": 2,
+      "discovered": 23792
+    },
+    "candidate_entities": 23819,
+    "resolved_entities": 23819,
+    "unresolved_entities": 0,
+    "duplicate_groups": 3,
+    "records_absorbed_into_duplicate_groups": 6,
+    "hard_conflicts": 0,
+    "possible_duplicate_groups": 171,
+    "invalid_identifiers": 4,
+    "normalization_warnings": 4468
+  },
+  "coverage": {
+    "issn_l": {
+      "count": 0,
+      "pct": "0.0%"
+    },
+    "valid_issn_print_or_online": {
+      "count": 23822,
+      "pct": "100.0%"
+    },
+    "openalex_source_id": {
+      "count": 1,
+      "pct": "0.0%"
+    },
+    "publisher": {
+      "count": 15931,
+      "pct": "66.9%"
+    },
+    "country": {
+      "count": 19417,
+      "pct": "81.5%"
+    },
+    "website_url": {
+      "count": 23046,
+      "pct": "96.7%"
+    },
+    "doaj_listed": {
+      "count": 23792,
+      "pct": "99.9%"
+    }
+  }
+}
