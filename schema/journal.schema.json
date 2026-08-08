@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/main/schema/journal.schema.json",
+  "title": "POSI Journal Record",
+  "type": "object",
+  "required": ["id", "title", "status", "identifiers", "provenance", "updated_at"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^POSI-J-[0-9]{6,}$",
+      "description": "Stable POSI journal identifier. Never reused, even if a journal is later removed from the Core Collection."
+    },
+    "title": { "type": "string" },
+    "short_title": { "type": ["string", "null"] },
+    "status": {
+      "type": "string",
+      "enum": ["discovered", "indexed", "metric_eligible"],
+      "description": "discovered = found, not reviewed. indexed = passed POSI Core Collection (PCC) admission review. metric_eligible = indexed AND has enough continuous coverage/citation history to receive PCI/rankings."
+    },
+    "publisher": { "type": ["string", "null"] },
+    "country": { "type": ["string", "null"], "description": "ISO 3166-1 alpha-2, publisher's registered country." },
+    "language": { "type": ["array", "null"], "items": { "type": "string" }, "description": "BCP 47 language tags." },
+    "open_access": { "type": ["boolean", "null"] },
+    "license": { "type": ["string", "null"], "description": "SPDX-style license identifier for the journal's own content, e.g. CC-BY-4.0." },
+    "website_url": { "type": ["string", "null"], "format": "uri" },
+
+    "identifiers": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "issn_l": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{3}[0-9X]$" },
+        "issn_print": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{3}[0-9X]$" },
+        "issn_online": { "type": ["string", "null"], "pattern": "^[0-9]{4}-[0-9]{3}[0-9X]$" },
+        "openalex_source_id": { "type": ["string", "null"] },
+        "crossref_member_id": { "type": ["string", "null"] },
+        "ror_publisher_id": { "type": ["string", "null"] },
+        "doaj_id": { "type": ["string", "null"] }
+      }
+    },
+
+    "classification": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "primary": { "type": "string", "description": "PSC code, e.g. P3.03.04" },
+        "secondary": { "type": "array", "items": { "type": "string" }, "maxItems": 2 },
+        "psc_version": { "type": "string" },
+        "assigned_by": { "type": "string", "enum": ["posi_subject_editor", "ml_suggested_pending_review"] },
+        "assigned_at": { "type": "string", "format": "date" }
+      },
+      "required": ["primary", "psc_version"]
+    },
+
+    "coverage": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "indexed_since": { "type": ["string", "null"], "format": "date" },
+        "metric_eligible_since": { "type": ["string", "null"], "format": "date" },
+        "coverage_gaps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "from": { "type": "string", "format": "date" },
+              "to": { "type": "string", "format": "date" },
+              "reason": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "selection": {
+      "type": ["object", "null"],
+      "description": "POSI Core Collection admission decision — see posi-engine's Editorial Selection methodology.",
+      "additionalProperties": false,
+      "properties": {
+        "decision": { "type": "string", "enum": ["accepted", "rejected", "pending"] },
+        "methodology_version": { "type": "string" },
+        "decided_at": { "type": ["string", "null"], "format": "date" },
+        "reviewers_conflicted": {
+          "type": "boolean",
+          "description": "true if the journal's publisher has a relationship with Panorama Scholarly Group — triggers the independent-reviewer requirement."
+        }
+      }
+    },
+
+    "provenance": {
+      "type": "object",
+      "required": ["source", "retrieved_at"],
+      "additionalProperties": false,
+      "properties": {
+        "source": {
+          "type": "string",
+          "enum": ["crossref", "openalex", "opencitations", "datacite", "doaj", "ror", "publisher_direct", "posi_curation"]
+        },
+        "source_record_id": { "type": ["string", "null"] },
+        "retrieved_at": { "type": "string", "format": "date-time" },
+        "license": { "type": ["string", "null"], "description": "License of the upstream record itself, not POSI's derived data." }
+      }
+    },
+
+    "created_at": { "type": "string", "format": "date-time" },
+    "updated_at": { "type": "string", "format": "date-time" }
+  }
+}

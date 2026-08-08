@@ -1,0 +1,2 @@
+# Annual category rankings land here as rankings/<metric_year>/<shard>/<journal_id>.json
+# once posi-engine's ranking calculator runs — see PJR-SPEC.md § 8.

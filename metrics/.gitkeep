@@ -1,0 +1,2 @@
+# Annual metric snapshots land here as metrics/<metric_year>/<shard>/<journal_id>.json
+# once posi-engine's PCI calculator runs — see PJR-SPEC.md § 6.

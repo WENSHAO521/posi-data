@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below, and cite the specific PJR release (e.g. PJR-2028.1) you drew data from where possible."
+type: dataset
+title: "POSI Data: Panorama Open Scholarly Index journal, classification, and citation-metric dataset"
+url: "https://github.com/WENSHAO521/posi-data"
+repository-code: "https://github.com/WENSHAO521/posi-data"
+license: CC-BY-4.0
+identifiers:
+  - type: url
+    value: "https://github.com/WENSHAO521/posi-data"
+    description: "Canonical repository"
+preferred-citation:
+  type: dataset
+  title: "POSI Journal Reports"
+  notes: "Cite the specific release, e.g. 'POSI Journal Reports 2028 (PJR-2028.1)', available at https://github.com/WENSHAO521/posi-data/releases"

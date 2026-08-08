@@ -1,0 +1,5 @@
+{
+  "current_version": "1.0.0",
+  "file": "v1.0.json",
+  "note": "Points at the taxonomy version posi-engine should use for new classifications. Bumped only via PR once a new PSC version file is merged — never edited in place."
+}

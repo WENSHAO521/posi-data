@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/main/schema/ranking.schema.json",
+  "title": "POSI Annual Category Ranking",
+  "description": "One record per (journal_id, category_code, metric_year). A journal with 1 primary + up to 2 secondary PSC categories gets up to 3 ranking records per year.",
+  "type": "object",
+  "required": ["journal_id", "category_code", "metric_year", "category_size", "ranking_method", "methodology_version"],
+  "additionalProperties": false,
+  "properties": {
+    "journal_id": { "type": "string", "pattern": "^POSI-J-[0-9]{6,}$" },
+    "category_code": { "type": "string", "description": "PSC code this ranking is computed within." },
+    "metric_year": { "type": "integer", "minimum": 2020 },
+
+    "rank": { "type": ["integer", "null"], "minimum": 1 },
+    "category_size": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Count of metric_eligible journals in this category this year — the ranking denominator."
+    },
+    "percentile": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Mid-rank percentile: 100 * (category_size - rank_mid + 0.5) / category_size."
+    },
+    "quartile": {
+      "type": ["string", "null"],
+      "enum": ["Q1", "Q2", "Q3", "Q4"],
+      "description": "Q1 >= 75th percentile, Q2 >= 50th, Q3 >= 25th, Q4 otherwise. Null when ranking_method is 'unavailable'."
+    },
+
+    "ranking_method": {
+      "type": "string",
+      "enum": ["pci_midrank", "unavailable"],
+      "description": "'unavailable' when category_size is below MIN_CATEGORY_SIZE (see PJR-SPEC.md) — quartiles are not assigned for undersized categories, full stop."
+    },
+    "tied_with": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^POSI-J-[0-9]{6,}$" },
+      "description": "Other journal_ids sharing this exact rank via mid-rank tie handling."
+    },
+
+    "methodology_version": { "type": "string" },
+    "pjr_release": { "type": ["string", "null"] }
+  }
+}

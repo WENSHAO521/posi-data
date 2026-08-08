@@ -1,0 +1,16 @@
+{
+  "_note": "Template only — no PJR release has been published yet. See PJR-SPEC.md § 2 for the manifest format a real release will follow.",
+  "release": "PJR-YYYY.1",
+  "metric_year": 0,
+  "data_cutoff": "YYYY-12-31",
+  "released": "YYYY-MM-DD",
+  "psc_version": "1.0.0",
+  "pci_methodology_version": "PCI-1.0",
+  "ranking_methodology_version": "RANK-1.0",
+  "data_commit": "0000000000000000000000000000000000000",
+  "engine_commit": "0000000000000000000000000000000000000",
+  "journal_count": 0,
+  "metric_eligible_journal_count": 0,
+  "category_count": 44,
+  "supersedes": null
+}

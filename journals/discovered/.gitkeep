@@ -1,0 +1,3 @@
+# Discovered-but-unreviewed journal records land here as sharded JSONL files
+# (e.g. 00.jsonl .. ff.jsonl) once migration from the main website repo's
+# discovered-journals.ts runs. Not yet migrated — see repo README status note.

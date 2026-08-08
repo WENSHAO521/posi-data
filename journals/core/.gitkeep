@@ -1,0 +1,3 @@
+# POSI Core Collection journal records land here, sharded as
+# journals/core/<2-hex-char shard>/<journal_id>.json — see PJR-SPEC.md § 4.
+# Not yet migrated from the main website repo's PSG_JOURNALS/INDEXED_JOURNALS.

@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/main/schema/metric.schema.json",
+  "title": "POSI Annual Journal Metric Snapshot",
+  "description": "One frozen record per journal per metric_year. Never mutated after a PJR release is tagged — corrections produce a new snapshot with a note, not a silent edit.",
+  "type": "object",
+  "required": ["journal_id", "metric_year", "citable_items", "methodology_version", "snapshot_date", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "journal_id": { "type": "string", "pattern": "^POSI-J-[0-9]{6,}$" },
+    "metric_year": { "type": "integer", "minimum": 2020 },
+
+    "pci": {
+      "type": ["number", "null"],
+      "description": "2-year POSI Citation Impact: citations in metric_year to citable items published in (metric_year-1, metric_year-2), divided by the count of those citable items."
+    },
+    "pci_5yr": {
+      "type": ["number", "null"],
+      "description": "5-year window variant of PCI."
+    },
+    "pnci": {
+      "type": ["number", "null"],
+      "description": "POSI Normalized Citation Indicator: this journal's citation rate divided by the expected citation rate for its primary PSC category and metric_year. 1.00 = category average."
+    },
+
+    "citable_items": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Denominator: count of documents of an eligible document_type (see PJR-SPEC.md § Citable Items) published in the PCI window."
+    },
+    "citation_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Numerator: citations in metric_year to those citable items, excluding citations to/from retracted content (see PJR-SPEC.md § Retractions)."
+    },
+    "total_citations": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "All-time citations to this journal's output, independent of the PCI window."
+    },
+    "self_citation_rate": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+
+    "international": {
+      "type": ["object", "null"],
+      "description": "Reported separately from PCI — never folded into the citation-impact score (see PJR-SPEC.md § International Reach).",
+      "additionalProperties": false,
+      "properties": {
+        "author_countries": { "type": "integer", "minimum": 0 },
+        "citing_countries": { "type": "integer", "minimum": 0 },
+        "international_collaboration_share": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+        "international_citation_share": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+        "largest_author_country_share": { "type": ["number", "null"], "minimum": 0, "maximum": 1 }
+      }
+    },
+
+    "status": {
+      "type": "string",
+      "enum": ["active", "suppressed", "insufficient_data"],
+      "description": "suppressed = citation pattern under integrity review, see PJR-SPEC.md § Citation Integrity. insufficient_data = journal is metric_eligible but this year's window has too little history."
+    },
+    "suppression_reason": { "type": ["string", "null"] },
+
+    "methodology_version": { "type": "string", "description": "e.g. PCI-1.0" },
+    "data_cutoff": { "type": "string", "format": "date" },
+    "snapshot_date": { "type": "string", "format": "date" },
+    "pjr_release": { "type": ["string", "null"], "description": "e.g. PJR-2028.1 — the release this snapshot was frozen for, once published." }
+  }
+}
