@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/main/schema/journal.schema.json",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/master/schema/journal.schema.json",
   "title": "POSI Journal Record",
   "type": "object",
   "required": ["id", "title", "status", "identifiers", "provenance", "updated_at"],
@@ -88,18 +88,28 @@
     },
 
     "provenance": {
-      "type": "object",
-      "required": ["source", "retrieved_at"],
-      "additionalProperties": false,
-      "properties": {
-        "source": {
-          "type": "string",
-          "enum": ["crossref", "openalex", "opencitations", "datacite", "doaj", "ror", "publisher_direct", "posi_curation"]
-        },
-        "source_record_id": { "type": ["string", "null"] },
-        "retrieved_at": { "type": "string", "format": "date-time" },
-        "license": { "type": ["string", "null"], "description": "License of the upstream record itself, not POSI's derived data." }
+      "type": "array",
+      "minItems": 1,
+      "description": "One entry per upstream source that contributed to this record — a journal is typically assembled from several (e.g. title/publisher from Crossref, OA status from DOAJ, ROR affiliation from ROR). Order is not significant; field-level provenance is out of scope for v1.0 (see field_provenance below for the planned extension).",
+      "items": {
+        "type": "object",
+        "required": ["source", "retrieved_at"],
+        "additionalProperties": false,
+        "properties": {
+          "source": {
+            "type": "string",
+            "enum": ["crossref", "openalex", "opencitations", "datacite", "doaj", "ror", "publisher_direct", "posi_curation"]
+          },
+          "source_record_id": { "type": ["string", "null"] },
+          "retrieved_at": { "type": "string", "format": "date-time" },
+          "license": { "type": ["string", "null"], "description": "License of the upstream record itself, not POSI's derived data." }
+        }
       }
+    },
+    "field_provenance": {
+      "type": ["object", "null"],
+      "description": "Planned extension, not required in v1.0: maps a field name to the source(s) it was taken from, e.g. {\"title\": [\"crossref\"], \"open_access\": [\"doaj\"]}. Omit until field-level tracking is implemented.",
+      "additionalProperties": { "type": "array", "items": { "type": "string" } }
     },
 
     "created_at": { "type": "string", "format": "date-time" },

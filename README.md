@@ -23,6 +23,7 @@ traces back to a specific commit and, for frozen annual results, a tagged
 | `metrics/` | Annual per-journal metric snapshots (PCI, PCI-5, PNCI, …) |
 | `rankings/` | Annual per-category rankings (rank, percentile, quartile) |
 | `manifests/` | One manifest per PJR release, pinning data/engine commits |
+| `registry/` | Permanent, append-only mapping from stable external identity (ISSN-L, etc.) to `POSI-J-######` id |
 | `PJR-SPEC.md` | The annual release specification |
 
 ## What does *not* live here

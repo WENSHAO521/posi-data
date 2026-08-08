@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/main/schema/category.schema.json",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/master/schema/category.schema.json",
   "title": "POSI Subject Classification (PSC) Category",
   "type": "object",
   "required": ["code", "name", "level"],

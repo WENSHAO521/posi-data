@@ -213,3 +213,20 @@ citable-items table in this document requires a version bump and a CHANGELOG
 entry — a metric snapshot's methodology version is permanent, so a reader
 can always tell whether two PCI values across years were computed the same
 way.
+
+## 12. Journal identity and deduplication
+
+`POSI-J-######` ids are permanent — see `registry/README.md` for the full
+identity-resolution priority (ISSN-L first, falling back through canonical
+ISSN pair, OpenAlex Source ID, other stable source ids, then manual review).
+Two rules that follow from that:
+
+- An id is never derived from a source file's row order or array index. Bulk
+  ingestion always resolves identity against `registry/journal-id-map.csv`
+  first; only an identity with no existing match mints a new id.
+- Before any bulk migration into `journals/`, a dry run produces a Migration
+  Audit Report (duplicate groups by ISSN-L/title/publisher overlap, missing
+  ISSN-L, invalid ISSN checksums, unresolved identities) for review. No
+  `POSI-J-######` ids are minted from a dry run — only after the report has
+  been reviewed does a real migration commit registry rows and journal
+  records together.

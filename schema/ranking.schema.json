@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/main/schema/ranking.schema.json",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/master/schema/ranking.schema.json",
   "title": "POSI Annual Category Ranking",
   "description": "One record per (journal_id, category_code, metric_year). A journal with 1 primary + up to 2 secondary PSC categories gets up to 3 ranking records per year.",
   "type": "object",
@@ -11,7 +11,16 @@
     "category_code": { "type": "string", "description": "PSC code this ranking is computed within." },
     "metric_year": { "type": "integer", "minimum": 2020 },
 
-    "rank": { "type": ["integer", "null"], "minimum": 1 },
+    "rank": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "description": "Conventional competition ranking shown to users (1, 2, 2, 4, 5, ...) — tied journals share the same integer rank."
+    },
+    "rank_mid": {
+      "type": ["number", "null"],
+      "minimum": 0.5,
+      "description": "Mid-rank used only for the percentile formula (e.g. two journals tied for 5th/6th place both get rank=5, rank_mid=5.5). Not shown to users directly."
+    },
     "category_size": {
       "type": "integer",
       "minimum": 0,
@@ -24,8 +33,7 @@
       "description": "Mid-rank percentile: 100 * (category_size - rank_mid + 0.5) / category_size."
     },
     "quartile": {
-      "type": ["string", "null"],
-      "enum": ["Q1", "Q2", "Q3", "Q4"],
+      "enum": ["Q1", "Q2", "Q3", "Q4", null],
       "description": "Q1 >= 75th percentile, Q2 >= 50th, Q3 >= 25th, Q4 otherwise. Null when ranking_method is 'unavailable'."
     },
 

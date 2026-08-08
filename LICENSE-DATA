@@ -16,5 +16,5 @@ Suggested attribution:
 This license does NOT apply to journal records aggregated from upstream
 sources (Crossref, OpenAlex, OpenCitations, DataCite, DOAJ, ROR, publisher
 direct feeds) under journals/. Those records retain the license of their
-origin — see each record's `provenance.license` field and attribute
+origin — see each record's `provenance[].license` entries and attribute
 accordingly.

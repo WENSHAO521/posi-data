@@ -4,4 +4,4 @@ full terms and provenance notes.
 Summary: POSI-produced structured data (schema/, taxonomy/, metrics/,
 rankings/, manifests/) is CC BY 4.0. Journal records aggregated from upstream
 sources (journals/) retain their original source's license — see each
-record's `provenance.license` field.
+record's `provenance[].license` entries.
