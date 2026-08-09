@@ -1,11 +1,18 @@
-# POSI Early-Stage Journal Rating — Design Spec v0.1 (Phase B0, not yet implemented)
+# POSI Early-Stage Journal Rating — Design Spec v0.1 (Phase B0, partially implemented)
 
-> **Status: design spec only.** Captured for a future tracked implementation
-> effort, deliberately started only after the current DOAJ-decoupling work
-> and the OpenAlex identity migration are in a stable state — this is a
-> large enough methodology addition (new rubric, new cohort logic, new
-> report/badge) to deserve a clean start rather than being interleaved into
-> an already-open change set.
+> **Status: automated scoring (§4's 5 crawlable dimensions, 65 of 100
+> points) is live** — see
+> [`scripts/rate-early-stage.mjs`](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index/blob/master/scripts/rate-early-stage.mjs)
+> in the website repo, wired into the daily sync workflow so any journal
+> newly admitted to the Core Collection gets rated automatically within 24h.
+> **Not yet built:** Scholarly Content (§4, 25pts — needs human article
+> sampling) and Scholarly Reach & Diversity (§4, 10pts — needs judgment, not
+> a keyword count) stay `pending_review` by design; § 6's cohort-relative
+> P-Q1–P-Q4 percentile system is not implemented (it needs PSC
+> classification, which hasn't run on any journal yet — same blocker real
+> Citation Quartiles have); § 9's PSG-affiliated firewall (independent
+> reviewers for the content dimension) has no reviewer workflow yet since
+> that dimension itself isn't scored yet.
 
 ## 1. The problem this solves
 
