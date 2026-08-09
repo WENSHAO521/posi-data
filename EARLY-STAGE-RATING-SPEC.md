@@ -1,17 +1,98 @@
-# POSI Early-Stage Journal Rating — Methodology v0.2 (Phase B0, partially implemented)
+# POSI Automated Journal Rating (AJR) — Methodology v0.3 (Phase B0, partially implemented)
 
+> **Naming note:** this document was originally "POSI Early-Stage Journal
+> Rating." The underlying 100-point score (§4) applies to any journal
+> regardless of age — a journal's age only decides which *quartile track*
+> its score feeds into (§ 0.1), not whether it gets scored at all. The
+> methodology is now named **AJR (Automated Journal Rating)**; "Early-Stage"
+> now refers specifically to the P-Q1–P-Q4 track for young journals, one of
+> two quartile tracks AJR scores can feed (the other being Citation Q,
+> PCI-based, for journals with a real citation window). File/type names in
+> the website repo (`rate-early-stage.mjs`, `EarlyStageRating`) have not
+> been renamed yet — tracked as a follow-up, not urgent since it's an
+> internal identifier, not user-facing copy.
+>
 > **Status:** the 100-point automated methodology described below (§4) is
 > implemented in
 > [`scripts/rate-early-stage.mjs`](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index/blob/master/scripts/rate-early-stage.mjs)
 > in the website repo, wired into the daily sync workflow so any journal
 > newly admitted to the Core Collection gets rated automatically within 24h.
+> Published live at `/ratings` as **"POSI Automated Journal Ratings — Pilot
+> 2026."** As of v0.3, the script also runs against a ~200-journal **Global
+> Benchmark Collection** (§ 0.2) selected via OpenAlex's own open signals —
+> no Web of Science or Scopus data anywhere in its selection or scoring.
 > **Not yet built:** § 6's cohort-relative P-Q1–P-Q4 percentile system (needs
 > PSC classification, which hasn't run on any journal yet — same blocker
 > real Citation Quartiles have). Until that lands, journals show a
 > Composite Score only, no quartile.
 >
-> **v0.2 supersedes v0.1's 65-automated / 35-pending-human-review split.**
-> See § 0 for why, and § 11 for exactly what changed.
+> **v0.2 superseded v0.1's 65-automated / 35-pending-human-review split**
+> (§ 0 for why). **v0.3 decouples scoring eligibility from quartile-track
+> eligibility** (§ 0.1) and adds the Global Benchmark Collection (§ 0.2).
+> See § 11 for the full changelog.
+
+## 0.1 Scoring applies regardless of age; only the quartile track depends on it
+
+Earlier versions of this script hard-excluded any journal more than 36
+months past its first publication — meaning it could not score Nature, The
+Lancet, or any other established journal at all. That was a design error,
+not a deliberate restriction: a journal's editorial governance, research
+integrity, infrastructure, and publishing-stability evidence (§4) is just
+as computable for a 150-year-old journal as a 6-month-old one.
+
+`eligibility` now has four values:
+
+| Value | Meaning |
+|---|---|
+| `rated` | Meets the minimum evidence bar (§3) and is within 36 months of first publication — gets an AJR score **and** is eligible for a future P-Q1–P-Q4 once a real PSC peer cohort exists. |
+| `rated_mature` | Meets the minimum evidence bar but is older than 36 months — gets the **same AJR score**, computed identically, but its quartile track is Citation Q (PCI-based), not P-Q. |
+| `not_yet_rateable` | Below the minimum evidence bar, regardless of age. No score. |
+| `unknown` | First-published date could not be determined (e.g. no resolvable Crossref record for the journal's ISSN). No score. |
+
+Neither `rated` nor `rated_mature` is a quality judgment — they only route
+a journal to the correct quartile system.
+
+## 0.2 Global Benchmark Collection
+
+A ~200-journal external reference corpus, kept structurally separate from
+the POSI Core Collection: not admitted, not a candidate for admission, not
+counted in Indexed/Metric Eligible stats. Its purpose is validating AJR
+against journals already broadly agreed to be excellent — the opposite
+failure mode of only ever testing the methodology against POSI's own new
+journals, and a real risk if AJR's weights happen to reward things new
+PSG journals are good at and established journals aren't.
+
+**Selection deliberately does not use Web of Science (SCIE/SSCI/AHCI/ESCI)
+or Scopus index membership** — neither is available through any open,
+freely-redistributable API. OpenAlex's own schema was checked directly:
+`works.indexed_in` only lists `arxiv`/`crossref`/`pubmed`/etc, and `sources`
+objects have no `is_indexed_in_scopus` or Web-of-Science field at all.
+Building POSI's own "open" benchmark corpus on top of a proprietary
+compiled list (Clarivate's Master Journal List, Elsevier's Scopus Source
+List — both real, but published for individual reference lookup, not
+obviously licensed for bulk redistribution as a derived dataset) would
+undercut the exact principle the benchmark exists to demonstrate.
+
+Selection instead uses only OpenAlex's own open signals
+(`scripts/discover-benchmark-journals.mjs`):
+
+- `type: journal`
+- `is_core: true` — OpenAlex's own curated-core flag
+- `summary_stats.2yr_mean_citedness > 1` — real, sustained citation activity
+
+...bucketed across OpenAlex's 4 top-level topic domains (Physical Sciences,
+Life Sciences, Social Sciences, Health Sciences) and capped per domain
+(default 50 each), so the corpus isn't skewed toward whichever field
+happens to have the largest mega-journals by raw output. A publisher name
+like "Elsevier" may be shown as plain factual metadata (who publishes the
+journal) — this is never conflated with "Scopus-indexed" (Scopus is
+Elsevier's separate proprietary database product, not the publisher
+relationship).
+
+Expect real-world data noise in this corpus (a resolvable OpenAlex ISSN
+that Crossref's `/journals/{issn}/works` endpoint doesn't recognize, a
+site that blocks crawlers) — that's expected variance to observe, not a
+pipeline bug to suppress.
 
 ## 0. Why v0.1's human-scored dimensions were removed, not just deferred
 
@@ -281,6 +362,22 @@ reproducibility and a closed loophole for manual score-fixing is a claim
 POSI can actually back up with a git history.
 
 ## 11. Changelog
+
+**v0.3** — Renamed the methodology from "Early-Stage Journal Rating" to
+"POSI Automated Journal Rating (AJR)" — the 100-point score applies to any
+journal, age is only a quartile-track decision (§ 0.1). Fixed a real design
+error: scoring previously hard-excluded anything older than 36 months
+(`eligibility: 'graduated'`, no score at all), which meant the methodology
+literally could not score established journals like Nature or The Lancet —
+exactly the journals needed to validate whether AJR's weights are sane.
+Split `eligibility` into `rated` (early-stage window, P-Q-eligible) and
+`rated_mature` (scored identically, routes to Citation Q instead). Added
+the Global Benchmark Collection (§ 0.2): ~200 journals selected via
+OpenAlex's own open signals (`is_core`, citation activity, topic-domain
+balance) — explicitly not via Web of Science or Scopus membership, which
+isn't available through any open, freely-redistributable API. Published
+the Core Collection's AJR scores live at `/ratings` as "POSI Automated
+Journal Ratings — Pilot 2026."
 
 **v0.2** — Replaced the v0.1 65-automated/35-pending-human-review split
 with a fully automated 100-point methodology. "Scholarly Content" (25pts,
