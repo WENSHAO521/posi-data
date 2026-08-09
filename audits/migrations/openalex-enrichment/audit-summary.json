@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-08T18:35:57.781Z",
+  "candidates_processed": 23819,
+  "unique_issns_queried": 36913,
+  "status_counts": {
+    "verified": 23674,
+    "not_found": 45,
+    "multiple_sources": 1,
+    "partial_match": 5,
+    "source_type_conflict": 17,
+    "review_required": 77
+  },
+  "possible_duplicate_rescoring": {
+    "total_groups": 171,
+    "openalex_confirms_same": 164,
+    "manual_review": 2,
+    "openalex_confirms_distinct": 5
+  }
+}
