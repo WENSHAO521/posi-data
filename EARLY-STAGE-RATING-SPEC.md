@@ -18,9 +18,12 @@
 > in the website repo, wired into the daily sync workflow so any journal
 > newly admitted to the Core Collection gets rated automatically within 24h.
 > Published live at `/ratings` as **"POSI Automated Journal Ratings — Pilot
-> 2026."** As of v0.3, the script also runs against a ~200-journal **Global
+> 2026."** As of v0.3, the script also runs against a 600-journal **Global
 > Benchmark Collection** (§ 0.2) selected via OpenAlex's own open signals —
 > no Web of Science or Scopus data anywhere in its selection or scoring.
+> ~9% score as `rated_mature`; the rest are dominated by bot-blocked
+> platforms, not missing evidence (§ 0.3) — corpus size was tested (200→600,
+> same ~9-11% rate both times) and confirmed not to be the bottleneck.
 > **Not yet built:** § 6's cohort-relative P-Q1–P-Q4 percentile system (needs
 > PSC classification, which hasn't run on any journal yet — same blocker
 > real Citation Quartiles have). Until that lands, journals show a
@@ -54,7 +57,7 @@ a journal to the correct quartile system.
 
 ## 0.2 Global Benchmark Collection
 
-A ~200-journal external reference corpus, kept structurally separate from
+A 600-journal external reference corpus, kept structurally separate from
 the POSI Core Collection: not admitted, not a candidate for admission, not
 counted in Indexed/Metric Eligible stats. Its purpose is validating AJR
 against journals already broadly agreed to be excellent — the opposite
@@ -93,6 +96,45 @@ Expect real-world data noise in this corpus (a resolvable OpenAlex ISSN
 that Crossref's `/journals/{issn}/works` endpoint doesn't recognize, a
 site that blocks crawlers) — that's expected variance to observe, not a
 pipeline bug to suppress.
+
+## 0.3 Known limitation: bot-blocking, not keyword coverage, is the dominant failure mode
+
+The first Global Benchmark run (200 journals) scored only 5 as `rated_mature`.
+Extending the crawl to check a few common policy subpages (§4's evidence
+crawl previously checked only the homepage) and widening the ethics-keyword
+set raised this to 22/200, then 55/600 on the expanded corpus (~9%,
+consistent between both runs — not a sample-size artifact).
+
+A direct investigation of a 30-journal sample from the still-failing set
+found the real cause: **22 of 30 (73%) return HTTP 403 on the very first
+request** — Elsevier, Wiley, ACS, APS, AIP, Oxford University Press, and
+IOP platforms among them. Only 5/30 (17%) actually returned a page at all.
+This means the subpage/keyword improvements in §4.1 only ever helped the
+minority of sites that respond to a plain server-side request in the first
+place — for the majority, **no page on that domain is fetchable this way,
+so no amount of trying more subpaths or broader keyword matching can close
+the gap.**
+
+This is a **structural ceiling of a plain-HTTP-only evidence crawl**, not a
+tuning problem, and not evidence that these journals lack real governance —
+Nature (which does respond) scored 71/100 once the subpage fix landed,
+and there is every reason to expect ACS/Elsevier/Wiley journals would score
+comparably if their evidence were reachable. The same class of issue was
+found earlier and disclosed for `auto-pqf.mjs` (MDPI and others blocking
+direct crawls, with a DOAJ-bibjson fallback for that specific case — which
+doesn't apply here since these are largely non-DOAJ subscription/hybrid
+journals).
+
+**Decision: disclose this rather than build a headless-browser fetcher to
+work around it.** A headless browser (e.g. Playwright) could likely defeat
+basic User-Agent-based blocking, but it's meaningfully more infrastructure
+to run and maintain, slower per journal (multiplying an already
+multi-hour batch runtime), and starts to resemble actively circumventing
+a publisher's explicit anti-bot measures rather than reading public
+information — a different posture than POSI's current "read what a normal
+request can see" approach. `not_yet_rateable` on a bot-protected platform
+should be read as **"POSI's crawl was blocked," not "no evidence of good
+governance exists."** Both `/ratings` and this document say so explicitly.
 
 ## 0. Why v0.1's human-scored dimensions were removed, not just deferred
 
@@ -372,12 +414,20 @@ literally could not score established journals like Nature or The Lancet —
 exactly the journals needed to validate whether AJR's weights are sane.
 Split `eligibility` into `rated` (early-stage window, P-Q-eligible) and
 `rated_mature` (scored identically, routes to Citation Q instead). Added
-the Global Benchmark Collection (§ 0.2): ~200 journals selected via
-OpenAlex's own open signals (`is_core`, citation activity, topic-domain
-balance) — explicitly not via Web of Science or Scopus membership, which
-isn't available through any open, freely-redistributable API. Published
-the Core Collection's AJR scores live at `/ratings` as "POSI Automated
-Journal Ratings — Pilot 2026."
+the Global Benchmark Collection (§ 0.2): selected via OpenAlex's own open
+signals (`is_core`, citation activity, topic-domain balance) — explicitly
+not via Web of Science or Scopus membership, which isn't available through
+any open, freely-redistributable API. Started at 200 journals, expanded to
+600 (150/domain) after confirming the pass rate (~9-11%) was stable across
+both sizes — i.e. that corpus size, not sample noise, was never the
+constraint (§ 0.3). Extended the evidence crawl to check policy subpages
+and widened the ethics-keyword set after the first run scored only 5/200,
+which helped (22/200, then 55/600) but a direct investigation found the
+dominant failure mode is HTTP 403 bot-blocking (73% of a sampled batch of
+still-failing journals), not missing keywords — documented as a disclosed
+structural limitation (§ 0.3) rather than chased with a headless-browser
+fetcher. Published the Core Collection's AJR scores live at `/ratings` as
+"POSI Automated Journal Ratings — Pilot 2026."
 
 **v0.2** — Replaced the v0.1 65-automated/35-pending-human-review split
 with a fully automated 100-point methodology. "Scholarly Content" (25pts,
