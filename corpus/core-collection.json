@@ -1737,5 +1737,60 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-07-01T00:00:00Z",
     "source_group": "other_indexed"
+  },
+  {
+    "id": "j-cropt",
+    "journal_code": "cropt",
+    "title": "Contemporary Review of Political Thought",
+    "short_title": "CRoPT",
+    "issn_print": null,
+    "issn_online": "3056-0977",
+    "publisher": "Panorama Scholarly Group",
+    "country": "China, Hong Kong SAR",
+    "language": "English",
+    "frequency": "Annual",
+    "open_access": true,
+    "license": "CC BY 4.0",
+    "peer_review_type": "Double-blind",
+    "website_url": "https://journals.panorama-sg.com/index.php/cropt",
+    "cover_image_url": "https://panorama-sg.com/QKFM/CRoPT.png",
+    "oai_base_url": "https://journals.panorama-sg.com/index.php/cropt/oai",
+    "registration_country": "Germany",
+    "doaj_status": "not_listed",
+    "openalex_source_id": null,
+    "metadata_quality_score": 92,
+    "transparency_score": 100,
+    "indexing_readiness": "A",
+    "pqf": {
+      "total": 81,
+      "grade": "A",
+      "subfactors": {
+        "jtf": 25,
+        "mqf": 23,
+        "egf": 20,
+        "tdf": 4,
+        "cvf": 6,
+        "rif": 3
+      },
+      "evaluated_at": "2026-08-11",
+      "version": "PQF v1.0"
+    },
+    "article_count": 3,
+    "early_stage_rating": {
+      "eligibility": "unknown",
+      "first_published": null,
+      "months_since_launch": null,
+      "subfactors": null,
+      "total": null,
+      "evidence_coverage": 86,
+      "provisional_quartile": null,
+      "rated_at": "2026-08-10",
+      "version": "AJR-E-1.0"
+    },
+    "psc_category": null,
+    "psc_confidence": null,
+    "created_at": "2026-08-11T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
+    "source_group": "psg"
   }
 ]
