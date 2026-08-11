@@ -19,21 +19,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 64,
-    "transparency_score": 76,
-    "indexing_readiness": "B",
+    "metadata_quality_score": 80,
+    "transparency_score": 100,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 66,
-      "grade": "B",
+      "total": 86,
+      "grade": "A",
       "subfactors": {
-        "jtf": 19,
-        "mqf": 16,
-        "egf": 12,
-        "tdf": 11,
-        "cvf": 4,
-        "rif": 4
+        "jtf": 25,
+        "mqf": 20,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 40,
@@ -59,7 +59,7 @@
     "psc_category": "P5.01",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -82,21 +82,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 56,
-    "transparency_score": 64,
-    "indexing_readiness": "B",
+    "metadata_quality_score": 92,
+    "transparency_score": 92,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 56,
-      "grade": "C",
+      "total": 86,
+      "grade": "A",
       "subfactors": {
-        "jtf": 16,
-        "mqf": 14,
-        "egf": 11,
-        "tdf": 9,
-        "cvf": 3,
-        "rif": 3
+        "jtf": 23,
+        "mqf": 23,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 2
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 11,
@@ -114,7 +114,7 @@
     "psc_category": "P1.02",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -137,21 +137,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 60,
-    "transparency_score": 60,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 80,
+    "transparency_score": 100,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 59,
-      "grade": "C",
+      "total": 87,
+      "grade": "A",
       "subfactors": {
-        "jtf": 15,
-        "mqf": 15,
-        "egf": 11,
-        "tdf": 11,
-        "cvf": 4,
-        "rif": 3
+        "jtf": 25,
+        "mqf": 20,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 4
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 22,
@@ -177,7 +177,7 @@
     "psc_category": "P5.02",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -200,21 +200,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
-    "transparency_score": 64,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 36,
+    "transparency_score": 100,
+    "indexing_readiness": "B",
     "pqf": {
-      "total": 56,
-      "grade": "C",
+      "total": 76,
+      "grade": "B+",
       "subfactors": {
-        "jtf": 16,
-        "mqf": 13,
-        "egf": 11,
-        "tdf": 9,
-        "cvf": 3,
+        "jtf": 25,
+        "mqf": 9,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
         "rif": 4
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 10,
@@ -232,7 +232,7 @@
     "psc_category": "P3.02",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -255,21 +255,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 56,
-    "transparency_score": 64,
-    "indexing_readiness": "B",
+    "metadata_quality_score": 92,
+    "transparency_score": 100,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 61,
-      "grade": "B",
+      "total": 90,
+      "grade": "A+",
       "subfactors": {
-        "jtf": 16,
-        "mqf": 14,
-        "egf": 12,
-        "tdf": 12,
-        "cvf": 4,
-        "rif": 3
+        "jtf": 25,
+        "mqf": 23,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 4
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 11,
@@ -287,7 +287,7 @@
     "psc_category": "P5.02",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -310,21 +310,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
-    "transparency_score": 56,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 92,
+    "transparency_score": 84,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 53,
-      "grade": "C",
+      "total": 81,
+      "grade": "A",
       "subfactors": {
-        "jtf": 14,
-        "mqf": 13,
-        "egf": 11,
-        "tdf": 9,
-        "cvf": 3,
-        "rif": 3
+        "jtf": 21,
+        "mqf": 23,
+        "egf": 18,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 1
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 4,
@@ -342,7 +342,7 @@
     "psc_category": "P1.02",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -365,21 +365,21 @@
     "registration_country": "Germany",
     "doaj_status": "application_submitted",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
-    "transparency_score": 60,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 92,
+    "transparency_score": 84,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 52,
-      "grade": "C",
+      "total": 81,
+      "grade": "A",
       "subfactors": {
-        "jtf": 15,
-        "mqf": 13,
-        "egf": 9,
-        "tdf": 9,
-        "cvf": 3,
-        "rif": 3
+        "jtf": 21,
+        "mqf": 23,
+        "egf": 18,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 1
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 14,
@@ -397,7 +397,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -420,21 +420,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 48,
-    "transparency_score": 60,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 92,
+    "transparency_score": 100,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 52,
-      "grade": "C",
+      "total": 90,
+      "grade": "A+",
       "subfactors": {
-        "jtf": 15,
-        "mqf": 12,
-        "egf": 10,
-        "tdf": 9,
-        "cvf": 3,
-        "rif": 3
+        "jtf": 25,
+        "mqf": 23,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 4
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 3,
@@ -452,7 +452,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -475,21 +475,21 @@
     "registration_country": "Germany",
     "doaj_status": "application_submitted",
     "openalex_source_id": "S5407051440",
-    "metadata_quality_score": 64,
-    "transparency_score": 68,
-    "indexing_readiness": "B",
+    "metadata_quality_score": 92,
+    "transparency_score": 100,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 70,
-      "grade": "B+",
+      "total": 85,
+      "grade": "A",
       "subfactors": {
-        "jtf": 17,
-        "mqf": 16,
-        "egf": 15,
-        "tdf": 13,
-        "cvf": 5,
-        "rif": 4
+        "jtf": 25,
+        "mqf": 23,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 6,
+        "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 18,
@@ -515,7 +515,7 @@
     "psc_category": "P6.04",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -538,21 +538,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 48,
-    "transparency_score": 72,
-    "indexing_readiness": "B",
+    "metadata_quality_score": 80,
+    "transparency_score": 100,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 61,
-      "grade": "B",
+      "total": 86,
+      "grade": "A",
       "subfactors": {
-        "jtf": 18,
-        "mqf": 12,
-        "egf": 11,
-        "tdf": 11,
-        "cvf": 5,
-        "rif": 4
+        "jtf": 25,
+        "mqf": 20,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 3,
@@ -570,7 +570,7 @@
     "psc_category": "P1.05",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -593,21 +593,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 56,
-    "transparency_score": 64,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 92,
+    "transparency_score": 100,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 58,
-      "grade": "C",
+      "total": 89,
+      "grade": "A",
       "subfactors": {
-        "jtf": 16,
-        "mqf": 14,
-        "egf": 12,
-        "tdf": 9,
-        "cvf": 4,
+        "jtf": 25,
+        "mqf": 23,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
         "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 3,
@@ -625,7 +625,7 @@
     "psc_category": "P6.03",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -648,21 +648,21 @@
     "registration_country": "Germany",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 48,
-    "transparency_score": 56,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 80,
+    "transparency_score": 84,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 51,
-      "grade": "C",
+      "total": 81,
+      "grade": "A",
       "subfactors": {
-        "jtf": 14,
-        "mqf": 12,
-        "egf": 10,
-        "tdf": 9,
-        "cvf": 3,
-        "rif": 3
+        "jtf": 21,
+        "mqf": 20,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 2
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 3,
@@ -680,7 +680,7 @@
     "psc_category": "P5.03",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg"
   },
   {
@@ -703,21 +703,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": null,
     "openalex_source_id": null,
-    "metadata_quality_score": 60,
-    "transparency_score": 65,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 100,
+    "transparency_score": 72,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 56,
-      "grade": "C",
+      "total": 82,
+      "grade": "A",
       "subfactors": {
-        "jtf": 17,
-        "mqf": 14,
-        "egf": 11,
-        "tdf": 10,
-        "cvf": 2,
-        "rif": 2
+        "jtf": 18,
+        "mqf": 25,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 1
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 49,
@@ -743,7 +743,7 @@
     "psc_category": "P5.02",
     "psc_confidence": "high",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "indexed"
   },
   {
@@ -766,21 +766,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": null,
     "openalex_source_id": null,
-    "metadata_quality_score": 63,
-    "transparency_score": 68,
+    "metadata_quality_score": 88,
+    "transparency_score": 60,
     "indexing_readiness": "B",
     "pqf": {
-      "total": 61,
+      "total": 69,
       "grade": "B",
       "subfactors": {
-        "jtf": 18,
-        "mqf": 15,
-        "egf": 14,
-        "tdf": 10,
-        "cvf": 2,
+        "jtf": 15,
+        "mqf": 22,
+        "egf": 16,
+        "tdf": 8,
+        "cvf": 6,
         "rif": 2
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 59,
@@ -806,7 +806,7 @@
     "psc_category": "P5.02",
     "psc_confidence": "high",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "indexed"
   },
   {
@@ -829,21 +829,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": null,
     "openalex_source_id": null,
-    "metadata_quality_score": 58,
-    "transparency_score": 63,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 88,
+    "transparency_score": 84,
+    "indexing_readiness": "A",
     "pqf": {
-      "total": 48,
-      "grade": "D",
+      "total": 83,
+      "grade": "A",
       "subfactors": {
-        "jtf": 14,
-        "mqf": 12,
-        "egf": 10,
-        "tdf": 9,
-        "cvf": 2,
-        "rif": 1
+        "jtf": 21,
+        "mqf": 22,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 2
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 13,
@@ -869,7 +869,7 @@
     "psc_category": "P1.02",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "indexed"
   },
   {
@@ -892,21 +892,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 56,
-    "transparency_score": 68,
+    "metadata_quality_score": 76,
+    "transparency_score": 72,
     "indexing_readiness": "B",
     "pqf": {
-      "total": 63,
-      "grade": "B",
+      "total": 74,
+      "grade": "B+",
       "subfactors": {
-        "jtf": 17,
-        "mqf": 14,
-        "egf": 12,
-        "tdf": 12,
-        "cvf": 5,
+        "jtf": 18,
+        "mqf": 19,
+        "egf": 16,
+        "tdf": 8,
+        "cvf": 10,
         "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 175,
@@ -932,7 +932,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -955,21 +955,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 60,
-    "transparency_score": 64,
+    "metadata_quality_score": 76,
+    "transparency_score": 60,
     "indexing_readiness": "B",
     "pqf": {
-      "total": 63,
-      "grade": "B",
+      "total": 71,
+      "grade": "B+",
       "subfactors": {
-        "jtf": 16,
-        "mqf": 15,
-        "egf": 12,
-        "tdf": 12,
-        "cvf": 5,
+        "jtf": 15,
+        "mqf": 19,
+        "egf": 16,
+        "tdf": 8,
+        "cvf": 10,
         "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 240,
@@ -995,7 +995,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1018,21 +1018,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 68,
-    "transparency_score": 76,
+    "metadata_quality_score": 80,
+    "transparency_score": 72,
     "indexing_readiness": "B",
     "pqf": {
-      "total": 74,
+      "total": 78,
       "grade": "B+",
       "subfactors": {
-        "jtf": 19,
-        "mqf": 17,
-        "egf": 16,
-        "tdf": 13,
-        "cvf": 5,
-        "rif": 4
+        "jtf": 18,
+        "mqf": 20,
+        "egf": 20,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 2
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 43,
@@ -1058,7 +1058,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1081,21 +1081,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
+    "metadata_quality_score": 76,
     "transparency_score": 60,
-    "indexing_readiness": "C",
+    "indexing_readiness": "B",
     "pqf": {
-      "total": 57,
-      "grade": "C",
+      "total": 71,
+      "grade": "B+",
       "subfactors": {
         "jtf": 15,
-        "mqf": 13,
-        "egf": 11,
-        "tdf": 11,
-        "cvf": 4,
+        "mqf": 19,
+        "egf": 16,
+        "tdf": 8,
+        "cvf": 10,
         "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 24,
@@ -1113,7 +1113,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1136,21 +1136,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
+    "metadata_quality_score": 88,
     "transparency_score": 60,
-    "indexing_readiness": "C",
+    "indexing_readiness": "B",
     "pqf": {
-      "total": 56,
-      "grade": "C",
+      "total": 73,
+      "grade": "B+",
       "subfactors": {
         "jtf": 15,
-        "mqf": 13,
-        "egf": 10,
-        "tdf": 11,
-        "cvf": 4,
-        "rif": 3
+        "mqf": 22,
+        "egf": 16,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 2
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 23,
@@ -1168,7 +1168,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1191,21 +1191,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
-    "transparency_score": 60,
+    "metadata_quality_score": 60,
+    "transparency_score": 48,
     "indexing_readiness": "C",
     "pqf": {
       "total": 56,
       "grade": "C",
       "subfactors": {
-        "jtf": 15,
-        "mqf": 13,
-        "egf": 10,
-        "tdf": 11,
-        "cvf": 4,
+        "jtf": 12,
+        "mqf": 15,
+        "egf": 8,
+        "tdf": 8,
+        "cvf": 10,
         "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 9,
@@ -1223,7 +1223,7 @@
     "psc_category": "P1.02",
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1246,21 +1246,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
-    "transparency_score": 64,
-    "indexing_readiness": "C",
+    "metadata_quality_score": 88,
+    "transparency_score": 72,
+    "indexing_readiness": "B",
     "pqf": {
-      "total": 59,
-      "grade": "C",
+      "total": 77,
+      "grade": "B+",
       "subfactors": {
-        "jtf": 16,
-        "mqf": 13,
-        "egf": 11,
-        "tdf": 11,
-        "cvf": 4,
-        "rif": 4
+        "jtf": 18,
+        "mqf": 22,
+        "egf": 16,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 9,
@@ -1278,7 +1278,7 @@
     "psc_category": "P3.02",
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1301,21 +1301,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
-    "transparency_score": 60,
+    "metadata_quality_score": 64,
+    "transparency_score": 48,
     "indexing_readiness": "C",
     "pqf": {
-      "total": 56,
+      "total": 57,
       "grade": "C",
       "subfactors": {
-        "jtf": 15,
-        "mqf": 13,
-        "egf": 10,
-        "tdf": 11,
-        "cvf": 4,
+        "jtf": 12,
+        "mqf": 16,
+        "egf": 8,
+        "tdf": 8,
+        "cvf": 10,
         "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 9,
@@ -1333,7 +1333,7 @@
     "psc_category": "P2.01",
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1356,21 +1356,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
-    "transparency_score": 60,
+    "metadata_quality_score": 88,
+    "transparency_score": 48,
     "indexing_readiness": "C",
     "pqf": {
-      "total": 56,
+      "total": 59,
       "grade": "C",
       "subfactors": {
-        "jtf": 15,
-        "mqf": 13,
-        "egf": 10,
-        "tdf": 11,
-        "cvf": 4,
+        "jtf": 12,
+        "mqf": 22,
+        "egf": 8,
+        "tdf": 4,
+        "cvf": 10,
         "rif": 3
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 11,
@@ -1388,7 +1388,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1411,21 +1411,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 52,
-    "transparency_score": 64,
+    "metadata_quality_score": 60,
+    "transparency_score": 40,
     "indexing_readiness": "C",
     "pqf": {
-      "total": 57,
+      "total": 53,
       "grade": "C",
       "subfactors": {
-        "jtf": 16,
-        "mqf": 13,
+        "jtf": 10,
+        "mqf": 15,
         "egf": 10,
-        "tdf": 11,
-        "cvf": 4,
-        "rif": 3
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 0
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 15,
@@ -1443,7 +1443,7 @@
     "psc_category": "P2.11",
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1466,21 +1466,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 44,
+    "metadata_quality_score": 76,
     "transparency_score": 52,
-    "indexing_readiness": "C",
+    "indexing_readiness": "B",
     "pqf": {
-      "total": 50,
-      "grade": "C",
+      "total": 68,
+      "grade": "B",
       "subfactors": {
         "jtf": 13,
-        "mqf": 11,
-        "egf": 10,
-        "tdf": 10,
-        "cvf": 3,
-        "rif": 3
+        "mqf": 19,
+        "egf": 18,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 0
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 84,
@@ -1506,7 +1506,7 @@
     "psc_category": "P2.01",
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1529,21 +1529,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 44,
+    "metadata_quality_score": 76,
     "transparency_score": 52,
-    "indexing_readiness": "C",
+    "indexing_readiness": "B",
     "pqf": {
-      "total": 48,
-      "grade": "D",
+      "total": 64,
+      "grade": "B",
       "subfactors": {
         "jtf": 13,
-        "mqf": 11,
-        "egf": 9,
-        "tdf": 10,
-        "cvf": 3,
-        "rif": 2
+        "mqf": 19,
+        "egf": 18,
+        "tdf": 8,
+        "cvf": 6,
+        "rif": 0
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 25,
@@ -1561,7 +1561,7 @@
     "psc_category": "P2.01",
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1584,21 +1584,21 @@
     "registration_country": "China, Hong Kong SAR",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 36,
-    "transparency_score": 44,
-    "indexing_readiness": "D",
+    "metadata_quality_score": 68,
+    "transparency_score": 28,
+    "indexing_readiness": "C",
     "pqf": {
-      "total": 42,
-      "grade": "D",
+      "total": 52,
+      "grade": "C",
       "subfactors": {
-        "jtf": 11,
-        "mqf": 9,
-        "egf": 9,
-        "tdf": 9,
-        "cvf": 2,
-        "rif": 2
+        "jtf": 7,
+        "mqf": 17,
+        "egf": 10,
+        "tdf": 8,
+        "cvf": 10,
+        "rif": 0
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 89,
@@ -1616,7 +1616,7 @@
     "psc_category": "P5.04",
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr"
   },
   {
@@ -1639,21 +1639,21 @@
     "registration_country": "Malaysia",
     "doaj_status": "not_listed",
     "openalex_source_id": null,
-    "metadata_quality_score": 44,
-    "transparency_score": 60,
+    "metadata_quality_score": 76,
+    "transparency_score": 40,
     "indexing_readiness": "C",
     "pqf": {
-      "total": 50,
+      "total": 54,
       "grade": "C",
       "subfactors": {
-        "jtf": 15,
-        "mqf": 11,
-        "egf": 8,
-        "tdf": 10,
-        "cvf": 3,
-        "rif": 3
+        "jtf": 10,
+        "mqf": 19,
+        "egf": 10,
+        "tdf": 4,
+        "cvf": 10,
+        "rif": 1
       },
-      "evaluated_at": "2026-06-22",
+      "evaluated_at": "2026-08-11",
       "version": "PQF v1.0"
     },
     "article_count": 38,
@@ -1679,7 +1679,7 @@
     "psc_category": "P1.02",
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
-    "updated_at": "2026-06-22T00:00:00Z",
+    "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "other_indexed"
   },
   {
