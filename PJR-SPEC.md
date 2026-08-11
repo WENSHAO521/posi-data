@@ -182,6 +182,21 @@ A journal with 1 primary + up to 2 secondary PSC categories receives one
 ranking record per category — the same journal can be Q1 in one field and Q3
 in another (see `schema/ranking.schema.json`).
 
+> **2026-08 note:** this section defines what is now specifically called
+> **Citation Q** — one of three independent quartile tracks (alongside
+> **E-Q** and **M-Q**, see [AJR-E-1.1-SPEC.md](./AJR-E-1.1-SPEC.md) /
+> [AJR-M-1.0-SPEC.md](./AJR-M-1.0-SPEC.md)). All three share this exact
+> midrank/percentile algorithm (`posi-engine/src/quartile-tracks.mjs`'s
+> `percentileMidrank()`) — only the input score and the display label
+> differ. Displayed labels must always be the full track name (`E-Q1`,
+> `M-Q1`, `Citation Q1`), never a bare `Q1`. **Flagged, not silently
+> resolved:** AJR-SPEC.md § 5 states the PSC L3/L2/L1 minimum-cohort
+> fallback chain applies to all three tracks; this section's
+> `MIN_CATEGORY_SIZE = 20` flat rule (no Level-1 fallback) has been kept
+> unchanged for Citation Q specifically, since it's already published and
+> already implemented — see CHANGELOG.md's "Flagged inconsistency" entry
+> for the decision this leaves open for the platform owner.
+
 ## 9. Citation integrity and suppression
 
 posi-engine flags, at minimum: abnormal self-citation rate, citation

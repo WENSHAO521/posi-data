@@ -1,5 +1,20 @@
 # AJR 1.0 — POSI Automated Journal Rating, Lifecycle Framework (design spec, Phase 1 methodology freeze)
 
+> **2026-08 update — Phase 2 (engine migration) has landed for the core
+> rubrics.** The concrete scoring models this document sketches now have
+> real, implemented, versioned specs: **[AJR-E-1.1-SPEC.md](./AJR-E-1.1-SPEC.md)**
+> (§ 2 of this document, formerly AJR v0.3's rubric, with four bug fixes)
+> and **[AJR-M-1.0-SPEC.md](./AJR-M-1.0-SPEC.md)** (§ 3 of this document,
+> resolving § 13's open question about AJR-M's non-citation sub-scoring
+> formulas — that model did not exist in code before now). Lifecycle
+> classification (§ 1) is implemented as `LIFECYCLE-1.1` in
+> `posi-engine/src/lifecycle.mjs`, using exact date-boundary arithmetic
+> rather than calendar-month counting (fixes a real boundary bug — see
+> [CHANGELOG.md](./CHANGELOG.md)). Evidence Coverage (§ 6) is implemented
+> as `EC-1.0`. This document's own body is left as the original design
+> record — see the two new specs and CHANGELOG.md for what's actually
+> built and versioned.
+>
 > **Status: design spec only, not yet implemented.** This supersedes the
 > lifecycle-blind approach in EARLY-STAGE-RATING-SPEC.md (AJR v0.3): a
 > single 100-point model with a hard `rated`/`rated_mature` split at 36

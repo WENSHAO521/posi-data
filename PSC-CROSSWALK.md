@@ -1,5 +1,16 @@
 # PSC Classification Methodology v0.1 (implemented, journal-level only)
 
+> **PSC-CROSSWALK-0.2 (2026-08):** `psc_confidence` now has four states —
+> `high`, `medium`, `low`, `unclassified` — instead of the binary
+> `high`/`low` this document originally described. The `high` bar itself
+> (§ 3's two gates, unchanged) is not redefined; this is additive
+> granularity below it. See [CHANGELOG.md](./CHANGELOG.md) for the full
+> rationale and the flagged judgment call on where `medium` starts, and
+> `posi-engine/src/psc-classify.mjs` for the implementation. § 5 below
+> ("only `high`-confidence classifications should ever be used for
+> cohort/quartile membership") now also permits a human-`verified`
+> classification — see `posi-engine/src/cohort.mjs`.
+>
 > **Status:** implemented in
 > [`scripts/classify-psc.mjs`](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index/blob/master/scripts/classify-psc.mjs)
 > in the website repo, run against both the Core Collection and the Global
