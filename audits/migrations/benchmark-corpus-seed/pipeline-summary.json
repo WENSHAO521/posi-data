@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-08-11T16:33:20.597Z",
+  "metric_year": 2025,
+  "corpus_size": 1000,
+  "entities_resolved": 1000,
+  "posi_j_ids_minted": 0,
+  "posi_j_ids_reused": 1000,
+  "unresolved_identity_count": 0,
+  "hard_conflict_count": 0,
+  "metrics_written": 1000,
+  "metric_status_counts": {
+    "active": 0,
+    "suppressed": 0,
+    "insufficient_data": 1000
+  },
+  "citation_integrity": {
+    "concentration_checked": 1000,
+    "concentration_flagged": 0,
+    "self_citation_rate": "not run this pass — needs citation-edge (journal-to-journal) data not collected here",
+    "citation_stacking": "not run this pass — same reason",
+    "publisher_citation_cluster": "not run this pass — same reason",
+    "sudden_citation_spike": "not run this pass — needs 2+ years of metric history; this is the first year computed",
+    "citation_cartel": "not run this pass — same reason as self-citation/stacking"
+  },
+  "ranking": {
+    "distinct_high_confidence_categories_with_data": 0,
+    "categories_reaching_min_category_size": 0,
+    "categories_below_min_category_size": 0,
+    "min_category_size": 20
+  },
+  "coverage": {
+    "journals_with_capped_works_fetch": 0,
+    "capped_journal_codes": []
+  },
+  "flagged_for_review": []
+}
