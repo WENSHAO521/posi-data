@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023462",
+  "title": "Analytical Biochemistry",
+  "short_title": "Analytical Biochemistry",
+  "status": "discovered",
+  "publisher": "Elsevier BV",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://www.journals.elsevier.com/analytical-biochemistry-methods-in-the-biological-sciences/",
+  "identifiers": {
+    "issn_l": "0003-2697",
+    "issn_print": null,
+    "issn_online": "0003-2697",
+    "openalex_source_id": "S7858788",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-analytical-biochemistry-0147",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S7858788",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.392Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

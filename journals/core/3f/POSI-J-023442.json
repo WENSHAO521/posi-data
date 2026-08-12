@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023442",
+  "title": "Small",
+  "short_title": "Small",
+  "status": "discovered",
+  "publisher": "Wiley",
+  "country": "DE",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://onlinelibrary.wiley.com/journal/16136829",
+  "identifiers": {
+    "issn_l": "1613-6810",
+    "issn_print": null,
+    "issn_online": "1613-6810",
+    "openalex_source_id": "S94619837",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-small-0125",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S94619837",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.392Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

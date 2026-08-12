@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000014",
+  "title": "Journal of Current Social Issues Studies",
+  "short_title": "JCSIS",
+  "status": "indexed",
+  "publisher": "Asia Technology Research Institute",
+  "country": "HK",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": "CC-BY-4.0",
+  "website_url": "https://atripress.org/index.php/jcsis",
+  "identifiers": {
+    "issn_l": "3078-5316",
+    "issn_print": "3078-5316",
+    "issn_online": "3078-5324",
+    "openalex_source_id": "S5407049196",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-jcsis",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S5407049196",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-07-15T00:00:00Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

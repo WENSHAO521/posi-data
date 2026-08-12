@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023963",
+  "title": "Hormones and Behavior",
+  "short_title": "Hormones and Behavior",
+  "status": "discovered",
+  "publisher": "Elsevier BV",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://www.journals.elsevier.com/hormones-and-behavior/",
+  "identifiers": {
+    "issn_l": "0018-506X",
+    "issn_print": null,
+    "issn_online": "0018-506X",
+    "openalex_source_id": "S170105747",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-hormones-and-behavior-0730",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S170105747",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.403Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

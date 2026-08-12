@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000600",
+  "title": "Acta Obstetricia Et Gynecologica Scandinavica",
+  "short_title": "Acta Obstetricia Et Gynecologica Scan...",
+  "status": "discovered",
+  "publisher": "Informa",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": null,
+  "website_url": "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0412",
+  "identifiers": {
+    "issn_l": "0001-6349",
+    "issn_print": null,
+    "issn_online": "0001-6349",
+    "openalex_source_id": "S192518766",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-acta-obstetricia-et-gynecologica-scandin-0957",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S192518766",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.406Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

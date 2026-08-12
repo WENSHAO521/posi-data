@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000029",
+  "title": "The Journal of Interactive Social Sciences",
+  "short_title": "TJISS",
+  "status": "indexed",
+  "publisher": "J&L Academic Group PLT",
+  "country": "MY",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": "CC-BY-4.0",
+  "website_url": "https://www.onlinejandl.com/index.php/TJISS",
+  "identifiers": {
+    "issn_l": "3030-5276",
+    "issn_print": "3030-5276",
+    "issn_online": "3030-5322",
+    "openalex_source_id": "S5407051207",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-tjiss",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S5407051207",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-07-15T00:00:00Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

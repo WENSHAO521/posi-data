@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023475",
+  "title": "Environmental Pollution",
+  "short_title": "Environmental Pollution",
+  "status": "discovered",
+  "publisher": "Elsevier BV",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://www.journals.elsevier.com/environmental-pollution",
+  "identifiers": {
+    "issn_l": "0269-7491",
+    "issn_print": null,
+    "issn_online": "0269-7491",
+    "openalex_source_id": "S201530359",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-environmental-pollution-0161",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S201530359",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.392Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

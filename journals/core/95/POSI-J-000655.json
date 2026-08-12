@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000655",
+  "title": "Cell Death and Disease",
+  "short_title": "Cell Death and Disease",
+  "status": "discovered",
+  "publisher": "Springer Nature",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": null,
+  "website_url": "https://www.nature.com/cddis/",
+  "identifiers": {
+    "issn_l": "2041-4889",
+    "issn_print": null,
+    "issn_online": "2041-4889",
+    "openalex_source_id": "S185208586",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-cell-death-and-disease-0487",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S185208586",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.399Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

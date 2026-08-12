@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023763",
+  "title": "The Annals of the American Academy of Political and Social Science",
+  "short_title": "The Annals of the American Academy of...",
+  "status": "discovered",
+  "publisher": "SAGE Publishing",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://us.sagepub.com/en-us/nam/the-annals-of-the-american-academy-of-political-and-social-science/journal200750",
+  "identifiers": {
+    "issn_l": "0002-7162",
+    "issn_print": null,
+    "issn_online": "0002-7162",
+    "openalex_source_id": "S150314616",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-the-annals-of-the-american-academy-of-po-0515",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S150314616",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.400Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

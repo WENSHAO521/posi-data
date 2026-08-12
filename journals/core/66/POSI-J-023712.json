@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023712",
+  "title": "Oncology Reports",
+  "short_title": "Oncology Reports",
+  "status": "discovered",
+  "publisher": "Elsevier BV",
+  "country": "GR",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://www.spandidos-publications.com/or/",
+  "identifiers": {
+    "issn_l": "1021-335X",
+    "issn_print": null,
+    "issn_online": "1021-335X",
+    "openalex_source_id": "S124357017",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-oncology-reports-0450",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S124357017",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.399Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

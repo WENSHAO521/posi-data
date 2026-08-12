@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023515",
+  "title": "The European Physical Journal A",
+  "short_title": "The European Physical Journal A",
+  "status": "discovered",
+  "publisher": "Springer Science+Business Media",
+  "country": "DE",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://www.springer.com/journal/10050",
+  "identifiers": {
+    "issn_l": "1434-6001",
+    "issn_print": null,
+    "issn_online": "1434-6001",
+    "openalex_source_id": "S4210173186",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-the-european-physical-journal-a-0203",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S4210173186",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.392Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

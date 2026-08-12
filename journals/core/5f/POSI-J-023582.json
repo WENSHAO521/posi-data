@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023582",
+  "title": "International Journal of Cancer",
+  "short_title": "International Journal of Cancer",
+  "status": "discovered",
+  "publisher": "Wiley",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0215",
+  "identifiers": {
+    "issn_l": "0020-7136",
+    "issn_print": null,
+    "issn_online": "0020-7136",
+    "openalex_source_id": "S5382288",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-international-journal-of-cancer-0290",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S5382288",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.396Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-024053",
+  "title": "Archives of Pediatrics and Adolescent Medicine",
+  "short_title": "Archives of Pediatrics and Adolescent...",
+  "status": "discovered",
+  "publisher": "American Medical Association",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": null,
+  "identifiers": {
+    "issn_l": "1072-4710",
+    "issn_print": null,
+    "issn_online": "1072-4710",
+    "openalex_source_id": "S4210192535",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-archives-of-pediatrics-and-adolescent-me-0829",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S4210192535",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.404Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

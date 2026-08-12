@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-024169",
+  "title": "Journal of Advanced Nursing",
+  "short_title": "Journal of Advanced Nursing",
+  "status": "discovered",
+  "publisher": "Wiley",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-2648",
+  "identifiers": {
+    "issn_l": "0309-2402",
+    "issn_print": null,
+    "issn_online": "0309-2402",
+    "openalex_source_id": "S137832324",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-journal-of-advanced-nursing-0961",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S137832324",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.406Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

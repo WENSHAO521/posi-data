@@ -1,0 +1,36 @@
+{
+  "id": "POSI-J-000030",
+  "title": "Digital Intelligence Frontiers",
+  "short_title": "DIF",
+  "status": "indexed",
+  "publisher": "Research Front Press",
+  "country": "HK",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": "CC-BY-4.0",
+  "website_url": "https://www.researchfrontpress.com",
+  "identifiers": {
+    "issn_l": null,
+    "issn_print": null,
+    "issn_online": "3135-0011",
+    "openalex_source_id": null,
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-dif-rfp",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    }
+  ],
+  "created_at": "2026-07-15T00:00:00Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

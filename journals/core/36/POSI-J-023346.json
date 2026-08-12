@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023346",
+  "title": "Journal of Geophysical Research Atmospheres",
+  "short_title": "Journal of Geophysical Research Atmos...",
+  "status": "discovered",
+  "publisher": "American Geophysical Union",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://www.agu.org/journals/jgr/",
+  "identifiers": {
+    "issn_l": "0148-0227",
+    "issn_print": null,
+    "issn_online": "0148-0227",
+    "openalex_source_id": "S207178839",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-journal-of-geophysical-research-atmosphe-0015",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S207178839",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.390Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

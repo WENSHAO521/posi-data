@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023389",
+  "title": "Journal of Materials Science",
+  "short_title": "Journal of Materials Science",
+  "status": "discovered",
+  "publisher": "Springer Science+Business Media",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://www.springerlink.com/content/0957-4530",
+  "identifiers": {
+    "issn_l": "0022-2461",
+    "issn_print": null,
+    "issn_online": "0022-2461",
+    "openalex_source_id": "S26125866",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-journal-of-materials-science-0068",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S26125866",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.391Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

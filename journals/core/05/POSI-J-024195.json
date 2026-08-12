@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-024195",
+  "title": "Irish Journal of Medical Science (1971 -)",
+  "short_title": "Irish Journal of Medical Science (197...",
+  "status": "discovered",
+  "publisher": "Springer Science+Business Media",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://www.springer.com/medicine/internal/journal/11845",
+  "identifiers": {
+    "issn_l": "0021-1265",
+    "issn_print": null,
+    "issn_online": "0021-1265",
+    "openalex_source_id": "S117684900",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-irish-journal-of-medical-science-1971-0988",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S117684900",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.406Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

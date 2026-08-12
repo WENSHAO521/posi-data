@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023356",
+  "title": "ACS Applied Materials & Interfaces",
+  "short_title": "ACS Applied Materials & Interfaces",
+  "status": "discovered",
+  "publisher": "American Chemical Society",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://pubs.acs.org/journal/aamick",
+  "identifiers": {
+    "issn_l": "1944-8244",
+    "issn_print": null,
+    "issn_online": "1944-8244",
+    "openalex_source_id": "S164001016",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-acs-applied-materials-interfaces-0029",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S164001016",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.390Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}
