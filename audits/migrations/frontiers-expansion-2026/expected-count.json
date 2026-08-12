@@ -1,0 +1,5 @@
+{
+  "global_benchmark_count": 4289,
+  "registry_row_count": 26387,
+  "note": "Reconciliation fixture for scripts/verify-benchmark-counts.mjs (posi-engine). Update only if a later, understood migration intentionally changes these counts -- never to silence an unexplained mismatch."
+}

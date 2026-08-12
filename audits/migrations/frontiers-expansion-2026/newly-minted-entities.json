@@ -1,0 +1,28 @@
+[
+  {
+    "candidate_id": "CAND-004107",
+    "representative_title": "Advanced Optical Technologies",
+    "member_legacy_ids": [
+      "j-bench-advanced-optical-technologies-4107"
+    ],
+    "issn_set": [
+      "2192-8584"
+    ],
+    "openalex_source_ids": [
+      "S2764547716"
+    ]
+  },
+  {
+    "candidate_id": "CAND-004146",
+    "representative_title": "Frontiers in Ceramics",
+    "member_legacy_ids": [
+      "j-bench-frontiers-in-ceramics-4146"
+    ],
+    "issn_set": [
+      "2813-611X"
+    ],
+    "openalex_source_ids": [
+      "S4387287337"
+    ]
+  }
+]

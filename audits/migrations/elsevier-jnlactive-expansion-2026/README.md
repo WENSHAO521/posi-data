@@ -1,7 +1,6 @@
 # Elsevier jnlactive.csv Expansion 2026
 
-Adds the Elsevier journals listed in [`jnlactive.csv`](../../../jnlactive.csv)
-(moves to `source-lists/jnlactive.csv` in the follow-up Frontiers-expansion branch)
+Adds the Elsevier journals listed in [`jnlactive.csv`](../../../source-lists/jnlactive.csv)
 (Elsevier's own active-journals export) that were not yet in the Global
 Benchmark Collection, enriched via OpenAlex's free per-ISSN singleton
 lookup, and given real, newly-minted `POSI-J` identities.
