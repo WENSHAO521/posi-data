@@ -180,22 +180,58 @@ citation-count completeness (111/120 ≈ 92.5%) is narrower than
 
 ## 10. Corrections and retractions — a known, disclosed limitation
 
-PCI excludes citations to/from retracted content from its numerator
-because OpenAlex's citation graph is queryable per citing work (PJR-SPEC.md
-§ 7). **Crossref's `is-referenced-by-count` is a single aggregate integer
-per DOI — it cannot be filtered to exclude specific citing works.** PCS 1.0
-does not attempt to approximate this: a retracted work's own
-`is-referenced-by-count` is excluded from PCS the same way a non-citable
-document type would be (§ 4's `isCitable()` gate is unaffected by
-retraction status, matching PCI's rule that a retracted-but-citable work
-stays in the denominator), but citations *to* a retracted work from other,
-still-valid articles are not filtered out of those other articles'
-`is_referenced_by_count`. This is a disclosed methodological limitation of
-Crossref's aggregate count, not an oversight — any journal page displaying
-PCS should note that PCS, unlike PCI, cannot exclude retraction-tainted
-citations.
+**A retracted-but-citable work remains in the PCS denominator, and its
+Crossref `is-referenced-by-count` is included exactly as Crossref reports
+it — no exclusion, no zeroing, no estimation.** `isCitable()` (§ 4) is
+unaffected by retraction status, so a retracted `research-article` counts
+toward `eligible_items` the same as any other, and its own
+`is_referenced_by_count` contributes to the numerator unmodified
+(`test/pcs.test.mjs`'s retraction test is the normative example: a 5-count
+work plus a 3-count retracted work produces numerator 8, denominator 2 —
+no special-casing at all).
 
-## 11. Cross-source diagnostic — future work, not this release
+**This is a deliberate methodological choice, not an oversight, and it is
+narrower than what PCI does.** PCI can exclude citations to/from retracted
+content from its numerator because OpenAlex's citation graph is queryable
+per citing work (PJR-SPEC.md § 7). **Crossref's `is-referenced-by-count`
+is a single aggregate integer per DOI — there is no per-citing-work list
+to filter.** PCS 1.0 does not attempt to approximate retraction-aware
+filtering by zeroing a retracted work's own count instead: that would
+manufacture a number Crossref never reported, which is a worse error than
+disclosing the limitation plainly. Any journal page displaying PCS must
+note that PCS, unlike PCI, cannot exclude retraction-related citations —
+neither a retracted work's own citation count, nor citations *to* a
+retracted work embedded in other, still-valid articles' aggregate counts.
+
+## 11. Citation coverage limitation — PCS is Crossref-observed, not a census
+
+Crossref's Cited-by count depends on publishers and other sources actually
+depositing reference-list data with Crossref — that deposit is not
+universal across every publisher, journal, publication year, or
+discipline, so Crossref's own citation coverage is not exhaustive and can
+understate true citation counts (see
+[Crossref's own Cited-by documentation](https://crossref.org/documentation/cited-by/)).
+
+**PCS must never be presented as a complete count of all citations to a
+work.** Every PCS display carries this line, alongside § 1's
+non-determination notice:
+
+> **PCS reflects citations known to Crossref through its Cited-by and
+> metadata infrastructure. Crossref citation coverage is not exhaustive
+> and may vary across publishers, journals, publication years, and
+> disciplines. PCS therefore represents a Crossref-observed citation
+> indicator, not a complete census of all citations to a work.**
+
+This is independent of `pcs_coverage` (§ 9, this platform's own fetch
+success rate) — even at `pcs_coverage = 1.0` (every enumerated DOI
+successfully queried), the underlying Crossref counts themselves are
+still bounded by what publishers have deposited with Crossref. Any
+frontend page presenting PCS (and, for the same underlying reason, PCI —
+see `/pci`, `/citation-reports`) should carry an equivalent disclosure;
+updating that frontend copy is separate, later work, out of scope for
+this spec-freeze pass.
+
+## 12. Cross-source diagnostic — future work, not this release
 
 A large divergence between a journal's PCI percentile and its PCS
 percentile (e.g. PCI at the 96th percentile, PCS at the 32nd) is a useful
@@ -206,9 +242,16 @@ so the eventual implementation has a name (**Cross-Source Citation
 Divergence**) and a stated rule to implement against: flag only, never
 suppress or adjust automatically.
 
-## 12. Changelog
+## 13. Changelog
 
 **1.0** (this document) — first PCS spec. No prior PCS methodology
 document existed; an earlier ad hoc 200-item-capped implementation
 existed only as informal practice, not a versioned spec, and is
 superseded by this document's no-cap rule (§ 5).
+
+**1.0, review fix** — § 10 rewritten: the original text contradicted the
+implementation and its test (`test/pcs.test.mjs`) by claiming a retracted
+work's own `is-referenced-by-count` was excluded from PCS, while the code
+always included it unmodified. The code and test were correct; § 10 now
+matches them. Added § 11 (Crossref citation-coverage limitation), moved
+the Cross-Source Diagnostic section from § 11 to § 12.

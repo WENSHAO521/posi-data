@@ -115,10 +115,20 @@ AJR-SPEC.md's prose was wrong.
   Score, a Crossref-based 4-year citation-performance indicator,
   independent of the PCI family. Never enters Citation Q or AJR-M's
   citation component. Removes the earlier informal 200-item sampling cap.
-  `schema/metric.schema.json` gains `pcs` / `pcs_eligible_items` /
-  `pcs_coverage` / `pcs_methodology_version`. Calculator (`src/pcs.mjs`)
-  implemented in posi-engine; the Crossref data-acquisition script is not
-  yet built (separate, larger-scope data-pipeline work).
+  `schema/metric.schema.json` gains `pcs` / `pcs_window_start_year` /
+  `pcs_window_end_year` / `pcs_eligible_items` /
+  `pcs_items_with_citation_data` / `pcs_coverage` / `pcs_source` /
+  `pcs_source_retrieved_at` / `pcs_methodology_version`. Calculator
+  (`src/pcs.mjs`) implemented in posi-engine; the Crossref data-acquisition
+  script is not yet built (separate, larger-scope data-pipeline work).
+  **Pre-merge review fix:** § 10's retraction-handling text originally
+  contradicted the actual implementation (it claimed a retracted work's
+  own citation count was excluded; the code and its test always included
+  it, matching PCI's "stays in the denominator" rule but without PCI's
+  ability to filter individual citing works). § 10 now describes the
+  code's actual, deliberate behavior; § 11 (new) adds a Crossref
+  citation-coverage disclosure — PCS is Crossref-observed, not a complete
+  citation census.
 - **POSI-R 1.0** ([POSI-R-1.0-SPEC.md](./POSI-R-1.0-SPEC.md)) — the
   platform-wide release naming/manifest convention
   (`POSI-R-{year}.{revision}`), distinct from and referencing (not
