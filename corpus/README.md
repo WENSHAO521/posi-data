@@ -12,11 +12,14 @@ candidate, see `AJR-SPEC.md` § "Global Benchmark Collection").
 `posi-engine`'s migration pipeline ([src/migration/](https://github.com/WENSHAO521/posi-engine/tree/master/src/migration)) —
 stable `POSI-J-######` ids, resolved via the identity registry
 (`registry/journal-id-map.csv`), after human review of the 171 flagged
-possible-duplicate groups (see `audits/migrations/`). That review hasn't
-happened yet, and this corpus's ~1,030 records don't need it — they have no
-duplicate-identity problem (no auto-discovery, no title/publisher fuzzy
-matching involved). Using the same `journals/` location for both would
-conflate a reviewed, permanent-id corpus with an unreviewed one.
+possible-duplicate groups (see `audits/migrations/initial-journal-migration/POSSIBLE-DUPLICATES-REVIEW.md` —
+that review is now done: 23,331 `POSI-J-######` ids minted into
+`journals/discovered/`). This corpus's ~1,030 records still don't need that
+process — they have no duplicate-identity problem (no auto-discovery, no
+title/publisher fuzzy matching involved) and are migrated onto `POSI-J-######`
+separately, as noted below. Using the same `journals/` location for both
+would conflate a reviewed, permanent-id corpus with this one's own
+not-yet-migrated `j-<code>` ids.
 
 **These records keep their existing `j-<code>` ids and `journal_code` slugs**
 (e.g. `j-grhas` / `grhas`) — not `POSI-J-######`. Migrating this corpus onto
