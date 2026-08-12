@@ -1,0 +1,351 @@
+{
+  "posi_id": "POSI-J-000028",
+  "journal_code": "eaou",
+  "title": "Journal of the European Academy Open University",
+  "website_url": "https://ojs.shiharr.com/index.php/eaou",
+  "fetched_pages": [
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/about/editorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/about/editorialMasthead",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/apc",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/about/privacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "fetch_status": "timeout",
+      "http_status": null
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/gateway/plugin/WebFeedGatewayPlugin/rss2",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "fetch_status": "ok",
+      "http_status": 200
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope_explicit",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "editorial_board_public",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou/about/editorialTeam",
+      "retrieved_at": "2026-08-12T10:35:41.343Z"
+    },
+    {
+      "id": "editor_identity_affiliation_verifiable",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "peer_review_process_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou/about/submissions",
+      "retrieved_at": "2026-08-12T10:35:49.867Z"
+    },
+    {
+      "id": "reviewer_editorial_guidelines",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "publication_ethics_policy",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "corrections_retractions_policy",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "authorship_contributorship_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "conflict_of_interest_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "plagiarism_similarity_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "human_animal_ethics_consent",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "data_availability_sharing",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "fee_disclosure",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "publisher_ownership_contact",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou/about/submissions",
+      "retrieved_at": "2026-08-12T10:35:49.867Z"
+    },
+    {
+      "id": "advertising_sponsorship_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/eaou",
+      "retrieved_at": "2026-08-12T10:35:41.340Z"
+    },
+    {
+      "id": "other_applicable_terms",
+      "weight": 1,
+      "status": "not_applicable",
+      "source_url": null,
+      "retrieved_at": null
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 9,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 9,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 0,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 0,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 1.11,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 1,
+        "not_applicable_weight": 1
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 100,
+    "applicable_weight": 39,
+    "resolved_weight": 39,
+    "met_weight": 10,
+    "not_applicable_weight": 1
+  },
+  "site_evidence_coverage_percent": 100,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12",
+  "evidence_snapshot_status": "complete",
+  "recrawl_required": false
+}

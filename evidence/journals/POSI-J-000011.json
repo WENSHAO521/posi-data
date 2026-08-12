@@ -1,0 +1,351 @@
+{
+  "posi_id": "POSI-J-000011",
+  "journal_code": "jscc",
+  "title": "Journal of Social Cognition and Communication",
+  "website_url": "https://journals.panorama-sg.com/index.php/jscc",
+  "fetched_pages": [
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/about/editorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/about/editorialMasthead",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/publication-ethics",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/author-guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/for-authors",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/submissions",
+      "fetch_status": "forbidden",
+      "http_status": 403
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/apc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jscc/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.dashboard||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.about||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.forAuthors||site.guidelines||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.reviewers||site.reviewerGuidelines||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.archive||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.policies||site.ethics||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope_explicit",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "editorial_board_public",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "editor_identity_affiliation_verifiable",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "peer_review_process_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "reviewer_editorial_guidelines",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "publication_ethics_policy",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "corrections_retractions_policy",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "authorship_contributorship_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc/publication-ethics",
+      "retrieved_at": "2026-08-12T10:19:04.447Z"
+    },
+    {
+      "id": "conflict_of_interest_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "plagiarism_similarity_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "human_animal_ethics_consent",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc/publication-ethics",
+      "retrieved_at": "2026-08-12T10:19:04.447Z"
+    },
+    {
+      "id": "data_availability_sharing",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc/about/submissions",
+      "retrieved_at": "2026-08-12T10:19:03.370Z"
+    },
+    {
+      "id": "fee_disclosure",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "publisher_ownership_contact",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "advertising_sponsorship_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jscc",
+      "retrieved_at": "2026-08-12T10:19:01.932Z"
+    },
+    {
+      "id": "other_applicable_terms",
+      "weight": 1,
+      "status": "not_applicable",
+      "source_url": null,
+      "retrieved_at": null
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 15,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 15,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 15,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 15,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 6.67,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 6,
+        "not_applicable_weight": 1
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 100,
+    "applicable_weight": 39,
+    "resolved_weight": 39,
+    "met_weight": 36,
+    "not_applicable_weight": 1
+  },
+  "site_evidence_coverage_percent": 100,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12",
+  "evidence_snapshot_status": "complete",
+  "recrawl_required": false
+}

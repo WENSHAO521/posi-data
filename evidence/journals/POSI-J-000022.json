@@ -1,0 +1,348 @@
+{
+  "posi_id": "POSI-J-000022",
+  "journal_code": "smn",
+  "title": "医学与护理",
+  "website_url": "https://ojs.shiharr.com/index.php/smn",
+  "fetched_pages": [
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/about",
+      "fetch_status": "timeout",
+      "http_status": null
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/about/aims-and-scope",
+      "fetch_status": "timeout",
+      "http_status": null
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/about/editorialTeam",
+      "fetch_status": "timeout",
+      "http_status": null
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/about/editorialMasthead",
+      "fetch_status": "timeout",
+      "http_status": null
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/about/submissions",
+      "fetch_status": "timeout",
+      "http_status": null
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/aims-and-scope",
+      "fetch_status": "timeout",
+      "http_status": null
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/apc",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/about/privacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/about/aboutThisPublishingSystem",
+      "fetch_status": "timeout",
+      "http_status": null
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/smn/user/register?source=%2Findex.php%2Fsmn%2Fsubmissions",
+      "fetch_status": "timeout",
+      "http_status": null
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope_explicit",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "editorial_board_public",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/smn",
+      "retrieved_at": "2026-08-12T10:27:51.910Z"
+    },
+    {
+      "id": "editor_identity_affiliation_verifiable",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/smn",
+      "retrieved_at": "2026-08-12T10:27:51.910Z"
+    },
+    {
+      "id": "peer_review_process_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/smn",
+      "retrieved_at": "2026-08-12T10:27:51.910Z"
+    },
+    {
+      "id": "reviewer_editorial_guidelines",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "publication_ethics_policy",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/smn",
+      "retrieved_at": "2026-08-12T10:27:51.910Z"
+    },
+    {
+      "id": "corrections_retractions_policy",
+      "weight": 3,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "authorship_contributorship_policy",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "conflict_of_interest_policy",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "plagiarism_similarity_policy",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "human_animal_ethics_consent",
+      "weight": 1,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "data_availability_sharing",
+      "weight": 1,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "fee_disclosure",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/smn",
+      "retrieved_at": "2026-08-12T10:27:51.910Z"
+    },
+    {
+      "id": "publisher_ownership_contact",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/smn/about/contact",
+      "retrieved_at": "2026-08-12T10:28:19.032Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/smn",
+      "retrieved_at": "2026-08-12T10:27:51.910Z"
+    },
+    {
+      "id": "advertising_sponsorship_disclosure",
+      "weight": 1,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "other_applicable_terms",
+      "weight": 1,
+      "status": "not_applicable",
+      "source_url": null,
+      "retrieved_at": null
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 15,
+      "coverage": {
+        "coverage_percent": 60,
+        "applicable_weight": 15,
+        "resolved_weight": 9,
+        "met_weight": 9,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 15,
+      "coverage": {
+        "coverage_percent": 20,
+        "applicable_weight": 15,
+        "resolved_weight": 3,
+        "met_weight": 3,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 10,
+      "coverage": {
+        "coverage_percent": 44.44,
+        "applicable_weight": 9,
+        "resolved_weight": 4,
+        "met_weight": 4,
+        "not_applicable_weight": 1
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 41.03,
+    "applicable_weight": 39,
+    "resolved_weight": 16,
+    "met_weight": 16,
+    "not_applicable_weight": 1
+  },
+  "site_evidence_coverage_percent": 41.03,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12",
+  "evidence_snapshot_status": "partial_source_unavailable",
+  "recrawl_required": true,
+  "recrawl_reason": "source_host_intermittent_timeout",
+  "recrawl_host": "ojs.shiharr.com"
+}

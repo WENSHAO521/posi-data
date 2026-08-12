@@ -1,0 +1,351 @@
+{
+  "posi_id": "POSI-J-000015",
+  "journal_code": "jcac",
+  "title": "Journal of Contemporary Art Criticism",
+  "website_url": "https://atripress.org/index.php/jcac",
+  "fetched_pages": [
+    {
+      "url": "https://atripress.org/index.php/jcac",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/about/editorialTeam",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/about/editorialMasthead",
+      "fetch_status": "server_error",
+      "http_status": 500
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/apc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/jcac/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/$%7BdashUrl%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/$%7Bbase%7D/about/contact",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/$%7Bbase%7D/about",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/$%7Bbase%7D/archive",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/$%7Bbase%7D/submission",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/index.php/$%7Bbase%7D/Editorial_Policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope_explicit",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "editorial_board_public",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "editor_identity_affiliation_verifiable",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "peer_review_process_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "reviewer_editorial_guidelines",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "publication_ethics_policy",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "corrections_retractions_policy",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "authorship_contributorship_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac/about/submissions",
+      "retrieved_at": "2026-08-12T10:19:37.400Z"
+    },
+    {
+      "id": "conflict_of_interest_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac/about/submissions",
+      "retrieved_at": "2026-08-12T10:19:37.400Z"
+    },
+    {
+      "id": "plagiarism_similarity_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "human_animal_ethics_consent",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "data_availability_sharing",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "fee_disclosure",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "publisher_ownership_contact",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "advertising_sponsorship_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://atripress.org/index.php/jcac",
+      "retrieved_at": "2026-08-12T10:19:36.245Z"
+    },
+    {
+      "id": "other_applicable_terms",
+      "weight": 1,
+      "status": "not_applicable",
+      "source_url": null,
+      "retrieved_at": null
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 11,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 11,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 7,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 7,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 8.89,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 8,
+        "not_applicable_weight": 1
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 100,
+    "applicable_weight": 39,
+    "resolved_weight": 39,
+    "met_weight": 26,
+    "not_applicable_weight": 1
+  },
+  "site_evidence_coverage_percent": 100,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12",
+  "evidence_snapshot_status": "complete",
+  "recrawl_required": false
+}

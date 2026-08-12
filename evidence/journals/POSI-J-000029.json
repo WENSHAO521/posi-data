@@ -1,0 +1,351 @@
+{
+  "posi_id": "POSI-J-000029",
+  "journal_code": "tjiss",
+  "title": "The Journal of Interactive Social Sciences",
+  "website_url": "https://www.onlinejandl.com/index.php/TJISS",
+  "fetched_pages": [
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/about/editorialTeam",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/about/editorialMasthead",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/apc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/about/privacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/gateway/plugin/WebFeedGatewayPlugin/rss2",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.onlinejandl.com/index.php/TJISS/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "fetch_status": "ok",
+      "http_status": 200
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope_explicit",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "editorial_board_public",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "editor_identity_affiliation_verifiable",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS/about/editorialMasthead",
+      "retrieved_at": "2026-08-12T10:36:17.812Z"
+    },
+    {
+      "id": "peer_review_process_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "reviewer_editorial_guidelines",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "publication_ethics_policy",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "corrections_retractions_policy",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "authorship_contributorship_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "conflict_of_interest_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "plagiarism_similarity_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS/about/submissions",
+      "retrieved_at": "2026-08-12T10:36:17.813Z"
+    },
+    {
+      "id": "human_animal_ethics_consent",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "data_availability_sharing",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "fee_disclosure",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS/about/submissions",
+      "retrieved_at": "2026-08-12T10:36:17.813Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "publisher_ownership_contact",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS/about/submissions",
+      "retrieved_at": "2026-08-12T10:36:17.813Z"
+    },
+    {
+      "id": "advertising_sponsorship_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.onlinejandl.com/index.php/TJISS",
+      "retrieved_at": "2026-08-12T10:36:16.772Z"
+    },
+    {
+      "id": "other_applicable_terms",
+      "weight": 1,
+      "status": "not_applicable",
+      "source_url": null,
+      "retrieved_at": null
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 11,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 11,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 2,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 2,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 3.33,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 3,
+        "not_applicable_weight": 1
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 100,
+    "applicable_weight": 39,
+    "resolved_weight": 39,
+    "met_weight": 16,
+    "not_applicable_weight": 1
+  },
+  "site_evidence_coverage_percent": 100,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12",
+  "evidence_snapshot_status": "complete",
+  "recrawl_required": false
+}
