@@ -16,8 +16,8 @@
     },
     {
       "url": "https://ojs.shiharr.com/index.php/cmas/about/aims-and-scope",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
       "url": "https://ojs.shiharr.com/index.php/cmas/about/editorialTeam",
@@ -26,8 +26,8 @@
     },
     {
       "url": "https://ojs.shiharr.com/index.php/cmas/about/editorialMasthead",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
       "url": "https://ojs.shiharr.com/index.php/cmas/about/submissions",
@@ -161,140 +161,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "editorial_board",
       "weight": 3,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas/about/editorialTeam",
-      "retrieved_at": "2026-08-12T06:33:24.112Z"
+      "retrieved_at": "2026-08-12T07:21:15.323Z"
     },
     {
       "id": "editor_identity",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "peer_review_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "reviewer_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "publication_ethics",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "corrections_retractions",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "authorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "coi_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "plagiarism_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "human_animal_ethics",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "data_availability",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "apc_disclosure",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     },
     {
       "id": "publisher_contact",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas/gateway/plugin/WebFeedGatewayPlugin/rss",
-      "retrieved_at": "2026-08-12T06:33:31.875Z"
+      "retrieved_at": "2026-08-12T07:21:23.051Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas/about/submissions",
-      "retrieved_at": "2026-08-12T06:33:25.918Z"
+      "retrieved_at": "2026-08-12T07:21:17.074Z"
     },
     {
       "id": "advertising_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/cmas",
-      "retrieved_at": "2026-08-12T06:33:24.111Z"
+      "retrieved_at": "2026-08-12T07:21:15.322Z"
     }
   ],
   "dimension_scores": {
@@ -336,8 +336,7 @@
     "met_weight": 14,
     "not_applicable_weight": 0
   },
-  "rating_eligibility": "official",
-  "mandatory_evidence_resolved": true,
+  "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.0",
   "snapshot_date": "2026-08-12"
 }

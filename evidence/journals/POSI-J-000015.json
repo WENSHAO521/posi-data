@@ -26,7 +26,7 @@
     },
     {
       "url": "https://atripress.org/index.php/jcac/about/editorialMasthead",
-      "fetch_status": "not_found",
+      "fetch_status": "server_error",
       "http_status": 500
     },
     {
@@ -161,140 +161,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "editorial_board",
       "weight": 3,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "editor_identity",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "peer_review_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "reviewer_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "publication_ethics",
       "weight": 3,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "corrections_retractions",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "authorship_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac/about/submissions",
-      "retrieved_at": "2026-08-12T06:32:13.631Z"
+      "retrieved_at": "2026-08-12T07:20:12.865Z"
     },
     {
       "id": "coi_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac/about/submissions",
-      "retrieved_at": "2026-08-12T06:32:13.631Z"
+      "retrieved_at": "2026-08-12T07:20:12.865Z"
     },
     {
       "id": "plagiarism_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "human_animal_ethics",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "data_availability",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "apc_disclosure",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "publisher_contact",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     },
     {
       "id": "advertising_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcac",
-      "retrieved_at": "2026-08-12T06:32:12.530Z"
+      "retrieved_at": "2026-08-12T07:20:11.766Z"
     }
   ],
   "dimension_scores": {
@@ -336,8 +336,7 @@
     "met_weight": 26,
     "not_applicable_weight": 0
   },
-  "rating_eligibility": "official",
-  "mandatory_evidence_resolved": true,
+  "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.0",
   "snapshot_date": "2026-08-12"
 }

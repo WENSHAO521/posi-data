@@ -2,10 +2,11 @@ path,ok,total,hit_rate_percent
 /,31,31,100
 /about,30,31,97
 /about/submissions,30,31,97
+/about/editorialMasthead,27,31,87
 /apc,20,31,65
 /about/editorialTeam,18,31,58
 /submissions,17,31,55
-/about/editorialMasthead,14,31,45
+/about/aims-and-scope,13,31,42
 /publication-ethics,9,31,29
 /author-guidelines,7,31,23
 /for-authors,4,31,13
@@ -16,7 +17,6 @@ path,ok,total,hit_rate_percent
 /peer-review,1,31,3
 /ethics,1,31,3
 /ai-policy,1,31,3
-/about/aims-and-scope,0,31,0
 /editorial-policies,0,31,0
 /fees,0,31,0
 /licensing,0,31,0
