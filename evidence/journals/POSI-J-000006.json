@@ -1,0 +1,343 @@
+{
+  "posi_id": "POSI-J-000006",
+  "journal_code": "jesa",
+  "title": "Journal of Engineering Systems and Applications",
+  "website_url": "https://journals.panorama-sg.com/index.php/jesa",
+  "fetched_pages": [
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/about/editorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/about/editorialMasthead",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/submissions",
+      "fetch_status": "forbidden",
+      "http_status": 403
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/apc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/jesa/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.dashboard||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.archive||site.issues||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.about||site.overview||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.guidelines||site.submissions||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.peerReview||site.ethics||site.policies||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.about||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "editorial_board",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "editor_identity",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "peer_review_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "reviewer_guidelines",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "publication_ethics",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "corrections_retractions",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "authorship_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "coi_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "plagiarism_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "human_animal_ethics",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "data_availability",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "apc_disclosure",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "publisher_contact",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    },
+    {
+      "id": "advertising_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://journals.panorama-sg.com/index.php/jesa",
+      "retrieved_at": "2026-08-12T06:30:36.191Z"
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 11,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 11,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 2,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 2,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 8,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 8,
+        "not_applicable_weight": 0
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 100,
+    "applicable_weight": 39,
+    "resolved_weight": 39,
+    "met_weight": 21,
+    "not_applicable_weight": 0
+  },
+  "rating_eligibility": "official",
+  "mandatory_evidence_resolved": true,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12"
+}

@@ -1,0 +1,313 @@
+{
+  "posi_id": "POSI-J-000030",
+  "journal_code": "dif-rfp",
+  "title": "Digital Intelligence Frontiers",
+  "website_url": "https://www.researchfrontpress.com/",
+  "fetched_pages": [
+    {
+      "url": "https://www.researchfrontpress.com",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.researchfrontpress.com/about",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/about/editorialTeam",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/about/editorialMasthead",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/about/submissions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/submissions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/apc",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.researchfrontpress.com/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "editorial_board",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "editor_identity",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "peer_review_disclosed",
+      "weight": 4,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "reviewer_guidelines",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "publication_ethics",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "corrections_retractions",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "authorship_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "coi_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "plagiarism_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "human_animal_ethics",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "data_availability",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "apc_disclosure",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "publisher_contact",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    },
+    {
+      "id": "advertising_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.researchfrontpress.com",
+      "retrieved_at": "2026-08-12T06:34:07.662Z"
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 0,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 0,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 0,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 0,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 0,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 0,
+        "not_applicable_weight": 0
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 100,
+    "applicable_weight": 39,
+    "resolved_weight": 39,
+    "met_weight": 0,
+    "not_applicable_weight": 0
+  },
+  "rating_eligibility": "official",
+  "mandatory_evidence_resolved": true,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12"
+}

@@ -1,0 +1,27 @@
+{
+  "input_journals": 31,
+  "journals_with_website_url": 31,
+  "journals_with_no_website_url": 0,
+  "total_pages_fetched": 910,
+  "total_pages_ok": 264,
+  "coverage_distribution": {
+    "100%": 31,
+    "90-99%": 0,
+    "80-89%": 0,
+    "60-79%": 0,
+    "<60%": 0
+  },
+  "rating_eligibility_breakdown": {
+    "official": 31,
+    "provisional": 0,
+    "not_rateable": 0
+  },
+  "evidence_item_status_counts": {
+    "blocked": 0,
+    "unknown": 0,
+    "conflicted": 0,
+    "stale": 0
+  },
+  "fetch_404_count": 633,
+  "mean_coverage_percent": 100
+}

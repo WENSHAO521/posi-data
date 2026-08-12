@@ -1,0 +1,343 @@
+{
+  "posi_id": "POSI-J-000018",
+  "journal_code": "jassp",
+  "title": "Journal of Asia Social Science Practice",
+  "website_url": "https://ojs.shiharr.com/index.php/jassp",
+  "fetched_pages": [
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/about/editorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/about/editorialMasthead",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/apc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/copyright",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/aimsandscope",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/about/privacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/peerviewpolicies",
+      "fetch_status": "ok",
+      "http_status": 200
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    },
+    {
+      "id": "editorial_board",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    },
+    {
+      "id": "editor_identity",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/about/editorialTeam",
+      "retrieved_at": "2026-08-12T06:32:35.744Z"
+    },
+    {
+      "id": "peer_review_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    },
+    {
+      "id": "reviewer_guidelines",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-08-12T06:32:42.170Z"
+    },
+    {
+      "id": "publication_ethics",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    },
+    {
+      "id": "corrections_retractions",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/apc",
+      "retrieved_at": "2026-08-12T06:32:38.674Z"
+    },
+    {
+      "id": "authorship_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-08-12T06:32:42.170Z"
+    },
+    {
+      "id": "coi_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-08-12T06:32:42.170Z"
+    },
+    {
+      "id": "plagiarism_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/about/submissions",
+      "retrieved_at": "2026-08-12T06:32:36.847Z"
+    },
+    {
+      "id": "human_animal_ethics",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-08-12T06:32:42.170Z"
+    },
+    {
+      "id": "data_availability",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-08-12T06:32:42.170Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-08-12T06:32:42.170Z"
+    },
+    {
+      "id": "apc_disclosure",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/copyright",
+      "retrieved_at": "2026-08-12T06:32:39.524Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    },
+    {
+      "id": "publisher_contact",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/about/submissions",
+      "retrieved_at": "2026-08-12T06:32:36.847Z"
+    },
+    {
+      "id": "advertising_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp",
+      "retrieved_at": "2026-08-12T06:32:35.742Z"
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 13,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 13,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 15,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 15,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 8,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 8,
+        "not_applicable_weight": 0
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 100,
+    "applicable_weight": 39,
+    "resolved_weight": 39,
+    "met_weight": 36,
+    "not_applicable_weight": 0
+  },
+  "rating_eligibility": "official",
+  "mandatory_evidence_resolved": true,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12"
+}

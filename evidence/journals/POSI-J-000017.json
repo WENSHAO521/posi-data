@@ -1,0 +1,333 @@
+{
+  "posi_id": "POSI-J-000017",
+  "journal_code": "jyyjx",
+  "title": "教育与教法",
+  "website_url": "https://ojs.shiharr.com/index.php/jyyjx",
+  "fetched_pages": [
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/about/editorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/about/editorialMasthead",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/apc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/about/privacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jyyjx/about/aboutThisPublishingSystem",
+      "fetch_status": "ok",
+      "http_status": 200
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "editorial_board",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "editor_identity",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "peer_review_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx/about/submissions",
+      "retrieved_at": "2026-08-12T06:32:31.140Z"
+    },
+    {
+      "id": "reviewer_guidelines",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "publication_ethics",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "corrections_retractions",
+      "weight": 3,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "authorship_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "coi_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "plagiarism_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "human_animal_ethics",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx/about/submissions",
+      "retrieved_at": "2026-08-12T06:32:31.140Z"
+    },
+    {
+      "id": "data_availability",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "apc_disclosure",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx/about/submissions",
+      "retrieved_at": "2026-08-12T06:32:31.140Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx/apc",
+      "retrieved_at": "2026-08-12T06:32:32.758Z"
+    },
+    {
+      "id": "publisher_contact",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx/about/contact",
+      "retrieved_at": "2026-08-12T06:32:34.867Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx/about/submissions",
+      "retrieved_at": "2026-08-12T06:32:31.140Z"
+    },
+    {
+      "id": "advertising_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx",
+      "retrieved_at": "2026-08-12T06:32:28.394Z"
+    }
+  ],
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 9,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 9,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 3,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 3,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 8,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 8,
+        "not_applicable_weight": 0
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 100,
+    "applicable_weight": 39,
+    "resolved_weight": 39,
+    "met_weight": 20,
+    "not_applicable_weight": 0
+  },
+  "rating_eligibility": "official",
+  "mandatory_evidence_resolved": true,
+  "evidence_methodology_version": "EC-1.0",
+  "snapshot_date": "2026-08-12"
+}
