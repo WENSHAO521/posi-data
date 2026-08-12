@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023570",
+  "title": "The Journal of Infectious Diseases",
+  "short_title": "The Journal of Infectious Diseases",
+  "status": "discovered",
+  "publisher": "Oxford University Press",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://jid.oxfordjournals.org",
+  "identifiers": {
+    "issn_l": "0022-1899",
+    "issn_print": null,
+    "issn_online": "0022-1899",
+    "openalex_source_id": "S54542293",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-the-journal-of-infectious-diseases-0272",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S54542293",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.396Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

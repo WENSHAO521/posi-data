@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000076",
+  "title": "PLoS neglected tropical diseases",
+  "short_title": "PLoS neglected tropical diseases",
+  "status": "discovered",
+  "publisher": "Public Library of Science",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": null,
+  "website_url": "http://www.plosntds.org",
+  "identifiers": {
+    "issn_l": "1935-2727",
+    "issn_print": null,
+    "issn_online": "1935-2727",
+    "openalex_source_id": "S46544255",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-plos-neglected-tropical-diseases-0453",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S46544255",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.399Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

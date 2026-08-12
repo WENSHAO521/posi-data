@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000581",
+  "title": "BMC Genomics",
+  "short_title": "BMC Genomics",
+  "status": "discovered",
+  "publisher": "BioMed Central",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": null,
+  "website_url": "https://bmcgenomics.biomedcentral.com",
+  "identifiers": {
+    "issn_l": "1471-2164",
+    "issn_print": null,
+    "issn_online": "1471-2164",
+    "openalex_source_id": "S28614077",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-bmc-genomics-0371",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S28614077",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.398Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

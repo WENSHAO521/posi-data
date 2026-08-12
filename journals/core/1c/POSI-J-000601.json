@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000601",
+  "title": "Biomedicines",
+  "short_title": "Biomedicines",
+  "status": "discovered",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "country": "CH",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": null,
+  "website_url": "http://www.mdpi.com/journal/biomedicines",
+  "identifiers": {
+    "issn_l": "2227-9059",
+    "issn_print": null,
+    "issn_online": "2227-9059",
+    "openalex_source_id": "S2737005842",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-biomedicines-0387",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S2737005842",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.398Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

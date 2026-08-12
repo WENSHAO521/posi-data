@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-024039",
+  "title": "Archives of Disease in Childhood",
+  "short_title": "Archives of Disease in Childhood",
+  "status": "discovered",
+  "publisher": "BMJ",
+  "country": "GB",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://adc.bmj.com",
+  "identifiers": {
+    "issn_l": "0003-9888",
+    "issn_print": null,
+    "issn_online": "0003-9888",
+    "openalex_source_id": "S207294652",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-archives-of-disease-in-childhood-0814",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S207294652",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.404Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000545",
+  "title": "HortScience",
+  "short_title": "HortScience",
+  "status": "discovered",
+  "publisher": "American Society for Horticultural Science",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": null,
+  "website_url": "https://journals.ashs.org/hortsci/view/journals/hortsci/hortsci-overview.xml",
+  "identifiers": {
+    "issn_l": "0018-5345",
+    "issn_print": null,
+    "issn_online": "0018-5345",
+    "openalex_source_id": "S183652945",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-hortscience-0296",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S183652945",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.397Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

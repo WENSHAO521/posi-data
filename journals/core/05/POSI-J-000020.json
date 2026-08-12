@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000020",
+  "title": "艺术与设计前沿",
+  "short_title": "艺术与设计前沿",
+  "status": "indexed",
+  "publisher": "SHIHARR PUBLISHING LIMITED",
+  "country": "HK",
+  "language": [
+    "zh"
+  ],
+  "open_access": true,
+  "license": null,
+  "website_url": "https://ojs.shiharr.com/index.php/yishu",
+  "identifiers": {
+    "issn_l": "3107-0183",
+    "issn_print": "3107-0183",
+    "issn_online": "3107-0191",
+    "openalex_source_id": "S7407054101",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-yishu",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S7407054101",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-06-22T00:00:00Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

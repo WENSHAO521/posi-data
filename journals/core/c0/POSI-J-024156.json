@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-024156",
+  "title": "The Spine Journal",
+  "short_title": "The Spine Journal",
+  "status": "discovered",
+  "publisher": "Elsevier BV",
+  "country": "SG",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://www.sciencedirect.com/journal/the-spine-journal",
+  "identifiers": {
+    "issn_l": "1529-9430",
+    "issn_print": null,
+    "issn_online": "1529-9430",
+    "openalex_source_id": "S112180307",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-the-spine-journal-0945",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S112180307",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.406Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

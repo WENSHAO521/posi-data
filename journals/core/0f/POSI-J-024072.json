@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-024072",
+  "title": "Clinical Cancer Research",
+  "short_title": "Clinical Cancer Research",
+  "status": "discovered",
+  "publisher": "American Association for Cancer Research",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://clincancerres.aacrjournals.org",
+  "identifiers": {
+    "issn_l": "1078-0432",
+    "issn_print": null,
+    "issn_online": "1078-0432",
+    "openalex_source_id": "S183149254",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-clinical-cancer-research-0848",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S183149254",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.405Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

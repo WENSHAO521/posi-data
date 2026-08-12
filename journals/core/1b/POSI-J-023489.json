@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023489",
+  "title": "Materials Chemistry and Physics",
+  "short_title": "Materials Chemistry and Physics",
+  "status": "discovered",
+  "publisher": "Elsevier BV",
+  "country": "NL",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://www.journals.elsevier.com/materials-chemistry-and-physics",
+  "identifiers": {
+    "issn_l": "0254-0584",
+    "issn_print": null,
+    "issn_online": "0254-0584",
+    "openalex_source_id": "S5707928",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-materials-chemistry-and-physics-0176",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S5707928",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.392Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-000132",
+  "title": "Frontiers in Cell and Developmental Biology",
+  "short_title": "Frontiers in Cell and Developmental B...",
+  "status": "discovered",
+  "publisher": "Frontiers Media",
+  "country": "CH",
+  "language": [
+    "en"
+  ],
+  "open_access": true,
+  "license": null,
+  "website_url": "http://www.frontiersin.org/cell_and_developmental_biology",
+  "identifiers": {
+    "issn_l": "2296-634X",
+    "issn_print": null,
+    "issn_online": "2296-634X",
+    "openalex_source_id": "S2596924766",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-frontiers-in-cell-and-developmental-biol-0448",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S2596924766",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.399Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

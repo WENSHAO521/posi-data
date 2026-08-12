@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023369",
+  "title": "Physical review. B./Physical review. B",
+  "short_title": "Physical review. B./Physical review. B",
+  "status": "discovered",
+  "publisher": "American Physical Society",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://journals.aps.org",
+  "identifiers": {
+    "issn_l": "2469-9950",
+    "issn_print": null,
+    "issn_online": "2469-9950",
+    "openalex_source_id": "S4210237713",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-physical-review-b-physical-review-b-0045",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S4210237713",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.390Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

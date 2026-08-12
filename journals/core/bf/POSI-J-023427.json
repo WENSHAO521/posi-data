@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023427",
+  "title": "physica status solidi (b)",
+  "short_title": "physica status solidi (b)",
+  "status": "discovered",
+  "publisher": "Wiley",
+  "country": "DE",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://onlinelibrary.wiley.com/journal/15213951",
+  "identifiers": {
+    "issn_l": "0370-1972",
+    "issn_print": null,
+    "issn_online": "0370-1972",
+    "openalex_source_id": "S71689831",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-physica-status-solidi-b-0108",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S71689831",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.391Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

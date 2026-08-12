@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023858",
+  "title": "Perspectives on Politics",
+  "short_title": "Perspectives on Politics",
+  "status": "discovered",
+  "publisher": "Cambridge University Press",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://www.cambridge.org/core/journals/perspectives-on-politics",
+  "identifiers": {
+    "issn_l": "1537-5927",
+    "issn_print": null,
+    "issn_online": "1537-5927",
+    "openalex_source_id": "S173657377",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-perspectives-on-politics-0614",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S173657377",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.401Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

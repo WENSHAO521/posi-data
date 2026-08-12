@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023455",
+  "title": "Surface and Coatings Technology",
+  "short_title": "Surface and Coatings Technology",
+  "status": "discovered",
+  "publisher": "Elsevier BV",
+  "country": "NL",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://www.journals.elsevier.com/surface-and-coatings-technology",
+  "identifiers": {
+    "issn_l": "0257-8972",
+    "issn_print": null,
+    "issn_online": "0257-8972",
+    "openalex_source_id": "S76010543",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-surface-and-coatings-technology-0139",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S76010543",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.392Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

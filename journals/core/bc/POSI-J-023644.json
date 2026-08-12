@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023644",
+  "title": "Biotechnology and Bioengineering",
+  "short_title": "Biotechnology and Bioengineering",
+  "status": "discovered",
+  "publisher": "Wiley",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "http://www3.interscience.wiley.com/journal/117933915/grouphome/home.html",
+  "identifiers": {
+    "issn_l": "0006-3592",
+    "issn_print": null,
+    "issn_online": "0006-3592",
+    "openalex_source_id": "S151564723",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-biotechnology-and-bioengineering-0367",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S151564723",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.397Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}

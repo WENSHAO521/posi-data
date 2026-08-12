@@ -1,0 +1,42 @@
+{
+  "id": "POSI-J-023547",
+  "title": "Multimedia Tools and Applications",
+  "short_title": "Multimedia Tools and Applications",
+  "status": "discovered",
+  "publisher": "Springer Science+Business Media",
+  "country": "US",
+  "language": [
+    "en"
+  ],
+  "open_access": false,
+  "license": null,
+  "website_url": "https://www.springer.com/journal/11042",
+  "identifiers": {
+    "issn_l": "1380-7501",
+    "issn_print": null,
+    "issn_online": "1380-7501",
+    "openalex_source_id": "S110206669",
+    "crossref_member_id": null,
+    "ror_publisher_id": null,
+    "doaj_id": null
+  },
+  "classification": null,
+  "coverage": null,
+  "selection": null,
+  "provenance": [
+    {
+      "source": "posi_curation",
+      "source_record_id": "j-bench-multimedia-tools-and-applications-0238",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": null
+    },
+    {
+      "source": "openalex",
+      "source_record_id": "S110206669",
+      "retrieved_at": "2026-08-12T03:43:43.105Z",
+      "license": "CC0-1.0"
+    }
+  ],
+  "created_at": "2026-08-10T03:49:42.396Z",
+  "updated_at": "2026-08-12T03:43:43.105Z"
+}
