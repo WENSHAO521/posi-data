@@ -1,6 +1,6 @@
 # Elsevier Website URL Fix 2026
 
-Cross-references [`jnlactive.csv`](../../../jnlactive.csv) (Elsevier's own
+Cross-references [`jnlactive.csv`](../../../source-lists/jnlactive.csv) (Elsevier's own
 active-journals export — ISSN, product ID, current ScienceDirect
 "Shortcut URL" — uploaded directly to `master` on 2026-08-12) against the
 316 Global Benchmark Collection records whose `publisher` field matches
