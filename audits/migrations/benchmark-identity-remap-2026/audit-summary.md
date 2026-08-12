@@ -25,9 +25,23 @@ Manual review:            0 / 1000
 Hard conflicts:           0
 Duplicate identities:     0 unresolved
 
-Schema validation:
+Identity-layer validation:
 1000 / 1000 valid
+
+POSI-J format invalid:       0
+Duplicate POSI-J assignment: 0
 ```
+
+**This is identity-layer validation, not full `schema/journal.schema.json`
+conformance.** It checks exactly three things: every assigned `posi_id`
+matches the `POSI-J-\d{6,}` shape, every one of the 1000 records received
+an assignment, and no `posi_id` was assigned to more than one record. It
+does **not** validate `corpus/global-benchmark.json` records against the
+full canonical journal schema (`identifiers.*` nesting, `provenance`
+array, `status` enum, etc.) — the audit JSON's own field name for this
+check, `schema_shape_invalid`, was accurate; the human-readable label
+above it was not, and has been corrected. Full schema conformance is
+Evidence ETL's job, not this identity-layer pass's.
 
 All 1000 benchmark journals resolved cleanly against the existing registry.
 This is the expected outcome, not a coincidence: the recent identity
@@ -73,6 +87,14 @@ reserved registry entry. This run's job was to **verify** that and **join**
 series (European Geosciences Union General Assembly), which typically
 lacks a conventional journal ISSN. Resolved via its OpenAlex Source ID
 (`S4306508950`) instead, exactly as the priority chain intends.
+
+This is purely an identity resolution — "who is this entity" — and does
+not decide whether a conference-abstracts series should keep participating
+in the Global Benchmark Collection for AJR/ranking purposes. That's a
+separate **benchmark membership eligibility** question, tracked as a
+follow-up for the Evidence ETL phase, not this one. If EGUGA is later
+retired from the benchmark set, today's identity mapping stays valid and
+is not revoked by that decision.
 
 ## What this run does NOT do
 
