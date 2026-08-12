@@ -2,23 +2,24 @@
   "input_journals": 31,
   "journals_with_website_url": 31,
   "journals_with_no_website_url": 0,
-  "total_pages_fetched": 910,
-  "total_pages_ok": 290,
+  "total_pages_fetched": 913,
+  "total_pages_ok": 196,
   "site_evidence_coverage_distribution": {
-    "100%": 31,
+    "100%": 19,
     "90-99%": 0,
     "80-89%": 0,
     "60-79%": 0,
-    "<60%": 0
+    "<60%": 12
   },
   "evidence_item_status_counts": {
-    "met": 376,
-    "not_met": 244,
+    "met": 313,
+    "not_met": 129,
     "blocked": 0,
-    "unknown": 0,
+    "unknown": 178,
     "conflicted": 0,
-    "stale": 0
+    "stale": 0,
+    "not_applicable": 31
   },
-  "fetch_404_count": 604,
-  "mean_site_evidence_coverage_percent": 100
+  "fetch_404_count": 515,
+  "mean_site_evidence_coverage_percent": 72.13
 }
