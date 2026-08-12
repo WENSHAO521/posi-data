@@ -245,3 +245,11 @@ Two rules that follow from that:
   `POSI-J-######` ids are minted from a dry run — only after the report has
   been reviewed does a real migration commit registry rows and journal
   records together.
+- A journal-record removal (wrong-ISSN correction against seed data, or a
+  confirmed publisher rename/retitling) never orphans the old id silently.
+  `registry/superseded-ids.csv` records `old_posi_id → superseded_by_posi_id`
+  — the old registry row itself is untouched (still historically accurate),
+  but any future resolution of the old identity value should follow through
+  to the surviving id. Two records merely sharing an upstream signal (e.g.
+  an OpenAlex Source id) with no confirmed chronological handoff between
+  them are NOT superseded — see `registry/README.md`.

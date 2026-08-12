@@ -1,0 +1,16 @@
+legacy_id,title,issn,posi_id,removal_type,note
+j-bench-the-lancet-0000,The Lancet,0099-5355,POSI-J-023333,superseded_issn_correction,superseded by POSI-J-025606 (0140-6736)
+j-bench-journal-of-environmental-chemical-engine-0206,Journal of environmental chemical engineering,2213-2929,POSI-J-023517,superseded_issn_correction,superseded by POSI-J-025360 (2213-3437)
+j-bench-biochimie-0471,Biochimie,0037-9042,POSI-J-023726,superseded_issn_correction,superseded by POSI-J-024435 (0300-9084)
+j-bench-transportation-research-procedia-0617,Transportation research procedia,2352-1457,POSI-J-023861,superseded_issn_correction,superseded by POSI-J-026310 (2352-1465)
+j-bench-transplantation-and-cellular-therapy-0885,Transplantation and Cellular Therapy,1083-8791,POSI-J-024107,superseded_issn_correction,superseded by POSI-J-026300 (2666-6367)
+j-bench-bone-0919,Bone,1873-2763,POSI-J-024134,superseded_issn_correction,superseded by POSI-J-024462 (8756-3282)
+j-bench-european-journal-of-obstetrics-gynecolog-0923,European Journal of Obstetrics & Gynecology and Reproductive Biology,0028-2243,POSI-J-024137,superseded_issn_correction,superseded by POSI-J-024915 (0301-2115)
+j-bench-progr-s-en-urologie-3548,Progrès en Urologie,1166-7087,POSI-J-025975,superseded_rename,"superseded by POSI-J-024995 (The French Journal of Urology, 2950-3930)"
+j-bench-mutation-research-3254,Mutation Research,0027-5107,POSI-J-025758,superseded_rename,"superseded by POSI-J-025759 (Mutation Research - FMMM, 1386-1964)"
+j-bench-research-in-autism-spectrum-disorders-3645,Research in Autism Spectrum Disorders,1750-9467,POSI-J-026053,superseded_rename,"superseded by POSI-J-026052 (Research in Autism, 3050-6565)"
+j-bench-revista-de-psiquiatr-a-y-salud-mental-3726,Revista de Psiquiatría y Salud Mental,1888-9891,POSI-J-026105,superseded_rename,"superseded by POSI-J-026201 (Spanish Journal of Psychiatry and Mental Health, 2950-2853)"
+j-bench-blood-red-cells-iron-1370,Blood Red Cells & Iron,3050-5984,POSI-J-017502,literal_duplicate_row,second occurrence of the same title+ISSN within jnlactive.csv itself
+j-bench-cmi-communications-3022,CMI Communications,2950-5909,POSI-J-014124,literal_duplicate_row,second occurrence of the same title+ISSN within jnlactive.csv itself
+j-bench-journal-of-strategy-innovation-2965,Journal of Strategy & Innovation,3050-7901,POSI-J-025558,literal_duplicate_row,second occurrence of the same title+ISSN within jnlactive.csv itself
+j-bench-clinical-traditional-medicine-and-pharmacology-1579,Clinical Traditional Medicine and Pharmacology,2950-5771,POSI-J-024583,zero_evidence_excluded,"same title as an established journal (2097-3829); ISSN not registered in Crossref, no OpenAlex Source, 0 articles -- excluded pending real evidence, id left unused (not superseded, no confirmed surviving identity to point to)"

@@ -1,0 +1,5 @@
+{
+  "global_benchmark_count": 4106,
+  "registry_row_count": 26385,
+  "note": "Reconciliation fixture for scripts/verify-benchmark-counts.mjs (posi-engine). If corpus/global-benchmark.json or registry/journal-id-map.csv counts drift from these after this migration is merged, that's a signal something in the pipeline changed -- update this fixture only if the drift is understood and intentional (e.g. a later migration), never to silence an unexplained mismatch."
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "openalex_source_id": "S166351637",
+    "verdict": "two_independent_journals_openalex_source_conflated",
+    "evidence": "Crossref: both ISSNs continuously active in parallel 1996-11 through 2026-09 (0263-8762: 9941 works; 0957-5820: 10395 works). No chronological handoff -- a rename or successor would show one ISSN stopping where the other starts. Both are real, currently-active, separately-edited Elsevier/IChemE journals (Chemical Engineering Research and Design covers process/chemical engineering research broadly; Process Safety and Environmental Protection is the safety/environmental-specific sister journal). OpenAlex's Source record has merged them under one Source id, most likely because both trace back to a shared parent lineage (Transactions of the Institution of Chemical Engineers, Parts A and B) before their 1996 split -- an upstream OpenAlex data-quality issue, not a POSI duplicate.",
+    "action": "Both POSI-J ids kept as independently minted, no corpus change. Documented here so a future automated process does not attempt to auto-merge them off the shared OpenAlex Source id.",
+    "members": [
+      { "title": "Chemical Engineering Research and Design", "issn": "0263-8762", "legacy_id": "j-bench-chemical-engineering-research-and-design-1477" },
+      { "title": "Process Safety and Environmental Protection", "issn": "0957-5820", "legacy_id": "j-bench-process-safety-and-environmental-protection-3547" }
+    ]
+  },
+  {
+    "openalex_source_id": "S73435037",
+    "verdict": "rename_superseded",
+    "evidence": "Crossref: 1166-7087 (Progrès en Urologie) ran 2007-02 through 2023-12 (5981 works); 2950-3930 (The French Journal of Urology) starts 2024-01 (416 works so far). Clean back-to-back handoff at the year boundary -- the French-language journal rebranded to an English title/ISSN for international visibility.",
+    "action": "Old record (Progrès en Urologie, 1166-7087) removed from corpus. Its POSI-J id recorded in registry/superseded-ids.csv as superseded by the current record's id (The French Journal of Urology, 2950-3930).",
+    "members": [
+      { "title": "Progrès en Urologie", "issn": "1166-7087", "status": "superseded" },
+      { "title": "The French Journal of Urology", "issn": "2950-3930", "status": "current, survives" }
+    ]
+  },
+  {
+    "openalex_source_id": "S4394735698",
+    "verdict": "rename_superseded",
+    "evidence": "Crossref: 0027-5107 (Mutation Research) ran 1964-05 through 2017-09 (4904 works) as the general/umbrella title; 1386-1964 (Mutation Research - Fundamental and Molecular Mechanisms of Mutagenesis) ran 1988 through 2026-07 (6841 works), overlapping while the umbrella title was still active, then continuing alone after 2017 when Elsevier fully retired the general ISSN. The section-specific ISSN is the surviving identity.",
+    "action": "Old record (Mutation Research, 0027-5107) removed from corpus. Its POSI-J id recorded in registry/superseded-ids.csv as superseded by the current record's id (Mutation Research - Fundamental and Molecular Mechanisms of Mutagenesis, 1386-1964).",
+    "members": [
+      { "title": "Mutation Research", "issn": "0027-5107", "status": "superseded" },
+      { "title": "Mutation Research - Fundamental and Molecular Mechanisms of Mutagenesis", "issn": "1386-1964", "status": "current, survives" }
+    ]
+  },
+  {
+    "openalex_source_id": "S87781914",
+    "verdict": "rename_superseded",
+    "evidence": "Crossref: 1750-9467 (Research in Autism Spectrum Disorders) ran 2007-01 through 2025-01 (2247 works); 3050-6565 (Research in Autism) starts 2025-02 (349 works so far). Clean back-to-back handoff -- title shortened.",
+    "action": "Old record (Research in Autism Spectrum Disorders, 1750-9467) removed from corpus. Its POSI-J id recorded in registry/superseded-ids.csv as superseded by the current record's id (Research in Autism, 3050-6565).",
+    "members": [
+      { "title": "Research in Autism Spectrum Disorders", "issn": "1750-9467", "status": "superseded" },
+      { "title": "Research in Autism", "issn": "3050-6565", "status": "current, survives" }
+    ]
+  },
+  {
+    "openalex_source_id": "S2898316745",
+    "verdict": "two_independent_journals_kept_by_platform_owner_decision",
+    "evidence": "Crossref: 0377-4732 (Revista Española de Medicina Legal) ran 2008-01 through 2026-04 (559 works); 2445-4249 (Spanish Journal of Legal Medicine) ran 2016-01 through 2026-06 (249 works), overlapping the Spanish-language ISSN's entire active range for 10 years -- not a rename handoff. OpenAlex treats them as one Source (issn_l=0377-4732).",
+    "action": "Platform owner decision (2026-08-12): keep both POSI-J ids as independently minted, no corpus change. Documented here so a future automated process does not attempt to auto-merge them off the shared OpenAlex Source id.",
+    "members": [
+      { "title": "Revista Española de Medicina Legal", "issn": "0377-4732", "legacy_id": "j-bench-revista-espa-ola-de-medicina-legal-3712" },
+      { "title": "Spanish Journal of Legal Medicine", "issn": "2445-4249", "legacy_id": "j-bench-spanish-journal-of-legal-medicine-3858" }
+    ]
+  },
+  {
+    "openalex_source_id": "S2898614270",
+    "verdict": "rename_superseded",
+    "evidence": "Crossref: 1888-9891 (Revista de Psiquiatría y Salud Mental) ran 2008-12 through 2023-01 (530 works); 2950-2853 (Spanish Journal of Psychiatry and Mental Health) starts 2023-01 (203 works so far). Clean handoff at the same month -- English rebrand.",
+    "action": "Old record (Revista de Psiquiatría y Salud Mental, 1888-9891) removed from corpus. Its POSI-J id recorded in registry/superseded-ids.csv as superseded by the current record's id (Spanish Journal of Psychiatry and Mental Health, 2950-2853).",
+    "members": [
+      { "title": "Revista de Psiquiatría y Salud Mental", "issn": "1888-9891", "status": "superseded" },
+      { "title": "Spanish Journal of Psychiatry and Mental Health", "issn": "2950-2853", "status": "current, survives" }
+    ]
+  }
+]
