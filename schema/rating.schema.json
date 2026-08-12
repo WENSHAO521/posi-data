@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/master/schema/rating.schema.json",
+  "title": "POSI AJR-E / AJR-M Rating Snapshot",
+  "description": "One frozen record per journal per rating_date, produced by posi-engine's src/ajr-early-stage.mjs (track: early_stage) or src/ajr-mature.mjs (track: mature). New schema — no AJR-M rating snapshot shape existed before the 'POSI Journal Evaluation & Ranking Framework 1.0' rollout; AJR-E ratings previously lived only as ad hoc fields on legacy corpus records (see corpus/README.md), not a versioned schema. Never mutated after being written — a correction produces a new snapshot, per the same discipline as schema/metric.schema.json.",
+  "type": "object",
+  "required": ["journal_id", "track", "rating_date", "methodology_version", "rating_status"],
+  "additionalProperties": false,
+  "properties": {
+    "journal_id": { "type": "string", "pattern": "^POSI-J-[0-9]{6,}$" },
+    "track": {
+      "type": "string",
+      "enum": ["early_stage", "mature"],
+      "description": "early_stage = AJR-E (AJR-E-1.1-SPEC.md), mature = AJR-M (AJR-M-1.0-SPEC.md). A mature journal must never carry an early_stage rating and vice versa."
+    },
+    "rating_date": { "type": "string", "format": "date" },
+    "methodology_version": {
+      "type": "string",
+      "description": "e.g. AJR-E-1.1 or AJR-M-1.0 — permanent per snapshot, so historical scores are never conflated across a methodology change (see CHANGELOG.md)."
+    },
+
+    "rating_status": {
+      "type": "string",
+      "enum": ["official", "provisional", "not_rateable", "not_officially_rankable"],
+      "description": "official/provisional/not_rateable come from evidence-coverage.mjs's ratingEligibility() (EC >=80% / 60-79.99% / <60%, mandatory evidence gate). not_officially_rankable is AJR-M-only — a citation-integrity suppression verdict via ajr-mature.mjs's gateAjrMByIntegrity() (never a score deduction — see AJR-M-1.0-SPEC.md § 8)."
+    },
+    "suppression_reason": {
+      "type": ["string", "null"],
+      "description": "Set only when rating_status is not_officially_rankable — the specific flagged_checks from the citation-integrity review, per PJR-SPEC.md § 9."
+    },
+
+    "total_score": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Null when rating_status is not_rateable or not_officially_rankable — never a misleading 0."
+    },
+    "evidence_coverage_percent": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+
+    "dimensions": {
+      "type": ["object", "null"],
+      "description": "Per-dimension scores, keyed by dimension id. AJR-E: egf/rif/inf/pub/soc/rdc/trn. AJR-M: citation/output/governance/infrastructure/reach/transparency. Shape intentionally loose (additionalProperties true) since the two tracks have different dimension sets and each dimension's own object shape is documented in the corresponding *-SPEC.md, not duplicated here.",
+      "additionalProperties": true
+    },
+
+    "quartile": {
+      "type": ["string", "null"],
+      "enum": ["Q1", "Q2", "Q3", "Q4", null],
+      "description": "Raw Q1-Q4 value from posi-engine's src/quartile-tracks.mjs — pair with `track` to get the correct display label (E-Q1/M-Q1), never displayed bare. Null when ranking_method is unavailable."
+    },
+    "quartile_label": {
+      "type": ["string", "null"],
+      "description": "e.g. 'E-Q1', 'M-Q1' — the full display label per quartile-tracks.mjs's quartileLabel(). Never a bare 'Q1'."
+    },
+    "cohort_key": { "type": ["string", "null"], "description": "The PSC code the peer cohort was built on (may be L1, L2, or L3 — see cohort_level)." },
+    "cohort_level": { "type": ["integer", "null"], "enum": [1, 2, 3, null] },
+    "cohort_size": { "type": ["integer", "null"], "minimum": 0 },
+    "ranking_method": { "type": ["string", "null"], "enum": ["score_midrank", "unavailable", null] },
+
+    "pjr_release": { "type": ["string", "null"], "description": "e.g. PJR-2028.1 — the release this snapshot was frozen for, once published." }
+  }
+}

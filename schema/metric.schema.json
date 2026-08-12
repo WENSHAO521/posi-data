@@ -23,6 +23,26 @@
       "description": "POSI Normalized Citation Indicator: this journal's citation rate divided by the expected citation rate for its primary PSC category and metric_year. 1.00 = category average."
     },
 
+    "pcs": {
+      "type": ["number", "null"],
+      "description": "POSI Citation Score: Crossref-based 4-year citation-performance indicator (PCS-1.0-SPEC.md). Independently reported — does not determine PCI, PNCI, Citation Rank, Citation Percentile, or Citation Quartile, and is never averaged or blended with the PCI family."
+    },
+    "pcs_eligible_items": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "description": "PCS denominator: count of eligible works successfully fetched from Crossref across the most recent 4 complete publication years (PCS-1.0-SPEC.md § 5), no sampling cap."
+    },
+    "pcs_coverage": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Fraction of enumerated eligible DOIs successfully fetched from Crossref for this PCS snapshot (PCS-1.0-SPEC.md § 9). Separate from the platform's general Evidence Coverage model, which governs AJR-E/AJR-M rating eligibility, not citation-indicator display."
+    },
+    "pcs_methodology_version": {
+      "type": ["string", "null"],
+      "description": "e.g. PCS-1.0. Independent of methodology_version (PCI's version string), per PJR-SPEC.md § 11's independent-version-strings rule."
+    },
+
     "citable_items": {
       "type": "integer",
       "minimum": 0,
