@@ -1,0 +1,79 @@
+[
+  {
+    "title": "The Lancet",
+    "posi_id": "POSI-J-023333",
+    "issn_online": "0099-5355",
+    "issn_print": null,
+    "current_url": "https://www.sciencedirect.com/journal/the-lancet"
+  },
+  {
+    "title": "Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment",
+    "posi_id": "POSI-J-023371",
+    "issn_online": "0168-9002",
+    "issn_print": null,
+    "current_url": "http://www.sciencedirect.com/science/journal/01675087"
+  },
+  {
+    "title": "Journal of environmental chemical engineering",
+    "posi_id": "POSI-J-023517",
+    "issn_online": "2213-2929",
+    "issn_print": null,
+    "current_url": "https://www.journals.elsevier.com/journal-of-environmental-chemical-engineering"
+  },
+  {
+    "title": "Oncology Reports",
+    "posi_id": "POSI-J-023712",
+    "issn_online": "1021-335X",
+    "issn_print": null,
+    "current_url": "http://www.spandidos-publications.com/or/"
+  },
+  {
+    "title": "Biochimie",
+    "posi_id": "POSI-J-023726",
+    "issn_online": "0037-9042",
+    "issn_print": null,
+    "current_url": "https://www.journals.elsevier.com/biochimie"
+  },
+  {
+    "title": "Transportation research procedia",
+    "posi_id": "POSI-J-023861",
+    "issn_online": "2352-1457",
+    "issn_print": null,
+    "current_url": "http://www.journals.elsevier.com/transportation-research-procedia/recent-articles"
+  },
+  {
+    "title": "International Journal of Gynecology & Obstetrics",
+    "posi_id": "POSI-J-024060",
+    "issn_online": "0020-6695",
+    "issn_print": null,
+    "current_url": "https://obgyn.onlinelibrary.wiley.com/journal/18793479"
+  },
+  {
+    "title": "Cochrane Database of Systematic Reviews",
+    "posi_id": "POSI-J-024068",
+    "issn_online": "1361-6137",
+    "issn_print": null,
+    "current_url": "http://www.nelh.nhs.uk/cochrane.asp"
+  },
+  {
+    "title": "Transplantation and Cellular Therapy",
+    "posi_id": "POSI-J-024107",
+    "issn_online": "1083-8791",
+    "issn_print": null,
+    "current_url": "https://www.journals.elsevier.com/transplantation-and-cellular-therapy"
+  },
+  {
+    "title": "Bone",
+    "posi_id": "POSI-J-024134",
+    "issn_online": "1873-2763",
+    "issn_print": null,
+    "current_url": "https://www.journals.elsevier.com/bone"
+  },
+  {
+    "title": "European Journal of Obstetrics & Gynecology and Reproductive Biology",
+    "posi_id": "POSI-J-024137",
+    "issn_online": "0028-2243",
+    "issn_print": null,
+    "current_url": "https://www.journals.elsevier.com/european-journal-of-obstetrics-and-gynecology-and-reproductive-biology"
+  }
+]
