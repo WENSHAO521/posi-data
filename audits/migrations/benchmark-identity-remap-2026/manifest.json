@@ -1,0 +1,22 @@
+{
+  "audit": "benchmark-identity-remap-2026",
+  "mode": "resolve-and-write-back",
+  "generated_at": "2026-08-12T06:15:00.000Z",
+  "registry_repository": "WENSHAO521/posi-data",
+  "registry_commit": "ba4929b867e42a51d6a1c8757d70f8f2afecd0fd",
+  "registry_row_count": 24205,
+  "benchmark_repository": "WENSHAO521/posi-data",
+  "benchmark_commit": "ba4929b867e42a51d6a1c8757d70f8f2afecd0fd",
+  "benchmark_input_file": "corpus/global-benchmark.json",
+  "benchmark_input_count": 1000,
+  "engine_repository": "WENSHAO521/posi-engine",
+  "engine_commit": "7eb93461b6ce794c15ff1ac1af060a11d82fd093",
+  "engine_script": "scripts/remap-benchmark-identity-2026.mjs",
+  "posi_j_ids_minted": 0,
+  "posi_j_ids_reused": 1000,
+  "manual_review_count": 0,
+  "hard_conflicts": 0,
+  "registry_conflicts": 0,
+  "possible_duplicates": 0,
+  "reproducibility": "Deterministic given the same registry snapshot and benchmark input -- no randomness, no external API calls, no timestamps read from the environment other than generated_at itself."
+}

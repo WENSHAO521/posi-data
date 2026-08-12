@@ -1,0 +1,17 @@
+{
+  "input_benchmark_journals": 1000,
+  "candidate_entities_after_internal_dedupe": 1000,
+  "internal_hard_conflicts": 0,
+  "internal_possible_duplicates": 0,
+  "matched_total": 1000,
+  "matched_by_issn_l": 999,
+  "matched_by_issn_pair": 0,
+  "matched_by_openalex": 1,
+  "unresolved_manual_review": 0,
+  "registry_conflicts": 0,
+  "value_type_mismatches_informational": 0,
+  "new_ids_minted": 0,
+  "records_with_posi_id_written": 1000,
+  "schema_shape_invalid": 0,
+  "duplicate_posi_id_assignments": 0
+}
