@@ -60,7 +60,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000001"
   },
   {
     "id": "j-afs",
@@ -115,7 +116,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000002"
   },
   {
     "id": "j-jlpcs",
@@ -178,7 +180,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000003"
   },
   {
     "id": "j-hnex",
@@ -233,7 +236,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000004"
   },
   {
     "id": "j-pear",
@@ -288,7 +292,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000005"
   },
   {
     "id": "j-jesa",
@@ -343,7 +348,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000006"
   },
   {
     "id": "j-tts",
@@ -398,7 +404,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000007"
   },
   {
     "id": "j-rggd",
@@ -453,7 +460,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000008"
   },
   {
     "id": "j-rjgms",
@@ -516,7 +524,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000009"
   },
   {
     "id": "j-csgs",
@@ -571,7 +580,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000010"
   },
   {
     "id": "j-jscc",
@@ -626,7 +636,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000011"
   },
   {
     "id": "j-silence",
@@ -681,7 +692,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-000012"
   },
   {
     "id": "j-jmss",
@@ -744,7 +756,8 @@
     "psc_confidence": "high",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "indexed"
+    "source_group": "indexed",
+    "posi_id": "POSI-J-000013"
   },
   {
     "id": "j-jcsis",
@@ -807,7 +820,8 @@
     "psc_confidence": "high",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "indexed"
+    "source_group": "indexed",
+    "posi_id": "POSI-J-000014"
   },
   {
     "id": "j-jcac",
@@ -870,7 +884,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "indexed"
+    "source_group": "indexed",
+    "posi_id": "POSI-J-000015"
   },
   {
     "id": "j-rwxk",
@@ -933,7 +948,8 @@
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000016"
   },
   {
     "id": "j-jyyjx",
@@ -996,7 +1012,8 @@
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000017"
   },
   {
     "id": "j-jassp",
@@ -1059,7 +1076,8 @@
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000018"
   },
   {
     "id": "j-zgwxxk",
@@ -1114,7 +1132,8 @@
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000019"
   },
   {
     "id": "j-yishu",
@@ -1169,7 +1188,8 @@
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000020"
   },
   {
     "id": "j-shr-ai",
@@ -1224,7 +1244,8 @@
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000021"
   },
   {
     "id": "j-smn",
@@ -1279,7 +1300,8 @@
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000022"
   },
   {
     "id": "j-xw",
@@ -1334,7 +1356,8 @@
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000023"
   },
   {
     "id": "j-zgfx",
@@ -1389,7 +1412,8 @@
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000024"
   },
   {
     "id": "j-cmas",
@@ -1444,7 +1468,8 @@
     "psc_confidence": "low",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000025"
   },
   {
     "id": "j-cds",
@@ -1507,7 +1532,8 @@
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000026"
   },
   {
     "id": "j-rae",
@@ -1562,7 +1588,8 @@
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000027"
   },
   {
     "id": "j-eaou",
@@ -1617,7 +1644,8 @@
     "psc_confidence": "high",
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "shiharr"
+    "source_group": "shiharr",
+    "posi_id": "POSI-J-000028"
   },
   {
     "id": "j-tjiss",
@@ -1680,7 +1708,8 @@
     "psc_confidence": "low",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "other_indexed"
+    "source_group": "other_indexed",
+    "posi_id": "POSI-J-000029"
   },
   {
     "id": "j-dif-rfp",
@@ -1736,7 +1765,8 @@
     "collection_status": "candidate",
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-07-01T00:00:00Z",
-    "source_group": "other_indexed"
+    "source_group": "other_indexed",
+    "posi_id": "POSI-J-000030"
   },
   {
     "id": "j-cropt",
@@ -1791,6 +1821,7 @@
     "psc_confidence": null,
     "created_at": "2026-08-11T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
-    "source_group": "psg"
+    "source_group": "psg",
+    "posi_id": "POSI-J-023332"
   }
 ]
