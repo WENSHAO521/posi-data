@@ -1,0 +1,98 @@
+[
+  {
+    "type": "openalex_id_spans_conflicting_issn_groups",
+    "openalex_source_id": "S166351637",
+    "legacy_ids": [
+      "j-bench-chemical-engineering-research-and-design-1477",
+      "j-bench-process-safety-and-environmental-protection-3547"
+    ],
+    "conflicting_issn_sets": [
+      [
+        "0263-8762"
+      ],
+      [
+        "0957-5820"
+      ]
+    ]
+  },
+  {
+    "type": "openalex_id_spans_conflicting_issn_groups",
+    "openalex_source_id": "S73435037",
+    "legacy_ids": [
+      "j-bench-the-french-journal-of-urology-2147",
+      "j-bench-progr-s-en-urologie-3548"
+    ],
+    "conflicting_issn_sets": [
+      [
+        "2950-3930"
+      ],
+      [
+        "1166-7087"
+      ]
+    ]
+  },
+  {
+    "type": "openalex_id_spans_conflicting_issn_groups",
+    "openalex_source_id": "S4394735698",
+    "legacy_ids": [
+      "j-bench-mutation-research-3254",
+      "j-bench-mutation-research-fundamental-and-molecular-mechanisms-of-mu-3255"
+    ],
+    "conflicting_issn_sets": [
+      [
+        "0027-5107"
+      ],
+      [
+        "1386-1964"
+      ]
+    ]
+  },
+  {
+    "type": "openalex_id_spans_conflicting_issn_groups",
+    "openalex_source_id": "S87781914",
+    "legacy_ids": [
+      "j-bench-research-in-autism-3644",
+      "j-bench-research-in-autism-spectrum-disorders-3645"
+    ],
+    "conflicting_issn_sets": [
+      [
+        "3050-6565"
+      ],
+      [
+        "1750-9467"
+      ]
+    ]
+  },
+  {
+    "type": "openalex_id_spans_conflicting_issn_groups",
+    "openalex_source_id": "S2898316745",
+    "legacy_ids": [
+      "j-bench-revista-espa-ola-de-medicina-legal-3712",
+      "j-bench-spanish-journal-of-legal-medicine-3858"
+    ],
+    "conflicting_issn_sets": [
+      [
+        "0377-4732"
+      ],
+      [
+        "2445-4249"
+      ]
+    ]
+  },
+  {
+    "type": "openalex_id_spans_conflicting_issn_groups",
+    "openalex_source_id": "S2898614270",
+    "legacy_ids": [
+      "j-bench-revista-de-psiquiatr-a-y-salud-mental-3726",
+      "j-bench-spanish-journal-of-psychiatry-and-mental-health-3859"
+    ],
+    "conflicting_issn_sets": [
+      [
+        "1888-9891"
+      ],
+      [
+        "2950-2853"
+      ]
+    ]
+  }
+]

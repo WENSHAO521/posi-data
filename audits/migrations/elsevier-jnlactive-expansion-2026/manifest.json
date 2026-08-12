@@ -1,0 +1,19 @@
+{
+  "migration": "elsevier-jnlactive-expansion-2026",
+  "generated_at": "2026-08-12T11:20:00.000Z",
+  "source": "jnlactive.csv (Elsevier active-journals export, uploaded to posi-data master 2026-08-12)",
+  "source_repository": "WENSHAO521/posi-data",
+  "registry_row_count_before": 24205,
+  "registry_row_count_after": 26385,
+  "posi_j_ids_minted": 2180,
+  "posi_j_ids_reused": 1931,
+  "global_benchmark_count_before": 1000,
+  "global_benchmark_count_after": 4111,
+  "old_records_removed_superseded": 7,
+  "new_records_removed_literal_duplicate": 3,
+  "ambiguous_pairs_left_unmerged": 6,
+  "openalex_enriched": 3078,
+  "openalex_not_found": 40,
+  "bug_found_and_fixed_before_commit": "naive CSV parsing (line.split(',')) shifted columns for quoted titles containing commas; rolled back and re-run with src/showjcr/csv.mjs's RFC4180-correct parseCsv() before anything was minted or committed",
+  "reproducibility": "node posi-engine/scripts/ingest-jnlactive-elsevier-2026.mjs --csv jnlactive.csv --benchmark corpus/global-benchmark.json --out <dir>, then scripts/remap-benchmark-identity-2026.mjs, then scripts/mint-elsevier-jnlactive-2026.mjs -- see README.md for the manual duplicate-removal step in between"
+}
