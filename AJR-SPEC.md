@@ -379,6 +379,41 @@ system answering a different question than Citation Q.
   policy's stated scope, and how is a dispute over "does this policy
   really apply to journal X" resolved without becoming a de facto manual
   override?
+
+## 14. Global Benchmark Collection membership is not ranking eligibility
+
+`corpus/global-benchmark.json` (2026-08: 1000 curated seed records, now
+4289 after the Elsevier and Frontiers bulk-ingest expansions — see
+`audits/migrations/elsevier-jnlactive-expansion-2026/` and
+`audits/migrations/frontiers-expansion-2026/`) is a large external sample
+used to validate the pipeline against real, messy publisher data at
+scale. A record's presence in this file, or its `is_external_benchmark:
+true` flag, is **never** itself a signal that a journal is ready for or
+eligible for a published quartile.
+
+**Frozen rule:** ranking-cohort eligibility (E-Q, M-Q, Citation Q) is
+determined *only* by collection eligibility + lifecycle stage + PSC
+classification (`psc_confidence` high/verified — see `cohort.mjs`) +
+Evidence Coverage eligibility + cohort-size rules (§ above, and
+`posi-engine/src/cohort.mjs`). Confirmed as of 2026-08-12: no code in
+`posi-engine/src` reads `is_external_benchmark` or otherwise branches on
+Global Benchmark file membership for any eligibility decision — cohort
+building goes strictly through `buildPeerCohorts()`/
+`isRankEligiblePscConfidence()`. This section exists to keep it that way:
+bulk-ingesting an entire publisher's active-journal list (3433 Elsevier
+rows, 234 Frontiers rows) skews the *sample's* publisher distribution
+heavily — that's fine for a validation corpus, but would silently corrupt
+a ranking cohort if anything ever built one directly from "everything in
+global-benchmark.json" instead of going through the real eligibility
+pipeline.
+
+Longer-term, bulk-ingested publisher records should carry an explicit
+`source_group: "publisher_expansion"` / `collection_status: "discovered"`
+(or `"candidate"`) pair distinguishing them from the original curated
+seed set, rather than relying on every future reader to independently
+rediscover this rule. Not yet implemented as of 2026-08-12 — tracked here
+as the reason not to skip it once Global Benchmark data reaches the
+frontend.
 - Whether Evidence Coverage's 60%/80% thresholds are right, or need
   calibration against the actual coverage distribution once the evidence
   resolver (source-tagged, multi-source) exists — today's crawl-only
