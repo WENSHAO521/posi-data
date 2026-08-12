@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-08-12T14:19:52.557Z",
+  "candidates": 3296,
+  "openalex_fetch_errors": 51,
+  "classified": 3245,
+  "mature_high_confidence_classified": 2672,
+  "ranked_with_quartile": 2614,
+  "ranking_unavailable_cohort_too_small": 58,
+  "mature_unclassified_or_low_confidence": 23,
+  "not_yet_mature": 550
+}
