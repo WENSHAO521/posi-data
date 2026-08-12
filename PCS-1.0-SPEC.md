@@ -132,11 +132,23 @@ document is part of.
 ## 9. Snapshot fields
 
 Adds to `schema/metric.schema.json` (alongside the existing `pci` /
-`pci_5yr` / `pnci` fields, § below):
+`pci_5yr` / `pnci` fields), so a real PCS snapshot is fully traceable —
+not just the number, but which window, which source, when it was
+retrieved, and how complete the underlying fetch was:
 
 - `pcs` — the computed value, or `null` if no eligible works exist.
+- `pcs_window_start_year` / `pcs_window_end_year` — the 4 complete
+  publication years this snapshot covers (§ 5), e.g. `2022`/`2025` for a
+  2026 release.
 - `pcs_eligible_items` — denominator: count of eligible works actually
   included (§ 7's fetch-failures excluded).
+- `pcs_items_with_citation_data` — of `pcs_eligible_items`, how many had
+  Crossref actually return an `is_referenced_by_count` field (§ 7's first
+  bullet), distinct from an eligible item whose field was entirely absent
+  and defaulted to `0` (§ 7's `calculatePcs()` behavior). Lets a reader
+  distinguish "111 of 120 eligible items had real Crossref citation data"
+  from "120 eligible items went into the PCS average" — the same fetched
+  item can be eligible without necessarily carrying real citation data.
 - `pcs_coverage` — the fraction of enumerated in-window DOIs that were
   successfully fetched from Crossref (`fetchedCount / enumeratedCount`,
   `calculatePcsCoverage()` in `src/pcs.mjs`), independent of document-type
@@ -146,9 +158,25 @@ Adds to `schema/metric.schema.json` (alongside the existing `pci` /
   post-document-type-filtering), and is separate from, and not fed into,
   the platform's general Evidence Coverage model (AJR-SPEC.md § 6), which
   governs AJR-E/AJR-M rating eligibility, not citation-indicator display.
+- `pcs_source` — always `"crossref"` once populated, stated explicitly so
+  a reader never has to assume which citation graph a `pcs` value came
+  from (unlike `pci`/`pci_5yr`/`pnci`, which are OpenAlex-sourced).
+- `pcs_source_retrieved_at` — the date the Crossref fetch for this
+  snapshot ran. Kept separate from `snapshot_date` (when the overall
+  metric snapshot was frozen) and `data_cutoff`, since PCS's Crossref
+  fetch and PCI's OpenAlex fetch are independent operations that can run
+  on different days.
 - `pcs_methodology_version` — e.g. `PCS-1.0`, independent of
   `methodology_version` (which describes PCI's version) per PJR-SPEC.md
   § 11's "independent version strings" rule.
+
+**Worked example:** 120 eligible items enumerated, all 120 fetched
+successfully (`pcs_coverage = 1.0`), but only 111 of those 120 had a real
+`is_referenced_by_count` field from Crossref
+(`pcs_items_with_citation_data = 111`) — the other 9 defaulted to `0` per
+§ 7. A reader sees full fetch coverage but can still tell the underlying
+citation-count completeness (111/120 ≈ 92.5%) is narrower than
+`pcs_coverage` alone would suggest.
 
 ## 10. Corrections and retractions — a known, disclosed limitation
 
