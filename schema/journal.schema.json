@@ -46,6 +46,11 @@
         "primary": { "type": "string", "description": "PSC code, e.g. P3.03.04" },
         "secondary": { "type": "array", "items": { "type": "string" }, "maxItems": 2 },
         "psc_version": { "type": "string" },
+        "psc_confidence": {
+          "type": ["string", "null"],
+          "enum": ["high", "medium", "low", "unclassified", "verified", null],
+          "description": "PSC-CROSSWALK-0.2 (see CHANGELOG.md). Only 'high' or 'verified' may be used to build an E-Q/M-Q/Citation-Q peer cohort (posi-engine's src/cohort.mjs) — 'medium'/'low'/'unclassified' may still be displayed as a suggested category. 'verified' is assigned only by a human POSI Subject Editor sign-off, never computed by src/psc-classify.mjs itself. Nullable/omittable for records classified before PSC-CROSSWALK-0.2 shipped."
+        },
         "assigned_by": { "type": "string", "enum": ["posi_subject_editor", "ml_suggested_pending_review"] },
         "assigned_at": { "type": "string", "format": "date" }
       },
@@ -69,6 +74,38 @@
             }
           }
         }
+      }
+    },
+
+    "lifecycle": {
+      "type": ["object", "null"],
+      "description": "POSI Journal Evaluation & Ranking Framework 1.0's lifecycle section (posi-engine's src/lifecycle.mjs, src/first-publication-date.mjs). Additive/optional — a journal record with no `lifecycle` block has simply not been run through this pipeline stage yet, not an error.",
+      "additionalProperties": false,
+      "properties": {
+        "first_regular_publication_date": { "type": ["string", "null"], "format": "date" },
+        "first_publication_source": {
+          "type": ["string", "null"],
+          "enum": ["publisher_verified", "archive_verified", "crossref", "openalex", "other_archive", null]
+        },
+        "first_publication_evidence_id": { "type": ["string", "null"] },
+        "first_publication_verified_at": { "type": ["string", "null"], "format": "date" },
+        "lifecycle_stage": { "type": ["string", "null"], "enum": ["unknown", "observation", "early_stage", "mature", null] },
+        "months_since_launch": { "type": ["integer", "null"], "description": "Diagnostic/display only — see src/lifecycle.mjs's module header for why this must never be used to decide lifecycle_stage itself." },
+        "lifecycle_methodology_version": { "type": ["string", "null"] }
+      }
+    },
+
+    "status_model": {
+      "type": ["object", "null"],
+      "description": "The framework's coverage-state model — six independent fields, deliberately NOT a replacement for the existing top-level `status` field (discovered/indexed/metric_eligible), which stays as-is to avoid breaking existing consumers. This is an additive, richer model layered alongside it; `status_model.collection_status` and the legacy `status` field are expected to be kept in sync by whichever pipeline stage writes both, but this schema does not enforce that itself.",
+      "additionalProperties": false,
+      "properties": {
+        "collection_status": { "type": "string", "enum": ["discovered", "candidate", "core", "under_review", "suspended", "ceased", "withdrawn", "delisted", "archived"] },
+        "coverage_state": { "type": "string", "enum": ["active", "inactive", "gap", "unknown"] },
+        "lifecycle_stage": { "type": "string", "enum": ["unknown", "observation", "early_stage", "mature"] },
+        "rating_status": { "type": "string", "enum": ["not_evaluated", "provisional", "rated", "blocked", "insufficient_evidence", "suppressed"] },
+        "metric_status": { "type": "string", "enum": ["not_eligible", "eligible", "suppressed"] },
+        "evidence_status": { "type": "string", "enum": ["complete", "partial", "blocked", "insufficient", "conflicted", "stale"] }
       }
     },
 

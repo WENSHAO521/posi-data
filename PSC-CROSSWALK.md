@@ -1,5 +1,16 @@
 # PSC Classification Methodology v0.1 (implemented, journal-level only)
 
+> **PSC-CROSSWALK-0.2 (2026-08):** `psc_confidence` now has four states —
+> `high`, `medium`, `low`, `unclassified` — instead of the binary
+> `high`/`low` this document originally described. The `high` bar itself
+> (§ 3's two gates, unchanged) is not redefined; this is additive
+> granularity below it. See [CHANGELOG.md](./CHANGELOG.md) for the full
+> rationale and the flagged judgment call on where `medium` starts, and
+> `posi-engine/src/psc-classify.mjs` for the implementation. § 5 below
+> ("only `high`-confidence classifications should ever be used for
+> cohort/quartile membership") now also permits a human-`verified`
+> classification — see `posi-engine/src/cohort.mjs`.
+>
 > **Status:** implemented in
 > [`scripts/classify-psc.mjs`](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index/blob/master/scripts/classify-psc.mjs)
 > in the website repo, run against both the Core Collection and the Global
@@ -82,11 +93,30 @@ meaningfully "true" category) — this is expected, not a bug to chase.
 There is no clean single-PSC-category answer for a journal that is, by
 design, about everything.
 
-## 5. Not yet used for ranking/cohorts
+## 5. Rank-eligible confidence: `high` and `verified`
 
-`psc_category`/`psc_confidence` are populated on Journal records but not
-yet wired into any ranking, quartile, or peer-group computation (Citation
-Q, P-Q, or the AJR-E/AJR-M cohorts described in AJR-SPEC.md). Only
-`high`-confidence classifications should ever be used for cohort
-membership once that wiring happens — a `low`-confidence guess should not
-silently determine which peer group a journal is ranked against.
+`psc_category`/`psc_confidence` feed the E-Q, M-Q, and Citation Q peer
+cohorts (`posi-engine/src/cohort.mjs`, `isRankEligiblePscConfidence()`).
+Only two of the five `psc_confidence` values are rank-eligible:
+
+- **`high`** — the algorithmic classification in § 3, both gates passed
+  automatically.
+- **`verified`** — a **human-confirmed** classification. This is not a
+  fifth confidence tier the algorithm can assign itself; it only ever
+  enters the data by a person confirming a classification is correct.
+  Critically, `verified` means **confirming a classification fact**, not
+  **choosing whichever category is most favorable for a journal's
+  ranking** — a reviewer verifies "this journal's primary output really
+  is Environmental Sciences," never "let's put this journal in whichever
+  category it ranks best in." The distinction matters because `verified`
+  carries the same ranking authority as `high`; treating it as a
+  discretionary override would let manual classification quietly become
+  manual score manipulation, which § 11 of AJR-SPEC.md's governing
+  principle ("scores, ranks, percentiles, and quartiles cannot be
+  manually overridden") exists specifically to prevent.
+
+`medium`, `low`, and `unclassified` may all still display a
+`psc_category` for browsing/filtering, but none of the three may ever
+enter a ranking peer cohort — a `medium`/`low`/`unclassified` guess
+should not silently determine which peer group a journal is ranked
+against.

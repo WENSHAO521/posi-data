@@ -23,6 +23,49 @@
       "description": "POSI Normalized Citation Indicator: this journal's citation rate divided by the expected citation rate for its primary PSC category and metric_year. 1.00 = category average."
     },
 
+    "pcs": {
+      "type": ["number", "null"],
+      "description": "POSI Citation Score: Crossref-based 4-year citation-performance indicator (PCS-1.0-SPEC.md). Independently reported — does not determine PCI, PNCI, Citation Rank, Citation Percentile, or Citation Quartile, and is never averaged or blended with the PCI family."
+    },
+    "pcs_window_start_year": {
+      "type": ["integer", "null"],
+      "description": "First of the 4 complete publication years in this PCS snapshot's window (PCS-1.0-SPEC.md § 5) — e.g. 2022 for a 2026 release covering 2022-2025."
+    },
+    "pcs_window_end_year": {
+      "type": ["integer", "null"],
+      "description": "Last of the 4 complete publication years in this PCS snapshot's window — e.g. 2025 for a 2026 release covering 2022-2025."
+    },
+    "pcs_eligible_items": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "description": "PCS denominator: count of eligible works successfully fetched from Crossref across the 4-year window (PCS-1.0-SPEC.md § 5), no sampling cap."
+    },
+    "pcs_items_with_citation_data": {
+      "type": ["integer", "null"],
+      "minimum": 0,
+      "description": "Of pcs_eligible_items, how many had Crossref actually return an is_referenced_by_count field (including an explicit 0) — distinct from an eligible item whose field was entirely absent and was defaulted to 0 (PCS-1.0-SPEC.md § 7, src/pcs.mjs's calculatePcs()). Lets a reader distinguish '111 of 120 eligible items had real Crossref citation data' from '120 eligible items went into the PCS average.'"
+    },
+    "pcs_coverage": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Fraction of enumerated in-window DOIs successfully fetched from Crossref for this PCS snapshot, independent of document-type filtering (PCS-1.0-SPEC.md § 9, calculatePcsCoverage()). Separate from the platform's general Evidence Coverage model, which governs AJR-E/AJR-M rating eligibility, not citation-indicator display."
+    },
+    "pcs_source": {
+      "type": ["string", "null"],
+      "enum": ["crossref", null],
+      "description": "Always 'crossref' once populated — explicit so a reader never has to assume which citation graph a pcs value came from, unlike pci/pci_5yr/pnci which are OpenAlex-sourced."
+    },
+    "pcs_source_retrieved_at": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Date the Crossref fetch for this PCS snapshot was run. Distinct from snapshot_date (when the overall metric snapshot was frozen) and data_cutoff (the general citation-data cutoff), since PCS's Crossref fetch and PCI's OpenAlex fetch can happen on different days."
+    },
+    "pcs_methodology_version": {
+      "type": ["string", "null"],
+      "description": "e.g. PCS-1.0. Independent of methodology_version (PCI's version string), per PJR-SPEC.md § 11's independent-version-strings rule."
+    },
+
     "citable_items": {
       "type": "integer",
       "minimum": 0,

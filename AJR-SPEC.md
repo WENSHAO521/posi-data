@@ -1,5 +1,20 @@
 # AJR 1.0 — POSI Automated Journal Rating, Lifecycle Framework (design spec, Phase 1 methodology freeze)
 
+> **2026-08 update — Phase 2 (engine migration) has landed for the core
+> rubrics.** The concrete scoring models this document sketches now have
+> real, implemented, versioned specs: **[AJR-E-1.1-SPEC.md](./AJR-E-1.1-SPEC.md)**
+> (§ 2 of this document, formerly AJR v0.3's rubric, with four bug fixes)
+> and **[AJR-M-1.0-SPEC.md](./AJR-M-1.0-SPEC.md)** (§ 3 of this document,
+> resolving § 13's open question about AJR-M's non-citation sub-scoring
+> formulas — that model did not exist in code before now). Lifecycle
+> classification (§ 1) is implemented as `LIFECYCLE-1.1` in
+> `posi-engine/src/lifecycle.mjs`, using exact date-boundary arithmetic
+> rather than calendar-month counting (fixes a real boundary bug — see
+> [CHANGELOG.md](./CHANGELOG.md)). Evidence Coverage (§ 6) is implemented
+> as `EC-1.0`. This document's own body is left as the original design
+> record — see the two new specs and CHANGELOG.md for what's actually
+> built and versioned.
+>
 > **Status: design spec only, not yet implemented.** This supersedes the
 > lifecycle-blind approach in EARLY-STAGE-RATING-SPEC.md (AJR v0.3): a
 > single 100-point model with a hard `rated`/`rated_mature` split at 36
@@ -160,11 +175,32 @@ Citation Q in PJR-SPEC.md.
 
 **Peer group = PSC category × lifecycle stage.** A Medicine Early-Stage
 journal is never ranked against a Medicine Mature journal, or against a
-History Early-Stage journal. Minimum cohort size (mirroring RANK-1.0's
-existing gate) applies independently to each of the three systems: PSC L3
-≥20 → use L3; else PSC L2 ≥20 → use L2; else PSC L1 ≥30 → use L1; else no
-quartile — the score is still shown (`AJR-E Score: 84.6, Quartile
-unavailable — insufficient peer group`), never forced.
+History Early-Stage journal.
+
+**E-Q and M-Q get a fallback chain; Citation Q does not — this is a
+deliberate, platform-owner-confirmed asymmetry, not an oversight.** For
+E-Q and M-Q: PSC L3 ≥20 → use L3; else PSC L2 ≥20 → use L2; else PSC L1
+≥30 → use L1; else no quartile — the score is still shown (`AJR-E Score:
+84.6, Quartile unavailable — insufficient peer group`), never forced.
+Citation Q uses a flat `MIN_CATEGORY_SIZE = 20` at the journal's primary
+PSC category with **no Level-1 fallback** (PJR-SPEC.md § 8,
+`src/quartile-tracks.mjs`'s `rankCitationTrack()`) — below 20 eligible
+journals in-category, Citation Q is `unavailable`, full stop, it never
+widens to a broader category the way E-Q/M-Q do.
+
+**Why the asymmetry:** Citation Q measures citation impact specifically,
+which is far more sensitive to field norms than a lifecycle composite
+score is — folding "Political Science + Education + Sociology" into one
+"Social Sciences" cohort to hit a fallback quota would compare citation
+rates across fields with genuinely different baseline citation behavior,
+which is exactly the kind of category-mixing PNCI's field-normalization
+exists to prevent elsewhere. E-Q/M-Q are lifecycle-stage composites (only
+partly citation-driven for M-Q, not at all for E-Q), so a broader-but-
+still-real peer group is an acceptable tradeoff there in a way it isn't
+for a pure citation-impact ranking. **This resolves the inconsistency this
+section previously stated (that all three tracks share one fallback
+chain) — see CHANGELOG.md's "Flagged inconsistency" entry for the prior
+open question and its resolution.**
 
 ## 6. Evidence Coverage — separating "low score" from "insufficient data"
 
@@ -334,12 +370,11 @@ system answering a different question than Citation Q.
 
 ## 13. Open questions before implementation
 
-- Exact AJR-M sub-scoring formulas for the non-citation 65 points (Output
-  & Stability 20, Governance & Integrity 15, Infrastructure 10, Reach 10,
-  Transparency 10) — can likely reuse AJR-E's existing scoring functions
-  with reweighted point values, but needs verification once real mature-
-  journal citation data (PCI/PCI-5/PNCI) is flowing through the same
-  pipeline.
+- ~~Exact AJR-M sub-scoring formulas for the non-citation 65 points~~ —
+  **resolved**, see [AJR-M-1.0-SPEC.md](./AJR-M-1.0-SPEC.md). Citation
+  Performance's within-category-percentile approach (not raw PCI/PCI-5/
+  PNCI values) is the answer to "how does a naturally-high-citation field
+  avoid dominating," which this question had left open.
 - Publisher Evidence Registry governance: who verifies a publisher-wide
   policy's stated scope, and how is a dispute over "does this policy
   really apply to journal X" resolved without becoming a de facto manual
@@ -349,3 +384,6 @@ system answering a different question than Citation Q.
   resolver (source-tagged, multi-source) exists — today's crawl-only
   approach doesn't yet produce a real coverage percentage to calibrate
   against.
+- ~~Whether Citation Q should get the same L3/L2/L1 fallback chain as
+  E-Q/M-Q~~ — **resolved**, see § 5 above: Citation Q deliberately keeps
+  its existing flat rule, no fallback.
