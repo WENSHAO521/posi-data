@@ -137,11 +137,14 @@ Adds to `schema/metric.schema.json` (alongside the existing `pci` /
 - `pcs` — the computed value, or `null` if no eligible works exist.
 - `pcs_eligible_items` — denominator: count of eligible works actually
   included (§ 7's fetch-failures excluded).
-- `pcs_coverage` — the fraction of enumerated eligible DOIs that were
-  successfully fetched (`pcs_eligible_items / (pcs_eligible_items +
-  failed_fetch_count)`), so a reader can tell a 40%-coverage PCS apart
-  from a 100%-coverage one. This is separate from, and not fed into, the
-  platform's general Evidence Coverage model (AJR-SPEC.md § 6), which
+- `pcs_coverage` — the fraction of enumerated in-window DOIs that were
+  successfully fetched from Crossref (`fetchedCount / enumeratedCount`,
+  `calculatePcsCoverage()` in `src/pcs.mjs`), independent of document-type
+  filtering — a successfully-fetched-but-non-citable work (e.g. an
+  editorial) is not a coverage problem, only a fetch failure is. This is
+  deliberately a different denominator from `pcs_eligible_items` (which is
+  post-document-type-filtering), and is separate from, and not fed into,
+  the platform's general Evidence Coverage model (AJR-SPEC.md § 6), which
   governs AJR-E/AJR-M rating eligibility, not citation-indicator display.
 - `pcs_methodology_version` — e.g. `PCS-1.0`, independent of
   `methodology_version` (which describes PCI's version) per PJR-SPEC.md
