@@ -1,5 +1,17 @@
 # Initial Journal Migration — Pre-Migration Audit v0.1
 
+> **Status update (see `initial-journal-migration-v1` branch/PR):** the four
+> "Next steps" below have now been completed — reproducibility was verified
+> (`REPRODUCIBILITY-VERIFICATION.md`), all 171 possible-duplicate groups and
+> the 4 invalid identifiers were reviewed with live OpenAlex evidence
+> (`POSSIBLE-DUPLICATES-REVIEW.md`), and 23,331 permanent `POSI-J-######`
+> ids were minted and committed to `journals/discovered/` and
+> `registry/journal-id-map.csv`. This file (and `audit-summary.md`/
+> `audit-summary.json`) are left exactly as originally published — the
+> v0.1 audit is an accurate record of the *pre-review* state, same
+> as `PROVENANCE-NOTE.md`'s "correction, not a silent edit" convention.
+> The new files above are the review; they don't rewrite this one.
+
 This is a **read-only audit**, not a migration. It records what the legacy
 POSI website's journal corpus looked like *before* any cleanup — no
 `POSI-J-######` id has been assigned, and nothing has been written to
@@ -46,6 +58,10 @@ Full detail in `audit-summary.md` / `audit-summary.json`.
 | `hard-conflicts.csv` | Empty in this run (0 conflicts found) |
 | `duplicate-groups.jsonl` | The 3 groups the pipeline did auto-merge, and why |
 | `unresolved-records.jsonl` | Empty in this run (every record had at least a valid ISSN) |
+| `REPRODUCIBILITY-VERIFICATION.md` | Next-steps #1/#3: independent re-run of the full pipeline (export adapter + dry run), twice, diffed against itself and against what's published here |
+| `POSSIBLE-DUPLICATES-REVIEW.md` | Next-steps #2: all 171 possible-duplicate groups + the 4 invalid identifiers, resolved with live OpenAlex evidence, not string similarity |
+| `possible-duplicates-resolution.csv` / `-evidence.json` | Per-row verdict and full OpenAlex lookup evidence backing the review above |
+| `post-enrichment-duplicate-regroup.csv` | 318 further duplicate groups (322 entities), never in `possible-duplicates.csv`, found by re-grouping the whole corpus on confirmed `issn_l` |
 
 ## Bulk artifacts (not committed to Git history)
 
