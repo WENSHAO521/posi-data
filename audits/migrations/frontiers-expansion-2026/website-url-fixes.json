@@ -1,0 +1,142 @@
+[
+  {
+    "id": "j-bench-frontiers-in-immunology-0259",
+    "title": "Frontiers in Immunology",
+    "issn": "1664-3224",
+    "old_url": "http://journal.frontiersin.org/journal/immunology",
+    "new_url": "https://www.frontiersin.org/journals/immunology"
+  },
+  {
+    "id": "j-bench-frontiers-in-psychology-0262",
+    "title": "Frontiers in Psychology",
+    "issn": "1664-1078",
+    "old_url": "http://www.frontiersin.org/psychology",
+    "new_url": "https://www.frontiersin.org/journals/psychology"
+  },
+  {
+    "id": "j-bench-frontiers-in-microbiology-0269",
+    "title": "Frontiers in Microbiology",
+    "issn": "1664-302X",
+    "old_url": "http://www.frontiersin.org/microbiology",
+    "new_url": "https://www.frontiersin.org/journals/microbiology"
+  },
+  {
+    "id": "j-bench-frontiers-in-plant-science-0281",
+    "title": "Frontiers in Plant Science",
+    "issn": "1664-462X",
+    "old_url": "http://journal.frontiersin.org/journal/plant-science",
+    "new_url": "https://www.frontiersin.org/journals/plant-science"
+  },
+  {
+    "id": "j-bench-frontiers-in-pharmacology-0297",
+    "title": "Frontiers in Pharmacology",
+    "issn": "1663-9812",
+    "old_url": "http://journal.frontiersin.org/journal/pharmacology",
+    "new_url": "https://www.frontiersin.org/journals/pharmacology"
+  },
+  {
+    "id": "j-bench-frontiers-in-neuroscience-0370",
+    "title": "Frontiers in Neuroscience",
+    "issn": "1662-453X",
+    "old_url": "http://www.frontiersin.org/neuroscience",
+    "new_url": "https://www.frontiersin.org/journals/neuroscience"
+  },
+  {
+    "id": "j-bench-frontiers-in-genetics-0391",
+    "title": "Frontiers in Genetics",
+    "issn": "1664-8021",
+    "old_url": "http://journal.frontiersin.org/journal/genetics",
+    "new_url": "https://www.frontiersin.org/journals/genetics"
+  },
+  {
+    "id": "j-bench-frontiers-in-human-neuroscience-0443",
+    "title": "Frontiers in Human Neuroscience",
+    "issn": "1662-5161",
+    "old_url": "http://www.frontiersin.org/human_neuroscience",
+    "new_url": "https://www.frontiersin.org/journals/human-neuroscience"
+  },
+  {
+    "id": "j-bench-frontiers-in-cell-and-developmental-biol-0448",
+    "title": "Frontiers in Cell and Developmental Biology",
+    "issn": "2296-634X",
+    "old_url": "http://www.frontiersin.org/cell_and_developmental_biology",
+    "new_url": "https://www.frontiersin.org/journals/cell-and-developmental-biology"
+  },
+  {
+    "id": "j-bench-frontiers-in-veterinary-science-0458",
+    "title": "Frontiers in Veterinary Science",
+    "issn": "2297-1769",
+    "old_url": "http://www.frontiersin.org/Veterinary_Science",
+    "new_url": "https://www.frontiersin.org/journals/veterinary-science"
+  },
+  {
+    "id": "j-bench-frontiers-in-cellular-and-infection-micr-0491",
+    "title": "Frontiers in Cellular and Infection Microbiology",
+    "issn": "2235-2988",
+    "old_url": "http://www.frontiersin.org/Cellular_and_Infection_Microbiology",
+    "new_url": "https://www.frontiersin.org/journals/cellular-and-infection-microbiology"
+  },
+  {
+    "id": "j-bench-frontiers-in-public-health-0519",
+    "title": "Frontiers in Public Health",
+    "issn": "2296-2565",
+    "old_url": "http://journal.frontiersin.org/journal/public-health",
+    "new_url": "https://www.frontiersin.org/journals/public-health"
+  },
+  {
+    "id": "j-bench-frontiers-in-environmental-science-0627",
+    "title": "Frontiers in Environmental Science",
+    "issn": "2296-665X",
+    "old_url": "http://www.frontiersin.org/environmental_science",
+    "new_url": "https://www.frontiersin.org/journals/environmental-science"
+  },
+  {
+    "id": "j-bench-frontiers-in-education-0637",
+    "title": "Frontiers in Education",
+    "issn": "2504-284X",
+    "old_url": "http://journal.frontiersin.org/journal/education",
+    "new_url": "https://www.frontiersin.org/journals/education"
+  },
+  {
+    "id": "j-bench-frontiers-in-oncology-0805",
+    "title": "Frontiers in Oncology",
+    "issn": "2234-943X",
+    "old_url": "http://www.frontiersin.org/oncology",
+    "new_url": "https://www.frontiersin.org/journals/oncology"
+  },
+  {
+    "id": "j-bench-frontiers-in-medicine-0866",
+    "title": "Frontiers in Medicine",
+    "issn": "2296-858X",
+    "old_url": "http://www.frontiersin.org/medicine",
+    "new_url": "https://www.frontiersin.org/journals/medicine"
+  },
+  {
+    "id": "j-bench-frontiers-in-neurology-0888",
+    "title": "Frontiers in Neurology",
+    "issn": "1664-2295",
+    "old_url": "http://frontiersin.org/neurology",
+    "new_url": "https://www.frontiersin.org/journals/neurology"
+  },
+  {
+    "id": "j-bench-frontiers-in-endocrinology-0897",
+    "title": "Frontiers in Endocrinology",
+    "issn": "1664-2392",
+    "old_url": "http://www.frontiersin.org/endocrinology",
+    "new_url": "https://www.frontiersin.org/journals/endocrinology"
+  },
+  {
+    "id": "j-bench-frontiers-in-physiology-0909",
+    "title": "Frontiers in Physiology",
+    "issn": "1664-042X",
+    "old_url": "http://frontiersin.org/physiology",
+    "new_url": "https://www.frontiersin.org/journals/physiology"
+  },
+  {
+    "id": "j-bench-frontiers-in-psychiatry-0921",
+    "title": "Frontiers in Psychiatry",
+    "issn": "1664-0640",
+    "old_url": "http://frontiersin.org/psychiatry",
+    "new_url": "https://www.frontiersin.org/journals/psychiatry"
+  }
+]

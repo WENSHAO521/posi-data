@@ -1,0 +1,10 @@
+{
+  "registry_rows_before": 26387,
+  "registry_rows_minted": 0,
+  "registry_rows_after": 26387,
+  "reused_on_re_resolve_not_double_minted": 2,
+  "benchmark_records_total": 4289,
+  "benchmark_records_with_posi_id_written_this_run": 4289,
+  "benchmark_records_still_without_posi_id": 0,
+  "still_unresolved_no_identity_signal": 0
+}

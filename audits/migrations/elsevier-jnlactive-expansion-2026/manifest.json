@@ -31,5 +31,5 @@
     "the 6 'ambiguous pairs' were reported as unmerged but not actually gated from independent minting -- researched via OpenAlex + Crossref chronology, resolved individually",
     "the 7 old-vs-new supersessions silently orphaned their old posi_id with no record of why -- fixed with the new registry/superseded-ids.csv mechanism"
   ],
-  "reproducibility": "node posi-engine/scripts/ingest-jnlactive-elsevier-2026.mjs --csv jnlactive.csv --benchmark corpus/global-benchmark.json --out <dir>, then scripts/remap-benchmark-identity-2026.mjs, then scripts/mint-elsevier-jnlactive-2026.mjs, then apply the 15 removals in removed-records.csv and the 11 rows in registry/superseded-ids.csv -- see README.md for full detail. (jnlactive.csv moves to source-lists/jnlactive.csv in the follow-up Frontiers-expansion branch.)"
+  "reproducibility": "node posi-engine/scripts/ingest-jnlactive-elsevier-2026.mjs --csv source-lists/jnlactive.csv --benchmark corpus/global-benchmark.json --out <dir>, then scripts/remap-benchmark-identity-2026.mjs, then scripts/mint-elsevier-jnlactive-2026.mjs, then apply the 15 removals in removed-records.csv and the 11 rows in registry/superseded-ids.csv -- see README.md for full detail"
 }
