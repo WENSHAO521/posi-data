@@ -49,10 +49,11 @@ this pass's fixes — it is exactly the kind of real signal the whole
 resolver rewrite exists to surface.** Investigated directly:
 
 - Every one of the 12 low-coverage journals is hosted on **`ojs.shiharr.com`**
-  (SHIHARR PUBLISHING LIMITED's shared OJS platform) — 11 of the 12
-  journals on that host are affected; the 12th (`POSI-J-000028`, also on
-  `ojs.shiharr.com`) happened to land mostly-successful requests during
-  this run's window and stayed at 100%.
+  (SHIHARR PUBLISHING LIMITED's shared OJS platform). That host actually
+  serves **13** of this run's 31 journals (`POSI-J-000016`–`POSI-J-000028`)
+  — **12 of those 13 were affected**; the 13th, `POSI-J-000028`, happened
+  to land mostly-successful requests during this run's window and stayed
+  at 100%.
 - **Zero** journals on any other host (`journals.panorama-sg.com`,
   `atripress.org`, `www.onlinejandl.com`, `www.researchfrontpress.com`)
   were affected at all.
@@ -79,7 +80,13 @@ evidence.** Re-run Evidence ETL against Core Collection (or at minimum the
 `ojs.shiharr.com`-hosted subset, `POSI-J-000016` through `POSI-J-000027`)
 once that host's responsiveness is confirmed normal again. This run's data
 is committed as-is (a real, timestamped snapshot, not discarded or
-re-rolled to get a cleaner-looking number) — the low coverage values
+re-rolled to get a cleaner-looking number) — machine-readable so a later
+pipeline stage doesn't have to re-derive this from prose: all 12 affected
+files carry `evidence_snapshot_status: "partial_source_unavailable"`,
+`recrawl_required: true`, `recrawl_reason:
+"source_host_intermittent_timeout"`, `recrawl_host: "ojs.shiharr.com"`;
+the other 19 (including `POSI-J-000028`, on the same host but unaffected
+this run) carry `evidence_snapshot_status: "complete"`. The low coverage values
 themselves are the correct, honest signal that a re-crawl is needed for
 those specific journals, not evidence that anything is wrong with them.
 

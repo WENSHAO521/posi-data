@@ -340,5 +340,9 @@
   },
   "site_evidence_coverage_percent": 15.38,
   "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-08-12"
+  "snapshot_date": "2026-08-12",
+  "evidence_snapshot_status": "partial_source_unavailable",
+  "recrawl_required": true,
+  "recrawl_reason": "source_host_intermittent_timeout",
+  "recrawl_host": "ojs.shiharr.com"
 }

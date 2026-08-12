@@ -345,5 +345,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-08-12"
+  "snapshot_date": "2026-08-12",
+  "evidence_snapshot_status": "complete",
+  "recrawl_required": false
 }

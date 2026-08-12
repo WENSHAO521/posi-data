@@ -9,8 +9,9 @@ scale-up). See [audit-summary.md](./audit-summary.md) for the full
 narrative.
 
 **Short version:** 19/31 journals resolved at 100% site evidence
-coverage; 12 (every one hosted on `ojs.shiharr.com`, SHIHARR Publishing's
-shared OJS platform) show real, verified-live infrastructure timeouts —
+coverage; 12 of the 13 journals hosted on `ojs.shiharr.com` (SHIHARR
+Publishing's shared OJS platform) show real, verified-live infrastructure
+timeouts —
 confirmed by a direct manual fetch immediately after the crawl, and by
 three follow-up probes showing the host is intermittently responsive
 (2/3 succeeded), not in a hard outage. This is the resolver correctly

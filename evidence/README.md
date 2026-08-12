@@ -23,21 +23,47 @@ corpus.
 ## Journal evidence package shape
 
 Each `journals/<posi_id>.json` holds one run's result: which pages were
-fetched and their `fetch_status` (see `evidence-fetch.mjs`'s 8-value
-taxonomy), a resolved evidence item per criterion (`evidence-coverage.mjs`'s
-7-state model: `met`/`not_met`/`unknown`/`blocked`/`not_applicable`/
-`conflicted`/`stale`), the resulting Evidence Coverage percentage, and a
-`rating_eligibility` (`official`/`provisional`/`not_rateable`). **Never
-mutated in place** — a re-run produces a new snapshot; comparing snapshots
-over time is how coverage-improvement work gets measured (AJR-SPEC.md § 9
-Phase 4).
+fetched and their `fetch_status` (see `evidence-fetch.mjs`'s 10-value
+taxonomy), a resolved evidence item per criterion — `id` matching AJR-E's
+own canonical evidence item ids verbatim (`src/ajr-early-stage.mjs` /
+`src/shared-dimensions.mjs`, enforced by a contract test) — using
+`evidence-coverage.mjs`'s 7-state model (`met`/`not_met`/`unknown`/
+`blocked`/`not_applicable`/`conflicted`/`stale`), and the resulting
+`site_evidence_coverage_percent`. **Does not include `rating_eligibility`**
+— that requires the full AJR-E mandatory-evidence bar (identity, ISSN,
+lifecycle, PSC, article sample, integrity — AJR-SPEC.md § 6), none of
+which this Evidence-only pipeline computes; that determination happens at
+the AJR-E/AJR-M scoring step, once those other inputs also exist for a
+journal.
+
+**Never mutated in place** — a re-run produces a new snapshot; comparing
+snapshots over time is how coverage-improvement work gets measured
+(AJR-SPEC.md § 9 Phase 4).
+
+### `evidence_snapshot_status` — provenance, not a scoring field
+
+- `complete` — every relevant page for every criterion either resolved
+  (met/not_met) or is a criterion the crawl genuinely couldn't reach for
+  ordinary reasons (a 404 on a guessed path, etc.) — no sign of a crawl
+  disrupted by the source itself being flaky.
+- `partial_source_unavailable` (with `recrawl_required: true`,
+  `recrawl_reason`, `recrawl_host`) — this snapshot's low coverage is
+  attributable to the source host having timed out / errored during the
+  crawl window, not to the journal genuinely lacking policies. Never
+  treated as a scoring input — it exists so a downstream pipeline (or a
+  person) can tell "real gap" apart from "needs a re-crawl" without
+  re-parsing prose out of an audit report. See
+  `audits/evidence-etl/evidence-etl-v1-core30-2026/README.md` for a real
+  example (12 journals flagged this way on 2026-08-12, all sharing one
+  intermittently-unresponsive host).
 
 ## Publisher registry — see AJR-SPEC.md § 8
 
 `publishers/*.json` entries let a verified, publisher-wide policy (only
-`publication_ethics`, `corrections_retractions`, `authorship_policy`,
-`coi_policy`, `ai_use_policy`, `data_availability` — never editorial
-board, peer-review model, aims & scope, publication frequency, or a
+`publication_ethics_policy`, `corrections_retractions_policy`,
+`authorship_contributorship_policy`, `conflict_of_interest_policy`,
+`ai_use_policy`, `data_availability_sharing` — never editorial board,
+peer-review model, aims & scope, publication frequency, or a
 journal-specific APC amount) fill an `unknown`/`blocked` gap for every
 journal under that publisher, instead of being re-crawled per journal.
 
@@ -50,12 +76,18 @@ every journal is resolved purely from its own crawled evidence
 (`applyPublisherInheritance()`'s behavior with an empty registry is a
 no-op, by design — see its own test file for that guarantee).
 
+An entry is only ever applied if it's well-formed: a real `http(s)`
+`evidence_url`, a non-empty `verified_by`, and a parseable `verified_at` —
+a malformed or incomplete entry is silently ignored rather than treated
+as if verification happened (`isWellFormedEntry()` in
+`posi-engine/src/evidence-publisher-registry.mjs`).
+
 ## Entry format
 
 ```json
 {
   "publisher": "Publisher Name",
-  "policy_type": "publication_ethics",
+  "policy_type": "publication_ethics_policy",
   "scope": "all_journals",
   "evidence_url": "https://...",
   "verified_by": "<name/role>",
