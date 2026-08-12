@@ -1,0 +1,12 @@
+old_posi_id,superseded_by_posi_id,reason,date
+POSI-J-023333,POSI-J-025606,"ISSN correction: original benchmark seed carried a wrong ISSN for The Lancet; jnlactive.csv's 0140-6736 confirmed via Crossref as the real, only actively-used ISSN.",2026-08-12
+POSI-J-023517,POSI-J-025360,"ISSN correction: original benchmark seed ISSN superseded by jnlactive.csv's current ISSN, same OpenAlex Source id (S2764859491).",2026-08-12
+POSI-J-023726,POSI-J-024435,"ISSN correction: original benchmark seed ISSN superseded by jnlactive.csv's current ISSN, same OpenAlex Source id (S75247133).",2026-08-12
+POSI-J-023861,POSI-J-026310,"ISSN correction: original benchmark seed ISSN superseded by jnlactive.csv's current ISSN, same OpenAlex Source id (S2764743394).",2026-08-12
+POSI-J-024107,POSI-J-026300,"ISSN correction: original benchmark seed ISSN superseded by jnlactive.csv's current ISSN, same OpenAlex Source id (S59987174).",2026-08-12
+POSI-J-024134,POSI-J-024462,"ISSN correction: original benchmark seed ISSN superseded by jnlactive.csv's current ISSN, same OpenAlex Source id (S121725775).",2026-08-12
+POSI-J-024137,POSI-J-024915,"ISSN correction: original benchmark seed ISSN superseded by jnlactive.csv's current ISSN, same OpenAlex Source id (S17762386).",2026-08-12
+POSI-J-025975,POSI-J-024995,"Journal rename: Progrès en Urologie rebranded to The French Journal of Urology effective 2024-01, confirmed via Crossref publication-date chronology (clean handoff, same OpenAlex Source id S73435037).",2026-08-12
+POSI-J-025758,POSI-J-025759,"ISSN retirement: Mutation Research (general/umbrella title) was retired by Elsevier in 2017; Mutation Research - Fundamental and Molecular Mechanisms of Mutagenesis is the surviving section-specific ISSN, confirmed via Crossref (same OpenAlex Source id S4394735698).",2026-08-12
+POSI-J-026053,POSI-J-026052,"Journal rename: Research in Autism Spectrum Disorders rebranded to Research in Autism effective 2025-02, confirmed via Crossref publication-date chronology (clean handoff, same OpenAlex Source id S87781914).",2026-08-12
+POSI-J-026105,POSI-J-026201,"Journal rename: Revista de Psiquiatría y Salud Mental rebranded to Spanish Journal of Psychiatry and Mental Health effective 2023-01, confirmed via Crossref publication-date chronology (clean handoff, same OpenAlex Source id S2898614270).",2026-08-12

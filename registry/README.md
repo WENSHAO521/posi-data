@@ -41,6 +41,36 @@ merging. See `posi-engine`'s migration pipeline: "a strong conflict always
 overrides a weaker match," and no automatic merge is ever driven by title or
 publisher similarity alone.
 
+## `superseded-ids.csv` — permanent-id supersession
+
+`journal-id-map.csv` is append-only and a `posi_id` is never reassigned —
+but a *record* can legitimately turn out to be the wrong-ISSN, renamed, or
+retired identity for a journal that also has a correct/current record
+elsewhere in the registry (an ISSN correction against seed data, or a real
+publisher rename/retitling where Crossref shows a clean chronological
+handoff between two ISSNs of the same OpenAlex Source). Removing the old
+record from the active corpus without recording *why* would leave its
+`posi_id` a silent, unexplained orphan — nothing in the corpus points to
+it, nothing explains where it went.
+
+`superseded-ids.csv` (columns: `old_posi_id`, `superseded_by_posi_id`,
+`reason`, `date`) is the append-only record of that: the OLD id's row in
+`journal-id-map.csv` is left untouched (it is still historically accurate
+that this identity value was assigned this id), and this file separately
+documents that the old id has been superseded and by what. Any future
+process that resolves an identity value to an `old_posi_id` present in
+this file should treat the result as `superseded_by_posi_id` instead —
+this is how a legacy ISSN or an old dataset referencing a retired id
+still resolves to the currently-correct journal rather than a dead end.
+
+**Not the same as a hard conflict.** Two records sharing an OpenAlex
+Source id but showing NO chronological handoff in Crossref (both ISSNs
+independently, continuously active) are genuinely two different journals
+that happen to share an upstream OpenAlex Source record — see
+`audits/migrations/elsevier-jnlactive-expansion-2026/hard-conflict-pairs-resolved.json`
+for two real examples. Those keep both ids; nothing goes in
+`superseded-ids.csv` for them.
+
 ## Before the first bulk migration
 
 Per the migration plan, a **dry run** produces a Migration Audit Report
