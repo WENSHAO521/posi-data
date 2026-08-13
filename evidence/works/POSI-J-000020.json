@@ -1,0 +1,730 @@
+{
+  "posi_id": "POSI-J-000020",
+  "journal_code": "yishu",
+  "title": "艺术与设计前沿",
+  "issn_queried": "3107-0191",
+  "crossref_status": 200,
+  "total_results": 23,
+  "works_fetched": 23,
+  "article_sample": [
+    {
+      "doi": "10.71411/yishu.2026.v1i1.1517",
+      "title": "人工智能转型背景下职业本科《游戏角色设计》课程改革与实践——以传统文化拟人化角色设计项目为例",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "莫岚"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张绮媚"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "黄思霖"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1188",
+      "title": "短视频时代下长视频何以破圈爆红？——以Lady Gaga 2025 Coachella演出B站视频为例",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "井兴龙"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i2.1530",
+      "title": "平阳木版年画视觉呈现与技法探析",
+      "hasAbstract": true,
+      "referenceCount": 13,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "魏义"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王锦程"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1243",
+      "title": "一部微短剧的诞生",
+      "hasAbstract": true,
+      "referenceCount": 20,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "熊建程"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邱禹明"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i2.1554",
+      "title": "达利超现实主义绘画思维对不良情绪的疗愈作用",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "魏义"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "曾博"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1216",
+      "title": "非遗技艺传承与活化的文化逻辑",
+      "hasAbstract": true,
+      "referenceCount": 14,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邓文杰"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈泽霓"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i1.1545",
+      "title": "算法美学、平台逻辑与模型崩溃：AI生成短视频的视觉文化批判——基于文献的学术综述",
+      "hasAbstract": true,
+      "referenceCount": 20,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈秋妍"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邱禹明"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1212",
+      "title": "基于高中《音乐鉴赏》古琴、编钟内容的教学价值与实践探索",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张涛"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i1.1547",
+      "title": "教学评一致性理念下初中美术本土化研究",
+      "hasAbstract": true,
+      "referenceCount": 27,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "林蔚然"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "林烨"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1164",
+      "title": "儿童语言启蒙学习产品设计中智能技术的嵌入：理论构建与实践创新",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张绮媚"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "顾媛明"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i2.1479",
+      "title": "绿美广东背景下矿山生态环境设计研究",
+      "hasAbstract": true,
+      "referenceCount": 4,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邢艳艳"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "许铭宇"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1024",
+      "title": "数字媒体艺术赋能广彩非遗的传播机制研究——基于 VR 严肃游戏的建构",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-27",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "段茜旬"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i1.1541",
+      "title": "AIGC驱动的高职服装设计教学模式创新研究——基于四阶段协作流程的实践分析",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "任本慧"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王心悦"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Rosita Binti Mohd Tajuuddin"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i1.1089",
+      "title": "从制片人到算法控制者：AI电影制作模式转向下的著作权重构",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赵璐"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邱禹明"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1246",
+      "title": "技术赋能与价值锚定：短剧执行导演的创作实践策略——基于煎饼果仔团队的多案例研究",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈秋妍"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邱禹明"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1026",
+      "title": "AIGC赋能数字媒体艺术第三课堂教学模式研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-27",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "莫岚"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张川"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1025",
+      "title": "民办高校艺术设计专业课程评价与思政体系的协同构建与实践",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-27",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "蔡佩"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "洪舒盈"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "何铭谦"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈恩恩"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "冯勤"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1203",
+      "title": "国产AI大模型驱动下的艺术教育多维创作教学探索：从课堂实践到产学研融合",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "杨浩"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李程程"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1117",
+      "title": "“校中厂+产业学院”协同育人机制构建与实践研究",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "夏宝红"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1227",
+      "title": "艺术疗愈视域下非遗纸浆画融入美育的路径与实践",
+      "hasAbstract": true,
+      "referenceCount": 12,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "林蔚然"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "霍倩文"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1229",
+      "title": "云南重彩：新时代民族题材美术创作现象钩沉及刍议",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李先帆"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘宁"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1120",
+      "title": "体育舞蹈剧目创作中叙事性、主题表达与跨界艺术融合路径探究",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘正银"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "杨茜"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1112",
+      "title": "青年群体在乡村旅游发展中的作用探析——以江门台山市为例",
+      "hasAbstract": true,
+      "referenceCount": 7,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "艺术与设计前沿",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "揭灼",
+          "family_name": "揭"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 23,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 23 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/yishu.2026.v1i1.1517",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1188",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i2.1530",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1243",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i2.1554",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1216",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i1.1545",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1212",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2026.v1i1.1547",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/yishu.2025.v1i1.1164",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 3,
+      "activeWindows": 2
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-12-25",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

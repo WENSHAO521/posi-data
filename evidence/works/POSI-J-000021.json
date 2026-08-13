@@ -1,0 +1,346 @@
+{
+  "posi_id": "POSI-J-000021",
+  "journal_code": "shr-ai",
+  "title": "人工智能",
+  "issn_queried": "3106-3705",
+  "crossref_status": 200,
+  "total_results": 9,
+  "works_fetched": 9,
+  "article_sample": [
+    {
+      "doi": "10.71411/ai.2025.v1i1.1213",
+      "title": "乡村振兴背景下高校应用型摄像人才培养模式创新与实践",
+      "hasAbstract": true,
+      "referenceCount": 27,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-29",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "匡睿颖"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "胡畅平"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "毛毳"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "罗诗童"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.1090",
+      "title": "人工智能技术在中小学智慧校区建设中的应用探究",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-29",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "彭鹏"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.1133",
+      "title": "基于U-Net 神经网络的禽翅图像分割方法",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-19",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "冯科"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴晓雯"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.1209",
+      "title": "基于多尺度特征融合与双层注意力机制的生成式智能模型优化研究",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-11",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jialei",
+          "family_name": "Nie"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.950",
+      "title": "AI时代岭南文化虚拟现实交互设计人才培养对策研究",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-15",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "潘雨沛"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.793",
+      "title": "人工智能技术在中小学智慧校区建设中的应用探究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-16",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "彭鹏"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.627",
+      "title": "BLN-YOLO: A Lightweight Neural Network Framework for Enhanced Forest Fire Detection",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Xiong Zijian"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.563",
+      "title": "AI驱动下的文物“永生”:人工智能赋能文物保护的路径、挑战与未来",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-6235-7175",
+          "given_name": "玉坤",
+          "family_name": "崔"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "臻郁",
+          "family_name": "张"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "婷婷",
+          "family_name": "汤"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张佳慧"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘哲宇"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.637",
+      "title": "基于数字化传播与展示视角下AI赋能的古琴音乐研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邹杰"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "余岱源"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 9,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 9 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/ai.2025.v1i1.1213",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.1090",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.1133",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.1209",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.950",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.793",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.627",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.563",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ai.2025.v1i1.637",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 2
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-10-25",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

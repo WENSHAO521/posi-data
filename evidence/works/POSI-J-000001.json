@@ -1,0 +1,895 @@
+{
+  "posi_id": "POSI-J-000001",
+  "journal_code": "grhas",
+  "title": "Global Review of Humanities, Arts, and Society",
+  "issn_queried": "3052-539X",
+  "crossref_status": 200,
+  "total_results": 40,
+  "works_fetched": 40,
+  "article_sample": [
+    {
+      "doi": "10.63802/grhas.v2.i2.252",
+      "title": "A Modeling Framework and Qualitative Evaluation Pathway for Multimodal Knowledge Graphs Empowering the Inheritance of Tibetan–Qiang–Yi Intangible Cultural Heritage Dance",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-06",
+      "depositDate": "2026-04-07",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": "Panorama Scholarly Group, Berlin, Germany; Kangwon National University",
+          "orcid": "0009-0000-3106-7732",
+          "given_name": "Qin",
+          "family_name": "Shi"
+        },
+        {
+          "affiliation": "Chengdu Normal University, Chengdu, Sichuan Province, People's Republic of China",
+          "orcid": "0009-0003-4522-3160",
+          "given_name": "Yuxuan",
+          "family_name": "LI"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v2.i1.262",
+      "title": "From Resource Endowment to Innovation-Driven Development: A Quantitative Analysis of the Integration Dynamics in Regional Cultural Tourism",
+      "hasAbstract": true,
+      "referenceCount": 30,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-27",
+      "depositDate": "2026-03-11",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lili",
+          "family_name": "Mou"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Pengcheng",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i5.188",
+      "title": "Reconsidering Originality in Dance: Innovation as Repetition and Positioning",
+      "hasAbstract": true,
+      "referenceCount": 20,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-05",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-6108-0637",
+          "given_name": "Bing",
+          "family_name": "Yan"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i4.115",
+      "title": "Research on Recitation of Classical Poetry and Prose in Primary School Chinese Language Teaching",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-03",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-2753-1155",
+          "given_name": "Yaqi",
+          "family_name": "Shen"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i3.66",
+      "title": "An Analysis of Content Design and Age Appropriateness in Crime Prevention Education for Secondary Schools",
+      "hasAbstract": true,
+      "referenceCount": 19,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yun",
+          "family_name": "Pei"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i2.26",
+      "title": "Study on Dance Communication Pathways: An Analysis Based on a Decentralized Communication Ecology",
+      "hasAbstract": true,
+      "referenceCount": 21,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-10",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhuo",
+          "family_name": "Su"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jin",
+          "family_name": "Chang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i1.13",
+      "title": "Dance Creation Based on Plato’s Theory of Art: A Study of Alienation — Who Is Living My Life?",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-03",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Bing",
+          "family_name": "Yan"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v2.i1.186",
+      "title": "Understanding the Digital Transformation of SMEs: A Systematic Review from a Dynamic Capabilities Perspective Across Business, Technology, and Societal Domains",
+      "hasAbstract": true,
+      "referenceCount": 160,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-16",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0003-9058-6155",
+          "given_name": "Yang",
+          "family_name": "Hu"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0000-0001-9307-7071",
+          "given_name": "Sufian",
+          "family_name": "Jusoh"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0000-0002-4336-7553",
+          "given_name": "Muhammad",
+          "family_name": "Faliq Abd Razak"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-9453-2927",
+          "given_name": "Ahmad Rizal",
+          "family_name": "Bin Mohd Yusof"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Qiong",
+          "family_name": "Xie"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "XUEYAN",
+          "family_name": "ZONG"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i5.187",
+      "title": "Rethinking Tradition in the Digital Age: An Oral History with Professor Joo-Young Kim on the Transmission and Development of Traditional Dance in China and Korea",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-05",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-3106-7732",
+          "given_name": "Qin",
+          "family_name": "Shi"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0006-5100-912X",
+          "given_name": "Joo-Young",
+          "family_name": "Kim"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i4.109",
+      "title": "An Exploration of the Interaction Mechanism Between the Dancing Body and the Environment from the Perspective of Ecological Perception",
+      "hasAbstract": true,
+      "referenceCount": 19,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-03",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0003-5774-5628",
+          "given_name": "Keyu",
+          "family_name": "Shi"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-2794-5227",
+          "given_name": "Zhiyi",
+          "family_name": "Lin"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i3.44",
+      "title": "Components Identification in Finite Mixture Model",
+      "hasAbstract": true,
+      "referenceCount": 31,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ting",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Seuk Yen",
+          "family_name": "Phoong"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i2.27",
+      "title": "Who Pays for Dance? — Choreographic Reflections on Audience Empathy and Work Interactivity",
+      "hasAbstract": true,
+      "referenceCount": 21,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-10",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jin",
+          "family_name": "Chang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhuo",
+          "family_name": "Su"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i1.2",
+      "title": "Consciousness and Reality: A Comparative Study of the Philosophical Foundationsof Marx and Hegel",
+      "hasAbstract": true,
+      "referenceCount": 36,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-03",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4494-8221",
+          "given_name": "Mengzhou",
+          "family_name": "Wu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i5.173",
+      "title": "Between Abstraction and Affect: A Comparative Study of Yvonne Rainer’s Trio A and Pina Bausch’s Café Müller",
+      "hasAbstract": true,
+      "referenceCount": 19,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-05",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0004-5430-6045",
+          "given_name": "Cheng",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-4486-4819",
+          "given_name": "Xinhuan",
+          "family_name": "Zeng"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i4.73",
+      "title": "Unveiling the Link Between Nostalgia and Community Support in Rural Tourism: the Moderating Role of Place Identification and Psychological Closeness",
+      "hasAbstract": true,
+      "referenceCount": 98,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-03",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-1246-4132",
+          "given_name": "Haojie",
+          "family_name": "Jia"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i3.70",
+      "title": "The Influence of Individualism on Youth's View of Marriage in China",
+      "hasAbstract": true,
+      "referenceCount": 25,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lin",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i2.28",
+      "title": "Presenting Presence: A Study on the Application of Pina Bausch’s Question-Based Choreographic Method in Dance Creation",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-10",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xin",
+          "family_name": "Duan"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Bing Yan"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i1.4",
+      "title": "The Influence of Political Interest and Participation on Satisfaction with Authorit arian Regimes: A Comparative Analysis of Russia and Kazakhstan",
+      "hasAbstract": true,
+      "referenceCount": 22,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-03",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jiasong",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i5.139",
+      "title": "Integrating Free Expression of Modern Dance into Dance Movement Therapy: A Tension-Resonance Approach between Structure and Improvisation",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-30",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-7799-2446",
+          "given_name": "Yinyi",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i4.74",
+      "title": "Artificial Intelligence in Social Governance: Global Insights from Theoretical Frameworks to Practical Applications Using CiteSpace",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-03",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0000-0001-5505-918X",
+          "given_name": "Haipeng",
+          "family_name": "Zhao"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i3.46",
+      "title": "The Impact of OECD on South Korean Education Policy: Balancing Global Governance and National Demand (1993-2022)",
+      "hasAbstract": true,
+      "referenceCount": 105,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yundong",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Weijian Kong"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Ruofan Lin"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i2.14",
+      "title": "Constructing a “Five-Dimensional” Talent Cultivation Model for Choreographic Education in Chinese Higher Education Institutions",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-04",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuanyuan",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i1.12",
+      "title": "Cultural and Tourism Integration in Chongqing City: Digital Economy and High-Quality Growth",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-03",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Congmin",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i5.147",
+      "title": "Perception of Flux: A Study of Choreography and Bodily Consciousness under Socio-Ecological Changes",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-30",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-2794-5227",
+          "given_name": "Zhiyi",
+          "family_name": "Lin"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0003-5774-5628",
+          "given_name": "Keyu",
+          "family_name": "Shi"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i3.48",
+      "title": "A Study on the Changing Trends in the Publication of Chinese Philosophy-Related Works in Postwar Japan (1945–2023)",
+      "hasAbstract": true,
+      "referenceCount": 28,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jingjing",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Junlin",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chunlan",
+          "family_name": "Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhengdong",
+          "family_name": "Zhou"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i2.21",
+      "title": "Post-Pandemic Religious Revival in Asia: The Spiritual Quest of the Younger Generation and Its Social Impact",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-04",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0005-2722-624X",
+          "given_name": "Yiu Kwong",
+          "family_name": "Au-Yeung"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i1.6",
+      "title": "Brand Communication Innovation in the New Media Environment: Consumer Trust, Social Media Interaction, and Psychological Resonance",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-03",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Qilun",
+          "family_name": "Hu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i5.168",
+      "title": "Research on the Mechanisms and Strategies of Financial Product Innovation in Chinese Commercial Banks under the Background of Digital Finance",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-30",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0005-7204-4402",
+          "given_name": "Wenlu",
+          "family_name": "Zhou"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0006-6187-9858",
+          "given_name": "Ting",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i3.65",
+      "title": "Resisting Normativity in Subjection:An Analysis of Lena Grove’s Vagrancy in Light in August",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuan",
+          "family_name": "Tian"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/grhas.v1.i2.29",
+      "title": "The Heterotopia of Dance: Imagined Spaces in Dance Films",
+      "hasAbstract": true,
+      "referenceCount": 37,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-04",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Global Review of Humanities, Arts, and Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yihai",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xinhuan",
+          "family_name": "Zeng"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 30,
+    "meets_target": true,
+    "spans_multiple_periods": true,
+    "note": "sample of 30 meets the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/grhas.v2.i2.252",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v2.i1.262",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v1.i5.188",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v1.i4.115",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v1.i3.66",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v1.i2.26",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v1.i1.13",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v2.i1.186",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v1.i5.187",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/grhas.v1.i4.109",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 8,
+      "metWindows": 6
+    },
+    "continuity": {
+      "totalWindows": 6,
+      "activeWindows": 5
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-04-03",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

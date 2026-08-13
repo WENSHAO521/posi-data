@@ -1,0 +1,772 @@
+{
+  "posi_id": "POSI-J-000027",
+  "journal_code": "rae",
+  "title": "Research on Architecture and Environment",
+  "issn_queried": "3105-5842",
+  "crossref_status": 200,
+  "total_results": 25,
+  "works_fetched": 25,
+  "article_sample": [
+    {
+      "doi": "10.71411/rae.2026.v2i3.1689",
+      "title": "城市缝隙中的活力热点：上海凯旋南路桥下空间更新",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-15",
+      "depositDate": "2026-07-15",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "孙",
+          "family_name": "轶家"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1450",
+      "title": "Cross-boundary Intrusion and Exposure Risk: Migration and Attribution of Fecal-source Bioaerosols in Urban and Rural Buildings with Different Ventilation Modes",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-29",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zouying",
+          "family_name": "Xu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Rui",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jiale",
+          "family_name": "Deng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xinqi",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1264",
+      "title": "Research on Smart Cities and Architectural Innovation in Israel",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-06",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "马晓榕"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2025.v1i3.989",
+      "title": "浅析建筑、标识与环境和人的关系-从失效案例到智能演进",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-17",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李兆奇"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i3.1691",
+      "title": "在地文化的现代重塑：埃及“沙漠水晶”大数据中心设计探析",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-15",
+      "depositDate": "2026-07-15",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "夏",
+          "family_name": "明明"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "胡",
+          "family_name": "一超"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1454",
+      "title": "Conceptualising the “Fourth Space” in Aged Care Environments: A Design Framework Informed by Melbourne and Chinese architecture",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-29",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0004-9273-6652",
+          "given_name": "Haixia",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1266",
+      "title": "Warming 100% of Life with 99.8% Conversion Efficiency —The Journey of a Nanoscientist \"Serving the Country Through Industry\"",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-06",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "芮云云"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈新江"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2025.v1i3.988",
+      "title": "探索乡村振兴下的传统村落发展路径",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-17",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李昕"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i3.1690",
+      "title": "LED路灯改造工程的综合效益分析与路径优化研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-15",
+      "depositDate": "2026-07-15",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "聂",
+          "family_name": "永雄"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1453",
+      "title": "Research on Human-AI Collaborative Participatory Spatial Design Pathway Based on AIGC",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-29",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhen",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jiaxin",
+          "family_name": "Wu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1259",
+      "title": "Planning Innovation for High-speed Rail New Towns Based on the \"Five-Integration\" Theory",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-06",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "杨宝民"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "朱昌宏"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2025.v1i3.985",
+      "title": "生物基零碳板材在建筑空间绿色焕新的开发与应用：迈向可持续未来的中国路径",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-17",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "叶赛"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1452",
+      "title": "Research on the Influence of Ground Surface on Wind Environment in Shanghai Urban Squares",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-29",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhen",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Deshun",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1262",
+      "title": "Research on Activation and Functional Remodeling Strategies of Existing Campus Space in the Context of Urban Regeneration",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-06",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "马凯"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2025.v1i3.987",
+      "title": "全球臭氧层空洞问题：多维文献综述——基于北京、西安区域臭氧数据的现状解读",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-17",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "薛方伟"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赵晟冉"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "高明辉"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "韩佩霖"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1451",
+      "title": "The Local Expression of \"Reclusive Culture\": Based on the Interior Design Practice of Caoshanxi Yin Hotel",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-29",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Haitao",
+          "family_name": "Niu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaoxiao",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yan",
+          "family_name": "Zhou"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1263",
+      "title": "Shanghai Media Port: A Study on Organic Three-dimensional Urban Space with Joint Construction and Sharing",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-06",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张 锐"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2025.v1i3.990",
+      "title": "度假村运营要点分析",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-17",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "牛超"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1449",
+      "title": "Zero-carbon micro-furniture: A low-carbon emotional solution for architectural micro-spaces",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-29",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Sai",
+          "family_name": "Ye"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1260",
+      "title": "Based on the \"Five-Integration\" Theory: Innovative Practice in High-Speed Rail New Town Planning ——A Ten-Year Empirical Study of Shenzhen New Mall Company's Service to the Eastern New Town of Changsha",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-06",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "杨宝民"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "朱昌宏"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2025.v1i3.986",
+      "title": "长三角地区畜禽粪污资源化研究：有机酸协同水热联产高品质液体肥与生物炭",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-17",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "董波"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邓佳乐"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "谭静薇"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1455",
+      "title": "Study on the Coupling Mechanism and Environmental Benefit Comprehensive Evaluation of Building-Landscape-Energy Systems in Zero-Carbon Campuses",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-29",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-8620-6045",
+          "given_name": "Jialei",
+          "family_name": "Nie"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1265",
+      "title": "From Mountains and Rivers to the UN Stage: The \"Woodworking World\" of Lu Shifu Furniture",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-06",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "芮云云"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "胡惠萍"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1448",
+      "title": "&lt;b&gt;Huaihua Railway Transportation Court: Architectural Design Practice of Railway Justice Buildings in Complex Transportation Infrastructure Environments&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-29",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Benbiao",
+          "family_name": "Yao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Huazhang",
+          "family_name": "Tang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yang",
+          "family_name": "Xiao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1261",
+      "title": "&lt;b&gt;The Construction of Traditional Cultural Context Translation and Spatial Narrative in the Design of Urban Cultural Center——the project of Yihuang County Cultural Center Design&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-06",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "黄潇潇"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "曹雷"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张英士"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "牛海涛"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "周岩"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 25,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 25 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/rae.2026.v2i3.1689",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1450",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1264",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2025.v1i3.989",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i3.1691",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1454",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i1.1266",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2025.v1i3.988",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i3.1690",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i2.1453",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 3,
+      "activeWindows": 3
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-12-17",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

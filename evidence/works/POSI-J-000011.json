@@ -1,0 +1,167 @@
+{
+  "posi_id": "POSI-J-000011",
+  "journal_code": "jscc",
+  "title": "Journal of Social Cognition and Communication",
+  "issn_queried": "3054-6958",
+  "crossref_status": 200,
+  "total_results": 3,
+  "works_fetched": 3,
+  "article_sample": [
+    {
+      "doi": "10.63802/jscc.v1.i1.291",
+      "title": "When Algorithms Become Sacred: A Cognitive-Psychological Model of Trust, Authority, and Meaning in AI Interaction",
+      "hasAbstract": true,
+      "referenceCount": 52,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-24",
+      "depositDate": "2026-03-27",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Social Cognition and Communication",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0003-9058-6155",
+          "given_name": "Yang",
+          "family_name": "Hu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Feifei",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Sebastian",
+          "family_name": "Lenz"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jiale",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yanlin",
+          "family_name": "Feng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xinhuan",
+          "family_name": "Zeng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Mengzhou",
+          "family_name": "Wu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jscc.v1.i1.290",
+      "title": "Recognising Love Across Cultures: A Cross-Cultural Extension of the Love Confirmation Mechanism Model",
+      "hasAbstract": true,
+      "referenceCount": 53,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-24",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Social Cognition and Communication",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jscc.v1.i1.287",
+      "title": "Western Interpretations of Eastern Spirituality: So-cial Cognition in the Reception of Siddhartha",
+      "hasAbstract": true,
+      "referenceCount": 41,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-24",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Social Cognition and Communication",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0003-9058-6155",
+          "given_name": "Yang",
+          "family_name": "Hu"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 3,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 3 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/jscc.v1.i1.291",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/jscc.v1.i1.290",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/jscc.v1.i1.287",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 2,
+      "activeWindows": 1
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2026-03-24",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

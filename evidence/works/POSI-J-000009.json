@@ -1,0 +1,535 @@
+{
+  "posi_id": "POSI-J-000009",
+  "journal_code": "rjgms",
+  "title": "Resonance: Journal of Global Music Studies",
+  "issn_queried": "3053-4410",
+  "crossref_status": 200,
+  "total_results": 18,
+  "works_fetched": 18,
+  "article_sample": [
+    {
+      "doi": "10.63802/rjgms.v2.i2.333",
+      "title": "Research on the Digital Activation and Innovative Dissemination of Zhaoqing Folk Songs in China Empowered by Artificial Intelligence: A Case Study of `Yuanlongling Hakka Mountain Songs'",
+      "hasAbstract": true,
+      "referenceCount": 20,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-12-01",
+      "depositDate": "2026-07-20",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "School of Music, Guangzhou College of Applied Science and Technology, Zhaoqing 526072, Guangdong, China",
+          "orcid": null,
+          "given_name": "Ziqi",
+          "family_name": "Shi"
+        },
+        {
+          "affiliation": "School of Music, Guangzhou College of Applied Science and Technology, Zhaoqing 526072, Guangdong, China",
+          "orcid": "0009-0003-0603-5386",
+          "given_name": "Wenyao",
+          "family_name": "Hua"
+        },
+        {
+          "affiliation": "School of Music, Guangzhou College of Applied Science and Technology, Zhaoqing 526072, Guangdong, China",
+          "orcid": null,
+          "given_name": "Jianwei",
+          "family_name": "Liang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i1.322",
+      "title": "Beyond the Keyboard: Pianists’ Project-Based Practice and Transferable Capacities",
+      "hasAbstract": true,
+      "referenceCount": 1,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-18",
+      "depositDate": "2026-06-18",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "School of Music, Guangzhou College of Applied Science and Technology, Zhaoqing 526072, Guangdong, China",
+          "orcid": "0009-0002-8325-5449",
+          "given_name": "Xiaoyue",
+          "family_name": "Yan"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v.i.200",
+      "title": "Abstracts of the Resonance Annual Conference 2026: The Next Decade of Music",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-05",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "University of Malaya, Kuala Lumpur, Malaysia",
+          "orcid": null,
+          "given_name": "Anqi",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": "中国传媒大学（Communication University of China, Beijing, China）",
+          "orcid": null,
+          "given_name": "Jiyang",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": "南京艺术学院（Nanjing University of the Arts, Nanjing, China）",
+          "orcid": null,
+          "given_name": "Fei",
+          "family_name": "Duan"
+        },
+        {
+          "affiliation": "Beijing Normal-Hong Kong Baptist University, Zhuhai, China",
+          "orcid": null,
+          "given_name": "Haoyang",
+          "family_name": "He"
+        },
+        {
+          "affiliation": "Renmin University of China, Beijing, China",
+          "orcid": null,
+          "given_name": "Jiaming",
+          "family_name": "Fan"
+        },
+        {
+          "affiliation": "独立学者（Independent Scholar, China）",
+          "orcid": null,
+          "given_name": "Yuan",
+          "family_name": "Wei"
+        },
+        {
+          "affiliation": "南京艺术学院（Nanjing University of the Arts, Nanjing, China）",
+          "orcid": null,
+          "given_name": "Cuicui",
+          "family_name": "Pang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.171",
+      "title": "“意识之线”回退，“意向之线”显现：鲁托斯拉夫斯基《威尼斯游戏》中的声音现象学结构",
+      "hasAbstract": true,
+      "referenceCount": 22,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-03",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "中国人民大学艺术学院，北京，中国（School of Arts, Renmin University of China, Beijing, China）",
+          "orcid": "0000-0003-4041-8252",
+          "given_name": "Jiaming",
+          "family_name": "Fan"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i1.254",
+      "title": "Algorithmic Resonance: AI-Driven Curation, Musical Taste, Identity, and Global Cultural Flows",
+      "hasAbstract": true,
+      "referenceCount": 42,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-10",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Beijing Normal-Hong Kong Baptist University",
+          "orcid": "0009-0006-4864-5395",
+          "given_name": "Haoyang",
+          "family_name": "He"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.128",
+      "title": "The crosscheck of the necessity of music learning",
+      "hasAbstract": true,
+      "referenceCount": 14,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-30",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Michigan State University, East Lansing, MI, USA",
+          "orcid": "0000-0002-3622-0887",
+          "given_name": "Lei",
+          "family_name": "Xiang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i1.310",
+      "title": "Freedom in the Sound of Tides",
+      "hasAbstract": true,
+      "referenceCount": 1,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-26",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Chuanqi Technology (Beijing) Co., Ltd., Beijing 100176, China",
+          "orcid": "0009-0002-1734-2448",
+          "given_name": "Linxi",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.144",
+      "title": "流行音乐在中日韩留学生语言学习与跨文化适应（cross-cultural adaptation）中的作用研究",
+      "hasAbstract": true,
+      "referenceCount": 12,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-22",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "洗足学园音乐大学，神奈川县川崎市，日本（Senzoku Gakuen College of Music, Kawasaki, Kanagawa, Japan）",
+          "orcid": "0009-0008-0192-608X",
+          "given_name": "Xuanqi",
+          "family_name": "Fei"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v2.i1.257",
+      "title": "The Breakthrough of Impressionist Music in Traditional Functional Harmony and Its Enlightenment for Contemporary Music",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-14",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Institute of Musicology, Central Conservatory of Music, Beijing, China",
+          "orcid": null,
+          "given_name": "Ke",
+          "family_name": "Sun"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.116",
+      "title": "《樂恨歌》：一首仿〈長恨歌〉體的音樂敘事詩",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-02",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "榆树市中医院，中国（ Yushu City Traditional Chinese Medicine Hospital, China）",
+          "orcid": "0009-0009-5012-9623",
+          "given_name": "Tiejun",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v2.i1.256",
+      "title": "The Formal Structure and Narrative Musical Language of Ambush on All Sides (Pipa Repertoire)",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-09",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Institute of Musicology, Central Conservatory of Music, Beijing, China",
+          "orcid": null,
+          "given_name": "Ke",
+          "family_name": "Sun"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.111",
+      "title": "山河犹在：笛声里的岁月",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-19",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "独立作家，中国（Independent Writer, China）",
+          "orcid": "0009-0002-1734-2448",
+          "given_name": "Linxi",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.114",
+      "title": "Bach’s Goldberg Variations and the Sound of Paradox: Reflections on Order and Freedom",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-19",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Hanyang University, South Korea",
+          "orcid": "0009-0006-9247-1513",
+          "given_name": "Shuhan",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.107",
+      "title": "Risuonanze Interculturali di Faust di Charles Gounod: Un'Opera Francese nella Ricezione Est-Asiatica",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-13",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Zhejiang Jinhua Technology & Trade Polytechnic, China",
+          "orcid": "0009-0007-3908-3957",
+          "given_name": "Xin",
+          "family_name": "Guo"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.106",
+      "title": "音乐分析可以模棱两可吗？",
+      "hasAbstract": true,
+      "referenceCount": 4,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-07",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "广州应用科技学院，广州，中国（Guangzhou College of Applied Science and Technology, Guangzhou, China）",
+          "orcid": "0009-0001-3602-5870",
+          "given_name": "Jiahong",
+          "family_name": "Ao"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.102",
+      "title": "Beethovens heroischer Stil in der Klavierkomposition: Vom napoleonischen Geist zum romantischen Ausdruck",
+      "hasAbstract": true,
+      "referenceCount": 47,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-02",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Unabhängiger Forscher, Deutschland",
+          "orcid": "0009-0002-1999-7966",
+          "given_name": "Sebastian",
+          "family_name": "Lenz"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.89",
+      "title": "Второй фортепианный концерт С. В. Рахманинова: от отчаяния к триумфу",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-24",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Midwest University, America",
+          "orcid": "0009-0006-3465-2885",
+          "given_name": "Jiale",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.88",
+      "title": "On Verdi's Operas",
+      "hasAbstract": true,
+      "referenceCount": 7,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-24",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Midwest University, America",
+          "orcid": "0009-0006-3465-2885",
+          "given_name": "Jiale",
+          "family_name": "Li"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 18,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 18 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/rjgms.v2.i2.333",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i1.322",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/resonance.v.i.200",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.171",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i1.254",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.128",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i1.310",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.144",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/resonance.v2.i1.257",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.116",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 2,
+      "metWindows": 2
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 4
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-08-24",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

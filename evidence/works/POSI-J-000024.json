@@ -1,0 +1,382 @@
+{
+  "posi_id": "POSI-J-000024",
+  "journal_code": "zgfx",
+  "title": "中国法学学刊",
+  "issn_queried": "3107-1708",
+  "crossref_status": 200,
+  "total_results": 11,
+  "works_fetched": 11,
+  "article_sample": [
+    {
+      "doi": "10.71411/zgfx.2026.v1i1.952",
+      "title": "人工智能辅助量刑对程序正义的冲击与矫正——以数字化正当程序为视角",
+      "hasAbstract": true,
+      "referenceCount": 20,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-22",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "佳宜",
+          "family_name": "吴"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.763",
+      "title": "我国收买被拐卖妇女儿童罪法定刑的审视与检思",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王夏逸轩"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2026.v1i1.1145",
+      "title": "新质生产力下数据知识产权登记的形成逻辑与发展面向",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-21",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张笑涵"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "诸葛佳颖"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.782",
+      "title": "人工智能生成内容的著作权认定与侵权保护路径研究",
+      "hasAbstract": true,
+      "referenceCount": 46,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "钟芷琪"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "瑜嘉",
+          "family_name": "邓"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "雅婷",
+          "family_name": "钟"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "菁",
+          "family_name": "杜"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.1165",
+      "title": "比较法视阈下网络暴力平台监管责任的刑法规制研究——基于中德比较",
+      "hasAbstract": true,
+      "referenceCount": 28,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "林立栩"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "钟芷琪"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李文丽"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.862",
+      "title": "数据产权“三权分置”视角下人工智能训练数据的治理困境与破解路径",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "泳君",
+          "family_name": "郑"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.880",
+      "title": "数智赋能与法治支撑下监督效能提升的整体逻辑",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王梦旭"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.932",
+      "title": "论人工智能时代律师职业伦理的边界",
+      "hasAbstract": true,
+      "referenceCount": 21,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "易思"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.920",
+      "title": "算法控制下平台劳动者议价权弱化的法律规制逻辑",
+      "hasAbstract": true,
+      "referenceCount": 27,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赵天虹"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.919",
+      "title": "法人作品与特殊职务作品的法律规制研究",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李春旭"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.944",
+      "title": "人工智能生成内容可版权性认定研究",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李丹凤"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "靳姝萌"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 11,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 11 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/zgfx.2026.v1i1.952",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.763",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2026.v1i1.1145",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.782",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.1165",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.862",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.880",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.932",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.920",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.919",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 3,
+      "activeWindows": 3
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-12-25",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

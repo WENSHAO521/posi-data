@@ -1,0 +1,137 @@
+{
+  "posi_id": "POSI-J-000012",
+  "journal_code": "silence",
+  "title": "Silence",
+  "issn_queried": "3054-4386",
+  "crossref_status": 200,
+  "total_results": 3,
+  "works_fetched": 3,
+  "article_sample": [
+    {
+      "doi": "10.63802/silence.v1.i1.299",
+      "title": "When Scholarship Becomes a Status Competition: A Reverse Review of Rankings, Journal Tiers, and the Quiet Erosion of the University",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-05",
+      "depositDate": "2026-04-05",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Silence",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0002-1999-7966",
+          "given_name": "Sebastian",
+          "family_name": "Lenz"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-3106-7732",
+          "given_name": "Qin",
+          "family_name": "Shi"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/silence.v1.i1.247",
+      "title": "A Componential Analysis of “Fuck”",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-07",
+      "depositDate": "2026-03-07",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Silence",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Eloise",
+          "family_name": "Gou"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/silence.v1.i1.251",
+      "title": "How Modern Academia Shapes Philosophical Questioning: Institutional Conditions, Logics of Publishability, andInstitutional Silence",
+      "hasAbstract": true,
+      "referenceCount": 26,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-25",
+      "depositDate": "2026-02-25",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Silence",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Huayang",
+          "family_name": "Song"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 3,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 3 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/silence.v1.i1.299",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/silence.v1.i1.247",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/silence.v1.i1.251",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 2,
+      "activeWindows": 1
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2026-02-25",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

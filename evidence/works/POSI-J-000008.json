@@ -1,0 +1,131 @@
+{
+  "posi_id": "POSI-J-000008",
+  "journal_code": "rggd",
+  "title": "Rural Governance and Green Development",
+  "issn_queried": "3053-7282",
+  "crossref_status": 200,
+  "total_results": 3,
+  "works_fetched": 3,
+  "article_sample": [
+    {
+      "doi": "10.63802/rggd.v1.2025.172",
+      "title": "扎根乡土：返乡入乡人员绿色创业协同逻辑",
+      "hasAbstract": true,
+      "referenceCount": 23,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-22",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Rural Governance and Green Development",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0001-6090-4584",
+          "given_name": "ShiPeng",
+          "family_name": "Luo"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-6252-6642",
+          "given_name": "En",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/rggd.v1.2025.164",
+      "title": "新时代下党建引领乡贤回引助推乡村振兴的路径探析",
+      "hasAbstract": true,
+      "referenceCount": 23,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-13",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Rural Governance and Green Development",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-7875-8280",
+          "given_name": "Yun",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/rggd.v1.2025.180",
+      "title": "乡村治理的分寸感：再评“防止规模性返乡滞乡”",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-28",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Rural Governance and Green Development",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-7875-8280",
+          "given_name": "Yiming",
+          "family_name": "Yang"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 3,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 3 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/rggd.v1.2025.172",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/rggd.v1.2025.164",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/rggd.v1.2025.180",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 3,
+      "activeWindows": 1
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-11-28",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

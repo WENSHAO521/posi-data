@@ -1,0 +1,161 @@
+{
+  "posi_id": "POSI-J-000010",
+  "journal_code": "csgs",
+  "title": "Climate Sustainability & Global Systems",
+  "issn_queried": "3054-9663",
+  "crossref_status": 200,
+  "total_results": 3,
+  "works_fetched": 3,
+  "article_sample": [
+    {
+      "doi": "10.63802/csgs.v1.i1.274",
+      "title": "MMCCT: A Multi-Medium Framework for Distributed Climate Intelligence and Bounded Local Climate Regulation",
+      "hasAbstract": true,
+      "referenceCount": 32,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-21",
+      "depositDate": "2026-05-01",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Climate Sustainability &amp; Global Systems",
+      "authors": [
+        {
+          "affiliation": "Kookmin University",
+          "orcid": null,
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": "South China Agricultural University",
+          "orcid": null,
+          "given_name": "Pengrong",
+          "family_name": "Huang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/csgs.v1.i1.258",
+      "title": "Application of the Pollutants-FCNN Framework:A Multi-Task Neural Network Approach for Con-taminant Toxicity Prediction Based on Tox21Data",
+      "hasAbstract": true,
+      "referenceCount": 25,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-04",
+      "depositDate": "2026-05-01",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Climate Sustainability &amp; Global Systems",
+      "authors": [
+        {
+          "affiliation": "Jinan University, 511443 China",
+          "orcid": null,
+          "given_name": "Yaolin",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "Guangzhou Institute of Geochemistry, University of Chinese Academy of Sciences, 510640 China",
+          "orcid": null,
+          "given_name": "Menghui",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": "Jinan University, 511443 China",
+          "orcid": null,
+          "given_name": "Yiming",
+          "family_name": "Zou"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/csgs.v1.i1.259",
+      "title": "Attention: From Tires to Organisms – NationalTransport, Exposure, and Eco-Health Risks of6PPD/6PPD-Q in Terrestrial-Aquatic Systems",
+      "hasAbstract": true,
+      "referenceCount": 25,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-03",
+      "depositDate": "2026-05-01",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Climate Sustainability &amp; Global Systems",
+      "authors": [
+        {
+          "affiliation": "College of Environment and Climate, Jinan University, 511443 China",
+          "orcid": null,
+          "given_name": "Yirui",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": "College of Environment and Climate, Jinan University, 511443 China",
+          "orcid": null,
+          "given_name": "Jundong",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "College of Environment and Climate, Jinan University, 511443 China",
+          "orcid": null,
+          "given_name": "Yaolin",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "Institute of Malaysia and International Studies (IKMAS), Universiti Kebangsaan Malaysia (The National University of Malaysia), Malaysia",
+          "orcid": null,
+          "given_name": "Yang",
+          "family_name": "Hu"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 3,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 3 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/csgs.v1.i1.274",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/csgs.v1.i1.258",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/csgs.v1.i1.259",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 1,
+      "metWindows": 1
+    },
+    "continuity": {
+      "totalWindows": 2,
+      "activeWindows": 1
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2026-03-03",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

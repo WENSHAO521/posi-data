@@ -1,0 +1,164 @@
+{
+  "posi_id": "POSI-J-000006",
+  "journal_code": "jesa",
+  "title": "Journal of Engineering Systems and Applications",
+  "issn_queried": "3053-478X",
+  "crossref_status": 200,
+  "total_results": 4,
+  "works_fetched": 4,
+  "article_sample": [
+    {
+      "doi": "10.63802/jesa.v1.2025.151",
+      "title": "Development and Empirical Study of a Multimodal Educational Agent System in Metaverse for Engineering Education Digital Transformation​",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Journal of Engineering Systems and Applications",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-6407-7051",
+          "given_name": "Tongwei",
+          "family_name": "Xie"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jesa.v1.i1.78",
+      "title": "Automatic recognition of car models - based on Matlab",
+      "hasAbstract": true,
+      "referenceCount": 14,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-07",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Journal of Engineering Systems and Applications",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0004-5239-9321",
+          "given_name": "Zhihao",
+          "family_name": "Weng"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-2667-6816",
+          "given_name": "Jian",
+          "family_name": "Yu"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-2753-1155",
+          "given_name": "Yaqi",
+          "family_name": "Shen"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jesa.v1.i1.33",
+      "title": "Meta-Learned Dynamic Distillation for Automated Hyperparameter Optimization in Machine Learning Systems",
+      "hasAbstract": true,
+      "referenceCount": 32,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-14",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Journal of Engineering Systems and Applications",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-4557-0369",
+          "given_name": "Yulin",
+          "family_name": "Zhou"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jesa.v1.i1.77",
+      "title": "An Inquiry Beneath the Twin Peaks: Examining University Physics Education in Mainland China from the Perspectives of Feynman’s Intuition and Landau’s Rigor",
+      "hasAbstract": true,
+      "referenceCount": 33,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-13",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Journal of Engineering Systems and Applications",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0007-5369-0120",
+          "given_name": "Junyu",
+          "family_name": "Luo"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 4,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 4 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/jesa.v1.2025.151",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/jesa.v1.i1.78",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/jesa.v1.i1.33",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/jesa.v1.i1.77",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 1,
+      "metWindows": 1
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 2
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-08-13",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

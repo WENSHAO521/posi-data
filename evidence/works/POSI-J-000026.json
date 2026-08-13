@@ -1,0 +1,925 @@
+{
+  "posi_id": "POSI-J-000026",
+  "journal_code": "cds",
+  "title": "当代设计研究",
+  "issn_queried": "3105-5834",
+  "crossref_status": 200,
+  "total_results": 84,
+  "works_fetched": 84,
+  "article_sample": [
+    {
+      "doi": "10.71411/cds-2026-v2i6-1682",
+      "title": "Spatial Design of a Nursing Home Based on Maslow’s Hierarchy and Art Therapy",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-15",
+      "depositDate": "2026-07-15",
+      "issueOrPeriod": "v2i6",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Caiyun",
+          "family_name": "Liao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yue",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Fang",
+          "family_name": "Huang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i5-1592",
+      "title": "A Localized AIGC-Live2D Workflow for Dynamic Virtual Human Clothing Generation: Deployment and Validation",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-11",
+      "depositDate": "2026-06-11",
+      "issueOrPeriod": "v2i5",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yang",
+          "family_name": "Yang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i4-1591",
+      "title": "“Qiyun Shengdong”(Vivid Charm) in Traditional Zisha Teapots: Aesthetic Foundations and Design Principles",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-11",
+      "depositDate": "2026-06-11",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenjun",
+          "family_name": "Xi"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaoyu",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Liqiang",
+          "family_name": "Sun"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i1-1332",
+      "title": "A Coze AI Agent Framework for Revitalizing Shanghai-Style Paper-Cutting: Interactive Design and Digital Heritage Preservation",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wei",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yang",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xinyu",
+          "family_name": "Zhou"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yimin",
+          "family_name": "Fan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i3-1347",
+      "title": "&lt;b&gt;Innovative Design of Medical Nursing Infusion Rack Based on Safety Protection&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jihui",
+          "family_name": "Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Peilin",
+          "family_name": "Han"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shengran",
+          "family_name": "Zhao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Fangwei",
+          "family_name": "Xue"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i2-1339",
+      "title": "Quantifying Symbiosis in Urban Boundary Spaces: An S-Q-B Framework and Co-Symbiosis Index (CSI) for Evaluating Renewal Effectiveness",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Tang Beijia"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "SHI Zhengguang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/-2025-v1i4-907",
+      "title": "苏州陆巷村古建筑装饰纹样的当代阐释与设计转译研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-23",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "洪建萍"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴小燕"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "黄胜"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/-2025-v1i3-756",
+      "title": "城市微更新下口袋公园设计的人文关怀策略——以上海星瀚广场绿地为例",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-02",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "褚雪婷"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘永波"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2025-v1i2-672",
+      "title": "基于“生生哲学”理念下的海尔是海总部景观设计",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-14",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "伦忠胜"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴衡"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王振东"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2025-v1i1-528",
+      "title": "Research on the design of pet dog educational toys from the perspective of user experience",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-24",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Lei Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Jianghua Xu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i6-1685",
+      "title": "Constructing an AIGC Pipeline Workflow with Dataset and Model for Cloisonne Cultural Product Design",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-15",
+      "depositDate": "2026-07-15",
+      "issueOrPeriod": "v2i6",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Mengqun",
+          "family_name": "Yu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i5-1595",
+      "title": "&lt;b&gt;Geometric Morphology and Symbolic Logic of Traditional Turkmen Women's Jewelry: A Visual Framework for Contemporary Graphic Design&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-11",
+      "depositDate": "2026-06-11",
+      "issueOrPeriod": "v2i5",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Gurdova",
+          "family_name": "Guljemal"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Bin",
+          "family_name": "Ding"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i4-1586",
+      "title": "Agent-Based Modeling (ABM) Simulation-Driven Intelligent Circulation Optimization for Small-Scale Composite Office Spaces",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-11",
+      "depositDate": "2026-06-11",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuxing",
+          "family_name": "Cai"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lihao",
+          "family_name": "Dui"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i1-1333",
+      "title": "The Impact of Generative AI on Visual Identity System Formation in Early-Stage Brands",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jiadai",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i3-1344",
+      "title": "Effects of Interior Color Environment on User Experience and Behavioral Intention in Yacht Interior Spaces",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yiji",
+          "family_name": "Pan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i2-1342",
+      "title": "&lt;b&gt;Visual Language of Ice and Snow Imagery in Copperplate Engraving: An Analysis of the Mezzotint Technique and Its Application&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jianing",
+          "family_name": "Lin"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/-2025-v1i4-905",
+      "title": "历史地段视觉景观与非遗共生发展策略研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-23",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "余汇芸"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘永波"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "秦丽"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/-2025-v1i3-752",
+      "title": "基于四螺旋模型的设计赋能非遗传承机制研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-02",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "高晓昧"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2025-v1i2-675",
+      "title": "探寻多元化的城市空间模式——《城村共生》启示录",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-14",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "于建辉"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2025-v1i1-522",
+      "title": "基于层次分析法的高校导视系统设计方法研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-24",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "朱田田"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赵文强"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i6-1687",
+      "title": "A Four-Stage AIGC-Assisted Design Framework for Intangible Cultural Heritage Products: A Case Study of Chinese Printing, Dyeing, and Engraving Crafts",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-15",
+      "depositDate": "2026-07-15",
+      "issueOrPeriod": "v2i6",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lei",
+          "family_name": "Hu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i5-1597",
+      "title": "&lt;b&gt;Translating Genius Loci: Place-Based Narrative Strategies in Non-Standard Commercial Urban Regeneration&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-11",
+      "depositDate": "2026-06-11",
+      "issueOrPeriod": "v2i5",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yunyi",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhendong",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i4-1588",
+      "title": "&lt;b&gt;From Static Standards to Intelligent Systems: The Evolution of Ergonomics in Modern Office Interior Design&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-11",
+      "depositDate": "2026-06-11",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yaohong",
+          "family_name": "He"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lihao",
+          "family_name": "Dui"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i1-1336",
+      "title": "Unconscious Mechanisms and the Formation of Sensory Self-Awareness in Contemporary Acrylic Abstract Painting: The Case of Li Jiang",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Bin",
+          "family_name": "Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shuhao",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Jiang Han"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i3-1345",
+      "title": "The Dual Impact of Fragmented Dissemination on Science Popularization Animations",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Ji Wenjin"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Zheng Shun"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Zhang Bo"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i2-1338",
+      "title": "&lt;b&gt;The Application of Traditional Chinese Aesthetics in the Innovative Design of Olfactory Products&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-26",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Minfeng Hou"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Wenjun Xi"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/-2025-v1i4-906",
+      "title": "&lt;b&gt;基于设计事理学的&lt;/b&gt;&lt;b&gt;红色&lt;/b&gt;&lt;b&gt;资源&lt;/b&gt;&lt;b&gt;继承发展与活化利用&lt;/b&gt;&lt;b&gt;策略研究---以“大连纺织厂”文旅开发为例&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-23",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈雪"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/-2025-v1i3-759",
+      "title": "基于OA需求理论下的青岛商住区户外广告规划设计",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-02",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "伦忠红"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴衡"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2025-v1i2-677",
+      "title": "产教融合下艺术设计专业活页式教材路径开发",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-14",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王嫣然"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/cds-2025-v1i1-519",
+      "title": "“形”与“神”在绘本设计中创作的应用研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-24",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "当代设计研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘思芃"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘奕霏"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 30,
+    "meets_target": true,
+    "spans_multiple_periods": true,
+    "note": "sample of 30 meets the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/cds-2026-v2i6-1682",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i5-1592",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i4-1591",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i1-1332",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i3-1347",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/cds-2026-v2i2-1339",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/-2025-v1i4-907",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/-2025-v1i3-756",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/cds-2025-v1i2-672",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/cds-2025-v1i1-528",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": false,
+    "http_status": null,
+    "error": "The operation was aborted due to timeout"
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 4
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-08-24",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

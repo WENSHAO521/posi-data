@@ -1,0 +1,931 @@
+{
+  "posi_id": "POSI-J-000017",
+  "journal_code": "jyyjx",
+  "title": "教育与教法",
+  "issn_queried": "3080-8847",
+  "crossref_status": 200,
+  "total_results": 240,
+  "works_fetched": 240,
+  "article_sample": [
+    {
+      "doi": "10.71411/jyyjx.2026.v1i4.1411",
+      "title": "基于5E教学模式的数字化实验教学设计——以“探究小车做匀变速直线运动的规律”为例",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-29",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李丽华"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "全汉柏"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i3.1148",
+      "title": "数智赋能与成果导向：应用型高校《财务管理基础》课程“双轮驱动”教学范式重构研究",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-06-01",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "蒋辉"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陆秀芬"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i8.977",
+      "title": "数学建模思想融入《经济应用数学》课程的教学改革研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-01-12",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "段璐灵"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张桂芳"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i5.614",
+      "title": "产教融合背景下《家具设计》课程教学改革策略研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-10",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈桂玲"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张秋亭"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i1.94",
+      "title": "&lt;b&gt;新课改下小学音乐教学的改进措施&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-16",
+      "depositDate": "2025-06-16",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "校欢欢"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i5.1532",
+      "title": "低年资护士培训负荷与失眠的研究进展",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刁贺"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "孙仪航"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "崔子聪"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "周千惠"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张歆薇"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i3.1310",
+      "title": "新工科背景下基于赛创融合的《Web安全技术》课程教学建设与改革",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李智凯"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "代敏君"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i8.727",
+      "title": "“一带一路”下，物流课程的思政蝶变：国际货运代理实务的创新探索",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-01-12",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "唐",
+          "family_name": "悦"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i5.458",
+      "title": "引导课程实施：以宁波慈吉外国语学校学校文化、领导动态与教师经验为例",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈奕诗"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "曼玲",
+          "family_name": "李"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈前瑞"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i1.128",
+      "title": "&lt;b&gt;夜灯输液报警器的研究设计与应用&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-16",
+      "depositDate": "2025-06-16",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "子聪",
+          "family_name": "崔"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "仪航",
+          "family_name": "孙"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "池",
+          "family_name": "程"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "照涵",
+          "family_name": "马"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i5.1538",
+      "title": "《国际商务》留学生课程短案例教学模式与实践研究",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "罗晓芃"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张竹"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i3.1365",
+      "title": "人工智能赋能下软件工程专业《软件工程》课程项目式教学改革研究与实践",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张畔"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "黄满华"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i8.959",
+      "title": "双循环学习理论驱动下的青少年性教育平台建设与应用路径探索",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-01-12",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郑少鑫"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李明"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i5.594",
+      "title": "于右任“碑帖融合”思想对当代书法教育的启示与路径研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "姚怡欣"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i1.102",
+      "title": "道法自然与归于自然   ——老子与卢梭的教育理想异同的理解",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-16",
+      "depositDate": "2025-06-16",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "聂慧"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i5.1491",
+      "title": "高校生成式人工智能教学风险分级治理研究——基于规范文本编码",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "罗慧莲"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陆彦衡"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i3.1311",
+      "title": "新文科背景下工程审计专业课程思政实践与成效评价研究",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴昊"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈可"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i8.953",
+      "title": "“故事思政模式”在《人力资源管理》课程教学中的应用研究——以广州理工学院为例",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-01-12",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "松龄",
+          "family_name": "康"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i5.601",
+      "title": "基于长沙马王堆纹样的动漫IP符号系统构建研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-10",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈姝"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "肖惠文"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赵宁珍"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v2i1.203",
+      "title": "传媒构建的困境迷雾：《包法利夫人》",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-16",
+      "depositDate": "2025-06-16",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "曹一君"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈立立"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i4.1484",
+      "title": "周亚南系列数学论文成果梳理与应用展望",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "周亚南"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i3.1158",
+      "title": "基于陶行知教育思想的文科学术论文写作教学改革研究",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-06-01",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "蒋洪利"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i8.951",
+      "title": "元宇宙在高校设计教育中的应用模式研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-01-12",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "潘雨沛"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i5.559",
+      "title": "问题链驱动的人文地理深度思维培养模式——基于学科教学方法的创新与实践",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "杨开路"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "毛翰臣"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "安平"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i1.89",
+      "title": "初中《道德与法治》“探究与分享”栏目教学改进策略",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-16",
+      "depositDate": "2025-06-16",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘建良"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈质颖"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i5.1568",
+      "title": "羽毛球运动对手机依赖者颈椎病干预效果的运动处方研究",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴福扬"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "寇",
+          "family_name": "文军"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "陈",
+          "family_name": "权鑫"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "梁",
+          "family_name": "莹莹"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i3.1253",
+      "title": "智慧旅游驱动下乡村文旅融合模式研究——以肇庆市龙甫镇为例",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-06-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邹烨婷"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "罗诗妍"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赖家恩"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i8.994",
+      "title": "以智能助教为核心骨架的高职《有机化学》教学改革实践与探索",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-01-12",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "曹亮启"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "宋云旨"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "尹丽"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i5.604",
+      "title": "社会情感学习视域下资优生班集体建设的实践与反思",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-10",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "杨乐"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i1.119",
+      "title": "篆刻艺术与古文字在中职美术教学中的融合研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-16",
+      "depositDate": "2025-06-16",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "武晓辉"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 30,
+    "meets_target": true,
+    "spans_multiple_periods": true,
+    "note": "sample of 30 meets the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/jyyjx.2026.v1i4.1411",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i3.1148",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i8.977",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i5.614",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i1.94",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i5.1532",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i3.1310",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i8.727",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i5.458",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2025.v1i1.128",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 15,
+      "metWindows": 13
+    },
+    "continuity": {
+      "totalWindows": 5,
+      "activeWindows": 5
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-05-12",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

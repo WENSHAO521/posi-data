@@ -1,0 +1,172 @@
+{
+  "posi_id": "POSI-J-023332",
+  "journal_code": "cropt",
+  "title": "Contemporary Review of Political Thought",
+  "issn_queried": "3056-0977",
+  "crossref_status": 200,
+  "total_results": 3,
+  "works_fetched": 3,
+  "article_sample": [
+    {
+      "doi": "10.63802/cropt.2026.335",
+      "title": "The Political Economy of Disease: Marx, Social Medicine, and the Production of Health Inequality",
+      "hasAbstract": true,
+      "referenceCount": 42,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-08-06",
+      "depositDate": "2026-08-10",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Contemporary Review of Political Thought",
+      "authors": [
+        {
+          "affiliation": "Department of Clinical Medicine, Second Clinical Medical College, Shaanxi University of Chinese Medicine, Xianyang 712046, Shaanxi, China",
+          "orcid": null,
+          "given_name": "Yangyi",
+          "family_name": "Ren"
+        },
+        {
+          "affiliation": "Department of Public Administration, School of Humanities Management and Foreign Languages, Shaanxi University of Chinese Medicine, Xianyang 712046, Shaanxi, China",
+          "orcid": "0009-0004-5810-9970",
+          "given_name": "Jiawei",
+          "family_name": "Feng"
+        },
+        {
+          "affiliation": "Panorama Research Institute, Hong Kong, China",
+          "orcid": null,
+          "given_name": "Sebastian",
+          "family_name": "Lenz"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/cropt.2026.319",
+      "title": "National Integration and Institutional Coordination under \"One Country, Two Systems\": Research on the Institutional Innovation Mechanisms of Hong Kong and Macao’s Integration into China’s Overall National Development",
+      "hasAbstract": true,
+      "referenceCount": 28,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-28",
+      "depositDate": "2026-08-10",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Contemporary Review of Political Thought",
+      "authors": [
+        {
+          "affiliation": "Department of Public Administration, Kookmin University, Seoul 02707, South Korea",
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": "School of Nursing and Health Management, Wuhan Donghu University, Wuhan 430212, Hubei, China",
+          "orcid": null,
+          "given_name": "Feifei",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": "School of Nursing and Health Management, Wuhan Donghu University, Wuhan 430212, Hubei, China",
+          "orcid": null,
+          "given_name": "Hongfeng",
+          "family_name": "Tang"
+        },
+        {
+          "affiliation": "The First Clinical Medical College, Gansu University of Chinese Medicine, Lanzhou 730000, Gansu, China",
+          "orcid": null,
+          "given_name": "Qilong",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/cropt.2026.317",
+      "title": "Spatial Governance and Regional Coordination in Chinese-Style Modernization: A Policy and Institutional Analysis of the Fifteenth Five-Year Plan",
+      "hasAbstract": true,
+      "referenceCount": 43,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-06",
+      "depositDate": "2026-08-10",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Contemporary Review of Political Thought",
+      "authors": [
+        {
+          "affiliation": "Department of Public Administration, Kookmin University, Seoul 02707, South Korea",
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": "School of Public Basic Courses, Bengbu Institute of Business and Technology, Bengbu 233719, Anhui, China",
+          "orcid": null,
+          "given_name": "Xiaoyuan",
+          "family_name": "Zhuang"
+        },
+        {
+          "affiliation": "The First Clinical Medical College, Gansu University of Chinese Medicine, Lanzhou 730000, Gansu, China",
+          "orcid": "0009-0003-3973-8475",
+          "given_name": "Qilong",
+          "family_name": "Wang"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 3,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 3 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/cropt.2026.335",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/cropt.2026.319",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/cropt.2026.317",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 0,
+      "activeWindows": 0
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": null,
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}
