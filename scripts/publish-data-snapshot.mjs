@@ -96,13 +96,13 @@ function main() {
   // Counts computed directly from the corpus being published, not asserted
   // separately — a reader can recompute every one of these from the
   // collections/ files above.
-  const earlyStageRated = coreCollection.filter(j => j.early_stage_rating?.eligibility === 'early_stage' && j.early_stage_rating?.total != null).length
+  const earlyStageRated = coreCollection.filter(j => ['official', 'provisional'].includes(j.early_stage_rating?.rating_status) && j.early_stage_rating?.total != null).length
   // Always 0: AJR-M is implemented (posi-engine's ajr-mature.mjs) but has
   // not been run against real data for any journal yet — see AJR-M-1.0-
   // SPEC.md and the website's frozen "AJR-M Score: Not Yet Available"
   // copy. Computed explicitly (not hardcoded) so this becomes non-zero
   // automatically, without code changes, once real AJR-M data exists.
-  const matureRated = coreCollection.filter(j => j.early_stage_rating?.eligibility === 'mature' && j.early_stage_rating?.version?.startsWith('AJR-M')).length
+  const matureRated = coreCollection.filter(j => j.early_stage_rating?.lifecycle_stage === 'mature' && j.early_stage_rating?.version?.startsWith('AJR-M') && j.early_stage_rating?.total != null).length
 
   const manifest = {
     snapshot: snapshotId,
@@ -111,7 +111,7 @@ function main() {
     release: null,
     note: 'Not a POSI-R release -- no POSI-R-* release has been produced yet (see posi-data/POSI-R-1.0-SPEC.md). This is a public mirror of already-committed corpus data, refreshed on demand.',
     generated_at: new Date().toISOString(),
-    data_cutoff: snapshotId,
+    data_cutoff: today,
     lifecycle_version: 'LIFECYCLE-1.1',
     psc_crosswalk_version: 'PSC-CROSSWALK-0.2',
     ajr_e_version: 'AJR-E-1.1',
