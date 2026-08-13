@@ -60,7 +60,13 @@ function main() {
   const outDir = resolve(arg('out'))
   if (!existsSync(outDir)) throw new Error(`--out directory does not exist: ${outDir}. Clone posi-data-delivery first.`)
 
-  const dataCommit = execSync('git rev-parse HEAD', { cwd: resolve('.'), encoding: 'utf-8' }).trim()
+  // Defaults to HEAD, but accepts an override for the case where the
+  // working tree's actual HEAD is a local-only merge/combination commit
+  // that doesn't exist on any pushed branch (e.g. temporarily merging two
+  // still-open PR branches locally to generate a snapshot reflecting
+  // both) -- data_commit must point at something a reader can actually
+  // fetch and inspect on GitHub.
+  const dataCommit = arg('data-commit') ?? execSync('git rev-parse HEAD', { cwd: resolve('.'), encoding: 'utf-8' }).trim()
   const engineCommit = arg('engine-commit')
   if (!engineCommit) throw new Error('--engine-commit is required (posi-engine git SHA the snapshot data was computed with)')
 
