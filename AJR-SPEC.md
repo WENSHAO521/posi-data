@@ -199,8 +199,8 @@ partly citation-driven for M-Q, not at all for E-Q), so a broader-but-
 still-real peer group is an acceptable tradeoff there in a way it isn't
 for a pure citation-impact ranking. **This resolves the inconsistency this
 section previously stated (that all three tracks share one fallback
-chain) — see CHANGELOG.md's "Flagged inconsistency" entry for the prior
-open question and its resolution.**
+chain) — see CHANGELOG.md's "Resolved: Citation Q fallback inconsistency"
+entry for the prior open question and its resolution.**
 
 ## 6. Evidence Coverage — separating "low score" from "insufficient data"
 

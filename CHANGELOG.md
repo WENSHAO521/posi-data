@@ -48,7 +48,7 @@ changed and why, across every version bump this rollout touched.
   framework's "never a bare Q1 — always E-Q1/M-Q1/Citation Q1" display
   rule. Citation Q's existing ranking rule (PJR-SPEC.md § 8,
   `MIN_CATEGORY_SIZE = 20`, no Level-1 fallback) is kept unchanged — see
-  the **Flagged inconsistency** note below.
+  the **Resolved: Citation Q fallback inconsistency** note below.
 - **PQF admission-only output contract (PQF-1.0)** — public PQF output is
   now constrained to exactly `Eligible` / `Review Required` /
   `Insufficient Evidence` / `Not Eligible`. No prior PQF implementation
