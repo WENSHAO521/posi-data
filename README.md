@@ -34,6 +34,7 @@ tagged **POSI Journal Reports (PJR)** release in this repo.
 | `manifests/` | One manifest per PJR release, pinning data/engine commits |
 | `registry/` | Permanent, append-only mapping from stable external identity (ISSN-L, etc.) to `POSI-J-######` id — plus `superseded-ids.csv` (retired-id → surviving-id resolution) and `excluded-identities.csv` (known zero-evidence records) — see `registry/README.md` |
 | `audits/` | One directory per migration/ingestion/rating pass — full before/after data, reasoning, and reproducibility steps for every non-trivial change made to this repo |
+| `scripts/publish-data-snapshot.mjs` | Publishes a dated snapshot of `corpus/` to [posi-data-delivery](https://github.com/WENSHAO521/posi-data-delivery) — the public, GitHub-Pages-hosted read layer other consumers (including the website) fetch from, so they never have to clone this repo or vendor its files directly |
 | `AJR-SPEC.md` / `AJR-E-1.1-SPEC.md` / `AJR-M-1.0-SPEC.md` | The lifecycle-based Automated Journal Rating framework — Early-Stage and Mature tracks |
 | `PSC-CROSSWALK.md` | OpenAlex-topic-to-PSC subject classification crosswalk |
 | `PJR-SPEC.md` | The annual citation-metrics release specification |
@@ -79,10 +80,19 @@ instead of committed to the repository history. See `PJR-SPEC.md`.
   classifier, AJR-E/AJR-M rating engine, PCI/PNCI calculators, and ranking
   engine that reads this repo and produces the contents of `metrics/` and
   `rankings/`.
+- [posi-data-delivery](https://github.com/WENSHAO521/posi-data-delivery) —
+  the public read layer this repo publishes to
+  (`scripts/publish-data-snapshot.mjs`), served over HTTPS at
+  `data.posi.panorama-sg.com`. Not a source of truth itself — a generated,
+  versioned, immutable mirror of `corpus/`, so downstream consumers fetch
+  over plain HTTPS instead of cloning this repo or pinning a commit SHA
+  directly.
 - [Panorama-Open-Scholarly-Index](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index) —
-  the POSI website (Next.js, static export), which vendors a snapshot of
-  this repo's `corpus/*.json` at build time — see that repo's
-  `scripts/sync-corpus.mjs`.
+  the POSI website (Next.js, static export). Reads from posi-data-delivery,
+  not this repo directly: small collections are synced into the build at
+  `src/lib/*.json` (that repo's `scripts/sync-corpus.mjs`), and the larger
+  Global Benchmark publisher-catalog expansion is fetched client-side at
+  runtime, never vendored.
 
 ## License
 
