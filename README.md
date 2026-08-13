@@ -68,10 +68,17 @@ instead of committed to the repository history. See `PJR-SPEC.md`.
    correcting (wrong ISSN, confirmed rename) never just disappears — its old
    id is documented as superseded (`registry/superseded-ids.csv`), never left
    as an unexplained dead end.
-6. **Never claim more than was actually computed.** A provisional or
-   partially-evidenced figure (e.g. Citation Q computed without a full
-   evidence crawl) is always labeled as such, never presented as a finished
-   official metric it isn't yet.
+6. **Never claim more than was actually computed.** A source-level figure
+   (e.g. OpenAlex's raw 2-year mean citedness for a Global Benchmark
+   journal) is published as an explicitly diagnostic `citation_preview` —
+   `rank`/`percentile`/`quartile` always `null`, `status:
+   "diagnostic_only"` — never disguised as a real Citation Q ranking. This
+   rule was itself violated once, briefly: a 2026-08-12 migration fed that
+   same OpenAlex figure into the production ranking functions as if it
+   were PCI, producing a real-looking `quartile`/`percentile`/`rank` for
+   2,614 journals with no Evidence Coverage gate behind it. Corrected the
+   next day (`audits/migrations/citation-preview-correction-2026/`) — kept
+   here as a concrete example of the rule, not just an abstract principle.
 
 ## Related repositories
 

@@ -199,8 +199,8 @@ partly citation-driven for M-Q, not at all for E-Q), so a broader-but-
 still-real peer group is an acceptable tradeoff there in a way it isn't
 for a pure citation-impact ranking. **This resolves the inconsistency this
 section previously stated (that all three tracks share one fallback
-chain) — see CHANGELOG.md's "Flagged inconsistency" entry for the prior
-open question and its resolution.**
+chain) — see CHANGELOG.md's "Resolved: Citation Q fallback inconsistency"
+entry for the prior open question and its resolution.**
 
 ## 6. Evidence Coverage — separating "low score" from "insufficient data"
 
@@ -407,13 +407,18 @@ a ranking cohort if anything ever built one directly from "everything in
 global-benchmark.json" instead of going through the real eligibility
 pipeline.
 
-Longer-term, bulk-ingested publisher records should carry an explicit
-`source_group: "publisher_expansion"` / `collection_status: "discovered"`
-(or `"candidate"`) pair distinguishing them from the original curated
-seed set, rather than relying on every future reader to independently
-rediscover this rule. Not yet implemented as of 2026-08-12 — tracked here
-as the reason not to skip it once Global Benchmark data reaches the
-frontend.
+**Implemented 2026-08-13.** Bulk-ingested publisher records now carry an
+explicit `benchmark_source_group: "publisher_expansion"` /
+`collection_status: "discovered"` pair (the original curated seed gets
+`benchmark_source_group: "curated_benchmark_seed"`), distinguishing them
+from the original curated seed set without every future reader having to
+independently rediscover this rule from `source_note` presence. Named
+`benchmark_source_group` rather than the shorter `source_group` this
+paragraph originally proposed, since `core-collection.json` already has
+an unrelated `source_group` field (`psg`/`indexed`/`shiharr`/
+`other_indexed` — which curation batch a Core Collection journal came
+from) — reusing that name on `global-benchmark.json` for a different
+concept would have made the two easy to confuse.
 - Whether Evidence Coverage's 60%/80% thresholds are right, or need
   calibration against the actual coverage distribution once the evidence
   resolver (source-tagged, multi-source) exists — today's crawl-only

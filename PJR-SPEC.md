@@ -189,13 +189,15 @@ in another (see `schema/ranking.schema.json`).
 > midrank/percentile algorithm (`posi-engine/src/quartile-tracks.mjs`'s
 > `percentileMidrank()`) — only the input score and the display label
 > differ. Displayed labels must always be the full track name (`E-Q1`,
-> `M-Q1`, `Citation Q1`), never a bare `Q1`. **Flagged, not silently
-> resolved:** AJR-SPEC.md § 5 states the PSC L3/L2/L1 minimum-cohort
-> fallback chain applies to all three tracks; this section's
-> `MIN_CATEGORY_SIZE = 20` flat rule (no Level-1 fallback) has been kept
-> unchanged for Citation Q specifically, since it's already published and
-> already implemented — see CHANGELOG.md's "Flagged inconsistency" entry
-> for the decision this leaves open for the platform owner.
+> `M-Q1`, `Citation Q1`), never a bare `Q1`. **Resolved rule** (platform
+> owner decision, 2026-08-12 — see CHANGELOG.md's "Resolved: Citation Q
+> fallback inconsistency" entry and AJR-SPEC.md § 5): E-Q and M-Q use the
+> PSC L3≥20 → L2≥20 → L1≥30 minimum-cohort fallback chain; Citation Q does
+> not — it keeps this section's flat `MIN_CATEGORY_SIZE = 20` rule at the
+> journal's primary PSC category, no Level-1 fallback, unchanged from its
+> already-published/already-implemented behavior. The asymmetry is
+> deliberate: citation-impact rankings need tighter field-comparability
+> than lifecycle composites do.
 
 ## 9. Citation integrity and suppression
 

@@ -76,10 +76,21 @@ records (31 `core-collection.json` + 1,000 `global-benchmark.json`):
 Same shape as the website repo's `Journal` interface
 (`src/lib/types.ts`) — `pqf` (editorial selection score), `early_stage_rating`
 (AJR score, lifecycle eligibility, evidence coverage, provisional quartile),
-`psc_category`/`psc_confidence` (subject classification), plus `source_group`
-on `core-collection.json` entries only (`psg`/`indexed`/`shiharr`/
-`other_indexed` — which original curation batch a journal came from, used by
-a handful of website pages, e.g. the PSG-only conflict-of-interest list).
+`psc_category`/`psc_confidence` (subject classification), plus one
+`*_source_group` field per file whose name deliberately differs since the
+two are unrelated concepts:
+
+- `core-collection.json`: `source_group` — `psg`/`indexed`/`shiharr`/
+  `other_indexed`, which original curation batch a journal came from, used
+  by a handful of website pages (e.g. the PSG-only conflict-of-interest
+  list).
+- `global-benchmark.json`: `benchmark_source_group` — `publisher_expansion`
+  (bulk-ingested via the Elsevier/Frontiers scripts) or
+  `curated_benchmark_seed` (the original ~1,030-record hand-selected
+  seed), plus a `collection_status: "discovered"` field on every record.
+  Lets downstream code distinguish the two without inferring it from
+  `source_note`'s presence/absence — see AJR-SPEC.md's "Global Benchmark
+  Collection" section.
 
 ## Update workflow
 

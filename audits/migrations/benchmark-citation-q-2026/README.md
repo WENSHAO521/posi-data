@@ -1,5 +1,20 @@
 # Benchmark Citation Q — 2026
 
+> **Superseded / withdrawn from ranking use (2026-08-13).** The
+> `quartile`/`percentile`/`rank` output this migration produced (2,614
+> journals with a real-looking Citation Q label) conflicts with
+> AJR-SPEC.md § 14 ("Global Benchmark membership is not ranking
+> eligibility" — no Evidence Coverage gate ran here) and with
+> `rankCitationTrack()`'s actual contract, which expects real PCI
+> (PJR-SPEC.md § 5-6), not OpenAlex's differently-defined
+> `2yr_mean_citedness`. The corpus has been corrected — every record this
+> migration touched now carries a `citation_preview` object instead
+> (`rank`/`percentile`/`quartile` always `null`, `status:
+> "diagnostic_only"`) — see `audits/migrations/citation-preview-
+> correction-2026/` for that correction's own writeup. **The OpenAlex-
+> based output documented below is retained as a historical diagnostic
+> run and must not be interpreted as POSI Citation Q.**
+
 Computes a *provisional* Citation Q ranking for the 3296 Global Benchmark
 journals bulk-ingested by the Elsevier/Frontiers expansions (2026-08-12 —
 see `audits/migrations/elsevier-jnlactive-expansion-2026/` and
