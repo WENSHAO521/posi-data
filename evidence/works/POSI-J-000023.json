@@ -1,0 +1,304 @@
+{
+  "posi_id": "POSI-J-000023",
+  "journal_code": "xw",
+  "title": "新闻与传播",
+  "issn_queried": "3106-9983",
+  "crossref_status": 200,
+  "total_results": 9,
+  "works_fetched": 9,
+  "article_sample": [
+    {
+      "doi": "10.71411/xw.2025.v1i1.805",
+      "title": "&lt;b&gt;中国音乐剧&lt;/b&gt;&lt;b&gt;文化&lt;/b&gt;&lt;b&gt;出海路径论：以原创音乐剧《翻国王棋》&lt;/b&gt;&lt;b&gt;国际传播实践为例&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-24",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-5600-7793",
+          "given_name": null,
+          "family_name": "林檎"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.602",
+      "title": "&lt;b&gt;媒介融合背景下影视作品的传播效果影响研究&lt;/b&gt;&lt;b&gt;——以《简牍探中华》为例&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-24",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "林华浩"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.817",
+      "title": "自我标出：作为数字身份表演舞台的微信状态",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-24",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "井兴龙"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1386",
+      "title": "从工具到思维：媒介融合下戏美专业“学材化”手册的整合思维培养与实践路径",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "茗予",
+          "family_name": "邓"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1115",
+      "title": "从“闲暇时光”到“景观时间”：大学生时间消费的价值转向",
+      "hasAbstract": true,
+      "referenceCount": 26,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "潘悦",
+          "family_name": "潘"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1059",
+      "title": "新《治安管理处罚法》中高空抛物处罚条款的适用困境与完善路径研究",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张琦"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1546",
+      "title": "广州老字号早茶品牌数字化活化路径研究",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "夏宝红"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1387",
+      "title": "比较·表演·沉浸:网络社交媒体影响大学生心理健康的三重作用路径分析",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "齐维恒"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邱崇森"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1170",
+      "title": "印度神话题材电影《巴霍巴利王》的跨文化接受研究",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "新闻与传播学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "张竞元",
+          "family_name": "张"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "井",
+          "family_name": "兴龙"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 9,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 9 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/xw.2025.v1i1.805",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.602",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.817",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1386",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1115",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1059",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1546",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1387",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/xw.2025.v1i1.1170",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 2
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-08-25",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

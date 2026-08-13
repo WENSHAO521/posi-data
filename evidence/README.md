@@ -2,16 +2,26 @@
 
 Journal-level and publisher-level evidence records feeding AJR-E/AJR-M's
 Evidence Coverage model (AJR-SPEC.md § 6, `posi-engine/src/evidence-
-coverage.mjs`). Produced by `posi-engine`'s Evidence ETL pipeline
-(`src/evidence-fetch.mjs` / `src/evidence-page-discovery.mjs` /
-`src/evidence-resolver.mjs` / `src/evidence-publisher-registry.mjs`,
-orchestrated by `scripts/run-evidence-etl.mjs`), not hand-edited.
+coverage.mjs`). Two independently-produced sources, covering different
+AJR-E-1.1 dimensions, together not hand-edited:
+
+- `journals/` — site-crawl evidence (Dimensions 1/2/7: Editorial
+  Governance, Research Integrity, Transparency), from `posi-engine`'s
+  Evidence ETL pipeline (`src/evidence-fetch.mjs` /
+  `src/evidence-page-discovery.mjs` / `src/evidence-resolver.mjs` /
+  `src/evidence-publisher-registry.mjs`, `scripts/run-evidence-etl.mjs`).
+- `works/` — article-sample evidence (Dimensions 3/4/5/6: Infrastructure,
+  Publishing Stability, Output Quality Signals, Reach & Concentration),
+  from `posi-engine`'s Article-Sample ETL pipeline (`src/works-fetch.mjs` /
+  `src/works-resolver.mjs`, `scripts/run-works-etl.mjs`) — see
+  `works/README.md` for its own format and rationale.
 
 ## Layout
 
 ```
 evidence/
-├── journals/<posi_id>.json      -- one evidence package per journal
+├── journals/<posi_id>.json      -- one site-crawl evidence package per journal
+├── works/<posi_id>.json         -- one article-sample evidence package per journal
 └── publishers/<slug>.json       -- publisher-wide policy entries (AJR-SPEC.md § 8)
 ```
 

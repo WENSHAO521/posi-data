@@ -1,0 +1,32 @@
+posi_id,title,issn_queried,crossref_status,total_results,works_fetched,sample_size,sample_sufficient,sample_meets_target
+POSI-J-000001,"Global Review of Humanities, Arts, and Society",3052-539X,200,40,40,30,true,true
+POSI-J-000002,"AI & Future Society",3053-4011,200,11,11,11,true,false
+POSI-J-000003,"Journal of Law, Psychology, and Communication Studies",3052-9654,200,22,22,22,true,false
+POSI-J-000004,"Health Nexus: Interdisciplinary Medical Research Journal",3053-7037,200,10,10,10,true,false
+POSI-J-000005,"PoliEcoM Administration Review",3053-3597,200,11,11,11,true,false
+POSI-J-000006,"Journal of Engineering Systems and Applications",3053-478X,200,4,4,4,false,false
+POSI-J-000007,"Three Teachings Studies: Confucianism, Daoism, and Buddhism",3053-6553,200,14,14,14,true,false
+POSI-J-000008,"Rural Governance and Green Development",3053-7282,200,3,3,3,false,false
+POSI-J-000009,"Resonance: Journal of Global Music Studies",3053-4410,200,18,18,18,true,false
+POSI-J-000010,"Climate Sustainability & Global Systems",3054-9663,200,3,3,3,false,false
+POSI-J-000011,"Journal of Social Cognition and Communication",3054-6958,200,3,3,3,false,false
+POSI-J-000012,"Silence",3054-4386,200,3,3,3,false,false
+POSI-J-000013,"Journal of Modern Social Sciences",3078-4441,200,49,49,30,true,true
+POSI-J-000014,"Journal of Current Social Issues Studies",3078-5324,200,59,59,30,true,true
+POSI-J-000015,"Journal of Contemporary Art Criticism",3079-7489,200,13,13,13,true,false
+POSI-J-000016,"人文学刊",3104-5022,200,175,175,30,true,true
+POSI-J-000017,"教育与教法",3080-8847,200,240,240,30,true,true
+POSI-J-000018,"Journal of Asia Social Science Practice",3079-7659,200,43,43,30,true,true
+POSI-J-000019,"中国文学学刊",3106-3675,200,24,24,24,true,false
+POSI-J-000020,"艺术与设计前沿",3107-0191,200,23,23,23,true,false
+POSI-J-000021,"人工智能",3106-3705,200,9,9,9,false,false
+POSI-J-000022,"医学与护理",3106-3713,200,9,9,9,false,false
+POSI-J-000023,"新闻与传播",3106-9983,200,9,9,9,false,false
+POSI-J-000024,"中国法学学刊",3107-1708,200,11,11,11,true,false
+POSI-J-000025,"Engineering Frontiers",3106-0749,200,15,15,15,true,false
+POSI-J-000026,"当代设计研究",3105-5834,200,84,84,30,true,true
+POSI-J-000027,"Research on Architecture and Environment",3105-5842,200,25,25,25,true,false
+POSI-J-000028,"Journal of the European Academy Open University",3105-5850,200,89,89,30,true,true
+POSI-J-000029,"The Journal of Interactive Social Sciences",3030-5322,200,38,38,30,true,true
+POSI-J-000030,"Digital Intelligence Frontiers",3135-0011,404,,0,0,false,false
+POSI-J-023332,"Contemporary Review of Political Thought",3056-0977,200,3,3,3,false,false

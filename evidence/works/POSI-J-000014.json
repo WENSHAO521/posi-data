@@ -1,0 +1,968 @@
+{
+  "posi_id": "POSI-J-000014",
+  "journal_code": "jcsis",
+  "title": "Journal of Current Social Issues Studies",
+  "issn_queried": "3078-5324",
+  "crossref_status": 200,
+  "total_results": 59,
+  "works_fetched": 59,
+  "article_sample": [
+    {
+      "doi": "10.71113/jcsis.v3i1.509",
+      "title": "Optimizing Regulatory Pathways for Generative Artificial Intelligence in China: A Policy-Analytic Study",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-11",
+      "depositDate": "2026-06-09",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "Beijing University of Posts and Telecommunications",
+          "orcid": null,
+          "given_name": "Xi",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Beijing University of Posts and Telecommunications",
+          "orcid": null,
+          "given_name": "Wei",
+          "family_name": "He"
+        },
+        {
+          "affiliation": "Beijing University of Posts and Telecommunications",
+          "orcid": null,
+          "given_name": "Jing",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.562",
+      "title": "Coffee and Sustainability in Tea-Drinking Societies: Cultural Path Dependence in China and Korea",
+      "hasAbstract": true,
+      "referenceCount": 46,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-27",
+      "depositDate": "2026-03-27",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "The University of Queensland",
+          "orcid": null,
+          "given_name": "Yun",
+          "family_name": "Zeng"
+        },
+        {
+          "affiliation": "Chinese Academy of Sciences",
+          "orcid": null,
+          "given_name": "Kunjie",
+          "family_name": "Zhu"
+        },
+        {
+          "affiliation": "The University of Queensland",
+          "orcid": null,
+          "given_name": "Minghong",
+          "family_name": "Han"
+        },
+        {
+          "affiliation": "The University of Queensland",
+          "orcid": null,
+          "given_name": "Rubin",
+          "family_name": "Cao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.472",
+      "title": "Bricolage Under Constraint: Community-Led Regional Branding through the Zuojhen Lantern Festival, Taiwan",
+      "hasAbstract": true,
+      "referenceCount": 47,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-28",
+      "depositDate": "2026-03-02",
+      "issueOrPeriod": "v3i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "National Cheng Kung University",
+          "orcid": null,
+          "given_name": "Ting-Yu",
+          "family_name": "YANG"
+        },
+        {
+          "affiliation": "National Cheng Kung University",
+          "orcid": null,
+          "given_name": "Chia-Han",
+          "family_name": "YANG"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i7.365",
+      "title": "The Olympic Sports Evaluation Model Based on Entropy Weight Method and Improved TOPSIS",
+      "hasAbstract": true,
+      "referenceCount": 36,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-10",
+      "depositDate": "2025-11-10",
+      "issueOrPeriod": "v2i7",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Qiaoyi",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yunkun",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuxuan",
+          "family_name": "Fei"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Gongchao",
+          "family_name": "Wan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i6.314",
+      "title": "Human Resource Management Practices in Zhengzhou’s Manufacturing SMEs: A Literature Review on Employee Motivation, Retention, and Well-Being",
+      "hasAbstract": true,
+      "referenceCount": 26,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-23",
+      "depositDate": "2025-06-10",
+      "issueOrPeriod": "v2i6",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Siyuan",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Mohd Dan",
+          "family_name": "Jantan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i5.296",
+      "title": "A Multidimensional Perspective on Language Planning and Policy in Singapore: Theory, Practice and Challenges",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-05",
+      "depositDate": "2025-05-07",
+      "issueOrPeriod": "v2i5",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xianlang",
+          "family_name": "Zheng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Na",
+          "family_name": "Luo"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i4.244",
+      "title": "Healing Through Nature: A Case Study Analysis of Ericksonian Hypnosis and Reiki-Infused Transpersonal Counseling for Eco-Anxiety Relief",
+      "hasAbstract": true,
+      "referenceCount": 13,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-03",
+      "depositDate": "2025-04-03",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yiu Kwong",
+          "family_name": "Au-Yeung"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i3.204",
+      "title": "Research on Rural Grassroots Governance from  the Perspective of Village BA",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-05",
+      "depositDate": "2025-03-05",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Keli",
+          "family_name": "Han"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xuechao",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jianmin",
+          "family_name": "Peng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yujuan",
+          "family_name": "Liu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.2025v2i2.142-147",
+      "title": "How can the new energy economy achieve better development under the background of the digital economy",
+      "hasAbstract": true,
+      "referenceCount": 12,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-02-05",
+      "depositDate": "2025-02-06",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Na",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lijuan",
+          "family_name": "Tang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shumei",
+          "family_name": "Tian"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shuguo",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.2025v2i1.1-18",
+      "title": "Reverse Teacher Questioning Strategy to Enlarge ZPD! ---- A New Approach to Improve Differentiated Classroom",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-01-05",
+      "depositDate": "2025-01-06",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yunuo",
+          "family_name": "Feng"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v1i1.81",
+      "title": "The In-depth Integration of Artificial Intelligence and Higher Legal Education Innovative Models, Teaching Efficacy, and Ethical Considerations",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2024-12-05",
+      "depositDate": "2025-10-19",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ying",
+          "family_name": "Dong"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Bingyuan",
+          "family_name": "Min"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.454",
+      "title": "Changes in Australia’s Perception of External Threats—— Analysis Based on Lowy Institute Poll Reports from 2005-2023",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-14",
+      "depositDate": "2026-04-25",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "China University of Mining and Technology",
+          "orcid": null,
+          "given_name": "Qian",
+          "family_name": "Liu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.471",
+      "title": "Academic, Social, and Institutional Adaptation of Turkish Graduate Students in U.S. Higher Education",
+      "hasAbstract": true,
+      "referenceCount": 32,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-26",
+      "depositDate": "2026-03-18",
+      "issueOrPeriod": "v3i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "Adnan Menderes University , TR",
+          "orcid": "0000-0003-2474-5106",
+          "given_name": "Ömer Cem",
+          "family_name": "Karacaoğlu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i7.397",
+      "title": "Exploring the Impact of Generative Artificial Intelligence on Chinese Language Acquisition in Tanzania",
+      "hasAbstract": true,
+      "referenceCount": 13,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-29",
+      "depositDate": "2025-10-10",
+      "issueOrPeriod": "v2i7",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Frank Bahati",
+          "family_name": "Rwiza"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i6.311",
+      "title": "The Path of Codification: A Case Study on the Institutional Construction of Incorporating Wild Plant Protection Systems into the Code",
+      "hasAbstract": true,
+      "referenceCount": 12,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-21",
+      "depositDate": "2025-06-10",
+      "issueOrPeriod": "v2i6",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chang",
+          "family_name": "Xu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i5.293",
+      "title": "Mirror, Reflection, and Prospect: South Korea's Integration into Economic Globalization—Process, Experiences, and Implications for China",
+      "hasAbstract": true,
+      "referenceCount": 7,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-29",
+      "depositDate": "2025-05-07",
+      "issueOrPeriod": "v2i5",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yu",
+          "family_name": "Han"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i4.218",
+      "title": "Analysis of the motivation and effect of Mindray Medical's share repurchase",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-31",
+      "depositDate": "2025-03-31",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuqin",
+          "family_name": "Xia"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuting",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lu",
+          "family_name": "Yang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i3.169",
+      "title": "The triple interpretive spaces of otome games: Taking Light and Night as an example",
+      "hasAbstract": true,
+      "referenceCount": 12,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-05",
+      "depositDate": "2025-03-05",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuqin",
+          "family_name": "Lin"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.2025v2i2.104-115",
+      "title": "The Potential, Challenges, and Pathways of Generative Artificial Intelligence in Empowering the Professional Development of International Chinese Language Teachers",
+      "hasAbstract": true,
+      "referenceCount": 25,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-02-05",
+      "depositDate": "2025-02-06",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0003-2347-6132",
+          "given_name": "Dan",
+          "family_name": "Gou"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.2025v2i1.83-96",
+      "title": "Analysis of the value chain of SF Holding",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-01-05",
+      "depositDate": "2025-01-06",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuqin",
+          "family_name": "Xia"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lu",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Huimin",
+          "family_name": "Pan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v1i1.63",
+      "title": "Urban-Rural Disparities in Art Education Resources in China Mechanisms and Equity Perspectives",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2024-12-05",
+      "depositDate": "2025-08-31",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuke",
+          "family_name": "Meng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Han",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Menghui",
+          "family_name": "Yin"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shanshan",
+          "family_name": "Sun"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.480",
+      "title": "How AI-Driven Agile Project Management Affects Corporate Sustainability Performance: Evidence from Chinese Listed Firms?",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-16",
+      "depositDate": "2026-03-18",
+      "issueOrPeriod": "v3i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "solbridge international school of business, KR",
+          "orcid": "0009-0002-9693-9145",
+          "given_name": "Jun",
+          "family_name": "Cui"
+        },
+        {
+          "affiliation": "Hanyang University , KR",
+          "orcid": "0009-0007-9087-8237",
+          "given_name": "Gongchao",
+          "family_name": "Wan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i7.339",
+      "title": "Protecting and innovating China's Yao Clothing Heritage: A Digital Perspective",
+      "hasAbstract": true,
+      "referenceCount": 50,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-03",
+      "depositDate": "2025-10-10",
+      "issueOrPeriod": "v2i7",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yao",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chia-Han",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shyhnan",
+          "family_name": "Liou"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ying",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Hongci",
+          "family_name": "Lu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i6.312",
+      "title": "Exploring the Relationship between Social Environment, Teaching Ability, and Academic Achievement among Preschool Education Major Students in Chinese Colleges: A Conceptual Framework",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-19",
+      "depositDate": "2025-06-10",
+      "issueOrPeriod": "v2i6",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Min",
+          "family_name": "He"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yasmin Binti",
+          "family_name": "Hussain"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i5.291",
+      "title": "A Review of Adolescents' Digital Self-Efficacy: Conceptualization, Measurement, Impacts, Influencing Factors, and Future Directions",
+      "hasAbstract": true,
+      "referenceCount": 146,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-25",
+      "depositDate": "2025-05-07",
+      "issueOrPeriod": "v2i5",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Qing",
+          "family_name": "Tan"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenzhuo",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Siying",
+          "family_name": "An"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i4.216",
+      "title": "Exploring the Triangular Relationship Among Corporate Social Responsibility (CSR), Carbon Emissions, and Corporate Value: An Empirical Investigation",
+      "hasAbstract": true,
+      "referenceCount": 32,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-28",
+      "depositDate": "2025-03-31",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shubin",
+          "family_name": "Yin"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v2i3.196",
+      "title": "Understanding Chinese University Students’ Preferences for Nature-based Recreation in Urban Parks",
+      "hasAbstract": true,
+      "referenceCount": 36,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-05",
+      "depositDate": "2025-03-05",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zengfeng",
+          "family_name": "MA"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.2025v2i2.124-131",
+      "title": "The Financial Dilemma and Industry Warning Behind the JIYUE Automobile Bankruptcy Incident",
+      "hasAbstract": true,
+      "referenceCount": 12,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-02-05",
+      "depositDate": "2025-02-06",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lu",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuying",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaodan",
+          "family_name": "Hu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.2025v2i1.19-35",
+      "title": "Research on the influence of equity pledge on corporate performance of cultural media listed companies",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-01-05",
+      "depositDate": "2025-01-06",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jian",
+          "family_name": "Xi"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuting",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lu",
+          "family_name": "Yang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.458",
+      "title": "When Profits Lie: How Book-Tax Differences Signal Declining Firm Performance",
+      "hasAbstract": true,
+      "referenceCount": 22,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-16",
+      "depositDate": "2026-03-18",
+      "issueOrPeriod": "v3i1",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "Nnamdi Azikiwe University , NG",
+          "orcid": null,
+          "given_name": "Chiamaka",
+          "family_name": "Anaike"
+        },
+        {
+          "affiliation": "Nnamdi Azikiwe University , NG",
+          "orcid": null,
+          "given_name": "Gilbert",
+          "family_name": "Nworie"
+        },
+        {
+          "affiliation": "University of Ilorin , NG",
+          "orcid": null,
+          "given_name": "Titilayo",
+          "family_name": "Shehu"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 30,
+    "meets_target": true,
+    "spans_multiple_periods": true,
+    "note": "sample of 30 meets the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71113/jcsis.v3i1.509",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.562",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.472",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.v2i7.365",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.v2i6.314",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.v2i5.296",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.v2i4.244",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.v2i3.204",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.2025v2i2.142-147",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcsis.2025v2i1.1-18",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 7,
+      "activeWindows": 6
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2024-12-05",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

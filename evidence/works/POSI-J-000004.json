@@ -1,0 +1,512 @@
+{
+  "posi_id": "POSI-J-000004",
+  "journal_code": "hnex",
+  "title": "Health Nexus: Interdisciplinary Medical Research Journal",
+  "issn_queried": "3053-7037",
+  "crossref_status": 200,
+  "total_results": 10,
+  "works_fetched": 10,
+  "article_sample": [
+    {
+      "doi": "10.63802/hn.v2.2026.154",
+      "title": "[Retracted] Steroid-Eluting Implants for Chronic Rhinosinusitis with nasal polyps: A Comparative Review of Propel and Sinuva for Post-Endoscopic sinus surgery management",
+      "hasAbstract": true,
+      "referenceCount": 35,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-14",
+      "depositDate": "2026-06-03",
+      "issueOrPeriod": "v2i?",
+      "containerTitle": "Health Nexus",
+      "authors": [
+        {
+          "affiliation": "Dow University of Health Sciences, Karachi, Pakistan",
+          "orcid": "0009-0003-5588-5926",
+          "given_name": "Muhammad Khurshid",
+          "family_name": "Siddiqui"
+        },
+        {
+          "affiliation": "Dow University of Health Sciences, Karachi, Pakistan",
+          "orcid": "0009-0001-6699-7961",
+          "given_name": "Muhammad",
+          "family_name": "Anzar"
+        },
+        {
+          "affiliation": "Dow University of Health Sciences, Karachi, Pakistan",
+          "orcid": null,
+          "given_name": "Ahmed",
+          "family_name": "Hasan"
+        },
+        {
+          "affiliation": "Medical College, Aga Khan University, Stadium Road, Karachi 74800, Pakistan",
+          "orcid": "0009-0007-2392-3376",
+          "given_name": "Abdul Hadi",
+          "family_name": "Shahid"
+        },
+        {
+          "affiliation": "Department of Otolaryngology-Head and Neck Surgery, Ruth Km Pfau Civil Hospital, Karachi, Pakistan",
+          "orcid": "0000-0003-2041-2937",
+          "given_name": "Syed Qasim",
+          "family_name": "Hashmi"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.135",
+      "title": "Research Advances and Innovative Optimization Routes of Midwifery Models for Advanced-Age Pregnant Women",
+      "hasAbstract": true,
+      "referenceCount": 72,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-08",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0001-6220-1612",
+          "given_name": "Feifei",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/hn.v2.2026.308",
+      "title": "Rebuilding Public Health Systems in an Era of Converging Crises: A Climate-Sensitive Resilience Framework",
+      "hasAbstract": true,
+      "referenceCount": 64,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-19",
+      "depositDate": "2026-04-19",
+      "issueOrPeriod": "v2i?",
+      "containerTitle": "Health Nexus",
+      "authors": [
+        {
+          "affiliation": "Kookmin University",
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": "Air Force Medical University",
+          "orcid": null,
+          "given_name": "Siheng",
+          "family_name": "Ma"
+        },
+        {
+          "affiliation": "Kookmin University",
+          "orcid": null,
+          "given_name": "Gulifeire",
+          "family_name": "Rousitanmu"
+        },
+        {
+          "affiliation": "College of Life Sciences, Henan University, Kaifeng 475004, China",
+          "orcid": null,
+          "given_name": "Yuxuan",
+          "family_name": "He"
+        },
+        {
+          "affiliation": "China Pharmaceutical University",
+          "orcid": null,
+          "given_name": "Yunze",
+          "family_name": "Lu"
+        },
+        {
+          "affiliation": "Hankuk University of Foreign Studies",
+          "orcid": null,
+          "given_name": "Jialuo",
+          "family_name": "Fang"
+        },
+        {
+          "affiliation": "Shaanxi University of Chinese Medicine",
+          "orcid": null,
+          "given_name": "Jiayi",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": "Xiamen University",
+          "orcid": null,
+          "given_name": "Zhili",
+          "family_name": "Zhu"
+        },
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Qilong",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Xinjiang Medical University",
+          "orcid": "0009-0002-5389-8478",
+          "given_name": "Xingkai",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "Southern University of Science and Technology",
+          "orcid": null,
+          "given_name": "Wanlin",
+          "family_name": "Dong"
+        },
+        {
+          "affiliation": "Shanghai University",
+          "orcid": null,
+          "given_name": "Yufei",
+          "family_name": "Shao"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.169",
+      "title": "Research on the Clinical Application and Development of Integrated Traditional Chinese and Western Medicine in Treating Orthopedic Injuries",
+      "hasAbstract": true,
+      "referenceCount": 20,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-15",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-2521-9427",
+          "given_name": "Jiarui",
+          "family_name": "He"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/healthnexus.v2.2026.267",
+      "title": "Exploring the Mechanisms of Traditional Chinese Medicine Intervention in Ischemic Stroke: A CiteSpace-Based Bibliometric Study and Visualized Analysis",
+      "hasAbstract": true,
+      "referenceCount": 91,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-14",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v2i?",
+      "containerTitle": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ruizhe",
+          "family_name": "Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Qifei",
+          "family_name": "Fu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jinyang",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zijian",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yiyun",
+          "family_name": "Luo"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Songsong",
+          "family_name": "Tan"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chunyang",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaozhen",
+          "family_name": "Ma"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.148",
+      "title": "Research Progress on the CDK4/6 Signaling Pathway and Clinical Application of Its Inhibitors in HR+/HER2- Breast Cancer",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-15",
+      "depositDate": "2026-03-28",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-4081-2317",
+          "given_name": "Xiaowen",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0007-6082-4342",
+          "given_name": "Jinfeng",
+          "family_name": "He"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/healthnexus.v2.2026.155",
+      "title": "Defining the Optimal Timing for Cochlear Implant Activation: A Review of the Literature and Current Practice Variability",
+      "hasAbstract": true,
+      "referenceCount": 22,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-03",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v2i?",
+      "containerTitle": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0007-2392-3376",
+          "given_name": "Abdul Hadi",
+          "family_name": "Shahid"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0000-0003-2041-2937",
+          "given_name": "Syed Qasim",
+          "family_name": "Hashmi"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0005-8063-5026",
+          "given_name": "Marium",
+          "family_name": "Noor"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-5135-6873",
+          "given_name": "Kshuf",
+          "family_name": "Nauman"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.150",
+      "title": "New advances in the treatment of common conjunctivitis: A review",
+      "hasAbstract": true,
+      "referenceCount": 59,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-15",
+      "depositDate": "2026-04-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "authors": [
+        {
+          "affiliation": "The Affiliated People’s Hospital of Jiangsu University; Zhenjiang Kangfu Eye Hospital",
+          "orcid": "0009-0007-3786-5322",
+          "given_name": "Zhiyun",
+          "family_name": "Xiao"
+        },
+        {
+          "affiliation": "The Affiliated People’s Hospital of Jiangsu University; Zhenjiang Kangfu Eye Hospital",
+          "orcid": "0000-0003-1835-255X",
+          "given_name": "Nana",
+          "family_name": "Meng"
+        },
+        {
+          "affiliation": "The Affiliated People’s Hospital of Jiangsu University; Zhenjiang Kangfu Eye Hospital",
+          "orcid": "0009-0005-2012-5518",
+          "given_name": "Min",
+          "family_name": "Zhou"
+        },
+        {
+          "affiliation": "The Affiliated People’s Hospital of Jiangsu University; Zhenjiang Kangfu Eye Hospital",
+          "orcid": "0000-0001-8177-8970",
+          "given_name": "Chunhe",
+          "family_name": "Shi"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.143",
+      "title": "Impact of Continuity of Care on Neonatal Outcomes in Gestational Diabetes Mellitus: A Retrospective Controlled Study",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-03",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0001-6220-1612",
+          "given_name": "Feifei",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-6108-0637",
+          "given_name": "Bing",
+          "family_name": "Yan"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.141",
+      "title": "Continuity of Care and Delivery Outcomes in Pregnant Women with Gestational Diabetes Mellitus: A Retrospective Controlled Study at a Tertiary Hospital in China",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-21",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0001-6220-1612",
+          "given_name": "Feifei",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 10,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 10 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/hn.v2.2026.154",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.135",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/hn.v2.2026.308",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.169",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/healthnexus.v2.2026.267",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.148",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/healthnexus.v2.2026.155",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.150",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.143",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/healthnexus.v1.2025.141",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 3
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-10-15",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

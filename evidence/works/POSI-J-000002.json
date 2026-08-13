@@ -1,0 +1,346 @@
+{
+  "posi_id": "POSI-J-000002",
+  "journal_code": "afs",
+  "title": "AI & Future Society",
+  "issn_queried": "3053-4011",
+  "crossref_status": 200,
+  "total_results": 11,
+  "works_fetched": 11,
+  "article_sample": [
+    {
+      "doi": "10.63802/afs.v2.i1.207",
+      "title": "AI literacy beyond tools: Safeguarding human judgment in research and higher education",
+      "hasAbstract": true,
+      "referenceCount": 70,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-08",
+      "depositDate": "2026-04-08",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": "Feng Chia University",
+          "orcid": "0000-0002-5405-8174",
+          "given_name": "Yueh-Sung",
+          "family_name": "Weng"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.96",
+      "title": "A Study on the Boundaries of Copyright Protection for AI-Generated Content",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-03",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0005-8873-0503",
+          "given_name": "Yun",
+          "family_name": "Pei"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.242",
+      "title": "AI-Mediated Public Decision-Making and Democratic Exclusion: Governance Risks and Accountability Frameworks",
+      "hasAbstract": true,
+      "referenceCount": 22,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-01",
+      "depositDate": "2026-04-06",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0006-1305-1044",
+          "given_name": "Salvatore",
+          "family_name": "Stanizzi"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.93",
+      "title": "A Lacanian Interpretation of Artificial Intelligence Hallucination",
+      "hasAbstract": true,
+      "referenceCount": 20,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-22",
+      "depositDate": "2026-07-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": "North China Electric Power University",
+          "orcid": "0009-0006-0498-5777",
+          "given_name": "Yuhong",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.208",
+      "title": "When AI Weakens Evidence Traceability: Ethical Challenges for Credibility and Responsibility in Digital Forensics",
+      "hasAbstract": true,
+      "referenceCount": 43,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-07",
+      "depositDate": "2026-03-07",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xuzhuo",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.86",
+      "title": "Beyond the Algorithm: How AI is Reshaping Museums, from Preservation to Participation",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-04",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-0025-1591",
+          "given_name": "Zihan",
+          "family_name": "Yu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.198",
+      "title": "Integrating Artificial Intelligence into Middle School Education: Pathways, Challenges, and an Ethical Reappraisal from a Practitioner-Scholar Perspective",
+      "hasAbstract": true,
+      "referenceCount": 40,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-09",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaoling",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenwen",
+          "family_name": "Xu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.80",
+      "title": "Building Trustworthy AI: Transparency, Fairness, and Governance in the Digital Age",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-02",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-2383-8566",
+          "given_name": "Enjian",
+          "family_name": "Liu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.215",
+      "title": "When Robots Become More Human: Emotional Disruption and the Boundaries of Social Acceptance",
+      "hasAbstract": true,
+      "referenceCount": 1,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-03",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yang",
+          "family_name": "Hu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.79",
+      "title": "An Equitable Framework for the Proposed World AI Organization Informed by the 2025 World AI Conference",
+      "hasAbstract": true,
+      "referenceCount": 4,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-22",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0004-4754-6534",
+          "given_name": "Zekai",
+          "family_name": "Yu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.162",
+      "title": "AI-Assisted Intercultural EFL Pedagogy: An Activity-Theoretical Teaching Model for Cultural Awareness and Communication",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-01",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0004-7622-2459",
+          "given_name": "Hui",
+          "family_name": "Nie"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 11,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 11 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/afs.v2.i1.207",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.96",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.242",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.93",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.208",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.86",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.198",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.80",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v2.i1.215",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v1.i1.79",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 1,
+      "metWindows": 1
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 3
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-09-22",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

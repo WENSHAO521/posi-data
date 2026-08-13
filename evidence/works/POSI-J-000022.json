@@ -1,0 +1,490 @@
+{
+  "posi_id": "POSI-J-000022",
+  "journal_code": "smn",
+  "title": "医学与护理",
+  "issn_queried": "3106-3713",
+  "crossref_status": 200,
+  "total_results": 9,
+  "works_fetched": 9,
+  "article_sample": [
+    {
+      "doi": "10.71411/smn.2025.v1i1.1167",
+      "title": "靶向m⁶A调控因子的肿瘤治疗策略研究进展：从机制到临床转化",
+      "hasAbstract": true,
+      "referenceCount": 52,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-09",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "莫林烽"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴红梅"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "覃艳"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "谭演清"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赖庆富"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李威君"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.1163",
+      "title": "m⁶A RNA甲基化修饰在肿瘤中的作用机制与功能研究进展",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-09",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "林烽",
+          "family_name": "莫"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "艳",
+          "family_name": "覃"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "红梅",
+          "family_name": "吴"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "威君",
+          "family_name": "李"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "演清",
+          "family_name": "谭"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.1036",
+      "title": "月经作为生命体征:周期、经量及颜色在女性健康监测中的意义解析",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-03",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "蒲蕊"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈凯"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "胡芸菲"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "田志鹏"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郑彧涵"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "朱茂"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.1144",
+      "title": "基于中医体质辨识的中式茶饮配方优化与应用研究",
+      "hasAbstract": true,
+      "referenceCount": 25,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-03",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘畅"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "黄文怡"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赖欣怡"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郑传苹"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "林佳源"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郭贵"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "连彩虹"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.885",
+      "title": "饮食中糖盐摄入剂量与高血压、高血糖患病风险的相关性综述",
+      "hasAbstract": true,
+      "referenceCount": 35,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-04",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "何洁",
+          "family_name": "何"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "王琦",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "罗博洋",
+          "family_name": "罗"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "王烁然",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "单馨蕊",
+          "family_name": "单"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "涂爽",
+          "family_name": "涂"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.552",
+      "title": "青年脑卒中病人肌少症研究进展",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "贵婷",
+          "family_name": "徐"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.641",
+      "title": "特发性膜性肾病患者淋巴细胞亚群的比较及影响因素分析",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "赵继涛"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "杨开路"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邵语"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.536",
+      "title": "广州某高校大学生复发性口腔溃疡患病情况研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "宋云旨"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "莫林烽"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张菀鑫"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "熊素琴"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "曹亮启"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "潘登"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.723",
+      "title": "乡村振兴与银发经济双重视角下“归园田居”乡村康养模式的构建",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘林"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈莉萍"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 9,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 9 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/smn.2025.v1i1.1167",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.1163",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.1036",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.1144",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.885",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.552",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.641",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.536",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/smn.2025.v1i1.723",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 3
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-10-25",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

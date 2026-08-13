@@ -1,0 +1,544 @@
+{
+  "posi_id": "POSI-J-000025",
+  "journal_code": "cmas",
+  "title": "Engineering Frontiers",
+  "issn_queried": "3106-0749",
+  "crossref_status": 200,
+  "total_results": 15,
+  "works_fetched": 15,
+  "article_sample": [
+    {
+      "doi": "10.71411/ef.2025.v1i4.1376",
+      "title": "&lt;b&gt;SVM-ECOC Driven Multi-Class Survival Prediction in Primary Biliary Cirrhosis Through Comparative Evaluation of Ensemble and Kernel-Based Machine Learning Approaches&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Fangwei",
+          "family_name": "Xue"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shengran",
+          "family_name": "Zhao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Peilin Han"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i3.1350",
+      "title": "&lt;b&gt;Research on Underwater Image Enhancement Techniques in Complex Scenarios&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yichen",
+          "family_name": "GU"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaoyu",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jingqi",
+          "family_name": "Liang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenting",
+          "family_name": "Shi"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i2.1374",
+      "title": "Task Affinity-Aware Scheduling for Multi-Core Edge Devices in Autonomous Vehicles",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-04-15",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zihe",
+          "family_name": "Hao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i5.1380",
+      "title": "&lt;b&gt;A Comparative Study of Machine Learning Methods for Lithium-ion Battery Remaining Useful Life Prediction&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shuhe",
+          "family_name": "Cui"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yiqing",
+          "family_name": "Du"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yongpeng",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhiyuan",
+          "family_name": "Yang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i1.936",
+      "title": "&lt;b&gt;Research on the Planning of an Intelligent 5G Remote Medical Information System for a Large Hospital in a Certain City&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Ming Tang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i4.1373",
+      "title": "Practical Paths for Local Logistics Enterprises to Lead Industry Development: From Tech R&amp;amp;D, Standardization to Industry Empowerment",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yanfang",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i3.1372",
+      "title": "Analysis of the Technical Application and Effectiveness of Intelligent Algorithms Empowering Regional Logistics Resource Matching",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yanfang",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i2.941",
+      "title": "&lt;b&gt;Machine Learning-Based Fault Detection for UR3 Collaborative Robot: A Multimodal Data Analysis Approach&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Shida Liu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i1.935",
+      "title": "&lt;b&gt;Editorial:&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;b&gt;From Optimization to Adaptation: The Resilience Paradigm in Twenty-First Century Engineering&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yinzi Shao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i4.1375",
+      "title": "Fault-Tolerant Real-Time Scheduling for Edge AI in US Critical Infrastructure",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zihe",
+          "family_name": "Hao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i3.1379",
+      "title": "&lt;b&gt;Applications of Artificial Intelligence in Engineering: Current Status, Challenges, and Future Perspectives&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zerui",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Man",
+          "family_name": "Lu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i2.942",
+      "title": "&lt;b&gt;Research on Short-Term Probability Forecasting Methods for Photovoltaic Power Generation Based on Multi-Source Data Fusion and Feature Engineering&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Qiuhe Feng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Geyang Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Zhaoxi Zhao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i1.939",
+      "title": "&lt;b&gt;Forecasting China’s Nuclear Power Generation to 2030: An ARIMA Model-Based Trend Analysis&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yutao Luo"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yinzi Shao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Bowen Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Ke Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Shida Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Zhongyuan Yuan"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Shijing Sang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i2.940",
+      "title": "&lt;b&gt;Editorial:&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;b&gt;Pioneering Multidisciplinary Engineering Solutions for Global Challenges&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yuewen Gao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i1.938",
+      "title": "&lt;b&gt;Predictive Modeling of Mortality Risk in Heart Failure Patients Using Logistic Regression Analysis of Clinical Features&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Fangwei Xue"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Peilin Han"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yutao Luo"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Shengran Zhao"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 15,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 15 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "not_met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/ef.2025.v1i4.1376",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i3.1350",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i2.1374",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i5.1380",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i1.936",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i4.1373",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i3.1372",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i2.941",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i1.935",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i4.1375",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 3,
+      "activeWindows": 2
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-12-02",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

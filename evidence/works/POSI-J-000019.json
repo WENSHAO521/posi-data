@@ -1,0 +1,661 @@
+{
+  "posi_id": "POSI-J-000019",
+  "journal_code": "zgwxxk",
+  "title": "中国文学学刊",
+  "issn_queried": "3106-3675",
+  "crossref_status": 200,
+  "total_results": 24,
+  "works_fetched": 24,
+  "article_sample": [
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.877",
+      "title": "《全唐诗重出误收考》之薛能诗重考",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "小莹",
+          "family_name": "王"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.639",
+      "title": "道德与功名:论《史记》士人的两难困境与精神突围——基于《史记》士人典型形象分析",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "岳素芳"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.809",
+      "title": "论《太平广记》怪类类目之“互文性”",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "苏劲宇"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.689",
+      "title": "汉魏六朝七言古诗的几种用韵方式——兼谈歌行体的“两调”“两体”问题",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "时宇骅"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.865",
+      "title": "《诗经》中的感伤叙事",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李莘"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.871",
+      "title": "保存与遗忘之间：数字技术与个体记忆焦虑",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "孙钰瑶"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.997",
+      "title": "“关盼盼”形象的文学发现与燕子楼故事的生成",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王吴毓"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "韩誉"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.638",
+      "title": "话语建构与底层叙事：班宇小说的多维解读",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张桂鑫"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.1435",
+      "title": "《周颂》原始形态与今本成因蠡测",
+      "hasAbstract": true,
+      "referenceCount": 25,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "袁泽宇"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.679",
+      "title": "从贤人到仙人：唐前隐士形象的演变",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郭中华"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "高梁"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.1249",
+      "title": "江苏竹枝词中的“桥”意象与空间建构研究",
+      "hasAbstract": true,
+      "referenceCount": 21,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李新城"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.808",
+      "title": "从“闺怨”到“女性主义”：雷克斯罗斯对漱玉词女性形象的改写",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "苏劲宇"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i3.1019",
+      "title": "互文与述礼：《论语·乡党》之聘礼仪节考论",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "苗健"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.964",
+      "title": "古典诗学研究的学术进境——2024 年中国诗学研究年度概要（通代部分）",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘亚文"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.1601",
+      "title": "革命与抒情：近代潮汕报刊文学图像研究",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李国平"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈奕君"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.647",
+      "title": "宋代理学家张栻的思想文化探析——以陈谷嘉《张栻传》为引",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈矿"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.807",
+      "title": "《周公之琴舞》与周初德性政治观初探",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "伏嵩伟"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.643",
+      "title": "“被凝视的他者”：《红楼梦》与《碎镜》中男性形象的女性视角解读",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-30",
+      "depositDate": "2026-02-02",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "卓仁",
+          "family_name": "刘"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "焕通",
+          "family_name": "吴"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "唐巍"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.1472",
+      "title": "从娱乐到启蒙：广府南音在《时事画报》中的新变研究",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邬若兰"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2025.v1i1.679",
+      "title": "从贤人到仙人：唐前隐士形象的演变",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-06",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郭中华"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "高梁"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.796",
+      "title": "白居易家妓“小蛮”本事考辨——兼论其“诗事互证”法之反思",
+      "hasAbstract": true,
+      "referenceCount": 30,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "杨家豪"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2025.v1i1.638",
+      "title": "话语建构与底层叙事：班宇小说的多维解读",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-06",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张桂鑫"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.732",
+      "title": "文学与空间的互动：词僧的地域分布、成因及影响研究",
+      "hasAbstract": true,
+      "referenceCount": 30,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "周梦"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgwxxk.2025.v1i1.643",
+      "title": "&lt;b&gt;“被凝视的他者”：《红楼梦》与《碎镜》中男性形象的女性视角解读&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-25",
+      "depositDate": "2025-12-06",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国文学学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "卓仁",
+          "family_name": "刘"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "焕通",
+          "family_name": "吴"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "唐巍"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 24,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 24 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.877",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.639",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.809",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.689",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.865",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.871",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.997",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.638",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i2.1435",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgwxxk.2026.v1i1.679",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 2
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-10-25",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

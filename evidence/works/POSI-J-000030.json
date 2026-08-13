@@ -1,0 +1,43 @@
+{
+  "posi_id": "POSI-J-000030",
+  "journal_code": "dif-rfp",
+  "title": "Digital Intelligence Frontiers",
+  "issn_queried": "3135-0011",
+  "crossref_status": 404,
+  "total_results": null,
+  "works_fetched": 0,
+  "article_sample": [],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 0,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 0 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "unknown",
+    "crossref_metadata_completeness": "unknown",
+    "abstract_reference_license_metadata": "unknown",
+    "structured_author_affiliation_identifiers": "unknown",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "unknown"
+  },
+  "doi_resolution_checks": [],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 0,
+      "activeWindows": 0
+    },
+    "deposit_timeliness": "unknown"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": null,
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13",
+  "note": "Crossref has no works registered under this ISSN"
+}

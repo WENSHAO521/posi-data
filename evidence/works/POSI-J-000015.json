@@ -1,0 +1,419 @@
+{
+  "posi_id": "POSI-J-000015",
+  "journal_code": "jcac",
+  "title": "Journal of Contemporary Art Criticism",
+  "issn_queried": "3079-7489",
+  "crossref_status": 200,
+  "total_results": 13,
+  "works_fetched": 13,
+  "article_sample": [
+    {
+      "doi": "10.71113/jcac.v1i2.325",
+      "title": "From Tradition to Modernity:  Research on the digital transformation of intangible cultural heritage of ethnic festivals with small populations in the process of Chinese-style modernisation.",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-15",
+      "depositDate": "2025-09-23",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Hui",
+          "family_name": "Jiang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.324",
+      "title": "Ethical boundary and governance path of commercial application of sports event data",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-29",
+      "depositDate": "2025-07-18",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chuan",
+          "family_name": "Zhu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yucheng",
+          "family_name": "Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lili",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i2.352",
+      "title": "Precarious Attachments: A Critical Reading of Judith Butler’s The Psychic Life of Power: Theories in Subjection (1997)",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-02",
+      "depositDate": "2025-09-23",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Juntao",
+          "family_name": "Yang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.317",
+      "title": "Digital Geopolitics and Globalization:  A Comparative Study of TikTok and K-pop",
+      "hasAbstract": true,
+      "referenceCount": 47,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-22",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "HaiMing",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.316",
+      "title": "Artificial Intelligence: Forcing the All-Round Dimension Upgrade of Human Civilization",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-22",
+      "depositDate": "2025-07-18",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhengrong",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Qunyan",
+          "family_name": "Peng"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.240",
+      "title": "Happiness is the balance between freedom and legitimacy ——Narrative analysis of Alice Munro's \"Free Radicals\"",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-17",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jurong",
+          "family_name": "Bai"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.307",
+      "title": "Reiki in Digital Art Therapy: Interdisciplinary Practice in the Fourth Industrial Revolution",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-13",
+      "depositDate": "2025-07-18",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yiu Kwong",
+          "family_name": "Au-Yeung"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.305",
+      "title": "The Current Status and Optimization Strategies of Popular Music Education in Chinese Universities under the Context of Technological Transformation",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-12",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Nuan",
+          "family_name": "Zheng"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.304",
+      "title": "Antipodal intelligent music mixing mechanism: theoretical framework based on deep feature deinterleaving",
+      "hasAbstract": true,
+      "referenceCount": 14,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-12",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Mingyang",
+          "family_name": "Yong"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.300",
+      "title": "New Quality Productivity Enabling High Quality Development of Ice and Snow Economy: Logical Mechanisms, Key Dimensions and Promotion Strategies",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-11",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yucheng",
+          "family_name": "Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chuan",
+          "family_name": "Zhu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xuanjun",
+          "family_name": "Lu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhenchen",
+          "family_name": "Cui"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lili",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.302",
+      "title": "The Illusion of “Authenticity”: Ethical Dilemmas and Aesthetic Imagination in Pop Music Creation in the Age of AI",
+      "hasAbstract": true,
+      "referenceCount": 29,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-11",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Sitan",
+          "family_name": "Yang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.288",
+      "title": "Lighting as a Pen: Exploring the Role of 3D Virtual Stage Lighting in the Emotional Pull of Dance Creation through ‘The Great Qin’",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-10",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ning",
+          "family_name": "Xiong"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.283",
+      "title": "An Interdisciplinary Study of the Unconscious Structures in AI-Generated Music Based on Suno",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-09",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Long",
+          "family_name": "Huang"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 13,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 13 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71113/jcac.v1i2.325",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.324",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i2.352",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.317",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.316",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.240",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.307",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.305",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.304",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.300",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 6,
+      "activeWindows": 2
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-04-03",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

@@ -1,0 +1,41 @@
+{
+  "input_journals": 31,
+  "journals_with_issn": 31,
+  "journals_with_no_issn": 0,
+  "journals_with_crossref_404": 1,
+  "journals_with_sufficient_sample": 21,
+  "journals_meeting_target_sample": 9,
+  "journals_with_zero_works": 1,
+  "total_works_fetched": 1060,
+  "infrastructure_item_status_counts": {
+    "doi_resolution_reliability": {
+      "met": 30,
+      "unknown": 1
+    },
+    "crossref_metadata_completeness": {
+      "met": 30,
+      "unknown": 1
+    },
+    "abstract_reference_license_metadata": {
+      "met": 29,
+      "not_met": 1,
+      "unknown": 1
+    },
+    "structured_author_affiliation_identifiers": {
+      "not_met": 20,
+      "met": 10,
+      "unknown": 1
+    },
+    "oai_pmh_schema_org_machine_readable": {
+      "met": 17,
+      "unknown": 14
+    },
+    "digital_preservation_archiving": {
+      "not_met": 30,
+      "unknown": 1
+    }
+  },
+  "journals_with_computable_cadence": 9,
+  "journals_with_oai_pmh_checked": 20,
+  "journals_with_oai_pmh_ok": 17
+}

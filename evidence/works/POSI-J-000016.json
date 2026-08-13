@@ -1,0 +1,919 @@
+{
+  "posi_id": "POSI-J-000016",
+  "journal_code": "rwxk",
+  "title": "人文学刊",
+  "issn_queried": "3104-5022",
+  "crossref_status": 200,
+  "total_results": 175,
+  "works_fetched": 175,
+  "article_sample": [
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1398",
+      "title": "岭南文化虚拟现实人才能力图谱与课程群设计研究",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-13",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "潘雨沛"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1488",
+      "title": "理性主义的局限与有机性的超越：论霍米亚科夫历史哲学的批判与建构",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "谢淑娟"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i7.1017",
+      "title": "数字人文视角下古籍类知识图谱构建与价值转换——以《海错图》为例",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "于旻杉"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i4.511",
+      "title": "虚拟具身与数字交往：手游玩家主体性建构的具身传播研究——以《王者荣耀》为例",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "敬如",
+          "family_name": "刘"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "雪涵",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彤",
+          "family_name": "章"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i1.227",
+      "title": "广州纸厂旧址工业遗产的数字化保护与展示",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-27",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "黎文珍"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "伍荧荧"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈桂权"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1555",
+      "title": "从“器物迁移”到“文化共鸣”：潍坊嵌银髹漆技艺的跨文化设计转化路径研究",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王辛曼"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1445",
+      "title": "信阳毛尖茶制作技艺非遗的知识产权保护研究",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘静"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i7.960",
+      "title": "《恋人絮语》与罗兰巴特的解构主义文本实验",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "胡佳铭"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i4.509",
+      "title": "“时空结合”在跨学科主题学习中的应用研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张开"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴振华"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "贺军亮"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i1.206",
+      "title": "新结构“人工智能+智慧农业″视角下的区域发展与经济转型一一基于兰州榆中县新农村的分析",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-10",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郭杨"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "罗夲"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1504",
+      "title": "晚清民国教育家王亨彦乡土教育中的家国情怀及其当代价值",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "潘舒婷"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "邵晓敏"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李响"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李伟强"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1441",
+      "title": "数字经济下常设机构的认定规则的新发展与我国应对",
+      "hasAbstract": true,
+      "referenceCount": 36,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "程黎"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i7.966",
+      "title": "虚拟现实交互设计专业选修课教学策略研究",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "潘雨沛"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i4.564",
+      "title": "站到词与词之间：论托卡尔丘克《云游》的媒介超越性",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "星宇",
+          "family_name": "姜"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i1.154",
+      "title": "论东汉宦官在教育科学文化领域的贡献",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-06",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "范宇飞"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1540",
+      "title": "《文字蒙求》与《说文解字注》训诂比较研究",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "胡雅哲"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i1.1031",
+      "title": "浅析文化遗产的IP构建与创造性转化路径——以舞蹈诗剧《只此青绿》为例",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "聂羽希"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i7.998",
+      "title": "小学生“乡土乡情”研学实施策略与反思——以范公亭研学为例",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘佳佳"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘卓娅"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘紫玥"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "何睦"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "韩东旭"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘丰惠"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "朱增柔"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "翟培宇"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "许美奕"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘滨雁"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i4.489",
+      "title": "智能时代媒体人的算法焦虑与应对策略",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "章彤",
+          "family_name": "章"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "王雪涵",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "刘敬如"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i1.159",
+      "title": "基层治理现代化背景下社会工作者能力水平提高策略研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-06",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李晨子晗"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i4.1388",
+      "title": "三产融合视角下餐饮空间文化符号的融合路径研究——以阳东牛大力产业园为例",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-25",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "麦可意"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i1.1146",
+      "title": "德川幕府锁国期出岛荷兰商馆的营建及运作",
+      "hasAbstract": true,
+      "referenceCount": 28,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "兰星",
+          "family_name": "张"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "宇洋",
+          "family_name": "田"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i7.889",
+      "title": "数字化时代文化消费的结构性嬗变与治理逻辑",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李颖珊"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i4.510",
+      "title": "双向赋能：广东红色文化与高校思政课的耦合机制及实践路径研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "周小红"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i4.1389",
+      "title": "中国式现代化视域下新时代青年使命担当的培育路径研究",
+      "hasAbstract": true,
+      "referenceCount": 14,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-25",
+      "depositDate": "2026-06-01",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "修泽强"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "李艳华"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i1.1034",
+      "title": "为党献身常汲汲：谢觉哉爱国主义思想及当代价值",
+      "hasAbstract": true,
+      "referenceCount": 19,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "范记川"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "周帅"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王冬桂"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "王鹏"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i7.992",
+      "title": "基于企业人才需求的AIGC 赋能数字摄影摄像课程体系重构与实践",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2025-Q4",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "张绮媚"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "叶影玲"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i4.555",
+      "title": "纪实与展现：体育报告文学中的身体叙事研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "2025-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "统舟",
+          "family_name": "张"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "祥明",
+          "family_name": "朱"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i4.1314",
+      "title": "数智化转型背景下国际中文教育的生态重构与实践探索",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-25",
+      "depositDate": "2026-06-01",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "鲍思怡"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i1.1023",
+      "title": "基于综合策略的名人故居保护与活化研究——以嵊州袁雪芬故居为例",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-25",
+      "depositDate": "2026-02-05",
+      "issueOrPeriod": "2026-Q1",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈甜甜"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "吴晓珍"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "何情达"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 30,
+    "meets_target": true,
+    "spans_multiple_periods": true,
+    "note": "sample of 30 meets the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1398",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1488",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i7.1017",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i4.511",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i1.227",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1555",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2026.v1i5.1445",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i7.960",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i4.509",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rwxk.2025.v1i1.206",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 5,
+      "activeWindows": 5
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-06-06",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

@@ -1,0 +1,901 @@
+{
+  "posi_id": "POSI-J-000029",
+  "journal_code": "tjiss",
+  "title": "The Journal of Interactive Social Sciences",
+  "issn_queried": "3030-5322",
+  "crossref_status": 200,
+  "total_results": 38,
+  "works_fetched": 38,
+  "article_sample": [
+    {
+      "doi": "10.64744/tjiss.2026.263",
+      "title": "&lt;b&gt;Toward a Relational Theory of Inclusive Physical Education: A Conceptual Framework for Interpersonal Interaction in Sports Pedagogy&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-12-02",
+      "depositDate": "2026-08-01",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ke",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Haoran",
+          "family_name": "Xu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Bohao",
+          "family_name": "Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yijia",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhaoyu",
+          "family_name": "Zheng"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.257",
+      "title": "&lt;b&gt;Examining the Effects of Teacher Support and Collaborative Learning on Critical Thinking in College English Classrooms: The Mediating Role of Learning Engagement&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-04",
+      "depositDate": "2026-07-27",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jing",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Suthagar",
+          "family_name": "Narasuman"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.238",
+      "title": "&lt;b&gt;The Impact of Online Fitness on Physical Activity Levels and Health Among Sedentary Office Workers&lt;/b&gt;&lt;b&gt;&lt;/b&gt; &lt;b&gt;——&lt;/b&gt;&lt;b&gt; A Case Study of the Liu Genghong Phenomenon&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-03",
+      "depositDate": "2026-07-03",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yimao Yin"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Dexin Feng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yanhong Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.128",
+      "title": "&lt;b&gt;The Research of TikTok Addiction: An Analysis of Information System Quality and Flow Experience Perspective&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-12",
+      "depositDate": "2026-03-12",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yao",
+          "family_name": "Qin"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.42",
+      "title": "&lt;b&gt;A Visual Analysis of Sports Interest Research in China Since the 1990s Based on Citespace&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-15",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Huiran",
+          "family_name": "Feng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenying",
+          "family_name": "Huang"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.36",
+      "title": "&lt;b&gt;Research On the Impact Of Grassroots Governance Efficiency On Common Prosperity In Ethnic Minority Areas In Yunnan Under The Background Of Rural Revitalization&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-23",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "2764422055@qq.com",
+          "orcid": null,
+          "given_name": "Yuxi",
+          "family_name": "Hou"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.45",
+      "title": "Research on difficulties and strategies of home-school cooperation under the background of educational informatization",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-20",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "15223425375",
+          "orcid": null,
+          "given_name": "江",
+          "family_name": "河"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.8",
+      "title": "&lt;b&gt;Analysis of the Spatiotemporal Evolution of Industrial Structure Level in the \"Ji\" Shape Bend of the Yellow River Urban Agglomeration&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-16",
+      "depositDate": "2025-08-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "Inner Mongolia University of Technology",
+          "orcid": null,
+          "given_name": "Haohao",
+          "family_name": "Yan"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.258",
+      "title": "&lt;b&gt;Teacher Support, Collaborative Learning, and Critical Thinking Development in College English Classrooms: A PLS-SEM Analysis of the Mediating Role of Deep Learning Strategies&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-12-01",
+      "depositDate": "2026-07-27",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jing",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Suthagar",
+          "family_name": "Narasuman"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.256",
+      "title": "&lt;b&gt;Synchronicity in Generative Art: Empowering Depression Healing&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-02",
+      "depositDate": "2026-07-13",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "1",
+          "family_name": "1"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.239",
+      "title": "&lt;b&gt;Research on the Sustainable Development Path of the Urban Community 15-Minute Fitness Circle Empowered by AI Smart Sports&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-03",
+      "depositDate": "2026-07-03",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Lishu Qin"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yuhang Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.127",
+      "title": "&lt;b&gt;Enhancing Learning Outcomes and Self-Efficacy through Online Learning Interactions: A Comprehensive Study on College Students in China&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-11",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Junjie",
+          "family_name": "Pan"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.12",
+      "title": "&lt;b&gt;An Analysis of the Rise of Women's Cinema from a Semiotic Perspective&lt;/b&gt; &lt;b&gt;A Case Study of the Film Herstory&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-13",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "University Of Science And Technology Of China",
+          "orcid": null,
+          "given_name": "Ziyi",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.37",
+      "title": "&lt;b&gt;The Cartesian Continuity: The Enduring Influence of Descartes' Philosophy on Modern Psychology&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 49,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-15",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "Monash University",
+          "orcid": null,
+          "given_name": "ZEFENG",
+          "family_name": "SUN"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.44",
+      "title": "Integrating Value, Business, and Technology: An AI-empowered Tri-helix Model for Teaching E-commerce English in Vocational Colleges",
+      "hasAbstract": true,
+      "referenceCount": 13,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-15",
+      "depositDate": "2026-04-04",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": "Huizhou Economics and Polytechnic College",
+          "orcid": null,
+          "given_name": "Chuxiao",
+          "family_name": "Cui"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.6",
+      "title": "Research on the Causes and Countermeasures of Psychological Problems among Rural Left-behind Children",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-16",
+      "depositDate": "2025-08-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "Institutional affiliation:Fuzhou University of International Studies and Trade",
+          "orcid": null,
+          "given_name": "Yaxin",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shuhan",
+          "family_name": "Zhong"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Weiyin",
+          "family_name": "Lu"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.253",
+      "title": "A Study on the Design of Portable Hand Exercise Toys for the Elderly Based on Multisensory Interaction",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-01",
+      "depositDate": "2026-07-03",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Junquan Zhu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Shishuo Zheng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Siying Fang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Hongling Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Hong Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.237",
+      "title": "&lt;b&gt;A Study on the Promotion Model of Dragon and Lion Dance as a Traditional Ethnic Sport in Chengdu&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-03",
+      "depositDate": "2026-07-03",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "XueYao Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.126",
+      "title": "&lt;b&gt;Online Learning Interactions on Learning Outcomes Through Flow Experience of Chinese Students&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-09",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yanyan",
+          "family_name": "Fan"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.15",
+      "title": "&lt;b&gt;Intelligent Enhancement and Situational Integration: Research on a Ceramic Teaching Design Framework Driven by AI and AR Dual Wheels&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-10",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "University of Science Malaysia",
+          "orcid": null,
+          "given_name": "Biao",
+          "family_name": "Xu"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.39",
+      "title": "&lt;b&gt;Visual Analysis of Tennis Research in China Over the Past Two Decades Using CiteSpace&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-12",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yan",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenying",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Chi",
+          "family_name": "Zhou"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.60",
+      "title": "&lt;b&gt;The Transformation of Physical Education Teachers' Roles in the Digital Transformation of Physical Education: Logical Rationale, Realistic Dilemmas, and Promotion Strategies&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-12",
+      "depositDate": "2025-11-25",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yun",
+          "family_name": "Guo"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.11",
+      "title": "A Study on the Factors Affecting Consumer Trust in Meituan's Accommodation Booking Business",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-16",
+      "depositDate": "2025-08-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "University of science and technology of china",
+          "orcid": null,
+          "given_name": "Ziyi",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.236",
+      "title": "&lt;b&gt;Research on the Current Situation and Countermeasures of the Development of &lt;/b&gt;Mini-basketball &lt;b&gt;in Donghe Primary School, Wangcang County&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-20",
+      "depositDate": "2026-06-03",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Wang Mingming"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yin He"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Fu Di"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.27",
+      "title": "&lt;b&gt;Causes of and Intervention Strategies for Chinese College Students&lt;/b&gt;&lt;b&gt;’&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;b&gt;“&lt;/b&gt;&lt;b&gt;Slow Employment&lt;/b&gt;&lt;b&gt;”&lt;/b&gt;&lt;b&gt;: A Study in Grounded Theory&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 55,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-08",
+      "depositDate": "2026-04-04",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": "Wuhan Business University",
+          "orcid": null,
+          "given_name": "Ying",
+          "family_name": "Zhan"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Fanjinjun",
+          "family_name": "Zeng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Aohan",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.28",
+      "title": "&lt;b&gt;The Impact of One-Year UK Master’s Programme on the Identity of Chinese International Students: A Case Study Based on Xiaohongshu&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 57,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-08",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "URV",
+          "orcid": null,
+          "given_name": "QI",
+          "family_name": "HUANG"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.46",
+      "title": "&lt;b&gt;The Promotive Effects of Aerobic Exercise on Emotional Well-being and Its Mechanisms: A Review Based on Multi-Group Research&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-08",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Biao",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenying",
+          "family_name": "Huang"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.23",
+      "title": "&lt;b&gt;Green Management of Sports Events from a Twin Transformation Perspective How Digitalization Empowers Sustainable Events&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-08",
+      "depositDate": "2025-12-27",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuhang",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Tongxin",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Dexin",
+          "family_name": "Feng"
+        },
+        {
+          "affiliation": "Chongqing Yongchuan District Culture and Tourism Development Commission",
+          "orcid": null,
+          "given_name": "Zhengxiao",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zijun",
+          "family_name": "Lei"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.7",
+      "title": "Research on Innovative Development Strategies for Digitalization in Enhancing University Track and Field Training",
+      "hasAbstract": true,
+      "referenceCount": 3,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-16",
+      "depositDate": "2025-08-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "Hunan Institute of Science and Technology",
+          "orcid": null,
+          "given_name": "Taotao",
+          "family_name": "Xiong"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.234",
+      "title": "&lt;b&gt;Construction Management Factors Influencing Concrete Crack Formation and Quality Control in Building Projects&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-15",
+      "depositDate": "2026-05-21",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "RAN XU"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 30,
+    "meets_target": true,
+    "spans_multiple_periods": true,
+    "note": "sample of 30 meets the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.64744/tjiss.2026.263",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2026.257",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2026.238",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2026.128",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2025.42",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2025.36",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2025.45",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2025.8",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2026.258",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2026.256",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": false,
+    "http_status": null,
+    "error": "terminated"
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 5,
+      "metWindows": 5
+    },
+    "continuity": {
+      "totalWindows": 6,
+      "activeWindows": 6
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-03-16",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

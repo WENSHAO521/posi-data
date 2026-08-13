@@ -1,0 +1,889 @@
+{
+  "posi_id": "POSI-J-000018",
+  "journal_code": "jassp",
+  "title": "Journal of Asia Social Science Practice",
+  "issn_queried": "3079-7659",
+  "crossref_status": 200,
+  "total_results": 43,
+  "works_fetched": 43,
+  "article_sample": [
+    {
+      "doi": "10.71411/jassp.2026.1401",
+      "title": "A Study on the Allocation of Regional Educational Resources and Governance Mechanisms from the Perspective of Educational Equity &lt;i&gt;&lt;/i&gt;",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-03",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaolan",
+          "family_name": "He"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2026.1081",
+      "title": "A Systematic Review of Social Media's Dual Impact on Cosmetisurgery: From Empowerment to Vulnerability",
+      "hasAbstract": true,
+      "referenceCount": 40,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-12",
+      "depositDate": "2026-03-27",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Kong Weixu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.790",
+      "title": "Social and Cultural Factors of Loneliness among Youth",
+      "hasAbstract": true,
+      "referenceCount": 27,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-24",
+      "depositDate": "2026-01-26",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Mariana",
+          "family_name": "Yuryevna Lokova"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.415",
+      "title": "Research on the Collaborative Mechanism of Cultural Heritage Conservation from the Perspective of Citizen Science Based on the “Quadruple Helix + Culture” Model",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-25",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Zhang Ziyi"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.526",
+      "title": "The Gongfu Theory in Liu Zhi’s Tianfang Xingli: With a Discussion on His Absorption and Transformation of Confucian Thought",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-25",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Wang Zhengqi"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.136",
+      "title": "Philosophical Construction and Educational Practice of Cai Yuanpei's Aesthetic Education Thought",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-01",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Hui",
+          "family_name": "Nie"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.19",
+      "title": "The Irreplaceable Role of Tradition in Modern Education: A Global View from China",
+      "hasAbstract": true,
+      "referenceCount": 21,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-30",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Huang",
+          "family_name": "Zeng"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2026.1424",
+      "title": "Barriers and Promotion Strategies for Physical Activity Among Deaf College Students: A Narrative Review",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-03",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xinjuan",
+          "family_name": "Zhao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Haibo",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2026.1140",
+      "title": "Teaching Reform and Practice Exploration of the “Water Quality Engineering” Course",
+      "hasAbstract": true,
+      "referenceCount": 5,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-12",
+      "depositDate": "2026-03-27",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Haijun",
+          "family_name": "Lu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Na",
+          "family_name": "Wei"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "YIQIE",
+          "family_name": "DONG"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2026.778",
+      "title": "Design and Implementation of an Intelligent Primary Sorting System for Municipal Solid Waste Using QR Codes and Artificial Intelligence in the Context of Kazakhstan",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-24",
+      "depositDate": "2026-01-26",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Mendikeyev",
+          "family_name": "Kanat Bolatbekovich"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.485",
+      "title": "An Exploration of the Digital Empowerment of Ancient Villages in the Context of Artificial Intelligence: A Case Study of Furong Ancient Village in Wenzhou",
+      "hasAbstract": true,
+      "referenceCount": 14,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-25",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Chen Huangwanhong"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Cai  Jianmei"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Xu renan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.518",
+      "title": "The War of Words: A Discourse Study of the US-China Trade War",
+      "hasAbstract": true,
+      "referenceCount": 77,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-23",
+      "depositDate": "2026-01-23",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yongqi",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.55",
+      "title": "Legal Personhood of DAOs under Macau Law: Analogical Application of Article 174 of the Commercial Code",
+      "hasAbstract": true,
+      "referenceCount": 67,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-01",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Minwei",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.17",
+      "title": "Research on the Strategy of Anren Bench Dragon to Help Rural Revitalization and Development under the Influence of Sports and Tourism Integration",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-30",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Bo",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yu",
+          "family_name": "Xiong"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2026.1030",
+      "title": "The Dragon Rises: Reframing the Hero’s Journey in Crouching Tiger, Hidden Dragon",
+      "hasAbstract": true,
+      "referenceCount": 23,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-12",
+      "depositDate": "2026-03-27",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Nasrullah",
+          "family_name": "Dharejo"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Mumtaz Aini Alivi"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Gui Jun"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.764",
+      "title": "Rice-Wafer Eastward: Sacramental Networks in East Asian Catholicism, 1880–1910",
+      "hasAbstract": true,
+      "referenceCount": 28,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-25",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ziyuan",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaowei",
+          "family_name": "Ding"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiangyi",
+          "family_name": "Luo"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xianglong",
+          "family_name": "Hong"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Guihong",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.464",
+      "title": "Is the Negative Correlation between Manufacturing Firms’ Performance and ESG Ratings an Isolated Case or Common? — Taking Listed Companies in Anhui Province as an Example",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-19",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yunlei",
+          "family_name": "Yin"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.99",
+      "title": "The Effect of Cooperative Teaching Method on English Learning Interest among Chinese Vocational School Students",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-09-01",
+      "depositDate": "2026-01-26",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Guanghui",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Khairul Zahar",
+          "family_name": "Bin Jamaludin"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Pan",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.27",
+      "title": "The Narrative Expression of Intangible Cultural Heritage in Ideological and Political Education",
+      "hasAbstract": true,
+      "referenceCount": 7,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-30",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Li Yuan"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Xu Yuelan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2026.1171",
+      "title": "Synergistic Effects of Integrating Design Thinking and Regenerative Practices in Business Management Innovation",
+      "hasAbstract": true,
+      "referenceCount": 35,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-02-12",
+      "depositDate": "2026-03-27",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0002-7843-1620",
+          "given_name": "FAN",
+          "family_name": "WANG"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.448",
+      "title": "Theoretical Controversies over the Originality Standard for AI-Generated Content and the Chinese Approach",
+      "hasAbstract": true,
+      "referenceCount": 56,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-29",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "JIE",
+          "family_name": "WANG"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.8",
+      "title": "PROTECTING MALAYSIA'S TECHNOLOGICAL AUTONOMY: INNOVATIVE GOVERNANCE FRAMEWORKS TO COUNTER DIGITAL HEGEMONIES",
+      "hasAbstract": true,
+      "referenceCount": 25,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-16",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "HONGQIANG",
+          "family_name": "ZHAO"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "XIAOTIAN",
+          "family_name": "CUI"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "YIRAN",
+          "family_name": "LI"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.26",
+      "title": "The Impact of Digital Economy Development on the Upgrading of Industrial Structure——Taking the Metropolitan Circle around the \"JI\" Shape Bend of the Yellow River as an Example",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-21",
+      "depositDate": "2026-01-23",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Haohao",
+          "family_name": "Yan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.487",
+      "title": "Analysis of Accessibility and Experience of Special Forces-Style Tourism: Taking Wuhan East Lake as an Example",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-29",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Peng Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Nadia Binti Mohd Nasir"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.5",
+      "title": "An Analysis of the Innovation Status of Xinjiang's Solar Energy Enterprises—Taking JFTC as a Case Study",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-11",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xinliang",
+          "family_name": "Ma"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jiajia",
+          "family_name": "Deng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lina",
+          "family_name": "Tang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaoxuan",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.22",
+      "title": "The Impact of Team-Based Learning and Flipped Classrooms on Students’ Employment in Human Resource Management",
+      "hasAbstract": true,
+      "referenceCount": 35,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-21",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yating",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Hao",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Suchuan",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.78",
+      "title": "Research on the Paths of Rural Women's Labor Force Participation to Facilitate Rural Revitalization in the Context of New Quality Productive Forces",
+      "hasAbstract": true,
+      "referenceCount": 31,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-29",
+      "depositDate": "2026-01-26",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Liang Haiyan"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.16",
+      "title": "Exploring the Application of Virtual Reality in Photography Education: Innovative Approaches and Implications",
+      "hasAbstract": true,
+      "referenceCount": 28,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-03-07",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Hao",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Khairul Zahar",
+          "family_name": "Jamaludin"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.47",
+      "title": "Research on Risk Identification and Prevention Strategies for Logistics Transit Hubs: A Case Study of SF Express Logistics Transit Hub in Nanning, Guangxi",
+      "hasAbstract": true,
+      "referenceCount": 28,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-18",
+      "depositDate": "2026-01-25",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xinyong",
+          "family_name": "Lu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jassp.2025.477",
+      "title": "Multi-dimensional Innovative Revitalization of Lin Zexu’s Cultural Heritage Empowered by Digital Technology",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-29",
+      "depositDate": "2026-01-26",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Asia Social Science Practice",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhijun",
+          "family_name": "Zheng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Feiqing",
+          "family_name": "Long"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 30,
+    "meets_target": true,
+    "spans_multiple_periods": true,
+    "note": "sample of 30 meets the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "not_met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71411/jassp.2026.1401",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2026.1081",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2025.790",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2025.415",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2025.526",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2025.136",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2025.19",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2026.1424",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2026.1140",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jassp.2026.778",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 6,
+      "activeWindows": 6
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-02-23",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}

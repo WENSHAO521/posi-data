@@ -1,0 +1,428 @@
+{
+  "posi_id": "POSI-J-000007",
+  "journal_code": "tts",
+  "title": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+  "issn_queried": "3053-6553",
+  "crossref_status": 200,
+  "total_results": 14,
+  "works_fetched": 14,
+  "article_sample": [
+    {
+      "doi": "10.63802/tts.v2.2026.298",
+      "title": "《幻與真：〈紅樓夢〉中的道家「幻」及其與佛教空觀之區辨》—Illusion and Reality: Daoist Conceptions of Illusion in Hongloumeng and Their Distinction from Buddhist Emptiness",
+      "hasAbstract": true,
+      "referenceCount": 17,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-03",
+      "depositDate": "2026-04-03",
+      "issueOrPeriod": "v2i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0008-4486-4819",
+          "given_name": "Xinhuan",
+          "family_name": "Zeng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xuzhuo",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.194",
+      "title": "病本的超越：五类二十八种因行的净土思想——以《维摩诘经·佛国品》为中心",
+      "hasAbstract": true,
+      "referenceCount": 38,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xingwang",
+          "family_name": "Huang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.191",
+      "title": "三教融合视域下李翱心性论探析",
+      "hasAbstract": true,
+      "referenceCount": 20,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-29",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0003-1437-8186",
+          "given_name": "Yutong",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.182",
+      "title": "自内证悟，破执显真——《楞伽经》自觉圣智思想对现代社会的启示",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-23",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-0414-4574",
+          "given_name": "Zirui",
+          "family_name": "Li"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.174",
+      "title": "缘“情”设“乐”：从《礼记》与《荀子》看儒家的“乐教”思想",
+      "hasAbstract": true,
+      "referenceCount": 30,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-04",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0007-7539-0364",
+          "given_name": "Yifei",
+          "family_name": "Xue"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.146",
+      "title": "“三教合一”的视觉阐释：宋代三教图研究的现状、路径与突破",
+      "hasAbstract": true,
+      "referenceCount": 23,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-24",
+      "depositDate": "2025-12-31",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0006-5376-3038",
+          "given_name": "Zhining",
+          "family_name": "Liang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.142",
+      "title": "Influence of the Three Treatises of Buddhism on the TaoistTwofold Mystery School in the Sui and Tang Dynasties",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-24",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0001-9096-4916",
+          "given_name": "Yuyong",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0007-9271-659X",
+          "given_name": "Liqiao",
+          "family_name": "Yao"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0007-1996-2460",
+          "given_name": "Bo",
+          "family_name": "Zhou"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.134",
+      "title": "辩经与抗拒：利玛窦《天主实义》与明末“耶佛之辩”考论",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-04",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-6542-7631",
+          "given_name": "Xiang",
+          "family_name": "Xu"
+        },
+        {
+          "affiliation": null,
+          "orcid": "0009-0009-6619-9677",
+          "given_name": "Yikai",
+          "family_name": "Duan"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.136",
+      "title": "Confucian Agency in the Visual Integration of the Three Teachings during the Late Ming",
+      "hasAbstract": true,
+      "referenceCount": 64,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-03",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0005-5257-6591",
+          "given_name": "Yitong",
+          "family_name": "Wu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.i1.123",
+      "title": "《太上感應篇》之倫理思想：三教融合與當代價值的再探",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-20",
+      "depositDate": "2025-12-31",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.121",
+      "title": "皇甫湜文集注释（卷一及卷二）",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-20",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-9160-7227",
+          "given_name": "Xuan",
+          "family_name": "Xu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.132",
+      "title": "佛典何以进入儒、道视野——以“登岸舍筏”阐释路径为例",
+      "hasAbstract": true,
+      "referenceCount": 30,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-20",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-1852-1988",
+          "given_name": "Yakun",
+          "family_name": "Liang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.118",
+      "title": "论“中国”：作为审美式的天命之政治",
+      "hasAbstract": true,
+      "referenceCount": 7,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-20",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0007-6081-2114",
+          "given_name": "Yizhou",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.i1.122",
+      "title": "知行の彼岸——日本における陽明心学の受容と再構築",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-20",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-6477-5161",
+          "given_name": "Fang",
+          "family_name": "Chen"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 14,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 14 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/tts.v2.2026.298",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.194",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.191",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.182",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.174",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.146",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.142",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.134",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.2025.136",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/tts.v1.i1.123",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 4,
+      "activeWindows": 2
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-10-20",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-08-13"
+}
