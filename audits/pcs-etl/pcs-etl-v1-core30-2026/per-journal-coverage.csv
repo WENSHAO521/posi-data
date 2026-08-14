@@ -1,0 +1,32 @@
+posi_id,title,issn_queried,fetch_status,enumerated_count,works_fetched,pages_fetched,pcs_eligible_items,pcs_citation_count,pcs,pcs_coverage
+POSI-J-000001,"Global Review of Humanities, Arts, and Society",3052-539X,200,38,38,2,37,13,0.35135135135135137,1
+POSI-J-000002,"AI & Future Society",3053-4011,200,5,5,2,5,7,1.4,1
+POSI-J-000003,"Journal of Law, Psychology, and Communication Studies",3052-9654,200,17,17,2,17,4,0.23529411764705882,1
+POSI-J-000004,"Health Nexus: Interdisciplinary Medical Research Journal",3053-7037,200,6,6,2,5,2,0.4,1
+POSI-J-000005,"PoliEcoM Administration Review",3053-3597,200,11,11,2,10,1,0.1,1
+POSI-J-000006,"Journal of Engineering Systems and Applications",3053-478X,200,4,4,2,4,0,0,1
+POSI-J-000007,"Three Teachings Studies: Confucianism, Daoism, and Buddhism",3053-6553,200,14,14,2,13,0,0,1
+POSI-J-000008,"Rural Governance and Green Development",3053-7282,200,3,3,2,3,0,0,1
+POSI-J-000009,"Resonance: Journal of Global Music Studies",3053-4410,200,11,11,2,11,0,0,1
+POSI-J-000010,"Climate Sustainability & Global Systems",3054-9663,200,0,0,1,0,0,,
+POSI-J-000011,"Journal of Social Cognition and Communication",3054-6958,200,0,0,1,0,0,,
+POSI-J-000012,"Silence",3054-4386,200,0,0,1,0,0,,
+POSI-J-000013,"Journal of Modern Social Sciences",3078-4441,200,52,52,2,47,36,0.7659574468085106,1
+POSI-J-000014,"Journal of Current Social Issues Studies",3078-5324,200,62,62,2,55,53,0.9636363636363636,1
+POSI-J-000015,"Journal of Contemporary Art Criticism",3079-7489,200,15,15,2,13,3,0.23076923076923078,1
+POSI-J-000016,"人文学刊",3104-5022,200,140,140,2,140,10,0.07142857142857142,1
+POSI-J-000017,"教育与教法",3080-8847,200,157,157,2,157,35,0.2229299363057325,1
+POSI-J-000018,"Journal of Asia Social Science Practice",3079-7659,200,35,35,2,35,12,0.34285714285714286,1
+POSI-J-000019,"中国文学学刊",3106-3675,200,12,12,2,12,2,0.16666666666666666,1
+POSI-J-000020,"艺术与设计前沿",3107-0191,200,16,16,2,16,0,0,1
+POSI-J-000021,"人工智能",3106-3705,200,3,3,2,3,0,0,1
+POSI-J-000022,"医学与护理",3106-3713,200,4,4,2,4,10,2.5,1
+POSI-J-000023,"新闻与传播",3106-9983,200,9,9,2,9,2,0.2222222222222222,1
+POSI-J-000024,"中国法学学刊",3107-1708,200,9,9,2,9,13,1.4444444444444444,1
+POSI-J-000025,"Engineering Frontiers",3106-0749,200,7,7,2,7,13,1.8571428571428572,1
+POSI-J-000026,"当代设计研究",3105-5834,200,46,46,2,46,7,0.15217391304347827,1
+POSI-J-000027,"Research on Architecture and Environment",3105-5842,200,6,6,2,6,0,0,1
+POSI-J-000028,"Journal of the European Academy Open University",3105-5850,200,38,38,2,38,20,0.5263157894736842,1
+POSI-J-000029,"The Journal of Interactive Social Sciences",3030-5322,200,18,18,2,18,1,0.05555555555555555,1
+POSI-J-000030,"Digital Intelligence Frontiers",3135-0011,404,0,0,0,0,0,,
+POSI-J-023332,"Contemporary Review of Political Thought",3056-0977,200,0,0,1,0,0,,
