@@ -1,0 +1,13 @@
+{
+  "journal_id": "POSI-J-019626",
+  "metric_year": 2026,
+  "pcs": 4.178571428571429,
+  "pcs_window_start_year": 2022,
+  "pcs_window_end_year": 2025,
+  "pcs_eligible_items": 28,
+  "pcs_items_with_citation_data": 28,
+  "pcs_coverage": 1,
+  "pcs_source": "crossref",
+  "pcs_source_retrieved_at": "2026-08-14",
+  "pcs_methodology_version": "PCS-1.0"
+}
