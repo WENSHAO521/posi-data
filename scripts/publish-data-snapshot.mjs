@@ -21,6 +21,22 @@
  *   snapshots/<snapshot-id>/collections/core-collection.json
  *   snapshots/<snapshot-id>/collections/benchmark-curated.json
  *   snapshots/<snapshot-id>/collections/publisher-catalog.json
+ *   snapshots/<snapshot-id>/collections/pcs.json
+ *
+ * collections/pcs.json is an aggregation of the PCS (POSI Citation Score,
+ * PCS-1.0-SPEC.md) ETL audit's per-journal output files
+ * (audits/pcs-etl/<run>/pcs/<shard>/<posi_id>.json, sharded per posi-
+ * engine's src/sharding.mjs metricPath() convention) into one JSON array,
+ * one entry per journal that has a journal_id -- including journals with
+ * pcs: null, so a consumer can distinguish "computed, no PCS" from "never
+ * attempted." Each entry is passed through unmodified: it is already
+ * exactly the schema/metric.schema.json-declared PCS field subset (see
+ * that audit's own README), so this script does not rename or reshape any
+ * field. There is no posi-engine release workflow yet that writes PCS into
+ * metrics/<year>/<shard>/ (posi-data/CONTRIBUTING.md restricts that path to
+ * a release workflow that doesn't exist), so for now this reads directly
+ * from the named audit directory -- pass --pcs-audit-dir to point at a
+ * newer PCS run when one supersedes this one.
  *
  * Once written, a snapshot directory is never edited in place — a
  * corrected or updated snapshot gets a new <snapshot-id> (today's date;
@@ -42,10 +58,15 @@
  *     [--snapshot-id 2026-08-13]
  */
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs'
+import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'fs'
 import { resolve, join } from 'path'
 import { execSync } from 'child_process'
 import { createHash } from 'crypto'
+
+// Default PCS ETL audit run this snapshot pulls collections/pcs.json from.
+// See the file header comment above for why this reads an audit directory
+// rather than a real metrics/ release path.
+const PCS_AUDIT_DIR_DEFAULT = 'audits/pcs-etl/pcs-etl-v1-global1024-2026'
 
 function arg(name, fallback = null) {
   const i = process.argv.indexOf(`--${name}`)
@@ -54,6 +75,30 @@ function arg(name, fallback = null) {
 
 function sha256(content) {
   return createHash('sha256').update(content).digest('hex')
+}
+
+/**
+ * Walks <auditDir>/pcs/<shard>/<posi_id>.json (256 possible shard dirs, per
+ * posi-engine's sharding.mjs metricPath() convention) and returns the
+ * records as a flat array, sorted by journal_id for a stable, diffable
+ * output file. Returns [] if the audit's pcs/ directory doesn't exist, so
+ * callers can decide whether that's fatal.
+ */
+function collectPcsRecords(auditDir) {
+  const pcsDir = resolve(auditDir, 'pcs')
+  if (!existsSync(pcsDir)) return null
+
+  const records = []
+  for (const shard of readdirSync(pcsDir)) {
+    const shardDir = join(pcsDir, shard)
+    if (!statSync(shardDir).isDirectory()) continue
+    for (const file of readdirSync(shardDir)) {
+      if (!file.endsWith('.json')) continue
+      records.push(JSON.parse(readFileSync(join(shardDir, file), 'utf-8')))
+    }
+  }
+  records.sort((a, b) => (a.journal_id < b.journal_id ? -1 : a.journal_id > b.journal_id ? 1 : 0))
+  return records
 }
 
 function main() {
@@ -78,6 +123,13 @@ function main() {
   const curated = globalBenchmark.filter(j => !j.source_note)
   const publisherCatalog = globalBenchmark.filter(j => !!j.source_note)
 
+  const pcsAuditDir = arg('pcs-audit-dir', PCS_AUDIT_DIR_DEFAULT)
+  const pcsRecords = collectPcsRecords(pcsAuditDir)
+  if (pcsRecords === null) {
+    console.warn(`Warning: no PCS audit found at ${pcsAuditDir}/pcs -- collections/pcs.json will not be published this run.`)
+  }
+  const pcsComputedCount = pcsRecords ? pcsRecords.filter(r => r.pcs != null).length : 0
+
   const snapshotDir = join(outDir, 'snapshots', snapshotId)
   const collectionsDir = join(snapshotDir, 'collections')
   mkdirSync(collectionsDir, { recursive: true })
@@ -86,6 +138,9 @@ function main() {
     'collections/core-collection.json': JSON.stringify(coreCollection, null, 2) + '\n',
     'collections/benchmark-curated.json': JSON.stringify(curated, null, 2) + '\n',
     'collections/publisher-catalog.json': JSON.stringify(publisherCatalog),
+  }
+  if (pcsRecords !== null) {
+    files['collections/pcs.json'] = JSON.stringify(pcsRecords, null, 2) + '\n'
   }
   const checksums = []
   for (const [relPath, content] of Object.entries(files)) {
@@ -119,7 +174,11 @@ function main() {
     rank_version: 'RANK-1.0',
     evidence_version: 'EVIDENCE-1.0',
     diagnostics_version: 'DIAG-1.0',
-    pcs_version: 'Pending',
+    // 'PCS-1.0' once a real PCS collection is actually published in this
+    // snapshot (mirrors how ajr_e_version/ajr_m_version reflect the spec
+    // version currently in force, not merely "some data exists"); falls
+    // back to 'Pending' if this run had no PCS audit to read from.
+    pcs_version: pcsRecords !== null ? 'PCS-1.0' : 'Pending',
     pci_version: 'Pending',
     pjr_release: null,
     data_commit: dataCommit,
@@ -130,6 +189,11 @@ function main() {
     benchmark_publisher_catalog_count: publisherCatalog.length,
     early_stage_rated_count: earlyStageRated,
     mature_rated_count: matureRated,
+    // Of the journals in collections/pcs.json, how many have a non-null
+    // pcs value -- distinguishes "computed, no PCS" (a real, disclosed
+    // finding — see pcs-etl-v1-global1024-2026/README.md) from "never
+    // attempted." 0 if this snapshot has no PCS collection at all.
+    pcs_computed_count: pcsComputedCount,
     supersedes: null,
   }
   const manifestJson = JSON.stringify(manifest, null, 2) + '\n'
