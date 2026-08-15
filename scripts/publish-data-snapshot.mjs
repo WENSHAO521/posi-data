@@ -22,6 +22,7 @@
  *   snapshots/<snapshot-id>/collections/benchmark-curated.json
  *   snapshots/<snapshot-id>/collections/publisher-catalog.json
  *   snapshots/<snapshot-id>/collections/pcs.json
+ *   snapshots/<snapshot-id>/collections/pci.json
  *
  * collections/pcs.json is an aggregation of the PCS (POSI Citation Score,
  * PCS-1.0-SPEC.md) ETL audit's per-journal output files
@@ -37,6 +38,14 @@
  * a release workflow that doesn't exist), so for now this reads directly
  * from the named audit directory -- pass --pcs-audit-dir to point at a
  * newer PCS run when one supersedes this one.
+ *
+ * collections/pci.json is the same pattern applied to PCI/PCI-5
+ * (audits/pjr-seed-corpus/<run>/pci/<shard>/<posi_id>.json) -- see that
+ * audit's own README (pjr-seed-corpus-global993-2026) for scope (curated
+ * Global Benchmark only, not Core Collection -- most Core Collection
+ * journals are too young to have any real 2023-2024 output yet) and the
+ * two real bugs found and fixed during that run. Pass --pci-audit-dir to
+ * point at a newer PCI run when one supersedes this one.
  *
  * Once written, a snapshot directory is never edited in place — a
  * corrected or updated snapshot gets a new <snapshot-id> (today's date;
@@ -55,7 +64,8 @@
  *   node scripts/publish-data-snapshot.mjs \
  *     --out <path to posi-data-delivery clone> \
  *     [--engine-commit <posi-engine git sha>] \
- *     [--snapshot-id 2026-08-13]
+ *     [--snapshot-id 2026-08-13] \
+ *     [--pcs-audit-dir path] [--pci-audit-dir path]
  */
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'fs'
@@ -68,6 +78,9 @@ import { createHash } from 'crypto'
 // rather than a real metrics/ release path.
 const PCS_AUDIT_DIR_DEFAULT = 'audits/pcs-etl/pcs-etl-v1-global1024-2026'
 
+// Default PCI ETL audit run this snapshot pulls collections/pci.json from.
+const PCI_AUDIT_DIR_DEFAULT = 'audits/pjr-seed-corpus/pjr-seed-corpus-global993-2026'
+
 function arg(name, fallback = null) {
   const i = process.argv.indexOf(`--${name}`)
   return i !== -1 ? process.argv[i + 1] : fallback
@@ -78,19 +91,21 @@ function sha256(content) {
 }
 
 /**
- * Walks <auditDir>/pcs/<shard>/<posi_id>.json (256 possible shard dirs, per
- * posi-engine's sharding.mjs metricPath() convention) and returns the
- * records as a flat array, sorted by journal_id for a stable, diffable
- * output file. Returns [] if the audit's pcs/ directory doesn't exist, so
- * callers can decide whether that's fatal.
+ * Walks <auditDir>/<subdir>/<shard>/<posi_id>.json (256 possible shard
+ * dirs, per posi-engine's sharding.mjs metricPath() convention) and
+ * returns the records as a flat array, sorted by journal_id for a stable,
+ * diffable output file. Returns null if <auditDir>/<subdir> doesn't
+ * exist, so callers can decide whether that's fatal. Shared by
+ * collections/pcs.json and collections/pci.json — same shard layout,
+ * different metric subdirectory.
  */
-function collectPcsRecords(auditDir) {
-  const pcsDir = resolve(auditDir, 'pcs')
-  if (!existsSync(pcsDir)) return null
+function collectShardedRecords(auditDir, subdir) {
+  const dir = resolve(auditDir, subdir)
+  if (!existsSync(dir)) return null
 
   const records = []
-  for (const shard of readdirSync(pcsDir)) {
-    const shardDir = join(pcsDir, shard)
+  for (const shard of readdirSync(dir)) {
+    const shardDir = join(dir, shard)
     if (!statSync(shardDir).isDirectory()) continue
     for (const file of readdirSync(shardDir)) {
       if (!file.endsWith('.json')) continue
@@ -124,11 +139,18 @@ function main() {
   const publisherCatalog = globalBenchmark.filter(j => !!j.source_note)
 
   const pcsAuditDir = arg('pcs-audit-dir', PCS_AUDIT_DIR_DEFAULT)
-  const pcsRecords = collectPcsRecords(pcsAuditDir)
+  const pcsRecords = collectShardedRecords(pcsAuditDir, 'pcs')
   if (pcsRecords === null) {
     console.warn(`Warning: no PCS audit found at ${pcsAuditDir}/pcs -- collections/pcs.json will not be published this run.`)
   }
   const pcsComputedCount = pcsRecords ? pcsRecords.filter(r => r.pcs != null).length : 0
+
+  const pciAuditDir = arg('pci-audit-dir', PCI_AUDIT_DIR_DEFAULT)
+  const pciRecords = collectShardedRecords(pciAuditDir, 'pci')
+  if (pciRecords === null) {
+    console.warn(`Warning: no PCI audit found at ${pciAuditDir}/pci -- collections/pci.json will not be published this run.`)
+  }
+  const pciComputedCount = pciRecords ? pciRecords.filter(r => r.pci != null).length : 0
 
   const snapshotDir = join(outDir, 'snapshots', snapshotId)
   const collectionsDir = join(snapshotDir, 'collections')
@@ -141,6 +163,9 @@ function main() {
   }
   if (pcsRecords !== null) {
     files['collections/pcs.json'] = JSON.stringify(pcsRecords, null, 2) + '\n'
+  }
+  if (pciRecords !== null) {
+    files['collections/pci.json'] = JSON.stringify(pciRecords, null, 2) + '\n'
   }
   const checksums = []
   for (const [relPath, content] of Object.entries(files)) {
@@ -179,7 +204,11 @@ function main() {
     // version currently in force, not merely "some data exists"); falls
     // back to 'Pending' if this run had no PCS audit to read from.
     pcs_version: pcsRecords !== null ? 'PCS-1.0' : 'Pending',
-    pci_version: 'Pending',
+    // 'PCI-1.0' once a real PCI collection is actually published in this
+    // snapshot, mirroring pcs_version's own convention above. Scope note:
+    // covers curated Global Benchmark only, not Core Collection -- see
+    // pjr-seed-corpus-global993-2026/README.md.
+    pci_version: pciRecords !== null ? 'PCI-1.0' : 'Pending',
     pjr_release: null,
     data_commit: dataCommit,
     engine_commit: engineCommit,
@@ -194,6 +223,11 @@ function main() {
     // finding — see pcs-etl-v1-global1024-2026/README.md) from "never
     // attempted." 0 if this snapshot has no PCS collection at all.
     pcs_computed_count: pcsComputedCount,
+    // Of the journals in collections/pci.json, how many have a non-null
+    // pci value. 0 if this snapshot has no PCI collection at all. Scope is
+    // Global Benchmark only this run (990/993) -- Core Collection has none
+    // yet (see pjr-seed-corpus-global993-2026/README.md's scope note).
+    pci_computed_count: pciComputedCount,
     supersedes: null,
   }
   const manifestJson = JSON.stringify(manifest, null, 2) + '\n'

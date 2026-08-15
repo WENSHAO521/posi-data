@@ -1,0 +1,21 @@
+{
+  "metric_year": 2026,
+  "pci_window_start_year": 2023,
+  "pci_window_end_year": 2024,
+  "pci_5yr_window_start_year": 2020,
+  "pci_5yr_window_end_year": 2024,
+  "input_journals": 993,
+  "journals_with_no_posi_id": 0,
+  "journals_with_pci_computed": 990,
+  "journals_with_zero_eligible_items": 3,
+  "journals_with_pci_5yr_numerator_capped": 346,
+  "total_citable_items_2yr": 1994613,
+  "total_citation_count_2yr": 11681576,
+  "pooled_mean_pci_2yr": 5.85656265150182,
+  "pci_2yr_min": 0.49,
+  "pci_2yr_median": 3.75,
+  "pci_2yr_max": 53.09,
+  "openalex_api_errors": 0,
+  "source": "openalex",
+  "methodology_version": "PCI-1.0"
+}

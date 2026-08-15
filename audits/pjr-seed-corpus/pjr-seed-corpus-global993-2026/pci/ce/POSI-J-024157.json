@@ -1,0 +1,15 @@
+{
+  "journal_id": "POSI-J-024157",
+  "metric_year": 2026,
+  "pci": 2.4957678355501813,
+  "pci_window_start_year": 2023,
+  "pci_window_end_year": 2024,
+  "pci_citable_items": 827,
+  "pci_citation_count": 2064,
+  "pci_5yr": 2.5118110236220472,
+  "pci_5yr_citable_items": 1651,
+  "pci_5yr_numerator_capped": false,
+  "pci_source": "openalex",
+  "pci_source_retrieved_at": "2026-08-15",
+  "pci_methodology_version": "PCI-1.0"
+}
