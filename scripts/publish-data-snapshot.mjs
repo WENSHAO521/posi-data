@@ -41,11 +41,23 @@
  *
  * collections/pci.json is the same pattern applied to PCI/PCI-5
  * (audits/pjr-seed-corpus/<run>/pci/<shard>/<posi_id>.json) -- see that
- * audit's own README (pjr-seed-corpus-global993-2026) for scope (curated
- * Global Benchmark only, not Core Collection -- most Core Collection
- * journals are too young to have any real 2023-2024 output yet) and the
- * two real bugs found and fixed during that run. Pass --pci-audit-dir to
- * point at a newer PCI run when one supersedes this one.
+ * audit's own README (pjr-seed-corpus-global993-2026) for scope (Core
+ * Collection + curated Global Benchmark; most Core Collection journals
+ * are too young to have any real 2023-2024 output yet -- 2 of 30 do) and
+ * the two real bugs found and fixed during that run. Pass --pci-audit-dir
+ * to point at a newer PCI run when one supersedes this one.
+ *
+ * collections/citation-rankings.json is real Citation Q data
+ * (audits/<run>/rankings/<shard>/<posi_id>.json, schema/ranking.schema.json)
+ * -- deliberately Core Collection journal_ids ONLY, even though the
+ * ranking peer pool used to compute each one included Global Benchmark
+ * journals to reach PJR-SPEC.md § 8's MIN_CATEGORY_SIZE=20 threshold. The
+ * site's own rule is that Global Benchmark journals are never assigned a
+ * displayed Citation Rank/Percentile/Quartile (they're a validation
+ * corpus, not POSI-admitted) -- pooling them as peers to compute someone
+ * else's percentile is fine; publishing their own rank would not be. This
+ * audit's own ranking-generation step already only wrote records for
+ * Core Collection journal_ids, so no extra filtering is needed here.
  *
  * Once written, a snapshot directory is never edited in place — a
  * corrected or updated snapshot gets a new <snapshot-id> (today's date;
@@ -152,6 +164,9 @@ function main() {
   }
   const pciComputedCount = pciRecords ? pciRecords.filter(r => r.pci != null).length : 0
 
+  const rankingRecords = collectShardedRecords(pciAuditDir, 'rankings')
+  const rankedCount = rankingRecords ? rankingRecords.filter(r => r.ranking_method !== 'unavailable').length : 0
+
   const snapshotDir = join(outDir, 'snapshots', snapshotId)
   const collectionsDir = join(snapshotDir, 'collections')
   mkdirSync(collectionsDir, { recursive: true })
@@ -166,6 +181,9 @@ function main() {
   }
   if (pciRecords !== null) {
     files['collections/pci.json'] = JSON.stringify(pciRecords, null, 2) + '\n'
+  }
+  if (rankingRecords !== null && rankingRecords.length > 0) {
+    files['collections/citation-rankings.json'] = JSON.stringify(rankingRecords, null, 2) + '\n'
   }
   const checksums = []
   for (const [relPath, content] of Object.entries(files)) {
@@ -228,6 +246,11 @@ function main() {
     // Global Benchmark only this run (990/993) -- Core Collection has none
     // yet (see pjr-seed-corpus-global993-2026/README.md's scope note).
     pci_computed_count: pciComputedCount,
+    // How many Core Collection journals have a real, non-"unavailable"
+    // Citation Q this run (collections/citation-rankings.json). 0 until a
+    // category's real-PCI peer pool (Core Collection + Global Benchmark,
+    // PJR-SPEC.md § 8) reaches MIN_CATEGORY_SIZE=20 for that journal.
+    citation_q_ranked_count: rankedCount,
     supersedes: null,
   }
   const manifestJson = JSON.stringify(manifest, null, 2) + '\n'

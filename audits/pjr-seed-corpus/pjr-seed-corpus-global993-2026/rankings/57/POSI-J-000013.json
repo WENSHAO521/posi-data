@@ -1,0 +1,15 @@
+{
+  "journal_id": "POSI-J-000013",
+  "category_code": "P5.02",
+  "metric_year": 2026,
+  "rank": 65,
+  "rank_mid": 65.5,
+  "category_size": 68,
+  "percentile": 4.41,
+  "quartile": "Q4",
+  "ranking_method": "pci_midrank",
+  "tied_with": [
+    "POSI-J-023825"
+  ],
+  "methodology_version": "RANK-1.0"
+}
