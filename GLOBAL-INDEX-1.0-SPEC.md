@@ -29,6 +29,10 @@ them bounds the index.
   first ISSN Crossref lists), prefixed `ISSNL-` in pipeline files
   (e.g. `ISSNL-0002-7863`; a hyphen, not a colon, so the key is a valid file name on every platform). They are **not** minted POSI-J ids by this
   pipeline; minting stays a reviewed, audited registry operation.
+- **An ISSN is required for indexing**, as in the major citation
+  databases. OpenAlex sources typed `journal` without an ISSN are mostly
+  conference and meeting collections, and Crossref journal entries without
+  one carry no identifier to de-duplicate on; neither is indexed.
 - Merging across Crossref and OpenAlex happens on ISSN only (any ISSN in
   common), never on title similarity (consistent with the initial journal
   migration rules).
