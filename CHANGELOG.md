@@ -10,6 +10,32 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-09-26 — PCS-Q 1.0 and GLOBAL-INDEX 1.0
+
+Platform-owner decision: POSI publishes journal rankings for every indexed
+journal, Core and non-Core, and indexes every journal registered with
+Crossref or OpenAlex.
+
+### Added
+
+- **PCS-Q-1.0** ([PCS-Q-1.0-SPEC.md](./PCS-Q-1.0-SPEC.md)) — a fourth
+  quartile track: RANK-1.0 applied to PCS, labelled `PCS-Q1`…`PCS-Q4`.
+  Eligibility: PCS present, ≥ 5 eligible items, fetch coverage ≥ 0.9;
+  category rank additionally needs high/verified PSC confidence and a
+  category of ≥ 20 journals. First edition `rankings/pcs-q/pcs-q-2026.json`
+  (4,067 overall-ranked, 3,864 category-ranked in 20 categories).
+- **GLOBAL-INDEX-1.0** ([GLOBAL-INDEX-1.0-SPEC.md](./GLOBAL-INDEX-1.0-SPEC.md))
+  — indexing scope (all Crossref / OpenAlex journals), the Indexed / Core
+  Collection tiers, ISSN-L keys for registry-only journals, and the global
+  harvest → corpus → PCS → PCS-Q pipeline.
+
+### Changed
+
+- **PCS-1.0-SPEC.md § 1** — PCS now determines PCS-Q (only). PCS formula
+  unchanged; version stays `PCS-1.0`.
+- **AJR-SPEC.md § 14** — note extending the membership-is-not-eligibility
+  rule to PCS-Q and the global index.
+
 ## POSI Journal Evaluation & Ranking Framework 1.0
 
 Implements the platform owner's approved methodology overhaul. See the

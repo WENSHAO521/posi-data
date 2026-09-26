@@ -20,6 +20,11 @@ performance indicator.** It exists alongside the PCI family (PCI, PCI-5,
 PNCI — see PJR-SPEC.md § 5–6) as a second, deliberately separate signal,
 not a replacement or a component of it.
 
+> **Amended 2026-09-26 by [PCS-Q-1.0-SPEC.md](./PCS-Q-1.0-SPEC.md) § 7:**
+> PCS now determines the **PCS-Q** ranking track (POSI Journal Rankings)
+> and nothing else. The paragraph and the verbatim display line below
+> still hold for Citation Q, E-Q and M-Q.
+
 **PCS does not determine POSI Citation Rank, Citation Percentile, or
 Citation Quartile.** Citation Q is computed from PCI alone (AJR-SPEC.md
 § 5, `src/quartile-tracks.mjs`'s `rankCitationTrack()`). **PCS does not
@@ -31,6 +36,11 @@ Every PCS display on the platform carries this line, verbatim:
 
 > **PCS is independently reported and does not determine POSI Citation
 > Rank, Citation Percentile, or Citation Quartile.**
+
+(Since PCS-Q-1.0, pages that show a PCS-Q rank alongside PCS use this
+line in place of the one above: *"PCS determines the PCS-Q ranking only; it
+does not determine Citation Rank, Citation Percentile or Citation
+Quartile."*)
 
 ## 2. Why a second citation indicator at all
 
