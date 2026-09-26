@@ -41,8 +41,10 @@ them bounds the index.
 
 posi-engine `scripts/global/`:
 
-1. `harvest-openalex-journals.mjs` — cursor over OpenAlex
-   `/sources?filter=type:journal` (≈207,000 records); keeps ids, ISSNs,
+1. `harvest-openalex-snapshot.mjs` — reads every source from the public
+   OpenAlex snapshot (`s3://openalex/data/jsonl/sources/`, no API budget)
+   and keeps the journals (≈207,000 records). `harvest-openalex-journals.mjs`,
+   a cursor over the API, remains for limited test runs. Either keeps ids, ISSNs,
    publisher, country, OA / DOAJ flags, APC, works count, and the topic
    profile, and assigns a PSC category and confidence with
    `psc-classify.mjs`'s `classifyPsc()` (the same classifier the curated
@@ -78,6 +80,10 @@ cross-repository credentials are needed.
    has changed since the current snapshot.
 4. The **website** downloads the current ranking edition from the data layer
    and the global corpus from the posi-engine release before each build.
+   The same release carries `openalex-profiles.jsonl.gz` (titles, homepage,
+   APC, citations per year, h-index, top topics per journal), from which the
+   build writes the journal profile pages' data shards and the journal title
+   index.
 
 ## 5. Politeness and resumability
 
