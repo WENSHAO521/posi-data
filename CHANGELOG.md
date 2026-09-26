@@ -10,6 +10,30 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-09-27 — PSC-CROSSWALK 0.3
+
+### Changed
+
+- **PSC confidence gate** ([PSC-CROSSWALK.md](./PSC-CROSSWALK.md) § 3):
+  `high`/`medium` now need a ≥ 35% category share and a ≥ 1.5× lead over
+  the runner-up (was ≥ 15% share). Old general journals carry long tails
+  of noisy OpenAlex topics; the 15% bar filed *The Lancet* under P5.02
+  Business/Economics with `high` confidence, which put it in that
+  category's ranking cohort.
+
+### Added
+
+- **`multidisciplinary`** confidence state (§ 4): full-sample journals
+  with no dominant category and either no dominant domain (< 50%) or a
+  best category under 30% without a clear lead. Display-only; not
+  rank-eligible. PCS-Q records for these journals carry
+  `category_code: null` and `exclusion_reason: "multidisciplinary"`.
+
+Effect on the 2026-09-23 OpenAlex snapshot (195,661 classified journals):
+`high` 148k → 77,273; `multidisciplinary` 30,019; `medium` 12,231;
+`low` 76,138. Rank-eligible cohorts shrink accordingly; every PCS-Q
+category rank from the next cycle onward uses 0.3.
+
 ## 2026-09-26 — PCS-Q 1.0 and GLOBAL-INDEX 1.0
 
 Platform-owner decision: POSI publishes journal rankings for every indexed

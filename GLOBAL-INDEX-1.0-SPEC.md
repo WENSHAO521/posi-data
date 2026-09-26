@@ -41,8 +41,10 @@ them bounds the index.
 
 posi-engine `scripts/global/`:
 
-1. `harvest-openalex-journals.mjs` — cursor over OpenAlex
-   `/sources?filter=type:journal` (≈207,000 records); keeps ids, ISSNs,
+1. `harvest-openalex-snapshot.mjs` — reads every source from the public
+   OpenAlex snapshot (`s3://openalex/data/jsonl/sources/`, no API budget)
+   and keeps the journals (≈207,000 records). `harvest-openalex-journals.mjs`,
+   a cursor over the API, remains for limited test runs. Either keeps ids, ISSNs,
    publisher, country, OA / DOAJ flags, APC, works count, and the topic
    profile, and assigns a PSC category and confidence with
    `psc-classify.mjs`'s `classifyPsc()` (the same classifier the curated
@@ -60,14 +62,28 @@ posi-engine `scripts/global/`:
 Journals present in Crossref but not OpenAlex have no PSC classification
 and therefore receive an overall PCS-Q rank only (`no_psc_category`).
 
-## 4. Where the outputs live
+## 4. Where the outputs live, and how they move
 
-The global corpus and global PCS output are bulk, machine-generated files
-(hundreds of MB). They ship as checksummed release assets and through
-posi-data-delivery snapshots, **not** as files committed to this
-repository's history. What is committed here: this spec, the run's audit
-summary (`audits/global-index/<run>/`), and the PCS-Q edition when it is
-small enough to review.
+Each repository writes only to itself; the next one pulls. No
+cross-repository credentials are needed.
+
+1. **posi-engine** (`.github/workflows/global-index.yml`, daily) publishes a
+   release of its own repository tagged `global-index-<cycle>`: the
+   compressed global corpus as soon as it exists, then the PCS-Q edition,
+   run summaries and PCS shards when the cycle completes.
+2. **posi-data** (`.github/workflows/import-global-index.yml`, daily) imports
+   the newest complete release: the edition into `rankings/pcs-q/` and the
+   summaries into `audits/global-index/<cycle>/`. Bulk files stay attached to
+   the posi-engine release and are never committed here.
+3. **posi-data-delivery** (`sync-from-posi-data.yml`, daily) builds a new
+   immutable snapshot with `scripts/publish-data-snapshot.mjs` when posi-data
+   has changed since the current snapshot.
+4. The **website** downloads the current ranking edition from the data layer
+   and the global corpus from the posi-engine release before each build.
+   The same release carries `openalex-profiles.jsonl.gz` (titles, homepage,
+   APC, citations per year, h-index, top topics per journal), from which the
+   build writes the journal profile pages' data shards and the journal title
+   index.
 
 ## 5. Politeness and resumability
 

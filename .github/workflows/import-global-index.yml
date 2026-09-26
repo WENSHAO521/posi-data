@@ -1,0 +1,58 @@
+name: Import global index edition
+
+# Pulls the newest completed global-index-* release from posi-engine (public)
+# into this repository: the PCS-Q edition into rankings/pcs-q/ and the run
+# summaries into audits/global-index/<cycle>/. Uses only this repository's own
+# token. posi-data-delivery picks the change up on its own schedule.
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # daily, 03:00 UTC, after posi-engine's run
+  workflow_dispatch:
+
+concurrency:
+  group: import-global-index
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Find the newest complete edition
+        id: find
+        run: |
+          set -euo pipefail
+          TAG=$(gh release list --repo WENSHAO521/posi-engine --limit 30 --json tagName -q '.[].tagName' | grep '^global-index-' | while read -r t; do
+            if gh release view "$t" --repo WENSHAO521/posi-engine --json assets -q '.assets[].name' | grep -q '^pcs-q-summary.json$'; then echo "$t"; break; fi
+          done || true)
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          if [ -z "$TAG" ]; then echo "No complete edition yet"; exit 0; fi
+          if [ -d "audits/global-index/$TAG" ]; then echo "$TAG already imported"; echo "tag=" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Import
+        if: steps.find.outputs.tag != ''
+        env:
+          TAG: ${{ steps.find.outputs.tag }}
+        run: |
+          set -euo pipefail
+          mkdir -p dl "audits/global-index/$TAG" rankings/pcs-q
+          gh release download "$TAG" --repo WENSHAO521/posi-engine --dir dl \
+            --pattern 'pcs-q-*.json' --pattern 'pcs-q-*.csv' --pattern '*summary.json' --pattern 'cycle.json'
+          cp dl/pcs-q-[0-9]*.json dl/pcs-q-[0-9]*.csv rankings/pcs-q/
+          cp dl/pcs-q-summary.json rankings/pcs-q/summary.json
+          cp dl/*summary.json dl/cycle.json "audits/global-index/$TAG/"
+          printf '# %s\n\nImported from the posi-engine release `%s`. Bulk files (global corpus, PCS shards) remain attached to that release.\n' "$TAG" "$TAG" > "audits/global-index/$TAG/README.md"
+          rm -rf dl
+          git config user.name  "posi-data-bot"
+          git config user.email "posi-data-bot@users.noreply.github.com"
+          git add rankings/pcs-q "audits/global-index/$TAG"
+          git commit -m "data(pcs-q): import $TAG"
+          git push

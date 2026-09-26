@@ -1,5 +1,14 @@
 # PSC Classification Methodology v0.1 (implemented, journal-level only)
 
+> **PSC-CROSSWALK-0.3 (2026-09-27):** the concentration gate in § 3 is
+> raised from a 15% share to a 35% share **and** a 1.5× lead over the
+> runner-up category, and a fifth state, `multidisciplinary`, is added for
+> general journals (§ 4). Audited on the full OpenAlex sources snapshot
+> (195,661 journals with topics): under 0.2, 75.8% of journals reached
+> `high`, including *The Lancet* and *Notes and Queries* filed under
+> Business/Economics (P5.02) on 20–22% shares. Under 0.3, 39.5% reach
+> `high`. `multidisciplinary` is display-only and never rank-eligible.
+
 > **PSC-CROSSWALK-0.2 (2026-08):** `psc_confidence` now has four states —
 > `high`, `medium`, `low`, `unclassified` — instead of the binary
 > `high`/`low` this document originally described. The `high` bar itself
@@ -61,7 +70,10 @@ expected via the normal PSC governance process (PR against this file).
 A `psc_category` is only marked `psc_confidence: 'high'` if **both**:
 
 1. **Concentration** — the winning PSC category's aggregated topic-count
-   share of the journal's total topic-count mass is ≥ 15%.
+   share of the journal's total topic-count mass is ≥ 35%, **and** it is
+   at least 1.5× the runner-up category's share (PSC-CROSSWALK-0.3; 15%
+   with no lead requirement before). Concentrated journals with 20–49
+   works are `medium`.
 2. **Sample size** — the journal has ≥ 50 total OpenAlex-indexed works.
 
 Both gates are necessary, found the hard way in the same session: a
@@ -87,17 +99,26 @@ Flagship multidisciplinary journals (*Nature*, *Science*, *The Lancet*,
 aggregate topic distribution genuinely doesn't concentrate into one PSC
 category — *The Lancet*'s top-weighted OpenAlex topics include "Aerospace
 Engineering" and "Transportation," an artifact of two centuries of
-every-subject content, not a data error. These journals correctly report
-`low` confidence (or occasionally a plausible-sounding but not
-meaningfully "true" category) — this is expected, not a bug to chase.
-There is no clean single-PSC-category answer for a journal that is, by
+every-subject content, not a data error. There is no clean single-PSC-category answer for a journal that is, by
 design, about everything.
+
+PSC-CROSSWALK-0.3 names this case. A journal with ≥ 50 works that fails
+the concentration gate is `multidisciplinary` when either
+
+- no PSC domain (P1…P6) holds ≥ 50% of its topic mass, or
+- its best category holds < 30% with a lead under 1.5×.
+
+Otherwise it is `low`. `multidisciplinary` journals are listed in a
+separate *Multidisciplinary* directory group and are never ranked in a
+subject category (§ 5). On the 2026-09-23 snapshot this covers 30,019
+journals, including *Science*, *Nature*, *The Lancet*, *NEJM* and
+*Scientific American*.
 
 ## 5. Rank-eligible confidence: `high` and `verified`
 
 `psc_category`/`psc_confidence` feed the E-Q, M-Q, and Citation Q peer
 cohorts (`posi-engine/src/cohort.mjs`, `isRankEligiblePscConfidence()`).
-Only two of the five `psc_confidence` values are rank-eligible:
+Only two of the six `psc_confidence` values are rank-eligible:
 
 - **`high`** — the algorithmic classification in § 3, both gates passed
   automatically.
