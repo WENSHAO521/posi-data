@@ -51,6 +51,7 @@ A **category** rank additionally requires:
 
 | Rule | Value | `exclusion_reason` |
 |---|---|---|
+| Not a general journal (PSC-CROSSWALK-0.3) | `psc_confidence` ≠ `multidisciplinary` | `multidisciplinary` |
 | Primary PSC category assigned | `psc_category` not null | `no_psc_category` |
 | Rank-eligible classification | `psc_confidence` ∈ {high, verified} (posi-engine `isRankEligiblePscConfidence`) | `psc_confidence_not_rank_eligible` |
 | Category size | ≥ `MIN_CATEGORY_SIZE` = 20 eligible journals, flat, no Level-1 fallback (same as Citation Q) | `category_below_min_size` |
