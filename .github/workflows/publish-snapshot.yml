@@ -1,0 +1,64 @@
+name: Publish data snapshot
+
+# Mirrors committed corpus, metric and ranking data to posi-data-delivery
+# (data.posi.panorama-sg.com) whenever they change, so the website picks up
+# new editions without anyone running scripts/publish-data-snapshot.mjs by hand.
+#
+# Required secret: DELIVERY_TOKEN, a fine-grained token with contents:write on
+# WENSHAO521/posi-data-delivery.
+
+on:
+  push:
+    branches: [master, main]
+    paths:
+      - 'corpus/**'
+      - 'rankings/**'
+      - 'taxonomy/**'
+      - 'audits/pcs-etl/**'
+      - 'audits/pjr-seed-corpus/**'
+  workflow_dispatch:
+
+concurrency:
+  group: publish-snapshot
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check out posi-data-delivery
+        uses: actions/checkout@v4
+        with:
+          repository: WENSHAO521/posi-data-delivery
+          path: delivery
+          token: ${{ secrets.DELIVERY_TOKEN }}
+
+      - name: Resolve the posi-engine commit
+        id: engine
+        run: echo "sha=$(git ls-remote https://github.com/WENSHAO521/posi-engine HEAD | cut -f1)" >> "$GITHUB_OUTPUT"
+
+      - name: Build snapshot
+        run: node scripts/publish-data-snapshot.mjs --out delivery --engine-commit ${{ steps.engine.outputs.sha }}
+
+      - name: Push to posi-data-delivery
+        run: |
+          cd delivery
+          git config user.name  "posi-data-bot"
+          git config user.email "posi-data-bot@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "snapshot: $(node -e "console.log(require('./current.json').snapshot)")"
+            git push
+          fi

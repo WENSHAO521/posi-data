@@ -23,6 +23,7 @@
  *   snapshots/<snapshot-id>/collections/publisher-catalog.json
  *   snapshots/<snapshot-id>/collections/pcs.json
  *   snapshots/<snapshot-id>/collections/pci.json
+ *   snapshots/<snapshot-id>/collections/pcs-q.json      -- PCS-Q ranking edition (PCS-Q-1.0-SPEC.md)
  *
  * collections/pcs.json is an aggregation of the PCS (POSI Citation Score,
  * PCS-1.0-SPEC.md) ETL audit's per-journal output files
@@ -185,6 +186,14 @@ function main() {
   if (rankingRecords !== null && rankingRecords.length > 0) {
     files['collections/citation-rankings.json'] = JSON.stringify(rankingRecords, null, 2) + '\n'
   }
+  // PCS-Q (PCS-Q-1.0-SPEC.md): the newest rankings/pcs-q/pcs-q-<year>.json
+  // edition, passed through unmodified.
+  const pcsQDir = resolve('rankings', 'pcs-q')
+  const pcsQFile = existsSync(pcsQDir)
+    ? readdirSync(pcsQDir).filter(f => /^pcs-q-\d{4}\.json$/.test(f)).sort().pop() ?? null
+    : null
+  const pcsQEdition = pcsQFile ? JSON.parse(readFileSync(join(pcsQDir, pcsQFile), 'utf-8')) : null
+  if (pcsQEdition) files['collections/pcs-q.json'] = JSON.stringify(pcsQEdition) + '\n'
   const checksums = []
   for (const [relPath, content] of Object.entries(files)) {
     writeFileSync(join(snapshotDir, relPath), content, 'utf-8')
@@ -251,6 +260,9 @@ function main() {
     // category's real-PCI peer pool (Core Collection + Global Benchmark,
     // PJR-SPEC.md § 8) reaches MIN_CATEGORY_SIZE=20 for that journal.
     citation_q_ranked_count: rankedCount,
+    pcs_q_version: pcsQEdition?.methodology_version ?? 'Pending',
+    pcs_q_metric_year: pcsQEdition?.metric_year ?? null,
+    pcs_q_ranked_count: pcsQEdition ? pcsQEdition.records.filter(r => r.overall_rank != null).length : 0,
     supersedes: null,
   }
   const manifestJson = JSON.stringify(manifest, null, 2) + '\n'

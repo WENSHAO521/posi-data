@@ -382,6 +382,13 @@ system answering a different question than Citation Q.
 
 ## 14. Global Benchmark Collection membership is not ranking eligibility
 
+> **2026-09-26:** the same principle governs the PCS-Q track
+> ([PCS-Q-1.0-SPEC.md](./PCS-Q-1.0-SPEC.md) § 3): collection membership is
+> never an eligibility input; data rules alone decide. Under
+> [GLOBAL-INDEX-1.0-SPEC.md](./GLOBAL-INDEX-1.0-SPEC.md) every Crossref or
+> OpenAlex journal is indexed, and Global Benchmark records are curated
+> records of indexed journals.
+
 `corpus/global-benchmark.json` (2026-08: 1000 curated seed records, now
 4289 after the Elsevier and Frontiers bulk-ingest expansions — see
 `audits/migrations/elsevier-jnlactive-expansion-2026/` and
