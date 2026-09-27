@@ -1,10 +1,10 @@
 # POSI-R 1.0 — Platform Release Specification
 
-> **Status: naming/manifest convention frozen by this document. Not yet
-> generated.** No `POSI-R-*` release has been produced — this document
-> defines the format so the eventual first release (see § 5's example
-> `POSI-R-2026.1`) has something to conform to. Part of the **"POSI
-> Journal Evaluation & Ranking Framework 1.0"** methodology overhaul.
+> **Status: in force.** The first release, **POSI-R-2026.1**, was
+> published on 2026-09-27; its manifest is
+> [`releases/POSI-R-2026.1/manifest.json`](./releases/POSI-R-2026.1/manifest.json).
+> Part of the **"POSI Journal Evaluation & Ranking Framework 1.0"**
+> methodology overhaul.
 
 ## 1. What POSI-R is, and how it relates to PJR
 
@@ -90,6 +90,12 @@ or "not ready yet."
   "supersedes": null
 }
 ```
+
+A manifest may carry further version and count fields (for example
+`pcs_q_version`) and must carry `files`: the SHA-256 of every collection
+file the release contains, keyed by path. The public data layer publishes
+a snapshot as the release only when its collections match `files`
+exactly (see [`releases/README.md`](./releases/README.md)).
 
 `supersedes` mirrors PJR-SPEC.md § 7 — set only for a corrected re-issue
 of the same release, `null` for a normal release. The three `*_count`

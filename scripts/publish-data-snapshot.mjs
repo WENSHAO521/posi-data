@@ -4,13 +4,16 @@
  *
  * Builds a data snapshot for posi-data-delivery (the public, GitHub-Pages-
  * hosted read layer — see that repo's README) from this repo's own
- * corpus/. Deliberately does NOT produce a POSI-R-* release: POSI-R-1.0-
- * SPEC.md is explicit that no POSI-R-* release has ever been produced (no
- * pinned engine run, no reviewed manifest, no cut decision) — this script
- * only mirrors already-committed corpus data to a public, versioned,
- * immutable URL. A real POSI-R release is a separate, later, explicitly
- * human-triggered step (see that spec's § 5: cutting a release is not the
- * same action as publishing a snapshot).
+ * corpus/. It does not cut a POSI-R-* release: cutting one is a separate,
+ * explicitly human-triggered step that commits a reviewed manifest to
+ * releases/<release>/manifest.json (POSI-R-1.0-SPEC.md § 4-5). This script
+ * only recognises releases: the manifest lists the SHA-256 of every
+ * collection file the release contains, and a snapshot whose collections
+ * are byte-identical to the newest release's is published as that release
+ * (type "official_release"). A snapshot built from data changed since the
+ * release is published as "post_release_data_snapshot", naming the release
+ * it follows. The release is defined by its content, not by a commit, so
+ * the commit that adds the manifest does not change what it describes.
  *
  * Output layout (written into --out, expected to be a posi-data-delivery
  * clone):
@@ -24,6 +27,7 @@
  *   snapshots/<snapshot-id>/collections/pcs.json
  *   snapshots/<snapshot-id>/collections/pci.json
  *   snapshots/<snapshot-id>/collections/pcs-q.json      -- PCS-Q ranking edition (PCS-Q-1.0-SPEC.md)
+ *   releases/<release>/manifest.json    -- copy of each committed release manifest
  *
  * collections/pcs.json is an aggregation of the PCS (POSI Citation Score,
  * PCS-1.0-SPEC.md) ETL audit's per-journal output files
@@ -79,6 +83,7 @@
  *     [--engine-commit <posi-engine git sha>] \
  *     [--snapshot-id 2026-08-13] \
  *     [--pcs-audit-dir path] [--pci-audit-dir path]
+ *     [--checksums-only]   print the collection checksums a release manifest records, write nothing
  */
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'fs'
@@ -129,9 +134,21 @@ function collectShardedRecords(auditDir, subdir) {
   return records
 }
 
+/** Committed release manifests (releases/<release>/manifest.json), newest first. */
+function loadReleases() {
+  const dir = resolve('releases')
+  if (!existsSync(dir)) return []
+  return readdirSync(dir)
+    .map(id => join(dir, id, 'manifest.json'))
+    .filter(f => existsSync(f))
+    .map(f => JSON.parse(readFileSync(f, 'utf-8')))
+    .sort((a, b) => (a.published < b.published ? 1 : a.published > b.published ? -1 : 0))
+}
+
 function main() {
-  const outDir = resolve(arg('out'))
-  if (!existsSync(outDir)) throw new Error(`--out directory does not exist: ${outDir}. Clone posi-data-delivery first.`)
+  const checksumsOnly = process.argv.includes('--checksums-only')
+  const outDir = checksumsOnly ? null : resolve(arg('out'))
+  if (!checksumsOnly && !existsSync(outDir)) throw new Error(`--out directory does not exist: ${outDir}. Clone posi-data-delivery first.`)
 
   // Defaults to HEAD, but accepts an override for the case where the
   // working tree's actual HEAD is a local-only merge/combination commit
@@ -141,7 +158,7 @@ function main() {
   // fetch and inspect on GitHub.
   const dataCommit = arg('data-commit') ?? execSync('git rev-parse HEAD', { cwd: resolve('.'), encoding: 'utf-8' }).trim()
   const engineCommit = arg('engine-commit')
-  if (!engineCommit) throw new Error('--engine-commit is required (posi-engine git SHA the snapshot data was computed with)')
+  if (!engineCommit && !checksumsOnly) throw new Error('--engine-commit is required (posi-engine git SHA the snapshot data was computed with)')
 
   const today = new Date().toISOString().slice(0, 10)
   const snapshotId = arg('snapshot-id', today)
@@ -168,10 +185,6 @@ function main() {
   const rankingRecords = collectShardedRecords(pciAuditDir, 'rankings')
   const rankedCount = rankingRecords ? rankingRecords.filter(r => r.ranking_method !== 'unavailable').length : 0
 
-  const snapshotDir = join(outDir, 'snapshots', snapshotId)
-  const collectionsDir = join(snapshotDir, 'collections')
-  mkdirSync(collectionsDir, { recursive: true })
-
   const files = {
     'collections/core-collection.json': JSON.stringify(coreCollection, null, 2) + '\n',
     'collections/benchmark-curated.json': JSON.stringify(curated, null, 2) + '\n',
@@ -194,10 +207,25 @@ function main() {
     : null
   const pcsQEdition = pcsQFile ? JSON.parse(readFileSync(join(pcsQDir, pcsQFile), 'utf-8')) : null
   if (pcsQEdition) files['collections/pcs-q.json'] = JSON.stringify(pcsQEdition) + '\n'
+  const fileSums = Object.fromEntries(Object.entries(files).map(([relPath, content]) => [relPath, sha256(content)]))
+  if (checksumsOnly) {
+    console.log(JSON.stringify(fileSums, null, 2))
+    return
+  }
+
+  // A snapshot IS a release when its collections are byte-identical to
+  // the newest release's (the release manifest's `files`).
+  const latestRelease = loadReleases()[0] ?? null
+  const isRelease = !!latestRelease?.files &&
+    Object.keys(latestRelease.files).length === Object.keys(fileSums).length &&
+    Object.entries(latestRelease.files).every(([relPath, sum]) => fileSums[relPath] === sum)
+
+  const snapshotDir = join(outDir, 'snapshots', snapshotId)
+  mkdirSync(join(snapshotDir, 'collections'), { recursive: true })
   const checksums = []
   for (const [relPath, content] of Object.entries(files)) {
     writeFileSync(join(snapshotDir, relPath), content, 'utf-8')
-    checksums.push(`${sha256(content)}  ${relPath}`)
+    checksums.push(`${fileSums[relPath]}  ${relPath}`)
   }
 
   // Counts computed directly from the corpus being published, not asserted
@@ -211,16 +239,24 @@ function main() {
   // automatically, without code changes, once real AJR-M data exists.
   const matureRated = coreCollection.filter(j => j.early_stage_rating?.lifecycle_stage === 'mature' && j.early_stage_rating?.version?.startsWith('AJR-M') && j.early_stage_rating?.total != null).length
 
+  const type = isRelease ? 'official_release' : latestRelease ? 'post_release_data_snapshot' : 'pre_release_data_snapshot'
+  const note = isRelease
+    ? `Official release ${latestRelease.release}: its collections are byte-identical to the release manifest (releases/${latestRelease.release}/manifest.json).`
+    : latestRelease
+      ? `Data updated since ${latestRelease.release}; not itself a release. The current release is ${latestRelease.release}.`
+      : 'Not a POSI-R release -- no POSI-R-* release has been produced yet (see posi-data/POSI-R-1.0-SPEC.md). This is a public mirror of already-committed corpus data, refreshed on demand.'
+
   const manifest = {
     snapshot: snapshotId,
-    type: 'pre_release_data_snapshot',
-    is_official_release: false,
-    release: null,
-    note: 'Not a POSI-R release -- no POSI-R-* release has been produced yet (see posi-data/POSI-R-1.0-SPEC.md). This is a public mirror of already-committed corpus data, refreshed on demand.',
+    type,
+    is_official_release: isRelease,
+    release: isRelease ? latestRelease.release : null,
+    latest_release: latestRelease?.release ?? null,
+    note,
     generated_at: new Date().toISOString(),
-    data_cutoff: today,
+    data_cutoff: isRelease ? latestRelease.data_cutoff : today,
     lifecycle_version: 'LIFECYCLE-1.1',
-    psc_crosswalk_version: 'PSC-CROSSWALK-0.2',
+    psc_crosswalk_version: 'PSC-CROSSWALK-0.3',
     ajr_e_version: 'AJR-E-1.1',
     ajr_m_version: 'AJR-M-1.0',
     rank_version: 'RANK-1.0',
@@ -270,12 +306,25 @@ function main() {
   checksums.push(`${sha256(manifestJson)}  manifest.json`)
   writeFileSync(join(snapshotDir, 'SHA256SUMS'), checksums.sort().join('\n') + '\n', 'utf-8')
 
+  // Every committed release manifest is mirrored, so a cited release stays resolvable.
+  for (const r of loadReleases()) {
+    mkdirSync(join(outDir, 'releases', r.release), { recursive: true })
+    writeFileSync(join(outDir, 'releases', r.release, 'manifest.json'), JSON.stringify(r, null, 2) + '\n', 'utf-8')
+  }
+
   const current = {
-    type: 'pre_release_data_snapshot',
-    is_official_release: false,
+    type,
+    is_official_release: isRelease,
+    release: isRelease ? latestRelease.release : null,
+    latest_release: latestRelease?.release ?? null,
+    latest_release_manifest: latestRelease ? `/releases/${latestRelease.release}/manifest.json` : null,
     snapshot: snapshotId,
     manifest: `/snapshots/${snapshotId}/manifest.json`,
-    note: 'No POSI-R-* release exists yet -- this points at the current pre-release data snapshot, refreshed on demand rather than on a fixed schedule. See manifest.json for exact provenance (data_commit/engine_commit) and per-component versions.',
+    note: isRelease
+      ? `The current data is official release ${latestRelease.release}. See manifest.json for exact provenance (data_commit/engine_commit) and per-component versions.`
+      : latestRelease
+        ? `Points at a data snapshot updated since release ${latestRelease.release}. See manifest.json for exact provenance.`
+        : 'No POSI-R-* release exists yet -- this points at the current pre-release data snapshot, refreshed on demand rather than on a fixed schedule. See manifest.json for exact provenance (data_commit/engine_commit) and per-component versions.',
   }
   writeFileSync(join(outDir, 'current.json'), JSON.stringify(current, null, 2) + '\n', 'utf-8')
 

@@ -10,6 +10,27 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-09-27 — POSI-R-2026.1, the first official release
+
+### Added
+
+- **POSI-R-2026.1** ([`releases/POSI-R-2026.1/manifest.json`](./releases/POSI-R-2026.1/manifest.json)),
+  published 2026-09-27 with data cutoff 2026-09-27: 4,320 corpus journals
+  (30 Core Collection, 1 candidate, 993 curated Global Benchmark, 3,296
+  publisher-catalog), PCS for 4,089, PCI for 992, and the PCS-Q 2026
+  edition (4,067 ranked overall, 2,963 by category). Generated from
+  posi-data `38390f4` with posi-engine `4754d59`.
+- **Release manifests carry `files`** ([POSI-R-1.0-SPEC.md](./POSI-R-1.0-SPEC.md) § 4):
+  collection checksums that define the release's content.
+
+### Changed
+
+- **`scripts/publish-data-snapshot.mjs`** publishes a snapshot whose
+  collections match the newest release as `official_release`, and one
+  built from later data as `post_release_data_snapshot`; `current.json`
+  names the latest release. It now records `PSC-CROSSWALK-0.3`, the
+  crosswalk in force.
+
 ## 2026-09-27 — PSC-CROSSWALK 0.3
 
 ### Changed
