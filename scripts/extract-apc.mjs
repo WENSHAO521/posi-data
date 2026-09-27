@@ -36,7 +36,9 @@ const KEYWORDS = [
   '版面费', '出版费', '文章处理费', '处理费', '审稿费', '费用', '收费', '不收取',
 ]
 const NO_FEE = /(no (article processing |publication |author )?(charges?|fees?|apcs?)\b|free of charge|does not charge|do not charge|without (any )?(charge|fee)|不收取|免收|免费发表|无需支付)/i
-const AMOUNT = /(?:(US\$|USD|\$|EUR|€|GBP|£|CNY|RMB|¥|￥|MYR|RM|SGD|S\$|HKD|HK\$)\s?(\d{1,3}(?:[,，]\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?))|(?:(\d{1,3}(?:[,，]\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)\s?(USD|US dollars?|dollars?|EUR|euros?|GBP|CNY|RMB|元|人民币|MYR|ringgit|SGD|HKD))/gi
+const AMOUNT = /(?:(US\$|USD|\$|EUR|€|GBP|£|CNY|RMB|¥|￥|MYR|RM|SGD|S\$|HKD|HK\$)\s?(\d{1,3}(?:[,，]\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?))|(?:(\d{1,3}(?:[,，]\d{3})*(?:\.\d+)?|\d+(?:\.\d+)?)\s?(USD|US dollars?|dollars?|美元|EUR|euros?|欧元|GBP|英镑|CNY|RMB|元|人民币|MYR|ringgit|令吉|SGD|新元|HKD|港元|港币))/gi
+// Links worth following from a journal's pages: the site's own fee pages, whatever their address.
+const FEE_LINK = /(apc|article processing|processing charge|publication (fee|charge)|author fee|\bfees?\b|charges|discount|waiver|版面费|文章处理费|出版费|收费|费用)/i
 
 function evidenceFeeUrls() {
   const byCode = new Map()
@@ -61,13 +63,29 @@ function textOf(html) {
     .trim()
 }
 
+/** Same-site links whose text or address names fees. */
+function feeLinks(html, base) {
+  const out = []
+  for (const m of html.matchAll(/<a\b[^>]*href=["']([^"'#]+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+    const label = textOf(m[2])
+    if (!FEE_LINK.test(label) && !FEE_LINK.test(m[1])) continue
+    try {
+      const u = new URL(m[1], base)
+      if (u.host === new URL(base).host && !/login|register|payment|invoice\/pay|download/i.test(u.pathname)) out.push(u.href)
+    } catch { /* not a URL */ }
+  }
+  return out
+}
+
 async function fetchText(url) {
   try {
     const res = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'text/html' }, redirect: 'follow', signal: AbortSignal.timeout(25_000) })
-    if (!res.ok) return { url, status: res.status, text: null }
-    return { url: res.url || url, status: res.status, text: textOf(await res.text()) }
+    if (!res.ok) return { url, status: res.status, text: null, links: [] }
+    const html = await res.text()
+    const base = res.url || url
+    return { url: base, status: res.status, text: textOf(html), links: feeLinks(html, base) }
   } catch (e) {
-    return { url, status: e.name === 'TimeoutError' ? 'timeout' : 'error', text: null }
+    return { url, status: e.name === 'TimeoutError' ? 'timeout' : 'error', text: null, links: [] }
   }
 }
 
@@ -109,8 +127,19 @@ async function main() {
       ...e.pages.filter(u => /fee|apc|charge|submission|about/i.test(u)),
     ].filter(Boolean))]
     const pages = []
-    for (const url of urls) {
+    const feePages = []
+    const followed = new Set(urls)
+    const queue = [...urls]
+    for (let n = 0; n < queue.length; n++) {
+      const url = queue[n]
       const p = await fetchText(url)
+      // Follow the site's own fee links (at most eight per journal); keep those pages whole.
+      for (const l of p.links ?? []) {
+        if (followed.has(l) || followed.size >= urls.length + 8) continue
+        followed.add(l)
+        queue.push(l)
+      }
+      if (p.text && n >= urls.length) feePages.push({ url: p.url, status: p.status, text: p.text.slice(0, 8000) })
       const found = p.text ? passages(p.text) : []
       pages.push({
         url: p.url, status: p.status,
@@ -119,7 +148,7 @@ async function main() {
     }
     const amounts = [...new Set(pages.flatMap(p => p.passages.flatMap(x => x.amounts)))]
     const saysNoFee = pages.some(p => p.passages.some(x => x.says_no_fee))
-    results.push({ posi_id: j.posi_id, journal_code: j.journal_code, title: j.title, publisher: j.publisher, website_url: j.website_url, site_check: siteCheck, amounts_seen: amounts, says_no_fee: saysNoFee, pages })
+    results.push({ posi_id: j.posi_id, journal_code: j.journal_code, title: j.title, publisher: j.publisher, website_url: j.website_url, site_check: siteCheck, amounts_seen: amounts, says_no_fee: saysNoFee, fee_pages: feePages, pages })
     console.log(`\n## ${j.journal_code} — ${j.title}\n   site: ${registered || '(none)'} -> ${siteCheck.moved ? `MOVED to ${current}` : current ? 'ok' : `unreachable (${home.status})`}\n   amounts seen: ${amounts.join(', ') || 'none'}${saysNoFee ? '; a page says no fee' : ''}`)
     for (const p of pages) {
       for (const x of p.passages.filter(x => x.amounts.length || x.says_no_fee).slice(0, 3)) console.log(`   [${p.url}] ${x.text.slice(0, 500)}`)
