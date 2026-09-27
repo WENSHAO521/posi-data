@@ -4,10 +4,14 @@ name: Import global index edition
 # into this repository: the PCS-Q edition into rankings/pcs-q/ and the run
 # summaries into audits/global-index/<cycle>/. Uses only this repository's own
 # token. posi-data-delivery picks the change up on its own schedule.
+#
+# Checks every three hours: GitHub delays scheduled runs by hours and sometimes
+# drops them, so a single daily slot is not dependable. An edition that is
+# already imported exits in seconds.
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # daily, 03:00 UTC, after posi-engine's run
+    - cron: '7 */3 * * *'   # every three hours
   workflow_dispatch:
 
 concurrency:
