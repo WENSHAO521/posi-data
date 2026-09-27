@@ -10,6 +10,19 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-09-27 — PCS-Q global edition storage
+
+### Changed
+
+- The PCS-Q edition is stored gzipped (`rankings/pcs-q/pcs-q-<year>.json.gz`,
+  `.csv.gz`) and published as `collections/pcs-q.json.gz`. The global edition
+  (~158,000 journals) is ~90 MB as JSON: close to GitHub's 100 MB file limit,
+  and every data snapshot holds a full copy. Content and format of the
+  edition are unchanged; only the file is compressed (gzip, no timestamp, so
+  the same edition always has the same checksum).
+- `import-global-index` imports an edition again when its release was
+  re-published under the same cycle tag (the summary or cycle record differs).
+
 ## 2026-09-27 — POSI-ZONES 1.0 (trial)
 
 ### Added

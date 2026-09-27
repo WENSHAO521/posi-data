@@ -90,6 +90,7 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSy
 import { resolve, join } from 'path'
 import { execSync } from 'child_process'
 import { createHash } from 'crypto'
+import { gunzipSync, gzipSync } from 'zlib'
 
 // Default PCS ETL audit run this snapshot pulls collections/pcs.json from.
 // See the file header comment above for why this reads an audit directory
@@ -200,13 +201,17 @@ function main() {
     files['collections/citation-rankings.json'] = JSON.stringify(rankingRecords, null, 2) + '\n'
   }
   // PCS-Q (PCS-Q-1.0-SPEC.md): the newest rankings/pcs-q/pcs-q-<year>.json
-  // edition, passed through unmodified.
+  // edition (stored gzipped, .json.gz, since the global edition), passed
+  // through unmodified. Published gzipped as collections/pcs-q.json.gz: the
+  // global edition is ~90 MB as JSON, and every snapshot holds a full copy.
+  // gzipSync writes no timestamp, so the same edition gives the same bytes.
   const pcsQDir = resolve('rankings', 'pcs-q')
   const pcsQFile = existsSync(pcsQDir)
-    ? readdirSync(pcsQDir).filter(f => /^pcs-q-\d{4}\.json$/.test(f)).sort().pop() ?? null
+    ? readdirSync(pcsQDir).filter(f => /^pcs-q-\d{4}\.json(\.gz)?$/.test(f)).sort().pop() ?? null
     : null
-  const pcsQEdition = pcsQFile ? JSON.parse(readFileSync(join(pcsQDir, pcsQFile), 'utf-8')) : null
-  if (pcsQEdition) files['collections/pcs-q.json'] = JSON.stringify(pcsQEdition) + '\n'
+  const pcsQRaw = pcsQFile ? readFileSync(join(pcsQDir, pcsQFile)) : null
+  const pcsQEdition = pcsQRaw ? JSON.parse((pcsQFile.endsWith('.gz') ? gunzipSync(pcsQRaw) : pcsQRaw).toString('utf-8')) : null
+  if (pcsQEdition) files['collections/pcs-q.json.gz'] = gzipSync(JSON.stringify(pcsQEdition) + '\n', { level: 9 })
   const fileSums = Object.fromEntries(Object.entries(files).map(([relPath, content]) => [relPath, sha256(content)]))
   if (checksumsOnly) {
     console.log(JSON.stringify(fileSums, null, 2))

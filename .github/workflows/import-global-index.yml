@@ -39,7 +39,16 @@ jobs:
           done || true)
           echo "tag=$TAG" >> "$GITHUB_OUTPUT"
           if [ -z "$TAG" ]; then echo "No complete edition yet"; exit 0; fi
-          if [ -d "audits/global-index/$TAG" ]; then echo "$TAG already imported"; echo "tag=" >> "$GITHUB_OUTPUT"; fi
+          # Imported already, unless the release's edition has changed since
+          # (an edition re-released under the same cycle tag after a fix).
+          if [ -f "audits/global-index/$TAG/pcs-q-summary.json" ]; then
+            gh release download "$TAG" --repo WENSHAO521/posi-engine --pattern 'pcs-q-summary.json' --pattern 'cycle.json' --dir "$RUNNER_TEMP/check"
+            if cmp -s "$RUNNER_TEMP/check/pcs-q-summary.json" "audits/global-index/$TAG/pcs-q-summary.json" && cmp -s "$RUNNER_TEMP/check/cycle.json" "audits/global-index/$TAG/cycle.json"; then
+              echo "$TAG already imported"; echo "tag=" >> "$GITHUB_OUTPUT"
+            else
+              echo "$TAG was re-released; importing again"
+            fi
+          fi
 
       - name: Import
         if: steps.find.outputs.tag != ''
@@ -50,13 +59,17 @@ jobs:
           mkdir -p dl "audits/global-index/$TAG" rankings/pcs-q
           gh release download "$TAG" --repo WENSHAO521/posi-engine --dir dl \
             --pattern 'pcs-q-*.json' --pattern 'pcs-q-*.csv' --pattern '*summary.json' --pattern 'cycle.json'
-          cp dl/pcs-q-[0-9]*.json dl/pcs-q-[0-9]*.csv rankings/pcs-q/
+          # Stored gzipped: the global edition is ~90 MB as JSON, close to
+          # GitHub's 100 MB file limit, and every import would stay in history.
+          rm -f rankings/pcs-q/pcs-q-[0-9]*.json rankings/pcs-q/pcs-q-[0-9]*.csv rankings/pcs-q/pcs-q-[0-9]*.gz
+          for f in dl/pcs-q-[0-9]*.json dl/pcs-q-[0-9]*.csv; do gzip -9 -n -c "$f" > "rankings/pcs-q/$(basename "$f").gz"; done
           cp dl/pcs-q-summary.json rankings/pcs-q/summary.json
           cp dl/*summary.json dl/cycle.json "audits/global-index/$TAG/"
           printf '# %s\n\nImported from the posi-engine release `%s`. Bulk files (global corpus, PCS shards) remain attached to that release.\n' "$TAG" "$TAG" > "audits/global-index/$TAG/README.md"
           rm -rf dl
           git config user.name  "posi-data-bot"
           git config user.email "posi-data-bot@users.noreply.github.com"
-          git add rankings/pcs-q "audits/global-index/$TAG"
+          git add -A rankings/pcs-q "audits/global-index/$TAG"
+          git diff --cached --quiet && { echo "Nothing changed"; exit 0; }
           git commit -m "data(pcs-q): import $TAG"
           git push
