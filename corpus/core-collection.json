@@ -75,7 +75,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000001"
+    "posi_id": "POSI-J-000001",
+    "apc": {
+      "amount": 450,
+      "currency": "USD",
+      "note": "Standard research articles, from 1 May 2026. Book reviews, interviews, commentaries and conference reports are free. Waivers and reductions available.",
+      "source_url": "https://journals.panorama-sg.com/grhas/APC-Policy-Schedule",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-afs",
@@ -145,7 +152,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000002"
+    "posi_id": "POSI-J-000002",
+    "apc": {
+      "amount": 300,
+      "currency": "USD",
+      "note": "Research articles. Commentaries and perspectives are free. The 2026 calls for papers (Vol. 2, Nos. 1 and 2) state no APC for those issues. Waivers available.",
+      "source_url": "https://journals.panorama-sg.com/afs/APC/WaiverPolicy",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-jlpcs",
@@ -223,7 +237,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000003"
+    "posi_id": "POSI-J-000003",
+    "apc": {
+      "amount": 275,
+      "currency": "USD",
+      "note": "About RMB 2,000, plus a 10% payment handling charge (USD 302.50 in total). No submission or review fee.",
+      "source_url": "https://journals.panorama-sg.com/jlpcs/APC-Waiver-Policy",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-hnex",
@@ -293,7 +314,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000004"
+    "posi_id": "POSI-J-000004",
+    "apc": {
+      "amount": 0,
+      "currency": "USD",
+      "note": "No APC for manuscripts accepted before 2027 (diamond open access). From 2027: USD 1,500 per accepted article.",
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/APC-Waiver-Policy",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-pear",
@@ -363,7 +391,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000005"
+    "posi_id": "POSI-J-000005",
+    "apc": {
+      "amount": 350,
+      "currency": "USD",
+      "note": "Book reviews, commentaries and critical reviews are exempt. A USD 100 fee applies to author-requested post-publication changes.",
+      "source_url": "https://journals.panorama-sg.com/pemr/article-processing-charge",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-jesa",
@@ -433,7 +468,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000006"
+    "posi_id": "POSI-J-000006",
+    "apc": {
+      "amount": 400,
+      "currency": "USD",
+      "note": "Research and review articles, case studies. USD 200 for brief reports and short communications. Waivers available.",
+      "source_url": "https://journals.panorama-sg.com/jesa/apcs",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-tts",
@@ -503,7 +545,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000007"
+    "posi_id": "POSI-J-000007",
+    "apc": {
+      "amount": 350,
+      "currency": "USD",
+      "note": "Standard rate. Manuscripts submitted in 2026: USD 120. Book reviews and invited contributions are free. Waivers available.",
+      "source_url": "https://journals.panorama-sg.com/tts/article-processing-charge",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-rggd",
@@ -573,7 +622,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000008"
+    "posi_id": "POSI-J-000008",
+    "apc": {
+      "amount": 450,
+      "currency": "USD",
+      "note": "Standard rate. Lower-middle-income countries USD 350; low-income countries free; special issues USD 300; book reviews free.",
+      "source_url": "https://journals.panorama-sg.com/rggd/APC/Policy",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-rjgms",
@@ -643,7 +699,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000009"
+    "posi_id": "POSI-J-000009",
+    "apc": {
+      "amount": 400,
+      "currency": "USD",
+      "note": "Standard rate. Students, independent scholars and Global South authors USD 200. Manuscripts submitted in 2026: USD 140. Waivers available.",
+      "source_url": "https://journals.panorama-sg.com/Resonance/APC",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-csgs",
@@ -713,7 +776,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000010"
+    "posi_id": "POSI-J-000010",
+    "apc": {
+      "amount": 500,
+      "currency": "USD",
+      "note": "No submission or review fees. Full waiver for low-income countries, up to 50% for lower-middle-income countries.",
+      "source_url": "https://journals.panorama-sg.com/csgs/APC-Waiver-Policy",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-jscc",
@@ -783,7 +853,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-000011"
+    "posi_id": "POSI-J-000011",
+    "apc": {
+      "amount": 600,
+      "currency": "USD",
+      "note": "Standard research articles. Book reviews and short communications are free. Partial waivers available.",
+      "source_url": "https://journals.panorama-sg.com/jscc/APC-Waiver-Policy",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-silence",
@@ -931,7 +1008,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "indexed",
-    "posi_id": "POSI-J-000013"
+    "posi_id": "POSI-J-000013",
+    "apc": {
+      "amount": 400,
+      "currency": "USD",
+      "note": "Effective 1 July 2025. Also stated as SGD 513, EUR 342, GBP 296, CAD 554 or CNY 2,880. Waivers available.",
+      "source_url": "https://atripress.org/jmss/APC",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-jcsis",
@@ -1009,7 +1093,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "indexed",
-    "posi_id": "POSI-J-000014"
+    "posi_id": "POSI-J-000014",
+    "apc": {
+      "amount": 300,
+      "currency": "USD",
+      "note": "Waiver available for financial hardship or low- and middle-income countries.",
+      "source_url": "https://atripress.org/index.php/index/Charge",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-jcac",
@@ -1087,7 +1178,14 @@
     "created_at": "2026-07-15T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "indexed",
-    "posi_id": "POSI-J-000015"
+    "posi_id": "POSI-J-000015",
+    "apc": {
+      "amount": 300,
+      "currency": "USD",
+      "note": "Waiver available for financial hardship or low- and middle-income countries.",
+      "source_url": "https://atripress.org/index.php/index/Charge",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-rwxk",
@@ -1157,7 +1255,14 @@
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr",
-    "posi_id": "POSI-J-000016"
+    "posi_id": "POSI-J-000016",
+    "apc": {
+      "amount": 200,
+      "currency": "USD",
+      "note": "Or CNY 1,500, for up to 4 pages; CNY 100 per extra page. Until CNKI inclusion: CNY 800 for up to 4 pages.",
+      "source_url": "https://ojs.shiharr.com/index.php/rwxk/apc",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-jyyjx",
@@ -1235,7 +1340,14 @@
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr",
-    "posi_id": "POSI-J-000017"
+    "posi_id": "POSI-J-000017",
+    "apc": {
+      "amount": 200,
+      "currency": "USD",
+      "note": "Or CNY 1,500, for up to 4 pages; CNY 100 per extra page. Until CNKI inclusion: CNY 800 for up to 4 pages.",
+      "source_url": "https://ojs.shiharr.com/index.php/jyyjx/apc",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-jassp",
@@ -1313,7 +1425,14 @@
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr",
-    "posi_id": "POSI-J-000018"
+    "posi_id": "POSI-J-000018",
+    "apc": {
+      "amount": 100,
+      "currency": "USD",
+      "note": "One-time charge for accepted papers; taxes extra where applicable. Editorials, corrigenda and comments are free.",
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/apc",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-zgwxxk",
@@ -1453,7 +1572,14 @@
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr",
-    "posi_id": "POSI-J-000020"
+    "posi_id": "POSI-J-000020",
+    "apc": {
+      "amount": 200,
+      "currency": "USD",
+      "note": "Or CNY 1,200 per article.",
+      "source_url": "https://ojs.shiharr.com/index.php/yishu/APC2",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-shr-ai",
@@ -1803,7 +1929,14 @@
     "created_at": "2026-06-22T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "shiharr",
-    "posi_id": "POSI-J-000025"
+    "posi_id": "POSI-J-000025",
+    "apc": {
+      "amount": 0,
+      "currency": "USD",
+      "note": "The journal states it charges no APCs.",
+      "source_url": "https://ojs.shiharr.com/index.php/cmas",
+      "checked_at": "2026-09-27"
+    }
   },
   {
     "id": "j-cds",
@@ -2232,6 +2365,13 @@
     "created_at": "2026-08-11T00:00:00Z",
     "updated_at": "2026-08-11T00:00:00Z",
     "source_group": "psg",
-    "posi_id": "POSI-J-023332"
+    "posi_id": "POSI-J-023332",
+    "apc": {
+      "amount": 1320,
+      "currency": "CNY",
+      "note": "USD 165. Includes a 10% payment processing surcharge (base APC CNY 1,200 or USD 150).",
+      "source_url": "https://journals.panorama-sg.com/cropt/apc-waiver-policy",
+      "checked_at": "2026-09-27"
+    }
   }
 ]
