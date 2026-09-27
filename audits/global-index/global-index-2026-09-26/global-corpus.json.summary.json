@@ -1,0 +1,21 @@
+{
+  "journals": 158242,
+  "curated": 4287,
+  "by_source": {
+    "openalex+crossref": 135630,
+    "openalex": 22257,
+    "crossref": 355
+  },
+  "by_psc_confidence": {
+    "high": 65335,
+    "unclassified": 8677,
+    "low": 51376,
+    "multidisciplinary": 21423,
+    "medium": 11431
+  },
+  "inputs": {
+    "openalex": 207379,
+    "crossref": 171359,
+    "curated": 4320
+  }
+}

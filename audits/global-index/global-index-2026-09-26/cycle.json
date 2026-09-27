@@ -1,0 +1,56 @@
+{
+  "cycle_id": "2026-09-26",
+  "started_at": "2026-09-26",
+  "stage": "ready",
+  "history": [
+    {
+      "at": "2026-09-26T17:49:07.868Z",
+      "stage": "harvest",
+      "note": "complete"
+    },
+    {
+      "at": "2026-09-26T17:49:11.634Z",
+      "stage": "corpus",
+      "note": "complete"
+    },
+    {
+      "at": "2026-09-26T23:04:10.942Z",
+      "stage": "pcs",
+      "note": "progress 47823/158242"
+    },
+    {
+      "at": "2026-09-27T12:01:14.333Z",
+      "stage": "pcs",
+      "note": "progress 136536/158242"
+    },
+    {
+      "at": "2026-09-27T12:01:52.276Z",
+      "stage": "pcs",
+      "note": "progress 136536/158242"
+    },
+    {
+      "at": "2026-09-27T12:57:21.046Z",
+      "stage": "pcs",
+      "note": "progress 158241/158242"
+    },
+    {
+      "at": "2026-09-27T13:09:01.788Z",
+      "stage": "pcs",
+      "note": "progress 158241/158242"
+    },
+    {
+      "at": "2026-09-27T13:10:21.497Z",
+      "stage": "pcs",
+      "note": "complete 158242/158242"
+    },
+    {
+      "at": "2026-09-27T13:10:35.435Z",
+      "stage": "rank",
+      "note": "edition built"
+    }
+  ],
+  "pcs_progress": {
+    "done": 158242,
+    "total": 158242
+  }
+}
