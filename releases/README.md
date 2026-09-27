@@ -7,6 +7,11 @@ One directory per POSI-R platform release, each holding the reviewed
 |---|---|---|---|
 | [POSI-R-2026.1](./POSI-R-2026.1/manifest.json) | 2026-09-27 | 2026-09-27 | First official release: Core Collection, Global Benchmark, PCS, PCI, Citation Q and the PCS-Q 2026 ranking edition |
 
+Official releases are cut once a year, in December. Between releases the
+data keeps updating: snapshots built from newer data are published as
+`post_release_data_snapshot`, naming the release they follow, and are not
+releases themselves.
+
 A manifest is committed once and never edited. A correction is a new
 revision (`POSI-R-2026.2`, …) whose `supersedes` names the release it
 corrects.
