@@ -1,0 +1,36 @@
+name: Collect APC evidence
+
+# Fetches each Core Collection journal's fee pages and records every passage
+# about article processing charges, for review (scripts/extract-apc.mjs).
+# It writes evidence only: APCs are recorded on journal records by a person,
+# from what the pages actually state. Run by hand.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Collect APC evidence
+        run: node scripts/extract-apc.mjs | tee "$RUNNER_TEMP/apc.txt"
+
+      - name: Commit the evidence
+        run: |
+          git config user.name  "posi-data-bot"
+          git config user.email "posi-data-bot@users.noreply.github.com"
+          git add audits/data-quality/apc-2026/candidates.json
+          if git diff --staged --quiet; then echo "No change"; exit 0; fi
+          git commit -m "evidence(apc): collect APC evidence for the Core Collection $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash --quiet origin master
+          git push
