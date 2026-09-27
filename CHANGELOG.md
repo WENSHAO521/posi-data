@@ -10,6 +10,16 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-09-27 — POSI-ZONES 1.0 (trial)
+
+### Added
+
+- **POSI-ZONES-1.0** ([POSI-ZONES-1.0-SPEC.md](./POSI-ZONES-1.0-SPEC.md)) —
+  POSI Zones (POSI 分区): the PCS-Q ranks divided into tiers of 5%, 15%, 30%
+  and 50%, within each category and overall, beside the PCS quartiles.
+  Published as a trial; the release of record accompanies the December
+  POSI-R release.
+
 ## 2026-09-27 — POSI-R-2026.1, the first official release
 
 ### Added
