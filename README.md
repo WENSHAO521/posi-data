@@ -1,121 +1,104 @@
 # posi-data
 
-Canonical, versioned data for **POSI (Panorama Open Scholarly Index)**: journal
-records, the POSI Subject Classification (PSC), lifecycle ratings (AJR-E/AJR-M),
-annual citation metrics, and subject-category rankings.
+Canonical, versioned data and methodology of **POSI (Panorama Open Scholarly
+Index)**: journal records and identities, subject classification, lifecycle
+ratings, citation indicators, rankings, and the specifications that define
+them. This repository, not a database server, is the source of truth: every
+number POSI publishes traces back to a commit here.
 
-This repository — not a database server — is the source of truth. Every
-number POSI publishes (PCI, PCI-5, PNCI, subject rank, percentile, quartile,
-AJR score) traces back to a specific commit and, for frozen annual results, a
-tagged **POSI Journal Reports (PJR)** release in this repo.
+## POSI Journal Evaluation Architecture 1.0
 
-> **Status (2026-08): real data, actively growing.** 31 Core Collection
-> journals (fully indexed, PQF-admitted), 4,289 Global Benchmark Collection
-> journals (curated validation seed + a 2026-08 bulk publisher-catalog
-> expansion — Elsevier, Frontiers), 23,796 discovered-but-unreviewed journal
-> records, 26,000+ permanent `POSI-J-######` identities minted. The "POSI
-> Journal Evaluation & Ranking Framework 1.0" (AJR-E 1.1, AJR-M 1.0,
-> PSC-CROSSWALK 0.2, lifecycle staging) is frozen and implemented in
-> [posi-engine](https://github.com/WENSHAO521/posi-engine). See
-> [CHANGELOG.md](./CHANGELOG.md) for the full history.
+POSI evaluates journals in five separate layers
+([POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md)):
 
-## Evaluation architecture
+| Layer | Question | Output |
+|---|---|---|
+| **PQF** | Can the journal enter or remain in the Core Collection? | Score 0–100: Eligible (≥ 70), Review Required, Insufficient Evidence, Not Eligible (< 40) |
+| **AJR** | How strong is its lifecycle development? | Observation (0–11 months), AJR-E (12–59), AJR-M (60+): AJR Score + AJR Rating A+ … D |
+| **PCI / PNCI / PCS** | What does citation evidence show? | PCI (OpenAlex), [PNCI](./PNCI-1.0-SPEC.md) (normalized by field, year and type), PCS (Crossref, supplementary) |
+| **Citation Ranking** | Where does it rank in its PSC category? | Rank, mid-rank percentile, Citation Quartile Q1–Q4 (shown as C-Q1–C-Q4), from PNCI only |
+| **POSI Zones** | POSI's selective grouping | Zone 1 (≥ 95th percentile), Zone 2 (≥ 80), Zone 3 (≥ 50), Zone 4 |
 
-POSI evaluates journals in five separate layers — see
-[POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md): **PQF** (Core Collection
-eligibility, not a ranking), **AJR** (lifecycle rating: AJR Score + AJR
-Rating A+ … D, not a quartile), **citation indicators** (PCI, PNCI, PCS),
-the **Citation Ranking** (rank, percentile and Citation Quartile C-Q1 … C-Q4
-from [PNCI](./PNCI-1.0-SPEC.md) within the PSC category) and **POSI Zones**
-(from the same percentile). PCS is a supplementary indicator and ranks
-nothing.
+PQF is not a ranking, AJR is not a quartile, and PCS determines no rank,
+quartile or zone. E-Q / M-Q, PCS-Q and the PCI-based Citation Q are retired
+and kept only as archive.
 
-## What lives here
+## Layout
 
 | Path | Contents |
 |---|---|
-| `schema/` | JSON Schema definitions for every canonical record type POSI publishes |
-| `taxonomy/psc/` | POSI Subject Classification — versioned, PR-reviewed |
-| `corpus/` | `core-collection.json` (31, admitted) and `global-benchmark.json` (4,289, external validation corpus) — see `corpus/README.md` |
-| `source-lists/` | Raw, unmodified publisher-catalog exports used as bulk-ingestion input (e.g. Elsevier's `jnlactive.csv`, Frontiers' title list) — see `source-lists/README.md` |
-| `journals/` | Discovered/canonical journal records (sharded JSONL) |
-| `evidence/` | Per-journal, per-criterion Evidence Coverage snapshots (Evidence ETL output) |
-| `metrics/` | Annual per-journal metric snapshots (PCI, PCI-5, PNCI, …) |
-| `rankings/` | `citation/`: the POSI Citation Ranking edition (PNCI-1.0, CITATION-RANK-1.0); `pcs-q/`: the PCS edition (PCS values; its quartiles are retired) |
-| `manifests/` | One manifest per PJR release, pinning data/engine commits |
-| `registry/` | Permanent, append-only mapping from stable external identity (ISSN-L, etc.) to `POSI-J-######` id — plus `superseded-ids.csv` (retired-id → surviving-id resolution) and `excluded-identities.csv` (known zero-evidence records) — see `registry/README.md` |
-| `audits/` | One directory per migration/ingestion/rating pass — full before/after data, reasoning, and reproducibility steps for every non-trivial change made to this repo |
-| `scripts/publish-data-snapshot.mjs` | Publishes a dated snapshot of `corpus/` to [posi-data-delivery](https://github.com/WENSHAO521/posi-data-delivery) — the public, GitHub-Pages-hosted read layer other consumers (including the website) fetch from, so they never have to clone this repo or vendor its files directly |
-| `AJR-SPEC.md` / `AJR-E-1.1-SPEC.md` / `AJR-M-1.0-SPEC.md` | The lifecycle-based Automated Journal Rating framework — Early-Stage and Mature tracks |
-| `PSC-CROSSWALK.md` | OpenAlex-topic-to-PSC subject classification crosswalk |
-| `PJR-SPEC.md` | The annual citation-metrics release specification |
-| `POSI-EVAL-1.0-SPEC.md` / `PNCI-1.0-SPEC.md` | The journal evaluation architecture, citation ranking, quartiles, zones and PNCI |
+| `corpus/` | `core-collection.json` (31 certified journals) and `global-benchmark.json` (4,289 external reference journals), with PQF and AJR (`early_stage_rating.rating`) |
+| `journals/` | Canonical and discovered journal records, sharded |
+| `registry/` | Permanent `POSI-J-######` identity map, superseded ids, excluded identities |
+| `taxonomy/psc/` | POSI Subject Classification |
+| `rankings/citation/` | Citation Ranking editions (PNCI-1.0, CITATION-RANK-1.0), imported from posi-engine |
+| `rankings/pcs-q/` | PCS editions (PCS values; their PCS-Q quartiles are retired) |
+| `evidence/` | Evidence Coverage snapshots used by AJR |
+| `schema/` | JSON Schemas: journal, metric, rating, citation-ranking, evaluation, ranking (deprecated) |
+| `releases/` | POSI-R release manifests |
+| `audits/` | One directory per migration, ingestion or rating run, with its data and reasoning |
+| `source-lists/` | Unmodified publisher title lists used for ingestion |
+| `scripts/` | `publish-data-snapshot.mjs`, `migrate-evaluation-1.0.mjs`, `extract-apc.mjs` |
 
-## What does *not* live here
+## Specifications
 
-Bulk citation-graph data (works, references, citation edges) is expected to
-reach a scale (hundreds of millions of edges) where committing it as Git
-objects is impractical — see [GitHub's large-file guidance](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github).
-That data is published as compressed Parquet/CSV assets attached to
-[GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
-instead of committed to the repository history. See `PJR-SPEC.md`.
+| Spec | Scope |
+|---|---|
+| [POSI-EVAL-1.0](./POSI-EVAL-1.0-SPEC.md) | Evaluation architecture: ranking method, percentiles, quartiles, zones, minimum data, ties, snapshots, versioning, limitations |
+| [PNCI-1.0](./PNCI-1.0-SPEC.md) | PNCI formula, items, baselines |
+| [AJR](./AJR-SPEC.md), [AJR-E-1.1](./AJR-E-1.1-SPEC.md), [AJR-M-1.0](./AJR-M-1.0-SPEC.md) | Lifecycle rating models |
+| [PJR](./PJR-SPEC.md) | PCI / PCI-5 and PJR releases |
+| [PCS-1.0](./PCS-1.0-SPEC.md) | PCS |
+| [PSC-CROSSWALK](./PSC-CROSSWALK.md) | Subject classification |
+| [GLOBAL-INDEX-1.0](./GLOBAL-INDEX-1.0-SPEC.md) | The global journal index cycle |
+| [POSI-R-1.0](./POSI-R-1.0-SPEC.md) | Platform releases |
+| [PCS-Q-1.0](./PCS-Q-1.0-SPEC.md), [POSI-ZONES-1.0](./POSI-ZONES-1.0-SPEC.md), [EARLY-STAGE-RATING](./EARLY-STAGE-RATING-SPEC.md) | Superseded, kept for the record |
 
-## Design principles
+Every change to a formula, threshold or status is a version bump recorded in
+[CHANGELOG.md](./CHANGELOG.md).
 
-1. **Open data.** Every journal record, classification, metric, and ranking
-   POSI publishes is here, in a plain-text, diffable format.
-2. **Open methodology.** How PCI is computed, which document types count
-   toward the denominator, how ties are broken, how quartiles are assigned,
-   how AJR-E/AJR-M score a journal — all documented in `PJR-SPEC.md` /
-   `AJR-SPEC.md` and versioned alongside the data they describe.
-3. **Reproducibility over real-time.** POSI does not recompute rankings on
-   every page load. A PJR release is a frozen snapshot: `git checkout` the
-   tag, re-run [posi-engine](https://github.com/WENSHAO521/posi-engine)
-   against the pinned commit, and you should get the same numbers.
-4. **Provenance, not re-licensing.** Data POSI aggregates from upstream open
-   infrastructure (Crossref, OpenAlex, OpenCitations, DOAJ, ROR) keeps its
-   own `source` / `license` / `retrieved_at` fields — POSI does not
-   relabel third-party data as its own.
-5. **A permanent id is never silently orphaned.** `POSI-J-######` ids are
-   append-only and never reassigned. A record that turns out to need
-   correcting (wrong ISSN, confirmed rename) never just disappears — its old
-   id is documented as superseded (`registry/superseded-ids.csv`), never left
-   as an unexplained dead end.
-6. **Never claim more than was actually computed.** A source-level figure
-   (e.g. OpenAlex's raw 2-year mean citedness for a Global Benchmark
-   journal) is published as an explicitly diagnostic `citation_preview` —
-   `rank`/`percentile`/`quartile` always `null`, `status:
-   "diagnostic_only"` — never disguised as a real Citation Q ranking. This
-   rule was itself violated once, briefly: a 2026-08-12 migration fed that
-   same OpenAlex figure into the production ranking functions as if it
-   were PCI, producing a real-looking `quartile`/`percentile`/`rank` for
-   2,614 journals with no Evidence Coverage gate behind it. Corrected the
-   next day (`audits/migrations/citation-preview-correction-2026/`) — kept
-   here as a concrete example of the rule, not just an abstract principle.
+## Data flow
+
+```
+posi-engine (monthly cycle) ──release──▶ import-global-index (every 3 h) ──▶ rankings/ in this repo
+this repo ──publish-data-snapshot.mjs──▶ posi-data-delivery ──▶ data.posi.panorama-sg.com ──▶ website
+```
+
+- `.github/workflows/import-global-index.yml` imports the newest complete
+  engine release: the Citation Ranking edition into `rankings/citation/`, the
+  PCS edition into `rankings/pcs-q/`, summaries into `audits/global-index/`.
+- posi-data-delivery builds an immutable snapshot whenever the published
+  collections change.
+- `.github/workflows/validate.yml` validates records against `schema/` on
+  every push and pull request.
+
+## Releases
+
+A POSI-R release (`POSI-R-{year}.{revision}`) is a reviewed manifest in
+`releases/` recording the SHA-256 of every collection it contains. Current:
+[POSI-R-2026.1](./releases/POSI-R-2026.1/manifest.json). Official releases are
+cut once a year in December; between releases, data is published as
+post-release snapshots.
+
+## Principles
+
+1. **Open data and methodology**: every record, formula and threshold is here.
+2. **Reproducible**: a release pins its data and engine commits.
+3. **Provenance**: third-party data keeps its source and licence.
+4. **Nothing silently lost**: ids are never reassigned, superseded ids resolve
+   to their survivors, and migrations add rather than delete; legacy fields are
+   kept and marked deprecated.
+5. **Never claim more than was computed**: missing values stay missing, and
+   diagnostic previews are never shown as rankings.
 
 ## Related repositories
 
-- [posi-engine](https://github.com/WENSHAO521/posi-engine) — the PSC
-  classifier, AJR-E/AJR-M rating engine, PCI/PNCI calculators, and ranking
-  engine that reads this repo and produces the contents of `metrics/` and
-  `rankings/`.
-- [posi-data-delivery](https://github.com/WENSHAO521/posi-data-delivery) —
-  the public read layer this repo publishes to
-  (`scripts/publish-data-snapshot.mjs`), served over HTTPS at
-  `data.posi.panorama-sg.com`. Not a source of truth itself — a generated,
-  versioned, immutable mirror of `corpus/`, so downstream consumers fetch
-  over plain HTTPS instead of cloning this repo or pinning a commit SHA
-  directly.
-- [Panorama-Open-Scholarly-Index](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index) —
-  the POSI website (Next.js, static export). Reads from posi-data-delivery,
-  not this repo directly: small collections are synced into the build at
-  `src/lib/*.json` (that repo's `scripts/sync-corpus.mjs`), and the larger
-  Global Benchmark publisher-catalog expansion is fetched client-side at
-  runtime, never vendored.
+- [posi-engine](https://github.com/WENSHAO521/posi-engine): computes the data here
+- [posi-data-delivery](https://github.com/WENSHAO521/posi-data-delivery): public read layer
+- [Panorama-Open-Scholarly-Index](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index): the website
 
 ## License
 
-- Structured data POSI has produced or curated (`schema/`, `taxonomy/`,
-  `metrics/`, `rankings/`, `manifests/`, `corpus/`): [CC BY 4.0](./LICENSE-DATA).
-- Journal records aggregated from upstream sources retain the license and
-  attribution of their origin — see each record's `provenance` field.
+POSI-produced data (`schema/`, `taxonomy/`, `corpus/`, `rankings/`,
+`releases/` and the rest): [CC BY 4.0](./LICENSE-DATA). Records aggregated
+from upstream sources keep their origin's licence and attribution.
