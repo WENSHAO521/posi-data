@@ -3,7 +3,11 @@
   "title": "Research on Architecture and Environment",
   "short_title": "RAE",
   "alternate_titles": [
-    "建筑与环境研究"
+    {
+      "title": "建筑与环境研究",
+      "type": "translation",
+      "lang": "zh"
+    }
   ],
   "status": "indexed",
   "publisher": "China Architecture Culture Publishing House",

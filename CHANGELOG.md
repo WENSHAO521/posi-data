@@ -10,6 +10,24 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-09-28 — Typed alternate titles; validation on every change
+
+### Added
+
+- An alternate title may say what kind of title it is:
+  `{ "title", "type": "former" | "translation" | "abbreviation" | "variant",
+  "lang"?, "until"? }`. A plain string stays valid. POSI-J-000004's Crossref
+  title is a `variant`; POSI-J-000027's Chinese title a `translation` (`zh`).
+- `.github/workflows/validate.yml`: every push and pull request validates
+  `journals/core` and `journals/discovered` against `schema/`, and checks that
+  `corpus/core-collection.json` and `journals/core` agree on titles and
+  alternate titles (posi-engine's `scripts/validate-against-schema.mjs`).
+- The global corpus summary (`audits/global-index/<cycle>/global-corpus.json.summary.json`)
+  lists `title_mismatches`: curated journals whose Crossref/OpenAlex title
+  differs from the curated title and is not yet one of its alternate titles.
+  Each needs a decision: record it as an alternate title, or have the
+  registry corrected.
+
 ## 2026-09-28 — Journal titles follow the ISSN registration
 
 ### Added

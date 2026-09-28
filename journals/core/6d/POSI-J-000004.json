@@ -3,7 +3,10 @@
   "title": "Health Nexus",
   "short_title": "Health Nexus",
   "alternate_titles": [
-    "Health Nexus: Interdisciplinary Medical Research Journal"
+    {
+      "title": "Health Nexus: Interdisciplinary Medical Research Journal",
+      "type": "variant"
+    }
   ],
   "status": "indexed",
   "publisher": "Panorama Scholarly Group",
