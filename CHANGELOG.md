@@ -25,6 +25,8 @@ despite PJR-SPEC.md referencing one since v1.0.
   "Health Nexus: Interdisciplinary Medical Research Journal" is kept as an
   alternate title. Audit and ETL outputs are historical records and keep the
   title they were generated with.
+- POSI-J-000027 ("Research on Architecture and Environment") keeps its title
+  and gains its Chinese title "建筑与环境研究" as an alternate title.
 
 ## 2026-09-27 — PCS-Q global edition storage
 
