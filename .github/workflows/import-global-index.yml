@@ -6,13 +6,15 @@ name: Import global index edition
 # summaries into audits/global-index/<cycle>/. Uses only this repository's own
 # token. posi-data-delivery picks the change up on its own schedule.
 #
-# Checks every three hours: GitHub delays scheduled runs by hours and sometimes
-# drops them, so a single daily slot is not dependable. An edition that is
+# Checks every 20 minutes, so a new edition reaches the website within about an
+# hour of its release (this import, then posi-data-delivery at +6 min, then the
+# website's data sync at +12 min). A single daily slot is not dependable either:
+# GitHub delays scheduled runs and sometimes drops them. An edition that is
 # already imported exits in seconds.
 
 on:
   schedule:
-    - cron: '7 */3 * * *'   # every three hours
+    - cron: '2,22,42 * * * *'   # every 20 minutes; posi-data-delivery follows at :08/:28/:48
   workflow_dispatch:
 
 concurrency:

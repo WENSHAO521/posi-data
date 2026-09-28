@@ -60,7 +60,7 @@ Every change to a formula, threshold or status is a version bump recorded in
 ## Data flow
 
 ```
-posi-engine (monthly cycle) ──release──▶ import-global-index (every 3 h) ──▶ rankings/ in this repo
+posi-engine (monthly cycle) ──release──▶ import-global-index (every 20 min) ──▶ rankings/ in this repo
 this repo ──publish-data-snapshot.mjs──▶ posi-data-delivery ──▶ data.posi.panorama-sg.com ──▶ website
 ```
 
