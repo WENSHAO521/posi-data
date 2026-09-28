@@ -1,5 +1,7 @@
 # AJR 1.0 — POSI Automated Journal Rating, Lifecycle Framework (design spec, Phase 1 methodology freeze)
 
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** AJR output is now an **AJR Score + AJR Rating (A+ … D)**, an absolute lifecycle rating ([POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3). **E-Q1–E-Q4 and M-Q1–M-Q4 are retired**: § 1's quartile column, § 4's example card, § 5's shared-quartile rule, § 12 and § 14's E-Q/M-Q cohort rules are kept below as history only. The only quartile POSI publishes is the Citation Quartile (C-Q1–C-Q4), from PNCI. AJR Ratings are absolute lifecycle ratings. They are not citation quartiles and should not be interpreted as relative subject rankings.
+
 > **2026-08 update — Phase 2 (engine migration) has landed for the core
 > rubrics.** The concrete scoring models this document sketches now have
 > real, implemented, versioned specs: **[AJR-E-1.1-SPEC.md](./AJR-E-1.1-SPEC.md)**

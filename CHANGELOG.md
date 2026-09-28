@@ -10,6 +10,49 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-09-28 — POSI Journal Evaluation Architecture 1.0
+
+### Added
+
+- [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md): five evaluation layers
+  that are never mixed — PQF (Core Collection eligibility), AJR (AJR Score +
+  AJR Rating A+ … D), citation indicators (PCI, PNCI, PCS), the Citation
+  Ranking (rank, mid-rank percentile, Citation Quartile C-Q1 … C-Q4, from
+  PNCI within the PSC category) and POSI Zones (from the same percentile).
+  Minimum data (≥ 20 items and 2 publication years official, 10–19
+  provisional, coverage ≥ 90%), category-size tiers (≥ 50 official zones,
+  30–49 provisional zones, 20–29 no zones, < 20 no ranking), shared ties.
+- [PNCI-1.0-SPEC.md](./PNCI-1.0-SPEC.md): item-level PNCI normalized by PSC
+  field, publication year and document type.
+- `schema/citation-ranking.schema.json`, `schema/evaluation.schema.json`.
+- `rankings/citation/`: the Citation Ranking edition, imported from
+  posi-engine and published as `collections/citation-ranking.json.gz`; the
+  snapshot manifest records `evaluation_version`, `citation_rank_version`,
+  `pnci_version`, `zones_version` and `ranking_snapshot_date`.
+- `early_stage_rating.rating` / `rating_version` (AJR-RATING-1.0) on corpus
+  records with a published AJR score (`scripts/migrate-evaluation-1.0.mjs`,
+  `audits/migrations/evaluation-architecture-1.0-2026/`).
+
+### Changed
+
+- POSI Zones: POSI-ZONES-2.0 reads the PNCI percentile (≥ 95 / ≥ 80 / ≥ 50)
+  within categories only, instead of rank ÷ N of the PCS-Q ranking.
+- PCS-1.0 § 1: PCS determines no rank, percentile, quartile or zone again
+  (the PCS-Q amendment is revoked).
+- PQF: the published output is the score and its status band (≥ 70 Eligible,
+  50–69.99 Review Required, 40–49.99 Insufficient Evidence, < 40 Not
+  Eligible).
+
+### Deprecated (data kept, no longer read or published)
+
+- E-Q1–E-Q4 and M-Q1–M-Q4 (AJR-SPEC.md § 1, 4, 5; AJR-E-1.1 § 11; AJR-M-1.0
+  § 9–10) and their fields in `schema/rating.schema.json`.
+- PCI Citation Q (PJR-SPEC.md § 8, `collections/citation-rankings.json`) and
+  PJR-SPEC.md § 6's journal-level PNCI.
+- PCS-Q as a ranking (PCS-Q-1.0-SPEC.md); the PCS edition is still published
+  for PCS values. POSI-ZONES-1.0.
+- `schema/ranking.schema.json` (archive of PCI Citation Q records).
+
 ## 2026-09-28 — Typed alternate titles; validation on every change
 
 ### Added

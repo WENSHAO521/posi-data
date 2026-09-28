@@ -1,7 +1,8 @@
 name: Import global index edition
 
 # Pulls the newest completed global-index-* release from posi-engine (public)
-# into this repository: the PCS-Q edition into rankings/pcs-q/ and the run
+# into this repository: the Citation Ranking edition (POSI-EVAL-1.0, PNCI-1.0)
+# into rankings/citation/, the PCS edition into rankings/pcs-q/ and the run
 # summaries into audits/global-index/<cycle>/. Uses only this repository's own
 # token. posi-data-delivery picks the change up on its own schedule.
 #
@@ -43,7 +44,8 @@ jobs:
           # (an edition re-released under the same cycle tag after a fix).
           if [ -f "audits/global-index/$TAG/pcs-q-summary.json" ]; then
             gh release download "$TAG" --repo WENSHAO521/posi-engine --pattern 'pcs-q-summary.json' --pattern 'cycle.json' --dir "$RUNNER_TEMP/check"
-            if cmp -s "$RUNNER_TEMP/check/pcs-q-summary.json" "audits/global-index/$TAG/pcs-q-summary.json" && cmp -s "$RUNNER_TEMP/check/cycle.json" "audits/global-index/$TAG/cycle.json"; then
+            HAS_CR=$(gh release view "$TAG" --repo WENSHAO521/posi-engine --json assets -q '.assets[].name' | grep -c '^citation-ranking-summary.json$' || true)
+            if cmp -s "$RUNNER_TEMP/check/pcs-q-summary.json" "audits/global-index/$TAG/pcs-q-summary.json" && cmp -s "$RUNNER_TEMP/check/cycle.json" "audits/global-index/$TAG/cycle.json" && { [ "$HAS_CR" = 0 ] || [ -f "audits/global-index/$TAG/citation-ranking-summary.json" ]; }; then
               echo "$TAG already imported"; echo "tag=" >> "$GITHUB_OUTPUT"
             else
               echo "$TAG was re-released; importing again"
@@ -58,18 +60,25 @@ jobs:
           set -euo pipefail
           mkdir -p dl "audits/global-index/$TAG" rankings/pcs-q
           gh release download "$TAG" --repo WENSHAO521/posi-engine --dir dl \
-            --pattern 'pcs-q-*.json' --pattern 'pcs-q-*.csv' --pattern '*summary.json' --pattern 'cycle.json'
+            --pattern 'pcs-q-*.json' --pattern 'pcs-q-*.csv' --pattern 'citation-ranking-*.json' --pattern 'citation-ranking-*.csv' --pattern '*summary.json' --pattern 'cycle.json'
           # Stored gzipped: the global edition is ~90 MB as JSON, close to
           # GitHub's 100 MB file limit, and every import would stay in history.
           rm -f rankings/pcs-q/pcs-q-[0-9]*.json rankings/pcs-q/pcs-q-[0-9]*.csv rankings/pcs-q/pcs-q-[0-9]*.gz
           for f in dl/pcs-q-[0-9]*.json dl/pcs-q-[0-9]*.csv; do gzip -9 -n -c "$f" > "rankings/pcs-q/$(basename "$f").gz"; done
           cp dl/pcs-q-summary.json rankings/pcs-q/summary.json
+          # Citation Ranking edition (releases from before POSI-EVAL-1.0 have none).
+          if ls dl/citation-ranking-[0-9]*.json >/dev/null 2>&1; then
+            mkdir -p rankings/citation
+            rm -f rankings/citation/citation-ranking-[0-9]*.gz
+            for f in dl/citation-ranking-[0-9]*.json dl/citation-ranking-[0-9]*.csv; do gzip -9 -n -c "$f" > "rankings/citation/$(basename "$f").gz"; done
+            cp dl/citation-ranking-summary.json rankings/citation/summary.json
+          fi
           cp dl/*summary.json dl/cycle.json "audits/global-index/$TAG/"
           printf '# %s\n\nImported from the posi-engine release `%s`. Bulk files (global corpus, PCS shards) remain attached to that release.\n' "$TAG" "$TAG" > "audits/global-index/$TAG/README.md"
           rm -rf dl
           git config user.name  "posi-data-bot"
           git config user.email "posi-data-bot@users.noreply.github.com"
-          git add -A rankings/pcs-q "audits/global-index/$TAG"
+          git add -A rankings "audits/global-index/$TAG"
           git diff --cached --quiet && { echo "Nothing changed"; exit 0; }
           git commit -m "data(pcs-q): import $TAG"
           git push

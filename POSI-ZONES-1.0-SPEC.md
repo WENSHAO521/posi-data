@@ -1,5 +1,7 @@
 # POSI-ZONES 1.0 — POSI Zones (POSI 分区)
 
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** **Superseded by POSI-ZONES-2.0** ([POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 8–9): zones are read from the PNCI mid-rank percentile (≥ 95 Zone 1, ≥ 80 Zone 2, ≥ 50 Zone 3, else Zone 4) within PSC categories only, with category-size rules (official zones need N ≥ 50). The PCS-Q-based trial below is history.
+
 > **Status: trial, published 2026-09-27.** Zones are shown on the website from
 > the current PCS-Q edition. The first release of record accompanies the
 > annual POSI-R release in December; this document may change before then,

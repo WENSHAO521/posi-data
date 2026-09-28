@@ -68,7 +68,17 @@
         "trn": 6.67
       },
       "total": 80.87,
-      "evidence_coverage": 96.55
+      "evidence_coverage": 96.55,
+      "rating": "A−",
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.01",
     "psc_confidence": "low",
@@ -145,7 +155,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P1.02",
     "psc_confidence": "low",
@@ -230,7 +250,17 @@
         "trn": 10
       },
       "total": 85.72,
-      "evidence_coverage": 96.55
+      "evidence_coverage": 96.55,
+      "rating": "A",
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.02",
     "psc_confidence": "low",
@@ -251,7 +281,12 @@
     "journal_code": "hnex",
     "title": "Health Nexus",
     "short_title": "Health Nexus",
-    "alternate_titles": [{"title": "Health Nexus: Interdisciplinary Medical Research Journal", "type": "variant"}],
+    "alternate_titles": [
+      {
+        "title": "Health Nexus: Interdisciplinary Medical Research Journal",
+        "type": "variant"
+      }
+    ],
     "issn_print": null,
     "issn_online": "3053-7037",
     "publisher": "Panorama Scholarly Group",
@@ -308,7 +343,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P3.02",
     "psc_confidence": "low",
@@ -385,7 +430,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.02",
     "psc_confidence": "low",
@@ -462,7 +517,17 @@
       "not_rateable_reason": "mandatory evidence not resolved: article sample of 4 is below the AJR-E-1.1 minimum of 10 (AJR-E-1.1-SPEC.md § 7)",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": 93.1
+      "evidence_coverage": 93.1,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P1.02",
     "psc_confidence": "low",
@@ -539,7 +604,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "low",
@@ -616,7 +691,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "low",
@@ -693,7 +778,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P6.04",
     "psc_confidence": "low",
@@ -770,7 +865,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P1.05",
     "psc_confidence": "low",
@@ -847,7 +952,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P6.03",
     "psc_confidence": "low",
@@ -924,7 +1039,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.03",
     "psc_confidence": "low",
@@ -1002,7 +1127,17 @@
         "trn": 8.89
       },
       "total": 75.26,
-      "evidence_coverage": 93.1
+      "evidence_coverage": 93.1,
+      "rating": "B+",
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.02",
     "psc_confidence": "high",
@@ -1087,7 +1222,17 @@
         "trn": 6.67
       },
       "total": 64.92,
-      "evidence_coverage": 93.1
+      "evidence_coverage": 93.1,
+      "rating": "C+",
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.02",
     "psc_confidence": "high",
@@ -1172,7 +1317,17 @@
         "trn": 8.89
       },
       "total": 67.37,
-      "evidence_coverage": 93.1
+      "evidence_coverage": 93.1,
+      "rating": "B−",
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P1.02",
     "psc_confidence": "low",
@@ -1249,7 +1404,17 @@
       "not_rateable_reason": "evidence coverage 56.9% is below the not-rateable threshold of 60%",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": 56.9
+      "evidence_coverage": 56.9,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "high",
@@ -1334,7 +1499,17 @@
         "trn": 8.89
       },
       "total": 82.27,
-      "evidence_coverage": 65.52
+      "evidence_coverage": 65.52,
+      "rating": "A−",
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "high",
@@ -1419,7 +1594,17 @@
         "trn": 10
       },
       "total": 81.14,
-      "evidence_coverage": 62.07
+      "evidence_coverage": 62.07,
+      "rating": "A−",
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "low",
@@ -1496,7 +1681,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "low",
@@ -1566,7 +1761,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "low",
@@ -1643,7 +1848,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P1.02",
     "psc_confidence": "low",
@@ -1713,7 +1928,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P3.02",
     "psc_confidence": "low",
@@ -1783,7 +2008,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P2.01",
     "psc_confidence": "low",
@@ -1853,7 +2088,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "low",
@@ -1923,7 +2168,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P2.11",
     "psc_confidence": "low",
@@ -2000,7 +2255,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P2.01",
     "psc_confidence": "high",
@@ -2014,7 +2279,13 @@
     "journal_code": "rae",
     "title": "Research on Architecture and Environment",
     "short_title": "RAE",
-    "alternate_titles": [{"title": "建筑与环境研究", "type": "translation", "lang": "zh"}],
+    "alternate_titles": [
+      {
+        "title": "建筑与环境研究",
+        "type": "translation",
+        "lang": "zh"
+      }
+    ],
     "issn_print": "3105-319X",
     "issn_online": "3105-5842",
     "publisher": "China Architecture Culture Publishing House",
@@ -2071,7 +2342,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P2.01",
     "psc_confidence": "high",
@@ -2141,7 +2422,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'observation' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P5.04",
     "psc_confidence": "high",
@@ -2219,7 +2510,17 @@
         "trn": 3.33
       },
       "total": 58.45,
-      "evidence_coverage": 93.1
+      "evidence_coverage": 93.1,
+      "rating": "C",
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P1.02",
     "psc_confidence": "low",
@@ -2289,7 +2590,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'unknown' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": null,
     "psc_confidence": null,
@@ -2360,7 +2671,17 @@
       "not_rateable_reason": "AJR-E applies only to the Early-Stage window (12-59 months, LIFECYCLE-1.1 exact-date boundary); this journal is currently 'unknown' as of 2026-08-14",
       "subfactors": null,
       "total": null,
-      "evidence_coverage": null
+      "evidence_coverage": null,
+      "rating": null,
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": null,
     "psc_confidence": null,

@@ -1,0 +1,220 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/master/schema/evaluation.schema.json",
+  "title": "POSI Journal Evaluation (POSI-EVAL-1.0)",
+  "description": "The unified per-journal evaluation the website publishes (journal API `evaluation`). Assembled from the corpus (PQF, AJR), PCI/PCS collections and the Citation Ranking edition; it adds no computation of its own. See POSI-EVAL-1.0-SPEC.md § 16.",
+  "type": "object",
+  "required": [
+    "pqf",
+    "ajr",
+    "citations",
+    "ranking",
+    "evaluationVersion"
+  ],
+  "properties": {
+    "pqf": {
+      "type": "object",
+      "properties": {
+        "score": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "status": {
+          "enum": [
+            "eligible",
+            "review_required",
+            "insufficient_evidence",
+            "not_eligible",
+            null
+          ]
+        },
+        "version": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "ajr": {
+      "type": "object",
+      "properties": {
+        "model": {
+          "enum": [
+            "Observation",
+            "AJR-E",
+            "AJR-M",
+            null
+          ]
+        },
+        "score": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "rating": {
+          "enum": [
+            "A+",
+            "A",
+            "A−",
+            "B+",
+            "B",
+            "B−",
+            "C+",
+            "C",
+            "D",
+            null
+          ]
+        },
+        "status": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "version": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "citations": {
+      "type": "object",
+      "properties": {
+        "pci": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "pnci": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "pnciModel": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "pcs": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "eligibleItems": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "coverage": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      }
+    },
+    "ranking": {
+      "type": "object",
+      "properties": {
+        "categoryId": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "category": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "rank": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "total": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "percentile": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "quartile": {
+          "enum": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4",
+            null
+          ]
+        },
+        "zone": {
+          "enum": [
+            1,
+            2,
+            3,
+            4,
+            null
+          ]
+        },
+        "zoneStatus": {
+          "enum": [
+            "official",
+            "provisional",
+            "not_assigned"
+          ]
+        },
+        "status": {
+          "enum": [
+            "official",
+            "provisional",
+            "insufficient_items",
+            "insufficient_category",
+            "incomplete_coverage",
+            "observation",
+            "not_available"
+          ]
+        },
+        "reason": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "snapshot": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "methodology": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "evaluationVersion": {
+      "const": "POSI-EVAL-1.0"
+    }
+  }
+}
