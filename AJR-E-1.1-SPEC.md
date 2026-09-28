@@ -1,5 +1,7 @@
 # AJR-E 1.1 — POSI Automated Journal Rating, Early-Stage Model
 
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 11 (E-Q ranking) is retired. An AJR-E score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The scoring rubric below is unchanged (still `AJR-E-1.1`).
+
 > **Status: implemented in posi-engine** (`src/ajr-early-stage.mjs`,
 > `AJR_E_METHODOLOGY_VERSION = 'AJR-E-1.1'`), covered by unit tests
 > (`test/ajr-early-stage.test.mjs`). Part of the **"POSI Journal Evaluation

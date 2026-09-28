@@ -19,6 +19,17 @@ tagged **POSI Journal Reports (PJR)** release in this repo.
 > [posi-engine](https://github.com/WENSHAO521/posi-engine). See
 > [CHANGELOG.md](./CHANGELOG.md) for the full history.
 
+## Evaluation architecture
+
+POSI evaluates journals in five separate layers — see
+[POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md): **PQF** (Core Collection
+eligibility, not a ranking), **AJR** (lifecycle rating: AJR Score + AJR
+Rating A+ … D, not a quartile), **citation indicators** (PCI, PNCI, PCS),
+the **Citation Ranking** (rank, percentile and Citation Quartile C-Q1 … C-Q4
+from [PNCI](./PNCI-1.0-SPEC.md) within the PSC category) and **POSI Zones**
+(from the same percentile). PCS is a supplementary indicator and ranks
+nothing.
+
 ## What lives here
 
 | Path | Contents |
@@ -30,7 +41,7 @@ tagged **POSI Journal Reports (PJR)** release in this repo.
 | `journals/` | Discovered/canonical journal records (sharded JSONL) |
 | `evidence/` | Per-journal, per-criterion Evidence Coverage snapshots (Evidence ETL output) |
 | `metrics/` | Annual per-journal metric snapshots (PCI, PCI-5, PNCI, …) |
-| `rankings/` | Annual per-category rankings (rank, percentile, quartile) |
+| `rankings/` | `citation/`: the POSI Citation Ranking edition (PNCI-1.0, CITATION-RANK-1.0); `pcs-q/`: the PCS edition (PCS values; its quartiles are retired) |
 | `manifests/` | One manifest per PJR release, pinning data/engine commits |
 | `registry/` | Permanent, append-only mapping from stable external identity (ISSN-L, etc.) to `POSI-J-######` id — plus `superseded-ids.csv` (retired-id → surviving-id resolution) and `excluded-identities.csv` (known zero-evidence records) — see `registry/README.md` |
 | `audits/` | One directory per migration/ingestion/rating pass — full before/after data, reasoning, and reproducibility steps for every non-trivial change made to this repo |
@@ -38,6 +49,7 @@ tagged **POSI Journal Reports (PJR)** release in this repo.
 | `AJR-SPEC.md` / `AJR-E-1.1-SPEC.md` / `AJR-M-1.0-SPEC.md` | The lifecycle-based Automated Journal Rating framework — Early-Stage and Mature tracks |
 | `PSC-CROSSWALK.md` | OpenAlex-topic-to-PSC subject classification crosswalk |
 | `PJR-SPEC.md` | The annual citation-metrics release specification |
+| `POSI-EVAL-1.0-SPEC.md` / `PNCI-1.0-SPEC.md` | The journal evaluation architecture, citation ranking, quartiles, zones and PNCI |
 
 ## What does *not* live here
 

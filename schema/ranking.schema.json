@@ -2,22 +2,43 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/master/schema/ranking.schema.json",
   "title": "POSI Annual Category Ranking",
-  "description": "One record per (journal_id, category_code, metric_year). A journal with 1 primary + up to 2 secondary PSC categories gets up to 3 ranking records per year.",
+  "description": "DEPRECATED (POSI-EVAL-1.0, 2026-09-28): PCI Citation Q records, archive only. The official ranking record is schema/citation-ranking.schema.json (PNCI-1.0, CITATION-RANK-1.0). One record per (journal_id, category_code, metric_year). A journal with 1 primary + up to 2 secondary PSC categories gets up to 3 ranking records per year.",
   "type": "object",
-  "required": ["journal_id", "category_code", "metric_year", "category_size", "ranking_method", "methodology_version"],
+  "required": [
+    "journal_id",
+    "category_code",
+    "metric_year",
+    "category_size",
+    "ranking_method",
+    "methodology_version"
+  ],
   "additionalProperties": false,
   "properties": {
-    "journal_id": { "type": "string", "pattern": "^POSI-J-[0-9]{6,}$" },
-    "category_code": { "type": "string", "description": "PSC code this ranking is computed within." },
-    "metric_year": { "type": "integer", "minimum": 2020 },
-
+    "journal_id": {
+      "type": "string",
+      "pattern": "^POSI-J-[0-9]{6,}$"
+    },
+    "category_code": {
+      "type": "string",
+      "description": "PSC code this ranking is computed within."
+    },
+    "metric_year": {
+      "type": "integer",
+      "minimum": 2020
+    },
     "rank": {
-      "type": ["integer", "null"],
+      "type": [
+        "integer",
+        "null"
+      ],
       "minimum": 1,
       "description": "Conventional competition ranking shown to users (1, 2, 2, 4, 5, ...) — tied journals share the same integer rank."
     },
     "rank_mid": {
-      "type": ["number", "null"],
+      "type": [
+        "number",
+        "null"
+      ],
       "minimum": 0.5,
       "description": "Mid-rank used only for the percentile formula (e.g. two journals tied for 5th/6th place both get rank=5, rank_mid=5.5). Not shown to users directly."
     },
@@ -27,28 +48,49 @@
       "description": "Count of metric_eligible journals in this category this year — the ranking denominator."
     },
     "percentile": {
-      "type": ["number", "null"],
+      "type": [
+        "number",
+        "null"
+      ],
       "minimum": 0,
       "maximum": 100,
       "description": "Mid-rank percentile: 100 * (category_size - rank_mid + 0.5) / category_size."
     },
     "quartile": {
-      "enum": ["Q1", "Q2", "Q3", "Q4", null],
+      "enum": [
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4",
+        null
+      ],
       "description": "Q1 >= 75th percentile, Q2 >= 50th, Q3 >= 25th, Q4 otherwise. Null when ranking_method is 'unavailable'."
     },
-
     "ranking_method": {
       "type": "string",
-      "enum": ["pci_midrank", "unavailable"],
+      "enum": [
+        "pci_midrank",
+        "unavailable"
+      ],
       "description": "'unavailable' when category_size is below MIN_CATEGORY_SIZE (see PJR-SPEC.md) — quartiles are not assigned for undersized categories, full stop."
     },
     "tied_with": {
       "type": "array",
-      "items": { "type": "string", "pattern": "^POSI-J-[0-9]{6,}$" },
+      "items": {
+        "type": "string",
+        "pattern": "^POSI-J-[0-9]{6,}$"
+      },
       "description": "Other journal_ids sharing this exact rank via mid-rank tie handling."
     },
-
-    "methodology_version": { "type": "string" },
-    "pjr_release": { "type": ["string", "null"] }
-  }
+    "methodology_version": {
+      "type": "string"
+    },
+    "pjr_release": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "deprecated": true
 }

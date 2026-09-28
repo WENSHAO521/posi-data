@@ -1,5 +1,7 @@
 # AJR-M 1.0 — POSI Automated Journal Rating, Mature Model
 
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged (still `AJR-M-1.0`).
+
 > **Status: implemented in posi-engine** (`src/ajr-mature.mjs`,
 > `AJR_M_METHODOLOGY_VERSION = 'AJR-M-1.0'`), covered by unit tests
 > (`test/ajr-mature.test.mjs`). Part of the **"POSI Journal Evaluation &

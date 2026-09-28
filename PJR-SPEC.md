@@ -1,5 +1,7 @@
 # POSI Journal Reports (PJR) — Release Specification v1.0
 
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 6's journal-level PNCI (PCI ÷ category baseline) is replaced by the item-level [PNCI-1.0](./PNCI-1.0-SPEC.md). § 8's PCI-based Citation Q is retired: the Citation Rank, Citation Percentile and Citation Quartile are computed from PNCI under [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) (CITATION-RANK-1.0), with § 8's mid-rank tie rule, percentile formula and quartile thresholds unchanged. PCI (§ 5–6) is unchanged.
+
 This document defines how an annual **POSI Journal Reports (PJR)** release is
 produced, what it must contain, and the methodology behind every number in
 it. It is itself versioned — see § Methodology Versioning — so that a

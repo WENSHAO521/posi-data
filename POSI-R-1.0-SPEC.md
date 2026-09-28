@@ -1,5 +1,7 @@
 # POSI-R 1.0 — Platform Release Specification
 
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** From 2026-09-28 a POSI-R manifest also pins `evaluation_version` (POSI-EVAL-1.0), `citation_rank_version` (CITATION-RANK-1.0), `pnci_version` (PNCI-1.0) and `zones_version` (POSI-ZONES-2.0). `rank_version` RANK-1.0 names the archived E-Q/M-Q/Citation Q/PCS-Q tracks, all retired as published rankings.
+
 > **Status: in force.** The first release, **POSI-R-2026.1**, was
 > published on 2026-09-27; its manifest is
 > [`releases/POSI-R-2026.1/manifest.json`](./releases/POSI-R-2026.1/manifest.json).

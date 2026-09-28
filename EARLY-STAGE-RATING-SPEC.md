@@ -1,5 +1,7 @@
 # POSI Automated Journal Rating (AJR) — Methodology v0.3 (Phase B0, partially implemented)
 
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** Historical (AJR v0.3). Its Provisional/Early-Stage quartile tracks (P-Q, E-Q) are retired; see [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md).
+
 > **Naming note:** this document was originally "POSI Early-Stage Journal
 > Rating." The underlying 100-point score (§4) applies to any journal
 > regardless of age — a journal's age only decides which *quartile track*

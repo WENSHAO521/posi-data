@@ -1,5 +1,7 @@
 # PCS-Q 1.0 — PCS Quartile (POSI Journal Rankings)
 
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** **Retired as a ranking.** PCS is a supplementary independent citation indicator and does not determine the official POSI Citation Rank, Citation Percentile, Citation Quartile, or POSI Zone ([POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md)). The PCS-Q edition is still built and archived as the source of PCS values; its rank, percentile, quartile and zone fields are not published. PCS-Q1–PCS-Q4 labels are withdrawn. § 7's amendment of PCS-1.0 § 1 is revoked.
+
 > **Status: implemented in posi-engine** (`src/pcs-quartile.mjs`,
 > `PCS_Q_METHODOLOGY_VERSION = 'PCS-Q-1.0'`, tests in
 > `test/pcs-quartile.test.mjs`; edition builder `scripts/run-pcs-q.mjs`).

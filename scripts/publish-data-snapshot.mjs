@@ -26,7 +26,10 @@
  *   snapshots/<snapshot-id>/collections/publisher-catalog.json
  *   snapshots/<snapshot-id>/collections/pcs.json
  *   snapshots/<snapshot-id>/collections/pci.json
- *   snapshots/<snapshot-id>/collections/pcs-q.json      -- PCS-Q ranking edition (PCS-Q-1.0-SPEC.md)
+ *   snapshots/<snapshot-id>/collections/citation-ranking.json.gz -- POSI Citation Ranking edition
+ *                                         (POSI-EVAL-1.0-SPEC.md: PNCI-1.0, CITATION-RANK-1.0, POSI-ZONES-2.0)
+ *   snapshots/<snapshot-id>/collections/pcs-q.json.gz    -- PCS edition (PCS values; its PCS-Q
+ *                                         quartiles are retired as a ranking, POSI-EVAL-1.0)
  *   releases/<release>/manifest.json    -- copy of each committed release manifest
  *
  * collections/pcs.json is an aggregation of the PCS (POSI Citation Score,
@@ -200,7 +203,18 @@ function main() {
   if (rankingRecords !== null && rankingRecords.length > 0) {
     files['collections/citation-rankings.json'] = JSON.stringify(rankingRecords, null, 2) + '\n'
   }
-  // PCS-Q (PCS-Q-1.0-SPEC.md): the newest rankings/pcs-q/pcs-q-<year>.json
+  // POSI Citation Ranking (POSI-EVAL-1.0-SPEC.md): the newest
+  // rankings/citation/citation-ranking-<year>.json.gz edition, imported from
+  // posi-engine by import-global-index, passed through unmodified. This is
+  // the only ranking POSI publishes.
+  const citationDir = resolve('rankings', 'citation')
+  const citationFile = existsSync(citationDir)
+    ? readdirSync(citationDir).filter(f => /^citation-ranking-\d{4}\.json(\.gz)?$/.test(f)).sort().pop() ?? null
+    : null
+  const citationRaw = citationFile ? readFileSync(join(citationDir, citationFile)) : null
+  const citationEdition = citationRaw ? JSON.parse((citationFile.endsWith('.gz') ? gunzipSync(citationRaw) : citationRaw).toString('utf-8')) : null
+  if (citationEdition) files['collections/citation-ranking.json.gz'] = gzipSync(JSON.stringify(citationEdition) + '\n', { level: 9 })
+  // PCS edition (formerly PCS-Q, PCS-Q-1.0-SPEC.md): the newest rankings/pcs-q/pcs-q-<year>.json
   // edition (stored gzipped, .json.gz, since the global edition), passed
   // through unmodified. Published gzipped as collections/pcs-q.json.gz: the
   // global edition is ~90 MB as JSON, and every snapshot holds a full copy.
@@ -264,7 +278,16 @@ function main() {
     psc_crosswalk_version: 'PSC-CROSSWALK-0.3',
     ajr_e_version: 'AJR-E-1.1',
     ajr_m_version: 'AJR-M-1.0',
+    // Archived E-Q/M-Q/Citation Q/PCS-Q ranking core; retired as published rankings (POSI-EVAL-1.0).
     rank_version: 'RANK-1.0',
+    evaluation_version: 'POSI-EVAL-1.0',
+    citation_rank_version: citationEdition?.ranking_methodology_version ?? 'Pending',
+    pnci_version: citationEdition?.pnci_model_version ?? 'Pending',
+    zones_version: citationEdition?.zones_version ?? 'Pending',
+    citation_ranking_metric_year: citationEdition?.metric_year ?? null,
+    ranking_snapshot_date: citationEdition?.snapshot_date ?? null,
+    citation_ranking_official_count: citationEdition ? citationEdition.records.filter(r => r.citation_ranking_status === 'official').length : 0,
+    citation_ranking_ranked_count: citationEdition ? citationEdition.records.filter(r => r.citation_rank != null).length : 0,
     evidence_version: 'EVIDENCE-1.0',
     diagnostics_version: 'DIAG-1.0',
     // 'PCS-1.0' once a real PCS collection is actually published in this
@@ -296,13 +319,15 @@ function main() {
     // Global Benchmark only this run (990/993) -- Core Collection has none
     // yet (see pjr-seed-corpus-global993-2026/README.md's scope note).
     pci_computed_count: pciComputedCount,
-    // How many Core Collection journals have a real, non-"unavailable"
+    // DEPRECATED (POSI-EVAL-1.0): the legacy PCI-based Citation Q archive
+    // (collections/citation-rankings.json). How many Core Collection journals have a real, non-"unavailable"
     // Citation Q this run (collections/citation-rankings.json). 0 until a
     // category's real-PCI peer pool (Core Collection + Global Benchmark,
     // PJR-SPEC.md § 8) reaches MIN_CATEGORY_SIZE=20 for that journal.
     citation_q_ranked_count: rankedCount,
     pcs_q_version: pcsQEdition?.methodology_version ?? 'Pending',
     pcs_q_metric_year: pcsQEdition?.metric_year ?? null,
+    // DEPRECATED (POSI-EVAL-1.0): PCS-Q is not a ranking; count kept for continuity.
     pcs_q_ranked_count: pcsQEdition ? pcsQEdition.records.filter(r => r.overall_rank != null).length : 0,
     supersedes: null,
   }
