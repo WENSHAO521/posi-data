@@ -124,7 +124,7 @@
       "description": "The framework's coverage-state model — six independent fields, deliberately NOT a replacement for the existing top-level `status` field (discovered/indexed/metric_eligible), which stays as-is to avoid breaking existing consumers. This is an additive, richer model layered alongside it; `status_model.collection_status` and the legacy `status` field are expected to be kept in sync by whichever pipeline stage writes both, but this schema does not enforce that itself.",
       "additionalProperties": false,
       "properties": {
-        "collection_status": { "type": "string", "enum": ["discovered", "candidate", "core", "under_review", "suspended", "ceased", "withdrawn", "delisted", "archived"] },
+        "collection_status": { "type": "string", "enum": ["discovered", "core", "under_review", "suspended", "ceased", "withdrawn", "delisted", "archived"] },
         "coverage_state": { "type": "string", "enum": ["active", "inactive", "gap", "unknown"] },
         "lifecycle_stage": { "type": "string", "enum": ["unknown", "observation", "early_stage", "mature"] },
         "rating_status": { "type": "string", "enum": ["not_evaluated", "provisional", "rated", "blocked", "insufficient_evidence", "suppressed"] },
