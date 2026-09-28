@@ -15,8 +15,27 @@
     "short_title": { "type": ["string", "null"] },
     "alternate_titles": {
       "type": "array",
-      "items": { "type": "string" },
-      "description": "Other titles the journal is registered under (e.g. a Crossref/OpenAlex title that lags a rename). Kept searchable; never used as the display title."
+      "description": "Other titles the journal is known by. Kept searchable; never used as the display title. Each is a plain title, or an object saying what kind of title it is.",
+      "items": {
+        "oneOf": [
+          { "type": "string", "minLength": 1 },
+          {
+            "type": "object",
+            "required": ["title", "type"],
+            "additionalProperties": false,
+            "properties": {
+              "title": { "type": "string", "minLength": 1 },
+              "type": {
+                "type": "string",
+                "enum": ["former", "translation", "abbreviation", "variant"],
+                "description": "former = the journal's title before a rename (see until). translation = the title in another language (see lang). abbreviation = a short form. variant = another form of the current title, e.g. as registered with Crossref/OpenAlex."
+              },
+              "lang": { "type": "string", "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]+)*$", "description": "BCP 47 language tag, for translations." },
+              "until": { "type": "integer", "minimum": 1600, "maximum": 2100, "description": "Last year a former title was in use." }
+            }
+          }
+        ]
+      }
     },
     "status": {
       "type": "string",

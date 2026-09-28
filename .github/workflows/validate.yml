@@ -1,0 +1,40 @@
+name: Validate
+
+# Every journal record against schema/, and corpus/core-collection.json
+# against journals/core, with posi-engine's validator
+# (scripts/validate-against-schema.mjs), on every push and pull request.
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: posi-data
+
+      - name: Check out posi-engine
+        uses: actions/checkout@v4
+        with:
+          repository: WENSHAO521/posi-engine
+          path: posi-engine
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: posi-engine/package-lock.json
+
+      - run: npm ci
+        working-directory: posi-engine
+
+      - name: Validate
+        run: node posi-engine/scripts/validate-against-schema.mjs posi-data
