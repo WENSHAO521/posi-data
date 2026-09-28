@@ -249,8 +249,9 @@
   {
     "id": "j-hnex",
     "journal_code": "hnex",
-    "title": "Health Nexus: Interdisciplinary Medical Research Journal",
+    "title": "Health Nexus",
     "short_title": "Health Nexus",
+    "alternate_titles": ["Health Nexus: Interdisciplinary Medical Research Journal"],
     "issn_print": null,
     "issn_online": "3053-7037",
     "publisher": "Panorama Scholarly Group",
@@ -2013,6 +2014,7 @@
     "journal_code": "rae",
     "title": "Research on Architecture and Environment",
     "short_title": "RAE",
+    "alternate_titles": ["建筑与环境研究"],
     "issn_print": "3105-319X",
     "issn_online": "3105-5842",
     "publisher": "China Architecture Culture Publishing House",

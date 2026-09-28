@@ -10,6 +10,24 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-09-28 — Journal titles follow the ISSN registration
+
+### Added
+
+- `alternate_titles` in `schema/journal.schema.json`: other titles a journal
+  is registered under (e.g. a Crossref/OpenAlex title that lags a rename).
+  The `title` is the one registered with the ISSN Portal; posi-engine keeps a
+  curated title over the harvested one and carries the harvested title here.
+
+### Changed
+
+- POSI-J-000004 is titled "Health Nexus", as registered for ISSN 3053-7037;
+  "Health Nexus: Interdisciplinary Medical Research Journal" is kept as an
+  alternate title. Audit and ETL outputs are historical records and keep the
+  title they were generated with.
+- POSI-J-000027 ("Research on Architecture and Environment") keeps its title
+  and gains its Chinese title "建筑与环境研究" as an alternate title.
+
 ## 2026-09-27 — PCS-Q global edition storage
 
 ### Changed

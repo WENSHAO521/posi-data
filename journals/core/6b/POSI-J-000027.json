@@ -2,6 +2,9 @@
   "id": "POSI-J-000027",
   "title": "Research on Architecture and Environment",
   "short_title": "RAE",
+  "alternate_titles": [
+    "建筑与环境研究"
+  ],
   "status": "indexed",
   "publisher": "China Architecture Culture Publishing House",
   "country": "HK",
@@ -39,5 +42,5 @@
     }
   ],
   "created_at": "2026-06-22T00:00:00Z",
-  "updated_at": "2026-08-12T03:43:43.105Z"
+  "updated_at": "2026-09-28T00:00:00Z"
 }
