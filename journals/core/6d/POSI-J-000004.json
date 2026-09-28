@@ -1,7 +1,10 @@
 {
   "id": "POSI-J-000004",
-  "title": "Health Nexus: Interdisciplinary Medical Research Journal",
+  "title": "Health Nexus",
   "short_title": "Health Nexus",
+  "alternate_titles": [
+    "Health Nexus: Interdisciplinary Medical Research Journal"
+  ],
   "status": "indexed",
   "publisher": "Panorama Scholarly Group",
   "country": "HK",
@@ -38,5 +41,5 @@
     }
   ],
   "created_at": "2026-07-15T00:00:00Z",
-  "updated_at": "2026-08-12T03:43:43.105Z"
+  "updated_at": "2026-09-28T00:00:00Z"
 }

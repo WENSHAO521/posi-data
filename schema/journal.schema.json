@@ -11,8 +11,13 @@
       "pattern": "^POSI-J-[0-9]{6,}$",
       "description": "Stable POSI journal identifier. Never reused, even if a journal is later removed from the Core Collection."
     },
-    "title": { "type": "string" },
+    "title": { "type": "string", "description": "Title as registered with the ISSN Portal." },
     "short_title": { "type": ["string", "null"] },
+    "alternate_titles": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Other titles the journal is registered under (e.g. a Crossref/OpenAlex title that lags a rename). Kept searchable; never used as the display title."
+    },
     "status": {
       "type": "string",
       "enum": ["discovered", "indexed", "metric_eligible"],
