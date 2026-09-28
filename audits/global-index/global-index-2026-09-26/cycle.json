@@ -107,6 +107,46 @@
       "at": "2026-09-27T17:34:48.643Z",
       "stage": "rank",
       "note": "edition built"
+    },
+    {
+      "at": "2026-09-28T08:11:51.916Z",
+      "stage": "pcs",
+      "note": "reopened to fetch per-item cells for PNCI-1.0"
+    },
+    {
+      "at": "2026-09-28T08:11:57.722Z",
+      "stage": "pcs",
+      "note": "progress 50550/158242"
+    },
+    {
+      "at": "2026-09-28T09:49:26.011Z",
+      "stage": "pcs",
+      "note": "progress 62956/158242"
+    },
+    {
+      "at": "2026-09-28T09:50:12.666Z",
+      "stage": "pcs",
+      "note": "progress 62956/158242"
+    },
+    {
+      "at": "2026-09-28T15:47:55.470Z",
+      "stage": "pcs",
+      "note": "progress 141196/158242"
+    },
+    {
+      "at": "2026-09-28T15:50:15.441Z",
+      "stage": "pcs",
+      "note": "progress 141196/158242"
+    },
+    {
+      "at": "2026-09-28T17:13:08.717Z",
+      "stage": "pcs",
+      "note": "complete 158242/158242"
+    },
+    {
+      "at": "2026-09-28T17:13:29.991Z",
+      "stage": "rank",
+      "note": "citation ranking and PCS editions built"
     }
   ],
   "pcs_progress": {
