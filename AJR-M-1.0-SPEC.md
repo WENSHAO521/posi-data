@@ -1,16 +1,18 @@
 # AJR-M 1.0 — POSI Automated Journal Rating, Mature Model
 
-> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged (still `AJR-M-1.0`).
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged in `AJR-M-1.1`.
 
 > **Status: implemented in posi-engine** (`src/ajr-mature.mjs`,
-> `AJR_M_METHODOLOGY_VERSION = 'AJR-M-1.0'`), covered by unit tests
+> `AJR_M_METHODOLOGY_VERSION = 'AJR-M-1.1'`), covered by unit tests
 > (`test/ajr-mature.test.mjs`). Part of the **"POSI Journal Evaluation &
 > Ranking Framework 1.0"** methodology overhaul.
 >
 > **Run monthly since 2026-10** by posi-engine's AJR rerate
 > (`.github/workflows/ajr-rerate.yml`, `scripts/rate-mature.mjs`,
 > `src/ajr-m-rerate.mjs`) on the Core Collection, which has no Mature journal
-> before December 2029. § 11 records where each input comes from. Results
+> before December 2029. § 11 records where each input comes from; those
+> input rules change scores, so ratings computed with them are `AJR-M-1.1`
+> (the formulas of §§ 2–8 are unchanged from 1.0). Results
 > are stored as `mature_rating` on corpus records, in
 > `schema/rating.schema.json`'s shape (`track: mature`).
 >
@@ -199,14 +201,16 @@ track name (`M-Q1`, `Citation Q1`; see `src/quartile-tracks.mjs`'s
 ## 11. Inputs and their sources
 
 How posi-engine's runner (`src/ajr-m-rerate.mjs`) resolves the inputs of
-§§ 2–8 from this repository. None of this changes a formula, weight or
-threshold above. The items marked **judgment call** are choices the
-framework leaves open.
+§§ 2–8 from this repository. The formulas and weights above are unchanged,
+but these rules (the 20-peer minimum, the 80% structural share, how
+evidence items combine) change scores, so they define **AJR-M-1.1**. The
+items marked **judgment call** are choices the framework leaves open.
 
 **Dimension 1 — citation.** PNCI and the journal's category
 (`ranking_category_id`) come from the current Citation Ranking edition
 (`rankings/citation/`); PCI and PCI-5 from the PCI audit
-(`collections/pci.json`). PNCI peers are the journals that edition ranks
+(`audits/pjr-seed-corpus/<run>/pci/`, one file per journal; published as
+`collections/pci.json` in the data snapshot). PNCI peers are the journals that edition ranks
 (official or provisional) in the same category; PCI and PCI-5 peers are the
 journals with a value in the same category. A percentile with fewer than 20
 peers is not computed (`MIN_CATEGORY_SIZE`, the Citation Ranking's own
@@ -273,5 +277,7 @@ the gate; a raw flag is never one.
 **1.0** (this document) — first real AJR-M spec, resolving AJR-SPEC.md
 § 13's open question about AJR-M's non-citation sub-scoring formulas.
 
-**1.0, 2026-10-02** — § 11: where each input comes from, as implemented by
-posi-engine's runner. No formula, weight or threshold changed.
+**1.1, 2026-10-02** — § 11: where each input comes from, as implemented by
+posi-engine's runner. The formulas, weights and thresholds of §§ 2–8 are
+unchanged; the input rules of § 11 change scores, hence the new version.
+No AJR-M score had been published under 1.0.

@@ -10,9 +10,13 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
-## 2026-10-02 — Monthly AJR rerate; AJR-M inputs
+## 2026-10-02 — Monthly AJR rerate; AJR-M-1.1
 
-No formula, threshold or status changed; no version bump.
+**AJR-M-1.1.** The formulas, weights and thresholds of AJR-M-1.0 are
+unchanged; the input rules of AJR-M-1.0-SPEC.md § 11 (20-peer minimum for
+citation percentiles, 80% structural-metadata share, how evidence items
+combine into one AJR-M item) change scores, so they carry a new version.
+No AJR-M score had been published under 1.0. Nothing else changed version.
 
 ### Added
 
