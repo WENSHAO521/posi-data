@@ -8,8 +8,8 @@
   "works_fetched": 15,
   "article_sample": [
     {
-      "doi": "10.71411/ef.2025.v1i4.1376",
-      "title": "&lt;b&gt;SVM-ECOC Driven Multi-Class Survival Prediction in Primary Biliary Cirrhosis Through Comparative Evaluation of Ensemble and Kernel-Based Machine Learning Approaches&lt;/b&gt;",
+      "doi": "10.71411/ef.2025.v1i4.1373",
+      "title": "Practical Paths for Local Logistics Enterprises to Lead Industry Development: From Tech R&amp;amp;D, Standardization to Industry Empowerment",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": false,
@@ -23,20 +23,47 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Fangwei",
-          "family_name": "Xue"
+          "given_name": "Yanfang",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i5.1380",
+      "title": "&lt;b&gt;A Comparative Study of Machine Learning Methods for Lithium-ion Battery Remaining Useful Life Prediction&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i5",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shuhe",
+          "family_name": "Cui"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Shengran",
-          "family_name": "Zhao"
+          "given_name": "Yiqing",
+          "family_name": "Du"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "Peilin Han"
+          "given_name": "Yongpeng",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhiyuan",
+          "family_name": "Yang"
         }
       ]
     },
@@ -97,129 +124,6 @@
           "orcid": null,
           "given_name": "Zihe",
           "family_name": "Hao"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i5.1380",
-      "title": "&lt;b&gt;A Comparative Study of Machine Learning Methods for Lithium-ion Battery Remaining Useful Life Prediction&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": false,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-03-30",
-      "depositDate": "2026-07-10",
-      "issueOrPeriod": "v1i5",
-      "containerTitle": "Engineering Frontiers",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Shuhe",
-          "family_name": "Cui"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yiqing",
-          "family_name": "Du"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yongpeng",
-          "family_name": "Chen"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Zhiyuan",
-          "family_name": "Yang"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i1.936",
-      "title": "&lt;b&gt;Research on the Planning of an Intelligent 5G Remote Medical Information System for a Large Hospital in a Certain City&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": false,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-02",
-      "depositDate": "2026-07-10",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Engineering Frontiers",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "Ming Tang"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i4.1373",
-      "title": "Practical Paths for Local Logistics Enterprises to Lead Industry Development: From Tech R&amp;amp;D, Standardization to Industry Empowerment",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": false,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-03-30",
-      "depositDate": "2026-07-10",
-      "issueOrPeriod": "v1i4",
-      "containerTitle": "Engineering Frontiers",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yanfang",
-          "family_name": "Chen"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i3.1372",
-      "title": "Analysis of the Technical Application and Effectiveness of Intelligent Algorithms Empowering Regional Logistics Resource Matching",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": false,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-03-30",
-      "depositDate": "2026-07-10",
-      "issueOrPeriod": "v1i3",
-      "containerTitle": "Engineering Frontiers",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yanfang",
-          "family_name": "Chen"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i2.941",
-      "title": "&lt;b&gt;Machine Learning-Based Fault Detection for UR3 Collaborative Robot: A Multimodal Data Analysis Approach&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": false,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-02",
-      "depositDate": "2026-07-10",
-      "issueOrPeriod": "v1i2",
-      "containerTitle": "Engineering Frontiers",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "Shida Liu"
         }
       ]
     },
@@ -383,6 +287,60 @@
       ]
     },
     {
+      "doi": "10.71411/ef.2025.v1i4.1376",
+      "title": "&lt;b&gt;SVM-ECOC Driven Multi-Class Survival Prediction in Primary Biliary Cirrhosis Through Comparative Evaluation of Ensemble and Kernel-Based Machine Learning Approaches&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Fangwei",
+          "family_name": "Xue"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shengran",
+          "family_name": "Zhao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Peilin Han"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i3.1372",
+      "title": "Analysis of the Technical Application and Effectiveness of Intelligent Algorithms Empowering Regional Logistics Resource Matching",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-30",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yanfang",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
       "doi": "10.71411/ef.2025.v1i2.940",
       "title": "&lt;b&gt;Editorial:&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;b&gt;Pioneering Multidisciplinary Engineering Solutions for Global Challenges&lt;/b&gt;",
       "hasAbstract": true,
@@ -441,6 +399,48 @@
           "family_name": "Shengran Zhao"
         }
       ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i2.941",
+      "title": "&lt;b&gt;Machine Learning-Based Fault Detection for UR3 Collaborative Robot: A Multimodal Data Analysis Approach&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Shida Liu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i1.936",
+      "title": "&lt;b&gt;Research on the Planning of an Intelligent 5G Remote Medical Information System for a Large Hospital in a Certain City&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-02",
+      "depositDate": "2026-07-10",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Engineering Frontiers",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Ming Tang"
+        }
+      ]
     }
   ],
   "sample_adequacy": {
@@ -460,7 +460,13 @@
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.71411/ef.2025.v1i4.1376",
+      "doi": "10.71411/ef.2025.v1i4.1373",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i5.1380",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -478,36 +484,6 @@
       "error": null
     },
     {
-      "doi": "10.71411/ef.2025.v1i5.1380",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i1.936",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i4.1373",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i3.1372",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/ef.2025.v1i2.941",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
       "doi": "10.71411/ef.2025.v1i1.935",
       "resolved": true,
       "http_status": 302,
@@ -515,6 +491,30 @@
     },
     {
       "doi": "10.71411/ef.2025.v1i4.1375",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i3.1379",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i2.942",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i1.939",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/ef.2025.v1i4.1376",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -532,7 +532,7 @@
       "metWindows": 0
     },
     "continuity": {
-      "totalWindows": 3,
+      "totalWindows": 4,
       "activeWindows": 2
     },
     "deposit_timeliness": "not_met"
@@ -540,5 +540,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-12-02",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

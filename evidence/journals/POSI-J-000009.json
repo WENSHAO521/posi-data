@@ -2,157 +2,157 @@
   "posi_id": "POSI-J-000009",
   "journal_code": "rjgms",
   "title": "Resonance: Journal of Global Music Studies",
-  "website_url": "https://journals.panorama-sg.com/index.php/Resonance",
+  "website_url": "https://journals.panorama-sg.com/Resonance",
   "fetched_pages": [
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance",
+      "url": "https://journals.panorama-sg.com/Resonance",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/about",
+      "url": "https://journals.panorama-sg.com/Resonance/about",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/about/aims-and-scope",
+      "url": "https://journals.panorama-sg.com/Resonance/about/aims-and-scope",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/about/editorialTeam",
+      "url": "https://journals.panorama-sg.com/Resonance/about/editorialTeam",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/Resonance/about/editorialMasthead",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/about/editorialMasthead",
+      "url": "https://journals.panorama-sg.com/Resonance/about/submissions",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/about/submissions",
+      "url": "https://journals.panorama-sg.com/Resonance/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/Resonance/editorial-board",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/aims-and-scope",
+      "url": "https://journals.panorama-sg.com/Resonance/editorial-policies",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/editorial-board",
+      "url": "https://journals.panorama-sg.com/Resonance/peer-review",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/editorial-policies",
+      "url": "https://journals.panorama-sg.com/Resonance/publication-ethics",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/peer-review",
+      "url": "https://journals.panorama-sg.com/Resonance/ethics",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/publication-ethics",
+      "url": "https://journals.panorama-sg.com/Resonance/author-guidelines",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/ethics",
+      "url": "https://journals.panorama-sg.com/Resonance/for-authors",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/author-guidelines",
-      "fetch_status": "not_found",
-      "http_status": 404
-    },
-    {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/for-authors",
-      "fetch_status": "not_found",
-      "http_status": 404
-    },
-    {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/submissions",
+      "url": "https://journals.panorama-sg.com/Resonance/submissions",
       "fetch_status": "forbidden",
       "http_status": 403
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/apc",
+      "url": "https://journals.panorama-sg.com/Resonance/apc",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/fees",
+      "url": "https://journals.panorama-sg.com/Resonance/fees",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/copyright",
+      "url": "https://journals.panorama-sg.com/Resonance/copyright",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/licensing",
+      "url": "https://journals.panorama-sg.com/Resonance/licensing",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/corrections",
+      "url": "https://journals.panorama-sg.com/Resonance/corrections",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/retractions",
+      "url": "https://journals.panorama-sg.com/Resonance/retractions",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/archiving",
+      "url": "https://journals.panorama-sg.com/Resonance/archiving",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/data-policy",
+      "url": "https://journals.panorama-sg.com/Resonance/data-policy",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/Resonance/ai-policy",
+      "url": "https://journals.panorama-sg.com/Resonance/ai-policy",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.dashboard||",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://journals.panorama-sg.com/Resonance/fte",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.archive||site.issues||",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://journals.panorama-sg.com/Resonance/Mission/Scope",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.about||site.overview||",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://journals.panorama-sg.com/Resonance/iv",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.guidelines||site.submissions||",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://journals.panorama-sg.com/Resonance/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.peerReview||site.ethics||site.policies||",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://journals.panorama-sg.com/Resonance/safam",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.about||",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://journals.panorama-sg.com/Resonance/Submission/Guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -160,141 +160,141 @@
       "id": "aims_scope_explicit",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance/editorial-board",
+      "retrieved_at": "2026-10-02T04:42:58.559Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/Resonance",
-      "retrieved_at": "2026-08-12T10:18:41.479Z"
+      "source_url": "https://journals.panorama-sg.com/Resonance",
+      "retrieved_at": "2026-10-02T04:42:57.595Z"
     },
     {
       "id": "other_applicable_terms",
@@ -345,7 +345,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-08-12",
+  "snapshot_date": "2026-10-02",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

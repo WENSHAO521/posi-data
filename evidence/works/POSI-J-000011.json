@@ -8,6 +8,48 @@
   "works_fetched": 3,
   "article_sample": [
     {
+      "doi": "10.63802/jscc.v1.i1.290",
+      "title": "Recognising Love Across Cultures: A Cross-Cultural Extension of the Love Confirmation Mechanism Model",
+      "hasAbstract": true,
+      "referenceCount": 53,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-24",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Social Cognition and Communication",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jscc.v1.i1.287",
+      "title": "Western Interpretations of Eastern Spirituality: So-cial Cognition in the Reception of Siddhartha",
+      "hasAbstract": true,
+      "referenceCount": 41,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-24",
+      "depositDate": "2026-03-24",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Social Cognition and Communication",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0003-9058-6155",
+          "given_name": "Yang",
+          "family_name": "Hu"
+        }
+      ]
+    },
+    {
       "doi": "10.63802/jscc.v1.i1.291",
       "title": "When Algorithms Become Sacred: A Cognitive-Psychological Model of Trust, Authority, and Meaning in AI Interaction",
       "hasAbstract": true,
@@ -69,48 +111,6 @@
           "family_name": "Wu"
         }
       ]
-    },
-    {
-      "doi": "10.63802/jscc.v1.i1.290",
-      "title": "Recognising Love Across Cultures: A Cross-Cultural Extension of the Love Confirmation Mechanism Model",
-      "hasAbstract": true,
-      "referenceCount": 53,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-03-24",
-      "depositDate": "2026-03-24",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of Social Cognition and Communication",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": "0009-0000-4622-6177",
-          "given_name": "Chengwen",
-          "family_name": "Song"
-        }
-      ]
-    },
-    {
-      "doi": "10.63802/jscc.v1.i1.287",
-      "title": "Western Interpretations of Eastern Spirituality: So-cial Cognition in the Reception of Siddhartha",
-      "hasAbstract": true,
-      "referenceCount": 41,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-03-24",
-      "depositDate": "2026-03-24",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of Social Cognition and Communication",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": "0009-0003-9058-6155",
-          "given_name": "Yang",
-          "family_name": "Hu"
-        }
-      ]
     }
   ],
   "sample_adequacy": {
@@ -130,12 +130,6 @@
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.63802/jscc.v1.i1.291",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
       "doi": "10.63802/jscc.v1.i1.290",
       "resolved": true,
       "http_status": 302,
@@ -146,16 +140,22 @@
       "resolved": true,
       "http_status": 302,
       "error": null
+    },
+    {
+      "doi": "10.63802/jscc.v1.i1.291",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
     }
   ],
   "oai_pmh_check": null,
   "publishing_stability": {
     "cadence": {
-      "expectedWindows": 0,
-      "metWindows": 0
+      "expectedWindows": 1,
+      "metWindows": 1
     },
     "continuity": {
-      "totalWindows": 2,
+      "totalWindows": 3,
       "activeWindows": 1
     },
     "deposit_timeliness": "met"
@@ -163,5 +163,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2026-03-24",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

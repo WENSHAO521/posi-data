@@ -83,27 +83,6 @@
       ]
     },
     {
-      "doi": "10.71113/jcac.v1i1.317",
-      "title": "Digital Geopolitics and Globalization:  A Comparative Study of TikTok and K-pop",
-      "hasAbstract": true,
-      "referenceCount": 47,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-05-22",
-      "depositDate": "2025-05-29",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of Contemporary Art Criticism",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "HaiMing",
-          "family_name": "Li"
-        }
-      ]
-    },
-    {
       "doi": "10.71113/jcac.v1i1.316",
       "title": "Artificial Intelligence: Forcing the All-Round Dimension Upgrade of Human Civilization",
       "hasAbstract": true,
@@ -127,6 +106,27 @@
           "orcid": null,
           "given_name": "Qunyan",
           "family_name": "Peng"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcac.v1i1.317",
+      "title": "Digital Geopolitics and Globalization:  A Comparative Study of TikTok and K-pop",
+      "hasAbstract": true,
+      "referenceCount": 47,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-22",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "HaiMing",
+          "family_name": "Li"
         }
       ]
     },
@@ -215,6 +215,27 @@
       ]
     },
     {
+      "doi": "10.71113/jcac.v1i1.302",
+      "title": "The Illusion of “Authenticity”: Ethical Dilemmas and Aesthetic Imagination in Pop Music Creation in the Age of AI",
+      "hasAbstract": true,
+      "referenceCount": 29,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-05-11",
+      "depositDate": "2025-05-29",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Contemporary Art Criticism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Sitan",
+          "family_name": "Yang"
+        }
+      ]
+    },
+    {
       "doi": "10.71113/jcac.v1i1.300",
       "title": "New Quality Productivity Enabling High Quality Development of Ice and Snow Economy: Logical Mechanisms, Key Dimensions and Promotion Strategies",
       "hasAbstract": true,
@@ -256,27 +277,6 @@
           "orcid": null,
           "given_name": "Lili",
           "family_name": "Wang"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jcac.v1i1.302",
-      "title": "The Illusion of “Authenticity”: Ethical Dilemmas and Aesthetic Imagination in Pop Music Creation in the Age of AI",
-      "hasAbstract": true,
-      "referenceCount": 29,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-05-11",
-      "depositDate": "2025-05-29",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of Contemporary Art Criticism",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Sitan",
-          "family_name": "Yang"
         }
       ]
     },
@@ -358,13 +358,13 @@
       "error": null
     },
     {
-      "doi": "10.71113/jcac.v1i1.317",
+      "doi": "10.71113/jcac.v1i1.316",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71113/jcac.v1i1.316",
+      "doi": "10.71113/jcac.v1i1.317",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -394,7 +394,7 @@
       "error": null
     },
     {
-      "doi": "10.71113/jcac.v1i1.300",
+      "doi": "10.71113/jcac.v1i1.302",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -415,5 +415,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-04-03",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

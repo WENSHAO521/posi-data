@@ -8,6 +8,27 @@
   "works_fetched": 9,
   "article_sample": [
     {
+      "doi": "10.71411/ai.2025.v1i1.1090",
+      "title": "人工智能技术在中小学智慧校区建设中的应用探究",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-29",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "人工智能学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "彭鹏"
+        }
+      ]
+    },
+    {
       "doi": "10.71411/ai.2025.v1i1.1213",
       "title": "乡村振兴背景下高校应用型摄像人才培养模式创新与实践",
       "hasAbstract": true,
@@ -43,27 +64,6 @@
           "orcid": null,
           "given_name": null,
           "family_name": "罗诗童"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/ai.2025.v1i1.1090",
-      "title": "人工智能技术在中小学智慧校区建设中的应用探究",
-      "hasAbstract": true,
-      "referenceCount": 8,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-03-29",
-      "depositDate": "2026-04-23",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "人工智能学刊",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "彭鹏"
         }
       ]
     },
@@ -268,13 +268,13 @@
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.71411/ai.2025.v1i1.1213",
+      "doi": "10.71411/ai.2025.v1i1.1090",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71411/ai.2025.v1i1.1090",
+      "doi": "10.71411/ai.2025.v1i1.1213",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -342,5 +342,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-10-25",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

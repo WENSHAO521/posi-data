@@ -125,7 +125,7 @@
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "met",
-    "oai_pmh_schema_org_machine_readable": "met",
+    "oai_pmh_schema_org_machine_readable": "blocked",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
@@ -150,9 +150,9 @@
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": true,
-    "http_status": 200,
-    "error": null
+    "ok": false,
+    "http_status": 403,
+    "error": "HTTP 403"
   },
   "publishing_stability": {
     "cadence": {
@@ -168,5 +168,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": null,
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

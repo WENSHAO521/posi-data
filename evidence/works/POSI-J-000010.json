@@ -145,11 +145,11 @@
   "oai_pmh_check": null,
   "publishing_stability": {
     "cadence": {
-      "expectedWindows": 1,
+      "expectedWindows": 2,
       "metWindows": 1
     },
     "continuity": {
-      "totalWindows": 2,
+      "totalWindows": 3,
       "activeWindows": 1
     },
     "deposit_timeliness": "met"
@@ -157,5 +157,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2026-03-03",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

@@ -4,54 +4,9 @@
   "title": "The Journal of Interactive Social Sciences",
   "issn_queried": "3030-5322",
   "crossref_status": 200,
-  "total_results": 38,
-  "works_fetched": 38,
+  "total_results": 36,
+  "works_fetched": 36,
   "article_sample": [
-    {
-      "doi": "10.64744/tjiss.2026.263",
-      "title": "&lt;b&gt;Toward a Relational Theory of Inclusive Physical Education: A Conceptual Framework for Interpersonal Interaction in Sports Pedagogy&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-12-02",
-      "depositDate": "2026-08-01",
-      "issueOrPeriod": "v2i4",
-      "containerTitle": "The Journal of Interactive Social Sciences",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Ke",
-          "family_name": "Zhang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Haoran",
-          "family_name": "Xu"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Bohao",
-          "family_name": "Jiang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yijia",
-          "family_name": "Zhang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Zhaoyu",
-          "family_name": "Zheng"
-        }
-      ]
-    },
     {
       "doi": "10.64744/tjiss.2026.257",
       "title": "&lt;b&gt;Examining the Effects of Teacher Support and Collaborative Learning on Critical Thinking in College English Classrooms: The Mediating Role of Learning Engagement&lt;/b&gt;",
@@ -80,8 +35,8 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2026.238",
-      "title": "&lt;b&gt;The Impact of Online Fitness on Physical Activity Levels and Health Among Sedentary Office Workers&lt;/b&gt;&lt;b&gt;&lt;/b&gt; &lt;b&gt;——&lt;/b&gt;&lt;b&gt; A Case Study of the Liu Genghong Phenomenon&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+      "doi": "10.64744/tjiss.2026.237",
+      "title": "&lt;b&gt;A Study on the Promotion Model of Dragon and Lion Dance as a Traditional Ethnic Sport in Chengdu&lt;/b&gt;",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -96,19 +51,7 @@
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "Yimao Yin"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "Dexin Feng"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "Yanhong Li"
+          "family_name": "XueYao Zhang"
         }
       ]
     },
@@ -203,8 +146,8 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2025.8",
-      "title": "&lt;b&gt;Analysis of the Spatiotemporal Evolution of Industrial Structure Level in the \"Ji\" Shape Bend of the Yellow River Urban Agglomeration&lt;/b&gt;",
+      "doi": "10.64744/tjiss.2025.6",
+      "title": "Research on the Causes and Countermeasures of Psychological Problems among Rural Left-behind Children",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -216,37 +159,22 @@
       "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
       "authors": [
         {
-          "affiliation": "Inner Mongolia University of Technology",
+          "affiliation": "Institutional affiliation:Fuzhou University of International Studies and Trade",
           "orcid": null,
-          "given_name": "Haohao",
-          "family_name": "Yan"
-        }
-      ]
-    },
-    {
-      "doi": "10.64744/tjiss.2026.258",
-      "title": "&lt;b&gt;Teacher Support, Collaborative Learning, and Critical Thinking Development in College English Classrooms: A PLS-SEM Analysis of the Mediating Role of Deep Learning Strategies&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-12-01",
-      "depositDate": "2026-07-27",
-      "issueOrPeriod": "v2i4",
-      "containerTitle": "The Journal of Interactive Social Sciences",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Jing",
-          "family_name": "Yang"
+          "given_name": "Yaxin",
+          "family_name": "Chen"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Suthagar",
-          "family_name": "Narasuman"
+          "given_name": "Shuhan",
+          "family_name": "Zhong"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Weiyin",
+          "family_name": "Lu"
         }
       ]
     },
@@ -272,8 +200,8 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2026.239",
-      "title": "&lt;b&gt;Research on the Sustainable Development Path of the Urban Community 15-Minute Fitness Circle Empowered by AI Smart Sports&lt;/b&gt;",
+      "doi": "10.64744/tjiss.2026.238",
+      "title": "&lt;b&gt;The Impact of Online Fitness on Physical Activity Levels and Health Among Sedentary Office Workers&lt;/b&gt;&lt;b&gt;&lt;/b&gt; &lt;b&gt;——&lt;/b&gt;&lt;b&gt; A Case Study of the Liu Genghong Phenomenon&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -288,13 +216,19 @@
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "Lishu Qin"
+          "family_name": "Yimao Yin"
         },
         {
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "Yuhang Zhang"
+          "family_name": "Dexin Feng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yanhong Li"
         }
       ]
     },
@@ -383,8 +317,8 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2025.6",
-      "title": "Research on the Causes and Countermeasures of Psychological Problems among Rural Left-behind Children",
+      "doi": "10.64744/tjiss.2025.8",
+      "title": "&lt;b&gt;Analysis of the Spatiotemporal Evolution of Industrial Structure Level in the \"Ji\" Shape Bend of the Yellow River Urban Agglomeration&lt;/b&gt;",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -396,22 +330,10 @@
       "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
       "authors": [
         {
-          "affiliation": "Institutional affiliation:Fuzhou University of International Studies and Trade",
+          "affiliation": "Inner Mongolia University of Technology",
           "orcid": null,
-          "given_name": "Yaxin",
-          "family_name": "Chen"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Shuhan",
-          "family_name": "Zhong"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Weiyin",
-          "family_name": "Lu"
+          "given_name": "Haohao",
+          "family_name": "Yan"
         }
       ]
     },
@@ -461,8 +383,8 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2026.237",
-      "title": "&lt;b&gt;A Study on the Promotion Model of Dragon and Lion Dance as a Traditional Ethnic Sport in Chengdu&lt;/b&gt;",
+      "doi": "10.64744/tjiss.2026.239",
+      "title": "&lt;b&gt;Research on the Sustainable Development Path of the Urban Community 15-Minute Fitness Circle Empowered by AI Smart Sports&lt;/b&gt;",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -477,7 +399,13 @@
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "XueYao Zhang"
+          "family_name": "Lishu Qin"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Yuhang Zhang"
         }
       ]
     },
@@ -758,10 +686,10 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2025.7",
-      "title": "Research on Innovative Development Strategies for Digitalization in Enhancing University Track and Field Training",
+      "doi": "10.64744/tjiss.2025.3",
+      "title": "Childhood Focalization and Folk Locality: Literary Value in Old Things in the South of the City",
       "hasAbstract": true,
-      "referenceCount": 3,
+      "referenceCount": 0,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -771,10 +699,22 @@
       "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
       "authors": [
         {
-          "affiliation": "Hunan Institute of Science and Technology",
+          "affiliation": "Fuzhou University of International Studies and Trade",
           "orcid": null,
-          "given_name": "Taotao",
-          "family_name": "Xiong"
+          "given_name": "Feiyan",
+          "family_name": "Xu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Haoyu",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jie",
+          "family_name": "Qin"
         }
       ]
     },
@@ -798,6 +738,54 @@
           "family_name": "RAN XU"
         }
       ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.54",
+      "title": "Blood Letters of Edo: Emotional Compression in 17th–18th-Century Japan’s Christian Ban",
+      "hasAbstract": true,
+      "referenceCount": 22,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-05",
+      "depositDate": "2026-03-12",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "Zhongshan College of Dalian Medicial University",
+          "orcid": null,
+          "given_name": "Ziyuan",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": "Institute of European Civilization, Tianjin Normal University, China.",
+          "orcid": null,
+          "given_name": "XiangYi",
+          "family_name": "Luo"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2025.38",
+      "title": "&lt;b&gt;Hallucination as Pragmatic Failure: A Theoretical Reframing of Large Language Models&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-06",
+      "depositDate": "2026-03-15",
+      "issueOrPeriod": "v1i4",
+      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
+      "authors": [
+        {
+          "affiliation": "Central South University",
+          "orcid": null,
+          "given_name": "Anni",
+          "family_name": "Li"
+        }
+      ]
     }
   ],
   "sample_adequacy": {
@@ -817,19 +805,13 @@
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.64744/tjiss.2026.263",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
       "doi": "10.64744/tjiss.2026.257",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.64744/tjiss.2026.238",
+      "doi": "10.64744/tjiss.2026.237",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -859,19 +841,25 @@
       "error": null
     },
     {
-      "doi": "10.64744/tjiss.2025.8",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.64744/tjiss.2026.258",
+      "doi": "10.64744/tjiss.2025.6",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
       "doi": "10.64744/tjiss.2026.256",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2026.238",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2026.127",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -885,17 +873,17 @@
   },
   "publishing_stability": {
     "cadence": {
-      "expectedWindows": 5,
-      "metWindows": 5
+      "expectedWindows": 6,
+      "metWindows": 6
     },
     "continuity": {
-      "totalWindows": 6,
-      "activeWindows": 6
+      "totalWindows": 7,
+      "activeWindows": 7
     },
     "deposit_timeliness": "not_met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-03-16",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

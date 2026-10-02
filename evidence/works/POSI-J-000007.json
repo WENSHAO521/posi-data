@@ -227,48 +227,6 @@
       ]
     },
     {
-      "doi": "10.63802/tts.v1.i1.123",
-      "title": "《太上感應篇》之倫理思想：三教融合與當代價值的再探",
-      "hasAbstract": true,
-      "referenceCount": 10,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-10-20",
-      "depositDate": "2025-12-31",
-      "issueOrPeriod": "v1i?",
-      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": "0009-0000-4622-6177",
-          "given_name": "Chengwen",
-          "family_name": "Song"
-        }
-      ]
-    },
-    {
-      "doi": "10.63802/tts.v1.2025.121",
-      "title": "皇甫湜文集注释（卷一及卷二）",
-      "hasAbstract": true,
-      "referenceCount": 10,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-10-20",
-      "depositDate": "2026-02-11",
-      "issueOrPeriod": "v1i?",
-      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": "0009-0000-9160-7227",
-          "given_name": "Xuan",
-          "family_name": "Xu"
-        }
-      ]
-    },
-    {
       "doi": "10.63802/tts.v1.2025.132",
       "title": "佛典何以进入儒、道视野——以“登岸舍筏”阐释路径为例",
       "hasAbstract": true,
@@ -286,6 +244,27 @@
           "orcid": "0009-0000-1852-1988",
           "given_name": "Yakun",
           "family_name": "Liang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.i1.122",
+      "title": "知行の彼岸——日本における陽明心学の受容と再構築",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-20",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-6477-5161",
+          "given_name": "Fang",
+          "family_name": "Chen"
         }
       ]
     },
@@ -311,8 +290,8 @@
       ]
     },
     {
-      "doi": "10.63802/tts.v1.i1.122",
-      "title": "知行の彼岸——日本における陽明心学の受容と再構築",
+      "doi": "10.63802/tts.v1.2025.121",
+      "title": "皇甫湜文集注释（卷一及卷二）",
       "hasAbstract": true,
       "referenceCount": 10,
       "hasLicense": true,
@@ -325,9 +304,30 @@
       "authors": [
         {
           "affiliation": null,
-          "orcid": "0009-0000-6477-5161",
-          "given_name": "Fang",
-          "family_name": "Chen"
+          "orcid": "0009-0000-9160-7227",
+          "given_name": "Xuan",
+          "family_name": "Xu"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/tts.v1.i1.123",
+      "title": "《太上感應篇》之倫理思想：三教融合與當代價值的再探",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-10-20",
+      "depositDate": "2025-12-31",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Three Teachings Studies: Confucianism, Daoism, and Buddhism",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
         }
       ]
     }
@@ -403,7 +403,7 @@
       "error": null
     },
     {
-      "doi": "10.63802/tts.v1.i1.123",
+      "doi": "10.63802/tts.v1.2025.132",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -412,8 +412,8 @@
   "oai_pmh_check": null,
   "publishing_stability": {
     "cadence": {
-      "expectedWindows": 0,
-      "metWindows": 0
+      "expectedWindows": 1,
+      "metWindows": 1
     },
     "continuity": {
       "totalWindows": 4,
@@ -424,5 +424,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-10-20",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

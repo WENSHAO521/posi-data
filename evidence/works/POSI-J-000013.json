@@ -16,7 +16,7 @@
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-06-17",
-      "depositDate": "2026-07-29",
+      "depositDate": "2026-08-30",
       "issueOrPeriod": "2026-Q2",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
@@ -161,10 +161,10 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v2i1.157",
-      "title": "Can Self Directed Learning Successfully Incorporated into Online Platforms",
+      "doi": "10.71113/jmss.v2i1.185",
+      "title": "The origin, application and prospect of the expressive therapy continuum (ETC)",
       "hasAbstract": true,
-      "referenceCount": 155,
+      "referenceCount": 31,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -176,14 +176,8 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Moira",
-          "family_name": "Brown"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Ruijie",
-          "family_name": "Ma"
+          "given_name": "Xiaohan",
+          "family_name": "Niu"
         }
       ]
     },
@@ -350,10 +344,10 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v2i1.158",
-      "title": "Adaptive Customization of Electronic Commerce Packaging for Sustainable Business Development",
+      "doi": "10.71113/jmss.v2i1.156",
+      "title": "Research on the implementation path  of classroom teaching reform  in local colleges and universities",
       "hasAbstract": true,
-      "referenceCount": 27,
+      "referenceCount": 15,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -365,27 +359,39 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "Shenglin Liu"
+          "given_name": "Yuting",
+          "family_name": "Wu"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Gongchao",
-          "family_name": "Wan"
+          "given_name": "Xiaoling",
+          "family_name": "Zheng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaochen",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Huimin",
+          "family_name": "Pan"
         }
       ]
     },
     {
-      "doi": "10.71113/jmss.v1i2.101",
-      "title": "Theoretical construction and application path of cultural tourism metaverse empowering rural revitalization",
+      "doi": "10.71113/jmss.v1i2.35",
+      "title": "Analysis Digital Transformation on Corporate ESG Performance: A Qualitative Study",
       "hasAbstract": true,
-      "referenceCount": 9,
+      "referenceCount": 14,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2024-12-25",
-      "depositDate": "2025-12-03",
+      "depositDate": "2025-03-08",
       "issueOrPeriod": "v1i2",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
@@ -393,13 +399,7 @@
           "affiliation": null,
           "orcid": null,
           "given_name": "Jun",
-          "family_name": "Deng"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Weiwei",
-          "family_name": "Deng"
+          "family_name": "Cui"
         }
       ]
     },
@@ -473,10 +473,10 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v2i2.191",
-      "title": "A Citespace-based Research on English Writing Instruction as a Foreign Language in China from 1995 to 2025",
+      "doi": "10.71113/jmss.v2i3.207",
+      "title": "Analysis of the Influencing Factors on the Development of Rural Folk Sports Culture in the Context of Rural Revitalization --Structural Equation Modeling (SEM) based studies",
       "hasAbstract": true,
-      "referenceCount": 29,
+      "referenceCount": 8,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -488,42 +488,48 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Nana",
-          "family_name": "Han"
+          "given_name": "Xinyun",
+          "family_name": "Zhou"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jiang",
+          "family_name": "Yan"
         }
       ]
     },
     {
-      "doi": "10.71113/jmss.v2i1.173",
-      "title": "Black Myth: Wukong – The Internationalization of Chinese Games",
+      "doi": "10.71113/jmss.v2i1.115",
+      "title": "Integration and Innovation in the Improvisational Thinking of the Pipa Player Wu Man",
       "hasAbstract": true,
-      "referenceCount": 10,
+      "referenceCount": 12,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2025-02-25",
-      "depositDate": "2025-05-08",
+      "depositDate": "2025-03-03",
       "issueOrPeriod": "v2i1",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Qianwen",
-          "family_name": "Meng"
+          "given_name": "Yao",
+          "family_name": "Ma"
         }
       ]
     },
     {
-      "doi": "10.71113/jmss.v1i2.35",
-      "title": "Analysis Digital Transformation on Corporate ESG Performance: A Qualitative Study",
+      "doi": "10.71113/jmss.v1i2.101",
+      "title": "Theoretical construction and application path of cultural tourism metaverse empowering rural revitalization",
       "hasAbstract": true,
-      "referenceCount": 14,
+      "referenceCount": 9,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2024-12-25",
-      "depositDate": "2025-03-08",
+      "depositDate": "2025-12-03",
       "issueOrPeriod": "v1i2",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
@@ -531,15 +537,21 @@
           "affiliation": null,
           "orcid": null,
           "given_name": "Jun",
-          "family_name": "Cui"
+          "family_name": "Deng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Weiwei",
+          "family_name": "Deng"
         }
       ]
     },
     {
-      "doi": "10.71113/jmss.v3i1.457",
-      "title": "Too Much to Owe, Too Little to Grow? Debt-to-Asset Ratio and Stock Market Performance of Nigerian Banks",
+      "doi": "10.71113/jmss.v3i1.463",
+      "title": "Financing Decisions in a Green Closed-Loop Supply Chain under Demand Uncertainty and Government Consumer Subsidies",
       "hasAbstract": true,
-      "referenceCount": 24,
+      "referenceCount": 16,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -549,22 +561,16 @@
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
-          "affiliation": "Nnamdi Azikiwe University , NG",
+          "affiliation": "Shanghai Institute of Technology , CN",
           "orcid": null,
-          "given_name": "Chiamaka",
-          "family_name": "Anaike"
+          "given_name": "Liangcan",
+          "family_name": "Mao"
         },
         {
-          "affiliation": "Southwestern University , NG",
+          "affiliation": "Shanghai Institute of Technology , CN",
           "orcid": null,
-          "given_name": "Emmanuel",
-          "family_name": "Ihekwereme"
-        },
-        {
-          "affiliation": "Ukoro Odah Statisticals, Amansea, Anambra State, Nigeria, NG",
-          "orcid": "0000-0003-0357-0175",
-          "given_name": "Gilbert",
-          "family_name": "Nworie"
+          "given_name": "JiangXiang",
+          "family_name": "Ju"
         }
       ]
     },
@@ -629,102 +635,6 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v2i3.207",
-      "title": "Analysis of the Influencing Factors on the Development of Rural Folk Sports Culture in the Context of Rural Revitalization --Structural Equation Modeling (SEM) based studies",
-      "hasAbstract": true,
-      "referenceCount": 8,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-04-24",
-      "depositDate": "2025-04-25",
-      "issueOrPeriod": "v2i2",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Xinyun",
-          "family_name": "Zhou"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Jiang",
-          "family_name": "Yan"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jmss.v2i1.161",
-      "title": "Reimagining Private Museums: Challenging Collecting Ethics and Shaping Public Cultural Practices in China",
-      "hasAbstract": true,
-      "referenceCount": 32,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-02-25",
-      "depositDate": "2025-03-03",
-      "issueOrPeriod": "v2i1",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Juewei",
-          "family_name": "Fan"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jmss.v3i1.463",
-      "title": "Financing Decisions in a Green Closed-Loop Supply Chain under Demand Uncertainty and Government Consumer Subsidies",
-      "hasAbstract": true,
-      "referenceCount": 16,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-17",
-      "depositDate": "2026-01-10",
-      "issueOrPeriod": "v3i1",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
-          "affiliation": "Shanghai Institute of Technology , CN",
-          "orcid": null,
-          "given_name": "Liangcan",
-          "family_name": "Mao"
-        },
-        {
-          "affiliation": "Shanghai Institute of Technology , CN",
-          "orcid": null,
-          "given_name": "JiangXiang",
-          "family_name": "Ju"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jmss.v2i4.389",
-      "title": "A Study on the Audience of Cantonese Short-Form Video Content from the Perspective of Place Identity Theory",
-      "hasAbstract": true,
-      "referenceCount": 26,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-08-06",
-      "depositDate": "2025-10-10",
-      "issueOrPeriod": "v2i4",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Ziyuan",
-          "family_name": "Liu"
-        }
-      ]
-    },
-    {
       "doi": "10.71113/jmss.v2i2.289",
       "title": "Impact of Ramadan Fasting on Sports Performance",
       "hasAbstract": true,
@@ -764,10 +674,106 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v2i1.186",
-      "title": "Bilateral Interaction between Mainland China and Hong Kong Audiovisual Products under the Perspective of Cross-cultural Communication",
+      "doi": "10.71113/jmss.v2i1.124",
+      "title": "Chinese Period Dramas as \"Lieux de Mémoire\": Unpacking Dispersion, Ritual, and Narrative in Chinese Society",
       "hasAbstract": true,
-      "referenceCount": 11,
+      "referenceCount": 42,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-02-25",
+      "depositDate": "2025-03-03",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0000-0002-4218-1159",
+          "given_name": "Ying",
+          "family_name": "Ma"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jmss.v3i1.457",
+      "title": "Too Much to Owe, Too Little to Grow? Debt-to-Asset Ratio and Stock Market Performance of Nigerian Banks",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-17",
+      "depositDate": "2026-01-10",
+      "issueOrPeriod": "v3i1",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": "Nnamdi Azikiwe University , NG",
+          "orcid": null,
+          "given_name": "Chiamaka",
+          "family_name": "Anaike"
+        },
+        {
+          "affiliation": "Southwestern University , NG",
+          "orcid": null,
+          "given_name": "Emmanuel",
+          "family_name": "Ihekwereme"
+        },
+        {
+          "affiliation": "Ukoro Odah Statisticals, Amansea, Anambra State, Nigeria, NG",
+          "orcid": "0000-0003-0357-0175",
+          "given_name": "Gilbert",
+          "family_name": "Nworie"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jmss.v2i4.389",
+      "title": "A Study on the Audience of Cantonese Short-Form Video Content from the Perspective of Place Identity Theory",
+      "hasAbstract": true,
+      "referenceCount": 26,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-06",
+      "depositDate": "2025-10-10",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ziyuan",
+          "family_name": "Liu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jmss.v2i2.191",
+      "title": "A Citespace-based Research on English Writing Instruction as a Foreign Language in China from 1995 to 2025",
+      "hasAbstract": true,
+      "referenceCount": 29,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-04-24",
+      "depositDate": "2025-04-25",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Nana",
+          "family_name": "Han"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jmss.v2i1.161",
+      "title": "Reimagining Private Museums: Challenging Collecting Ethics and Shaping Public Cultural Practices in China",
+      "hasAbstract": true,
+      "referenceCount": 32,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -779,20 +785,8 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Zhengyi",
-          "family_name": "Zhou"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Liuyi",
-          "family_name": "Zheng"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yuxi",
-          "family_name": "Qi"
+          "given_name": "Juewei",
+          "family_name": "Fan"
         }
       ]
     },
@@ -877,7 +871,7 @@
       "error": null
     },
     {
-      "doi": "10.71113/jmss.v2i1.157",
+      "doi": "10.71113/jmss.v2i1.185",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -914,7 +908,7 @@
       "metWindows": 0
     },
     "continuity": {
-      "totalWindows": 7,
+      "totalWindows": 8,
       "activeWindows": 6
     },
     "deposit_timeliness": "met"
@@ -922,5 +916,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2024-12-25",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

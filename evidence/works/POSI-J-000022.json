@@ -104,57 +104,6 @@
       ]
     },
     {
-      "doi": "10.71411/smn.2025.v1i1.1036",
-      "title": "月经作为生命体征:周期、经量及颜色在女性健康监测中的意义解析",
-      "hasAbstract": true,
-      "referenceCount": 15,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-04-03",
-      "depositDate": "2026-04-23",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "医学与护理",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "蒲蕊"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "陈凯"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "胡芸菲"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "田志鹏"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "郑彧涵"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "朱茂"
-        }
-      ]
-    },
-    {
       "doi": "10.71411/smn.2025.v1i1.1144",
       "title": "基于中医体质辨识的中式茶饮配方优化与应用研究",
       "hasAbstract": true,
@@ -212,6 +161,57 @@
       ]
     },
     {
+      "doi": "10.71411/smn.2025.v1i1.1036",
+      "title": "月经作为生命体征:周期、经量及颜色在女性健康监测中的意义解析",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-03",
+      "depositDate": "2026-04-23",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "医学与护理",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "蒲蕊"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈凯"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "胡芸菲"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "田志鹏"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郑彧涵"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "朱茂"
+        }
+      ]
+    },
+    {
       "doi": "10.71411/smn.2025.v1i1.885",
       "title": "饮食中糖盐摄入剂量与高血压、高血糖患病风险的相关性综述",
       "hasAbstract": true,
@@ -263,23 +263,29 @@
       ]
     },
     {
-      "doi": "10.71411/smn.2025.v1i1.552",
-      "title": "青年脑卒中病人肌少症研究进展",
+      "doi": "10.71411/smn.2025.v1i1.723",
+      "title": "乡村振兴与银发经济双重视角下“归园田居”乡村康养模式的构建",
       "hasAbstract": true,
       "referenceCount": 0,
-      "hasLicense": true,
+      "hasLicense": false,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2025-10-25",
-      "depositDate": "2026-04-23",
+      "depositDate": "2025-12-13",
       "issueOrPeriod": "v1i1",
       "containerTitle": "医学与护理",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "贵婷",
-          "family_name": "徐"
+          "given_name": null,
+          "family_name": "刘林"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈莉萍"
         }
       ]
     },
@@ -368,29 +374,23 @@
       ]
     },
     {
-      "doi": "10.71411/smn.2025.v1i1.723",
-      "title": "乡村振兴与银发经济双重视角下“归园田居”乡村康养模式的构建",
+      "doi": "10.71411/smn.2025.v1i1.552",
+      "title": "青年脑卒中病人肌少症研究进展",
       "hasAbstract": true,
       "referenceCount": 0,
-      "hasLicense": false,
+      "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2025-10-25",
-      "depositDate": "2025-12-13",
+      "depositDate": "2026-04-23",
       "issueOrPeriod": "v1i1",
       "containerTitle": "医学与护理",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "刘林"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "陈莉萍"
+          "given_name": "贵婷",
+          "family_name": "徐"
         }
       ]
     }
@@ -424,13 +424,13 @@
       "error": null
     },
     {
-      "doi": "10.71411/smn.2025.v1i1.1036",
+      "doi": "10.71411/smn.2025.v1i1.1144",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71411/smn.2025.v1i1.1144",
+      "doi": "10.71411/smn.2025.v1i1.1036",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -442,7 +442,7 @@
       "error": null
     },
     {
-      "doi": "10.71411/smn.2025.v1i1.552",
+      "doi": "10.71411/smn.2025.v1i1.723",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -460,7 +460,7 @@
       "error": null
     },
     {
-      "doi": "10.71411/smn.2025.v1i1.723",
+      "doi": "10.71411/smn.2025.v1i1.552",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -486,5 +486,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-10-25",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

@@ -77,10 +77,10 @@
       ]
     },
     {
-      "doi": "10.71411/zgfx.2025.v1i1.782",
-      "title": "人工智能生成内容的著作权认定与侵权保护路径研究",
+      "doi": "10.71411/zgfx.2025.v1i1.880",
+      "title": "数智赋能与法治支撑下监督效能提升的整体逻辑",
       "hasAbstract": true,
-      "referenceCount": 46,
+      "referenceCount": 9,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -93,25 +93,49 @@
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "钟芷琪"
-        },
+          "family_name": "王梦旭"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.919",
+      "title": "法人作品与特殊职务作品的法律规制研究",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "瑜嘉",
-          "family_name": "邓"
-        },
+          "given_name": null,
+          "family_name": "李春旭"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.862",
+      "title": "数据产权“三权分置”视角下人工智能训练数据的治理困境与破解路径",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-25",
+      "depositDate": "2026-02-04",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "中国法学学刊",
+      "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "雅婷",
-          "family_name": "钟"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "菁",
-          "family_name": "杜"
+          "given_name": "泳君",
+          "family_name": "郑"
         }
       ]
     },
@@ -149,31 +173,10 @@
       ]
     },
     {
-      "doi": "10.71411/zgfx.2025.v1i1.862",
-      "title": "数据产权“三权分置”视角下人工智能训练数据的治理困境与破解路径",
+      "doi": "10.71411/zgfx.2025.v1i1.920",
+      "title": "算法控制下平台劳动者议价权弱化的法律规制逻辑",
       "hasAbstract": true,
-      "referenceCount": 15,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-25",
-      "depositDate": "2026-02-04",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "中国法学学刊",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "泳君",
-          "family_name": "郑"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/zgfx.2025.v1i1.880",
-      "title": "数智赋能与法治支撑下监督效能提升的整体逻辑",
-      "hasAbstract": true,
-      "referenceCount": 9,
+      "referenceCount": 27,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -186,7 +189,7 @@
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "王梦旭"
+          "family_name": "赵天虹"
         }
       ]
     },
@@ -212,10 +215,10 @@
       ]
     },
     {
-      "doi": "10.71411/zgfx.2025.v1i1.920",
-      "title": "算法控制下平台劳动者议价权弱化的法律规制逻辑",
+      "doi": "10.71411/zgfx.2025.v1i1.782",
+      "title": "人工智能生成内容的著作权认定与侵权保护路径研究",
       "hasAbstract": true,
-      "referenceCount": 27,
+      "referenceCount": 46,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -228,28 +231,25 @@
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "赵天虹"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/zgfx.2025.v1i1.919",
-      "title": "法人作品与特殊职务作品的法律规制研究",
-      "hasAbstract": true,
-      "referenceCount": 16,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-25",
-      "depositDate": "2026-02-04",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "中国法学学刊",
-      "authors": [
+          "family_name": "钟芷琪"
+        },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "李春旭"
+          "given_name": "瑜嘉",
+          "family_name": "邓"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "雅婷",
+          "family_name": "钟"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "菁",
+          "family_name": "杜"
         }
       ]
     },
@@ -316,13 +316,13 @@
       "error": null
     },
     {
-      "doi": "10.71411/zgfx.2025.v1i1.782",
+      "doi": "10.71411/zgfx.2025.v1i1.880",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71411/zgfx.2025.v1i1.1165",
+      "doi": "10.71411/zgfx.2025.v1i1.919",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -334,13 +334,7 @@
       "error": null
     },
     {
-      "doi": "10.71411/zgfx.2025.v1i1.880",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/zgfx.2025.v1i1.932",
+      "doi": "10.71411/zgfx.2025.v1i1.1165",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -352,7 +346,13 @@
       "error": null
     },
     {
-      "doi": "10.71411/zgfx.2025.v1i1.919",
+      "doi": "10.71411/zgfx.2025.v1i1.932",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/zgfx.2025.v1i1.782",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -370,7 +370,7 @@
       "metWindows": 0
     },
     "continuity": {
-      "totalWindows": 3,
+      "totalWindows": 4,
       "activeWindows": 3
     },
     "deposit_timeliness": "met"
@@ -378,5 +378,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-12-25",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

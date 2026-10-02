@@ -48,31 +48,31 @@
     },
     {
       "doi": "10.63802/jlpcs.v2.i1.196",
-      "title": "数字文旅场景中的临场感、沉浸体验与游客满意度关系研究",
+      "title": "Exploring the Relationships Between Presence, Immersive Experience, and Tourist Satisfaction in Digital Cultural Tourism Scenarios",
       "hasAbstract": true,
       "referenceCount": 28,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-01-10",
-      "depositDate": "2026-02-11",
+      "depositDate": "2026-10-01",
       "issueOrPeriod": "v2i1",
       "containerTitle": "Journal of Law, Psychology, and Communication Studies",
       "authors": [
         {
-          "affiliation": null,
+          "affiliation": "中国潍坊学院文史学院（School of Literature and History, Weifang University, China）",
           "orcid": null,
           "given_name": "Pengcheng",
           "family_name": "Wang"
         },
         {
-          "affiliation": null,
+          "affiliation": "中国潍坊学院文史学院（School of Literature and History, Weifang University, China）",
           "orcid": null,
           "given_name": "Xiuqi",
           "family_name": "Qiao"
         },
         {
-          "affiliation": null,
+          "affiliation": "中国潍坊学院文史学院（School of Literature and History, Weifang University, China）",
           "orcid": null,
           "given_name": "Fanyao",
           "family_name": "Kong"
@@ -80,10 +80,10 @@
       ]
     },
     {
-      "doi": "10.63802/jlpcs.v1.i1.57",
-      "title": "A Comparative Analysis of Foreign Cultural Reception in the People’s Republic of China Since Its Founding: Focusing on Government Documents and People’s Daily",
+      "doi": "10.63802/jlpcs.v1.i1.58",
+      "title": "A Study on the Coordination of “People, Goods, and Space” in the Transformation from TV Shopping to E-commerce Livestreaming from the Perspective of Actor-Network Theory",
       "hasAbstract": true,
-      "referenceCount": 21,
+      "referenceCount": 27,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -95,8 +95,8 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "QIMENG",
-          "family_name": "DANG"
+          "given_name": "泽宇",
+          "family_name": "高"
         }
       ]
     },
@@ -140,52 +140,10 @@
       ]
     },
     {
-      "doi": "10.63802/jlpcs.v1.i1.56",
-      "title": "How Is Love Recognised? A Theoretical Model of Love Confirmation Mechanisms in Romantic Relationships",
+      "doi": "10.63802/jlpcs.v1.i1.57",
+      "title": "A Comparative Analysis of Foreign Cultural Reception in the People’s Republic of China Since Its Founding: Focusing on Government Documents and People’s Daily",
       "hasAbstract": true,
-      "referenceCount": 59,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-07-22",
-      "depositDate": "2026-03-09",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": "0009-0000-4622-6177",
-          "given_name": "Chengwen",
-          "family_name": "Song"
-        }
-      ]
-    },
-    {
-      "doi": "10.63802/jlpcs.v2.i1.137",
-      "title": "限期认缴制下股东出资义务加速到期的理论证成与实践路径",
-      "hasAbstract": true,
-      "referenceCount": 16,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-01-05",
-      "depositDate": "2026-02-11",
-      "issueOrPeriod": "v2i1",
-      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Lejing",
-          "family_name": "Zhang"
-        }
-      ]
-    },
-    {
-      "doi": "10.63802/jlpcs.v1.i1.58",
-      "title": "A Study on the Coordination of “People, Goods, and Space” in the Transformation from TV Shopping to E-commerce Livestreaming from the Perspective of Actor-Network Theory",
-      "hasAbstract": true,
-      "referenceCount": 27,
+      "referenceCount": 21,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -197,8 +155,8 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "泽宇",
-          "family_name": "高"
+          "given_name": "QIMENG",
+          "family_name": "DANG"
         }
       ]
     },
@@ -224,10 +182,10 @@
       ]
     },
     {
-      "doi": "10.63802/jlpcs.v1.i1.51",
-      "title": "Psychological Adjustment Experiences of Chinese University Faculty During In-Service Overseas Study: A Qualitative Study from the Perspective of Educational Psychology",
+      "doi": "10.63802/jlpcs.v1.i1.47",
+      "title": "Directors' Fiduciary Duties in Cross-Border Listings: A Comparative Analysis of Mainland China and Hong Kong",
       "hasAbstract": true,
-      "referenceCount": 14,
+      "referenceCount": 85,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -238,9 +196,69 @@
       "authors": [
         {
           "affiliation": null,
+          "orcid": "0009-0001-0019-8681",
+          "given_name": "XIAOTIAN",
+          "family_name": "CUI"
+        },
+        {
+          "affiliation": null,
           "orcid": null,
-          "given_name": "YUYUN",
+          "given_name": "MINWEI",
           "family_name": "ZHANG"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "JIAYING",
+          "family_name": "CHEN"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "ZHEN",
+          "family_name": "CAO"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jlpcs.v2.i1.137",
+      "title": "Theoretical Justification and Practical Pathways for the Accelerated Maturity of Capital Contribution Obligations under the Time-Limited Capital Subscription System",
+      "hasAbstract": true,
+      "referenceCount": 16,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-01-05",
+      "depositDate": "2026-10-01",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
+      "authors": [
+        {
+          "affiliation": "杭州师范大学，中国(Hangzhou Normal University,China)",
+          "orcid": null,
+          "given_name": "Lejing",
+          "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jlpcs.v1.i1.60",
+      "title": "Convenience vs. Choice: Why Users Prefer a Cluttered but Functionally Universal App Interface to Other Specialized Apps Using Kaspi as an Example",
+      "hasAbstract": true,
+      "referenceCount": 7,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-22",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Dina",
+          "family_name": "Gabdullova"
         }
       ]
     },
@@ -262,54 +280,6 @@
           "orcid": null,
           "given_name": "Yiran",
           "family_name": "Li"
-        }
-      ]
-    },
-    {
-      "doi": "10.63802/jlpcs.v1.i1.59",
-      "title": "Research on the Impact of Z-Generation Tourists' Perceived Risks in Cultural Heritage Tourism on Destination Loyalty——A Case Study of Nanxun Ancient Town",
-      "hasAbstract": true,
-      "referenceCount": 45,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-07-22",
-      "depositDate": "2026-03-09",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "静文",
-          "family_name": "高"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "鹏程",
-          "family_name": "王"
-        }
-      ]
-    },
-    {
-      "doi": "10.63802/jlpcs.v2.i1.133",
-      "title": "互联网广告屏蔽行为及规制路径研究",
-      "hasAbstract": true,
-      "referenceCount": 41,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-20",
-      "depositDate": "2026-02-11",
-      "issueOrPeriod": "v2i1",
-      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "MinLin",
-          "family_name": "Zhuo"
         }
       ]
     },
@@ -356,10 +326,10 @@
       ]
     },
     {
-      "doi": "10.63802/jlpcs.v1.i1.47",
-      "title": "Directors' Fiduciary Duties in Cross-Border Listings: A Comparative Analysis of Mainland China and Hong Kong",
+      "doi": "10.63802/jlpcs.v1.i1.53",
+      "title": "The Structural Logic and Criminal Application of the Theory of Supervisory Negligence",
       "hasAbstract": true,
-      "referenceCount": 85,
+      "referenceCount": 25,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -370,27 +340,9 @@
       "authors": [
         {
           "affiliation": null,
-          "orcid": "0009-0001-0019-8681",
-          "given_name": "XIAOTIAN",
-          "family_name": "CUI"
-        },
-        {
-          "affiliation": null,
           "orcid": null,
-          "given_name": "MINWEI",
-          "family_name": "ZHANG"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "JIAYING",
-          "family_name": "CHEN"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "ZHEN",
-          "family_name": "CAO"
+          "given_name": "Yiyan",
+          "family_name": "Gao"
         }
       ]
     },
@@ -449,14 +401,14 @@
       ]
     },
     {
-      "doi": "10.63802/jlpcs.v2.i1.64",
-      "title": "Collision Between Mixed and Civil Law Systems: A Comparative Study of Criminal Procedural Rules in the Philippines and China",
+      "doi": "10.63802/jlpcs.v2.i1.133",
+      "title": "互联网广告屏蔽行为及规制路径研究",
       "hasAbstract": true,
-      "referenceCount": 15,
+      "referenceCount": 41,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2025-12-17",
+      "publishedDate": "2025-12-20",
       "depositDate": "2026-02-11",
       "issueOrPeriod": "v2i1",
       "containerTitle": "Journal of Law, Psychology, and Communication Studies",
@@ -464,50 +416,8 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Yun",
-          "family_name": "Pei"
-        }
-      ]
-    },
-    {
-      "doi": "10.63802/jlpcs.v1.i1.53",
-      "title": "The Structural Logic and Criminal Application of the Theory of Supervisory Negligence",
-      "hasAbstract": true,
-      "referenceCount": 25,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-07-22",
-      "depositDate": "2026-03-09",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yiyan",
-          "family_name": "Gao"
-        }
-      ]
-    },
-    {
-      "doi": "10.63802/jlpcs.v1.i1.60",
-      "title": "Convenience vs. Choice: Why Users Prefer a Cluttered but Functionally Universal App Interface to Other Specialized Apps Using Kaspi as an Example",
-      "hasAbstract": true,
-      "referenceCount": 7,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-07-22",
-      "depositDate": "2026-02-11",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Dina",
-          "family_name": "Gabdullova"
+          "given_name": "MinLin",
+          "family_name": "Zhuo"
         }
       ]
     },
@@ -533,6 +443,27 @@
       ]
     },
     {
+      "doi": "10.63802/jlpcs.v2.i1.64",
+      "title": "Collision Between Mixed and Civil Law Systems: A Comparative Study of Criminal Procedural Rules in the Philippines and China",
+      "hasAbstract": true,
+      "referenceCount": 15,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-17",
+      "depositDate": "2026-02-11",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yun",
+          "family_name": "Pei"
+        }
+      ]
+    },
+    {
       "doi": "10.63802/jlpcs.v1.i1.38",
       "title": "Networked Social Movements in Tunisia: Organizational and Media Alternative or a Threat to the Social Order?",
       "hasAbstract": true,
@@ -552,6 +483,75 @@
           "family_name": "Karoui"
         }
       ]
+    },
+    {
+      "doi": "10.63802/jlpcs.v1.i1.51",
+      "title": "Psychological Adjustment Experiences of Chinese University Faculty During In-Service Overseas Study: A Qualitative Study from the Perspective of Educational Psychology",
+      "hasAbstract": true,
+      "referenceCount": 14,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-22",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "YUYUN",
+          "family_name": "ZHANG"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jlpcs.v1.i1.56",
+      "title": "How Is Love Recognised? A Theoretical Model of Love Confirmation Mechanisms in Romantic Relationships",
+      "hasAbstract": true,
+      "referenceCount": 59,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-22",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/jlpcs.v1.i1.59",
+      "title": "Research on the Impact of Z-Generation Tourists' Perceived Risks in Cultural Heritage Tourism on Destination Loyalty——A Case Study of Nanxun Ancient Town",
+      "hasAbstract": true,
+      "referenceCount": 45,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-22",
+      "depositDate": "2026-03-09",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of Law, Psychology, and Communication Studies",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "静文",
+          "family_name": "高"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "鹏程",
+          "family_name": "王"
+        }
+      ]
     }
   ],
   "sample_adequacy": {
@@ -566,7 +566,7 @@
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "not_met",
-    "oai_pmh_schema_org_machine_readable": "met",
+    "oai_pmh_schema_org_machine_readable": "blocked",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
@@ -583,7 +583,7 @@
       "error": null
     },
     {
-      "doi": "10.63802/jlpcs.v1.i1.57",
+      "doi": "10.63802/jlpcs.v1.i1.58",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -595,19 +595,7 @@
       "error": null
     },
     {
-      "doi": "10.63802/jlpcs.v1.i1.56",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.63802/jlpcs.v2.i1.137",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.63802/jlpcs.v1.i1.58",
+      "doi": "10.63802/jlpcs.v1.i1.57",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -619,7 +607,19 @@
       "error": null
     },
     {
-      "doi": "10.63802/jlpcs.v1.i1.51",
+      "doi": "10.63802/jlpcs.v1.i1.47",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/jlpcs.v2.i1.137",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/jlpcs.v1.i1.60",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -633,9 +633,9 @@
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": true,
-    "http_status": 200,
-    "error": null
+    "ok": false,
+    "http_status": 403,
+    "error": "HTTP 403"
   },
   "publishing_stability": {
     "cadence": {
@@ -651,5 +651,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-07-22",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }
