@@ -2,155 +2,155 @@
   "posi_id": "POSI-J-000001",
   "journal_code": "grhas",
   "title": "Global Review of Humanities, Arts, and Society",
-  "website_url": "https://journals.panorama-sg.com/index.php/files",
+  "website_url": "https://journals.panorama-sg.com/grhas",
   "fetched_pages": [
     {
-      "url": "https://journals.panorama-sg.com/index.php/files",
+      "url": "https://journals.panorama-sg.com/grhas",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/about",
+      "url": "https://journals.panorama-sg.com/grhas/about",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/about/aims-and-scope",
+      "url": "https://journals.panorama-sg.com/grhas/about/aims-and-scope",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/about/editorialTeam",
+      "url": "https://journals.panorama-sg.com/grhas/about/editorialTeam",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/about/editorialMasthead",
+      "url": "https://journals.panorama-sg.com/grhas/about/editorialMasthead",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/about/submissions",
+      "url": "https://journals.panorama-sg.com/grhas/about/submissions",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/aims-and-scope",
+      "url": "https://journals.panorama-sg.com/grhas/aims-and-scope",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/editorial-board",
-      "fetch_status": "not_found",
-      "http_status": 404
-    },
-    {
-      "url": "https://journals.panorama-sg.com/index.php/files/editorial-policies",
-      "fetch_status": "not_found",
-      "http_status": 404
-    },
-    {
-      "url": "https://journals.panorama-sg.com/index.php/files/peer-review",
-      "fetch_status": "not_found",
-      "http_status": 404
-    },
-    {
-      "url": "https://journals.panorama-sg.com/index.php/files/publication-ethics",
+      "url": "https://journals.panorama-sg.com/grhas/editorial-board",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/ethics",
+      "url": "https://journals.panorama-sg.com/grhas/editorial-policies",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/author-guidelines",
+      "url": "https://journals.panorama-sg.com/grhas/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/grhas/publication-ethics",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/for-authors",
+      "url": "https://journals.panorama-sg.com/grhas/ethics",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/submissions",
+      "url": "https://journals.panorama-sg.com/grhas/author-guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/grhas/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/grhas/submissions",
       "fetch_status": "forbidden",
       "http_status": 403
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/apc",
+      "url": "https://journals.panorama-sg.com/grhas/apc",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/fees",
+      "url": "https://journals.panorama-sg.com/grhas/fees",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/copyright",
+      "url": "https://journals.panorama-sg.com/grhas/copyright",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/licensing",
+      "url": "https://journals.panorama-sg.com/grhas/licensing",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/corrections",
+      "url": "https://journals.panorama-sg.com/grhas/corrections",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/retractions",
+      "url": "https://journals.panorama-sg.com/grhas/retractions",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/archiving",
+      "url": "https://journals.panorama-sg.com/grhas/archiving",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/data-policy",
+      "url": "https://journals.panorama-sg.com/grhas/data-policy",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/files/ai-policy",
+      "url": "https://journals.panorama-sg.com/grhas/ai-policy",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.dashboard||",
+      "url": "https://journals.panorama-sg.com/$%7Bsite.dashboard||",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.about||",
+      "url": "https://journals.panorama-sg.com/$%7Bsite.archive||site.issues||",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.masthead||",
+      "url": "https://journals.panorama-sg.com/$%7Bsite.about||site.overview||",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7BsubmitEntryUrl%7D",
+      "url": "https://journals.panorama-sg.com/$%7Bsite.guidelines||site.submissions||",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.editorialPolicies||",
+      "url": "https://journals.panorama-sg.com/$%7Bsite.peerReview||site.ethics||site.policies||",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/index.php/$%7Bsite.guidelines||",
+      "url": "https://journals.panorama-sg.com/$%7BsubmitEntryUrl%7D",
       "fetch_status": "not_found",
       "http_status": 404
     }
@@ -160,141 +160,141 @@
       "id": "aims_scope_explicit",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files/publication-ethics",
-      "retrieved_at": "2026-08-12T10:17:27.168Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files/about/submissions",
-      "retrieved_at": "2026-08-12T10:17:25.584Z"
+      "source_url": "https://journals.panorama-sg.com/grhas/about/submissions",
+      "retrieved_at": "2026-10-02T04:41:58.055Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
-      "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/grhas/editorial-board",
+      "retrieved_at": "2026-10-02T04:41:58.056Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/index.php/files",
-      "retrieved_at": "2026-08-12T10:17:23.701Z"
+      "source_url": "https://journals.panorama-sg.com/grhas",
+      "retrieved_at": "2026-10-02T04:41:56.554Z"
     },
     {
       "id": "other_applicable_terms",
@@ -316,12 +316,12 @@
       }
     },
     "research_integrity": {
-      "score": 14,
+      "score": 15,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 15,
         "resolved_weight": 15,
-        "met_weight": 14,
+        "met_weight": 15,
         "not_applicable_weight": 0
       }
     },
@@ -340,12 +340,12 @@
     "coverage_percent": 100,
     "applicable_weight": 39,
     "resolved_weight": 39,
-    "met_weight": 35,
+    "met_weight": 36,
     "not_applicable_weight": 1
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-08-12",
+  "snapshot_date": "2026-10-02",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

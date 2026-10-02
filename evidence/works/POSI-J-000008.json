@@ -119,7 +119,7 @@
       "metWindows": 0
     },
     "continuity": {
-      "totalWindows": 3,
+      "totalWindows": 4,
       "activeWindows": 1
     },
     "deposit_timeliness": "met"
@@ -127,5 +127,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-11-28",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

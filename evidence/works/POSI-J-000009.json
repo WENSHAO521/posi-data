@@ -4,39 +4,27 @@
   "title": "Resonance: Journal of Global Music Studies",
   "issn_queried": "3053-4410",
   "crossref_status": 200,
-  "total_results": 18,
-  "works_fetched": 18,
+  "total_results": 19,
+  "works_fetched": 19,
   "article_sample": [
     {
-      "doi": "10.63802/rjgms.v2.i2.333",
-      "title": "Research on the Digital Activation and Innovative Dissemination of Zhaoqing Folk Songs in China Empowered by Artificial Intelligence: A Case Study of `Yuanlongling Hakka Mountain Songs'",
+      "doi": "10.63802/rjgms.v2.i2.354",
+      "title": "In Transit",
       "hasAbstract": true,
-      "referenceCount": 20,
+      "referenceCount": 4,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-12-01",
-      "depositDate": "2026-07-20",
+      "publishedDate": "2026-10-02",
+      "depositDate": "2026-10-01",
       "issueOrPeriod": "v2i2",
       "containerTitle": "Resonance: Journal of Global Music Studies",
       "authors": [
         {
-          "affiliation": "School of Music, Guangzhou College of Applied Science and Technology, Zhaoqing 526072, Guangdong, China",
+          "affiliation": "Chuanqi Technology (Beijing) Co., Ltd., Beijing 100176, China",
           "orcid": null,
-          "given_name": "Ziqi",
-          "family_name": "Shi"
-        },
-        {
-          "affiliation": "School of Music, Guangzhou College of Applied Science and Technology, Zhaoqing 526072, Guangdong, China",
-          "orcid": "0009-0003-0603-5386",
-          "given_name": "Wenyao",
-          "family_name": "Hua"
-        },
-        {
-          "affiliation": "School of Music, Guangzhou College of Applied Science and Technology, Zhaoqing 526072, Guangdong, China",
-          "orcid": null,
-          "given_name": "Jianwei",
-          "family_name": "Liang"
+          "given_name": "Linxi",
+          "family_name": "Zhang"
         }
       ]
     },
@@ -136,6 +124,27 @@
           "orcid": "0000-0003-4041-8252",
           "given_name": "Jiaming",
           "family_name": "Fan"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i2.321",
+      "title": "From Lyrics to Legibility: Translation, Vernacular Metadata, and Transnational Music Publics in East Asian and Sinophone Platform Ecologies",
+      "hasAbstract": true,
+      "referenceCount": 48,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-09",
+      "depositDate": "2026-09-08",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "University of Hong Kong",
+          "orcid": "0009-0006-4864-5395",
+          "given_name": "Haoyang",
+          "family_name": "He"
         }
       ]
     },
@@ -392,27 +401,6 @@
       ]
     },
     {
-      "doi": "10.63802/resonance.v1.i1.89",
-      "title": "Второй фортепианный концерт С. В. Рахманинова: от отчаяния к триумфу",
-      "hasAbstract": true,
-      "referenceCount": 9,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-08-24",
-      "depositDate": "2026-05-28",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Resonance: Journal of Global Music Studies",
-      "authors": [
-        {
-          "affiliation": "Midwest University, America",
-          "orcid": "0009-0006-3465-2885",
-          "given_name": "Jiale",
-          "family_name": "Li"
-        }
-      ]
-    },
-    {
       "doi": "10.63802/resonance.v1.i1.88",
       "title": "On Verdi's Operas",
       "hasAbstract": true,
@@ -432,26 +420,47 @@
           "family_name": "Li"
         }
       ]
+    },
+    {
+      "doi": "10.63802/resonance.v1.i1.89",
+      "title": "Второй фортепианный концерт С. В. Рахманинова: от отчаяния к триумфу",
+      "hasAbstract": true,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-24",
+      "depositDate": "2026-05-28",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "Midwest University, America",
+          "orcid": "0009-0006-3465-2885",
+          "given_name": "Jiale",
+          "family_name": "Li"
+        }
+      ]
     }
   ],
   "sample_adequacy": {
     "sufficient": true,
-    "size": 18,
+    "size": 19,
     "meets_target": false,
     "spans_multiple_periods": true,
-    "note": "sample of 18 clears the minimum (10) but is below the target of 30"
+    "note": "sample of 19 clears the minimum (10) but is below the target of 30"
   },
   "infrastructure_item_statuses": {
     "doi_resolution_reliability": "met",
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "met",
-    "oai_pmh_schema_org_machine_readable": "met",
+    "oai_pmh_schema_org_machine_readable": "blocked",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.63802/rjgms.v2.i2.333",
+      "doi": "10.63802/rjgms.v2.i2.354",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -470,6 +479,12 @@
     },
     {
       "doi": "10.63802/resonance.v1.i1.171",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i2.321",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -503,19 +518,13 @@
       "resolved": true,
       "http_status": 302,
       "error": null
-    },
-    {
-      "doi": "10.63802/resonance.v1.i1.116",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
     }
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": true,
-    "http_status": 200,
-    "error": null
+    "ok": false,
+    "http_status": 403,
+    "error": "HTTP 403"
   },
   "publishing_stability": {
     "cadence": {
@@ -523,13 +532,13 @@
       "metWindows": 2
     },
     "continuity": {
-      "totalWindows": 4,
-      "activeWindows": 4
+      "totalWindows": 5,
+      "activeWindows": 5
     },
     "deposit_timeliness": "not_met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-08-24",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

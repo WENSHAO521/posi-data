@@ -131,140 +131,140 @@
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.researchfrontpress.com",
-      "retrieved_at": "2026-08-12T10:36:24.256Z"
+      "retrieved_at": "2026-10-02T04:45:38.054Z"
     },
     {
       "id": "other_applicable_terms",
@@ -315,7 +315,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-08-12",
+  "snapshot_date": "2026-10-02",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

@@ -8,8 +8,8 @@
   "works_fetched": 89,
   "article_sample": [
     {
-      "doi": "10.71411/eaou.2026.v1i1.1711",
-      "title": "建筑人防教育如何提高教学质量",
+      "doi": "10.71411/eaou.2026.v1i1.1706",
+      "title": "人防建筑中给排水施工管理的教学与研究",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -29,14 +29,14 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "涵睿",
-          "family_name": "郑"
+          "given_name": "云",
+          "family_name": "谢"
         }
       ]
     },
     {
-      "doi": "10.71411/eaou.2026.v2i4.1673",
-      "title": "Research on Machine Learning High-Frequency Trading Strategy of Cryptocurrency Based on Transaction Cost-Aware Filtering",
+      "doi": "10.71411/eaou.2026.v2i4.1672",
+      "title": "Research on Machine Learning High-Frequency Trading Strategies Under Transaction Cost",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -62,7 +62,7 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Xianpeng",
+          "given_name": "Wenchang",
           "family_name": "Jiang"
         }
       ]
@@ -115,6 +115,192 @@
           "orcid": null,
           "given_name": "Zechen",
           "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i6.1527",
+      "title": "Cytological Evaluation of Sea Cucumber Fucoidan Inhibiting the Activity of Helicobacter pylori in vitro",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-26",
+      "depositDate": "2026-06-01",
+      "issueOrPeriod": "v2i6",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yongjun",
+          "family_name": "Sun"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenming",
+          "family_name": "Ju"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Huali",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuemeng",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaowei",
+          "family_name": "Nie"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lingling",
+          "family_name": "Yu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lingli",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaoyan",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Qi",
+          "family_name": "Huang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i5.1522",
+      "title": "&lt;b&gt;Neuroprotective Effects of GDNF-Overexpressing Neural Stem Cells on Ischemic Stroke in Rats&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-26",
+      "depositDate": "2026-06-01",
+      "issueOrPeriod": "v2i5",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Juan",
+          "family_name": "Du"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i3.1271",
+      "title": "&lt;b&gt;Geopolitical Tensions, Currency Collapse, and Public Health: Protecting Civilians in Crisis Zones&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-03-07",
+      "depositDate": "2026-03-08",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Shengran",
+          "family_name": "Zhao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1700",
+      "title": "某热电联产项目综合水泵房地基加固工程的优化设计",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "凤珍",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "培人",
+          "family_name": "王"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i4.1671",
+      "title": "递增剂量双去甲氧基姜黄素对BALB/c裸鼠A549皮下移植瘤生长及PCNA、MMP-2、MMP-9表达的影响",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-15",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "永捷",
+          "family_name": "戚"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i6.1660",
+      "title": "A Finite Verification of Jeśmanowicz' Conjecture under 2 ∥ mn for n ≤ 200",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-12",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v2i7",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Haoyuan",
+          "family_name": "Wu"
         }
       ]
     },
@@ -233,29 +419,8 @@
       ]
     },
     {
-      "doi": "10.71411/eaou.2026.v2i3.1271",
-      "title": "&lt;b&gt;Geopolitical Tensions, Currency Collapse, and Public Health: Protecting Civilians in Crisis Zones&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-03-07",
-      "depositDate": "2026-03-08",
-      "issueOrPeriod": "v2i3",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Shengran",
-          "family_name": "Zhao"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1698",
-      "title": "基于模块化方法的人防设计研究",
+      "doi": "10.71411/eaou.2026.v1i1.1704",
+      "title": "人防工程主体结构土建施工技术浅析",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -275,20 +440,20 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "凤珍",
-          "family_name": "王"
+          "given_name": "彦军",
+          "family_name": "裴"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "海伟",
-          "family_name": "丁"
+          "given_name": "伟",
+          "family_name": "张"
         }
       ]
     },
     {
-      "doi": "10.71411/eaou.2026.v2i4.1672",
-      "title": "Research on Machine Learning High-Frequency Trading Strategies Under Transaction Cost",
+      "doi": "10.71411/eaou.2026.v2i4.1673",
+      "title": "Research on Machine Learning High-Frequency Trading Strategy of Cryptocurrency Based on Transaction Cost-Aware Filtering",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -314,7 +479,7 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Wenchang",
+          "given_name": "Xianpeng",
           "family_name": "Jiang"
         }
       ]
@@ -367,195 +532,6 @@
           "orcid": null,
           "given_name": "Chengjun",
           "family_name": "Li"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i6.1528",
-      "title": "&lt;b&gt;Construction of a Nanostructured Stabilization System for Sea Cucumber Lipids and Their Precise Intestinal Release Mechanism&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-05-26",
-      "depositDate": "2026-06-01",
-      "issueOrPeriod": "v2i6",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Wenming",
-          "family_name": "Ju"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yongjun",
-          "family_name": "Sun"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yuemeng",
-          "family_name": "Wang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Huali",
-          "family_name": "Wang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Xiaohua",
-          "family_name": "Wei"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yu",
-          "family_name": "Tao"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Wei",
-          "family_name": "Lin"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Na",
-          "family_name": "Gao"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Jiangwei",
-          "family_name": "Feng"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i5.1523",
-      "title": "&lt;b&gt;Study on Quality Improvement Effect of Phosphate-Free Water Retainer on Squid&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-05-26",
-      "depositDate": "2026-06-01",
-      "issueOrPeriod": "v2i5",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Huali",
-          "family_name": "Wang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Feiyue",
-          "family_name": "Gao"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Xiuqin",
-          "family_name": "Wang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Fang",
-          "family_name": "Xue"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Qingxian",
-          "family_name": "Zhai"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1702",
-      "title": "研究生教学中人际关系在实践中的简单实践――浅谈如何有效建立和管理个人关系网",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i4.1674",
-      "title": "Reshaping Alpha with Conditional Probability: A Low-Cost Improvement Path for Index Timing",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-15",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v2i4",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Weijian",
-          "family_name": "Huang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yuanqi",
-          "family_name": "Huang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Xianpeng",
-          "family_name": "Jiang"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i6.1660",
-      "title": "A Finite Verification of Jeśmanowicz' Conjecture under 2 ∥ mn for n ≤ 200",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-12",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v2i7",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Haoyuan",
-          "family_name": "Wu"
         }
       ]
     },
@@ -629,8 +605,8 @@
       ]
     },
     {
-      "doi": "10.71411/eaou.2026.v2i5.1522",
-      "title": "&lt;b&gt;Neuroprotective Effects of GDNF-Overexpressing Neural Stem Cells on Ischemic Stroke in Rats&lt;/b&gt;",
+      "doi": "10.71411/eaou.2026.v2i5.1523",
+      "title": "&lt;b&gt;Study on Quality Improvement Effect of Phosphate-Free Water Retainer on Squid&lt;/b&gt;",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -644,8 +620,374 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Juan",
-          "family_name": "Du"
+          "given_name": "Huali",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Feiyue",
+          "family_name": "Gao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiuqin",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Fang",
+          "family_name": "Xue"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Qingxian",
+          "family_name": "Zhai"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1716",
+      "title": "关于企业合并会计方法的应用分析研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "稳亮",
+          "family_name": "高"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i4.1674",
+      "title": "Reshaping Alpha with Conditional Probability: A Low-Cost Improvement Path for Index Timing",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-15",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Weijian",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuanqi",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xianpeng",
+          "family_name": "Jiang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i6.1528",
+      "title": "&lt;b&gt;Construction of a Nanostructured Stabilization System for Sea Cucumber Lipids and Their Precise Intestinal Release Mechanism&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-05-26",
+      "depositDate": "2026-06-01",
+      "issueOrPeriod": "v2i6",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wenming",
+          "family_name": "Ju"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yongjun",
+          "family_name": "Sun"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuemeng",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Huali",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xiaohua",
+          "family_name": "Wei"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yu",
+          "family_name": "Tao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Wei",
+          "family_name": "Lin"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Na",
+          "family_name": "Gao"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jiangwei",
+          "family_name": "Feng"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1708",
+      "title": "浅谈地下人防工程结构设计",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "成实",
+          "family_name": "谢"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "辉",
+          "family_name": "谢"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1712",
+      "title": "探究建筑教育如何做好人防通信设计",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "涵睿",
+          "family_name": "郑"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1717",
+      "title": "简单山地人防建筑基础稳定性分析与加固",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "欣芸",
+          "family_name": "李"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "瑾",
+          "family_name": "戴"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1697",
+      "title": "对加强行政事业单位国有资产审计的思考",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "专",
+          "family_name": "汪"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1699",
+      "title": "荷花在中国古典园林中的应用及其文化意蕴研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "凤珍",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "俊杰",
+          "family_name": "张"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1709",
+      "title": "人防工程的室内环境分析",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "小梅",
+          "family_name": "贾"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "伟",
+          "family_name": "张"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1713",
+      "title": "人防建筑工程项目施工安全管理策略研究",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "旭",
+          "family_name": "王"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "彬",
+          "family_name": "王"
         }
       ]
     },
@@ -677,98 +1019,8 @@
       ]
     },
     {
-      "doi": "10.71411/eaou.2026.v2i4.1671",
-      "title": "递增剂量双去甲氧基姜黄素对BALB/c裸鼠A549皮下移植瘤生长及PCNA、MMP-2、MMP-9表达的影响",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-15",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v2i4",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "永捷",
-          "family_name": "戚"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i6.1527",
-      "title": "Cytological Evaluation of Sea Cucumber Fucoidan Inhibiting the Activity of Helicobacter pylori in vitro",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-05-26",
-      "depositDate": "2026-06-01",
-      "issueOrPeriod": "v2i6",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yongjun",
-          "family_name": "Sun"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Wenming",
-          "family_name": "Ju"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Huali",
-          "family_name": "Wang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Yuemeng",
-          "family_name": "Wang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Xiaowei",
-          "family_name": "Nie"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Lingling",
-          "family_name": "Yu"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Lingli",
-          "family_name": "Zhang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Xiaoyan",
-          "family_name": "Li"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Qi",
-          "family_name": "Huang"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1715",
-      "title": "溴化锂吸收式制冷机组的防结晶保护分析",
+      "doi": "10.71411/eaou.2026.v1i1.1702",
+      "title": "研究生教学中人际关系在实践中的简单实践――浅谈如何有效建立和管理个人关系网",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
@@ -782,9 +1034,24 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "伟洲",
-          "family_name": "顾"
-        },
+          "given_name": "彬",
+          "family_name": "王"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1714",
+      "title": "居民小区人防工程建设的必要性及建议",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-07-16",
+      "depositDate": "2026-07-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Journal of the European Academy Open University",
+      "authors": [
         {
           "affiliation": null,
           "orcid": null,
@@ -825,279 +1092,6 @@
           "family_name": "张"
         }
       ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1713",
-      "title": "人防建筑工程项目施工安全管理策略研究",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "旭",
-          "family_name": "王"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1697",
-      "title": "对加强行政事业单位国有资产审计的思考",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "专",
-          "family_name": "汪"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1704",
-      "title": "人防工程主体结构土建施工技术浅析",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彦军",
-          "family_name": "裴"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "伟",
-          "family_name": "张"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1714",
-      "title": "居民小区人防工程建设的必要性及建议",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "直",
-          "family_name": "耿"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1709",
-      "title": "人防工程的室内环境分析",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "小梅",
-          "family_name": "贾"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "伟",
-          "family_name": "张"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1703",
-      "title": "人防工程设计和施工中问题探讨",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "直",
-          "family_name": "耿"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "宇飞",
-          "family_name": "张"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1712",
-      "title": "探究建筑教育如何做好人防通信设计",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "涵睿",
-          "family_name": "郑"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1710",
-      "title": "中小企业财务管理问题与对策",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "小梅",
-          "family_name": "贾"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "欣芸",
-          "family_name": "李"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1717",
-      "title": "简单山地人防建筑基础稳定性分析与加固",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-07-16",
-      "depositDate": "2026-07-16",
-      "issueOrPeriod": "v1i1",
-      "containerTitle": "Journal of the European Academy Open University",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "彬",
-          "family_name": "王"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "欣芸",
-          "family_name": "李"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "瑾",
-          "family_name": "戴"
-        }
-      ]
     }
   ],
   "sample_adequacy": {
@@ -1112,48 +1106,12 @@
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "not_met",
-    "oai_pmh_schema_org_machine_readable": "unknown",
+    "oai_pmh_schema_org_machine_readable": "met",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.71411/eaou.2026.v1i1.1711",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i4.1673",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i6.1662",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i6.1526",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i5.1524",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/eaou.2026.v2i3.1271",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/eaou.2026.v1i1.1698",
+      "doi": "10.71411/eaou.2026.v1i1.1706",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -1165,13 +1123,49 @@
       "error": null
     },
     {
-      "doi": "10.71411/eaou.2026.v2i6.1661",
+      "doi": "10.71411/eaou.2026.v2i6.1662",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71411/eaou.2026.v2i6.1528",
+      "doi": "10.71411/eaou.2026.v2i6.1527",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i5.1522",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i3.1271",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/eaou.2026.v1i1.1700",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i4.1671",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i6.1660",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/eaou.2026.v2i6.1526",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -1179,9 +1173,9 @@
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": false,
-    "http_status": null,
-    "error": "The operation was aborted due to timeout"
+    "ok": true,
+    "http_status": 200,
+    "error": null
   },
   "publishing_stability": {
     "cadence": {
@@ -1189,7 +1183,7 @@
       "metWindows": 0
     },
     "continuity": {
-      "totalWindows": 4,
+      "totalWindows": 5,
       "activeWindows": 4
     },
     "deposit_timeliness": "met"
@@ -1197,5 +1191,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-09-15",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-08-13"
+  "snapshot_date": "2026-10-02"
 }

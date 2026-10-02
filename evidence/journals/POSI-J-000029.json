@@ -161,140 +161,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS/about/editorialMasthead",
-      "retrieved_at": "2026-08-12T10:36:17.812Z"
+      "retrieved_at": "2026-10-02T04:45:29.530Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS/about/submissions",
-      "retrieved_at": "2026-08-12T10:36:17.813Z"
+      "retrieved_at": "2026-10-02T04:45:29.530Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS/about/submissions",
-      "retrieved_at": "2026-08-12T10:36:17.813Z"
+      "retrieved_at": "2026-10-02T04:45:29.530Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS/about/submissions",
-      "retrieved_at": "2026-08-12T10:36:17.813Z"
+      "retrieved_at": "2026-10-02T04:45:29.530Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://www.onlinejandl.com/index.php/TJISS",
-      "retrieved_at": "2026-08-12T10:36:16.772Z"
+      "retrieved_at": "2026-10-02T04:45:27.656Z"
     },
     {
       "id": "other_applicable_terms",
@@ -345,7 +345,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-08-12",
+  "snapshot_date": "2026-10-02",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }
