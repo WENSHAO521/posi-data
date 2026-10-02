@@ -10,6 +10,29 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-10-02 — Publisher evidence registry: fifteen inheritable items, drafts
+
+### Changed
+
+- AJR-SPEC.md § 8: the publisher-inheritable evidence items grow from six
+  to fifteen — similarity checking, human/animal research ethics,
+  complaints and appeals, and the publisher-level transparency items (fee
+  policy, copyright and licensing, access model, ownership and contact,
+  advertising and sponsorship, other terms). Journal-specific items stay
+  non-inheritable. Reason: in the 2026-10 evidence trial most large
+  publisher platforms refused the site crawl, and six inherited items left
+  such journals at about 43% Evidence Coverage, below any rating.
+  Registry entries may name `publisher_aliases`.
+- No published score changes: the registry held no entry until now, and
+  the entries added here are unverified drafts the ETL ignores. Scores move
+  only as entries are verified, journal by journal; no methodology version
+  changes (the AJR-E/AJR-M formulas and thresholds are untouched).
+
+### Added
+
+- `evidence/publishers/`: draft entries for ten publishers (150 entries,
+  108 with a candidate page), pending verification.
+
 ## 2026-10-02 — Monthly AJR rerate; AJR-M-1.1
 
 **AJR-M-1.1.** The formulas, weights and thresholds of AJR-M-1.0 are

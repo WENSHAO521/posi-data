@@ -299,12 +299,33 @@ through bot-blocking anyway).
 
 **Inheritable** (publisher-wide policies genuinely can apply uniformly):
 research integrity, corrections/retractions, authorship, COI, AI-use
-policy, data policy.
+policy, data policy; and, since 2026-10, similarity checking,
+human/animal research ethics, complaints and appeals, and the
+publisher-level transparency items: fee policy (the publisher's stated
+charges, not a journal's own amount), copyright and licensing, access
+model, ownership and contact, advertising and sponsorship, other terms
+(`INHERITABLE_CRITERION_IDS` in posi-engine's
+`src/evidence-publisher-registry.mjs`).
 
 **Never inheritable** (inherently journal-specific, no publisher-wide
-policy can substitute): editorial board, peer-review model, journal scope,
-publication frequency, journal-specific APC. These must always come from
-journal-level evidence.
+policy can substitute): aims and scope, editorial board, editor identity,
+peer-review process, reviewer and editorial guidelines, author guidelines,
+publication frequency, a journal-specific APC amount. These must always
+come from journal-level evidence.
+
+**Why the list grew.** The 2026-10 evidence trial on 50 Global Benchmark
+journals reached the site of only 13; ScienceDirect, Wiley, Taylor &
+Francis, SAGE, OUP, ACS and MDPI refused every request. With the first six
+items inherited, a journal whose site refuses every request still reaches
+only about 43% Evidence Coverage, below the 60% needed for any rating;
+with these fifteen, about 75% (provisional). The items added are ones a
+large publisher sets once for all its journals.
+
+**An entry takes effect only once verified.** Each entry names the page
+(`evidence_url`) and who checked that it states the policy and its
+all-journals scope (`verified_by`, `verified_at`); an entry without them
+is a draft and is ignored. `publisher_aliases` lists the other names the
+corpus records for the same publisher (imprints, legal names).
 
 Every evidence item, wherever it comes from, is tagged with its source
 type: `journal_web` | `publisher_policy` | `crossref` | `openalex` |

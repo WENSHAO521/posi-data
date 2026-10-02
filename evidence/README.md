@@ -102,22 +102,23 @@ years before its rating date (AJR-M-1.0-SPEC.md § 11).
 
 ## Publisher registry — see AJR-SPEC.md § 8
 
-`publishers/*.json` entries let a verified, publisher-wide policy (only
-`publication_ethics_policy`, `corrections_retractions_policy`,
-`authorship_contributorship_policy`, `conflict_of_interest_policy`,
-`ai_use_policy`, `data_availability_sharing` — never editorial board,
-peer-review model, aims & scope, publication frequency, or a
-journal-specific APC amount) fill an `unknown`/`blocked` gap for every
-journal under that publisher, instead of being re-crawled per journal.
+`publishers/*.json` entries let a verified, publisher-wide policy fill an
+`unknown`/`blocked` gap for every journal under that publisher, instead of
+being re-crawled per journal. Only the inheritable items of AJR-SPEC.md § 8
+qualify (fifteen since 2026-10); aims and scope, editorial board, editor
+identity, peer-review process, reviewer and author guidelines, publication
+frequency and a journal-specific APC amount never do.
 
-**This directory ships empty.** AJR-SPEC.md § 8/§ 13 itself leaves "who
-verifies a publisher-wide policy's stated scope, and how is a dispute
-resolved" as an open governance question — no entry here has been through
-that verification yet. An entry is added only once a person has actually
-checked a publisher's stated policy and confirmed its scope; until then,
-every journal is resolved purely from its own crawled evidence
-(`applyPublisherInheritance()`'s behavior with an empty registry is a
-no-op, by design — see its own test file for that guarantee).
+**Drafts.** One file per publisher (Elsevier, Wiley, Springer Nature,
+Oxford University Press, MDPI, SAGE, Wolters Kluwer, ACS, Taylor & Francis,
+Frontiers: about three quarters of the Global Benchmark journals AJR can
+rate), one entry per inheritable item. They are drafts: `evidence_url` is a
+candidate page nobody has opened yet, or `null` where none is known, and
+`verified_by`/`verified_at` are empty, so the ETL ignores every entry. To
+make one count, open the page, confirm it states the policy and that it
+covers all the publisher's journals, then fill `verified_by` and
+`verified_at` (and drop `draft_note`). posi-engine's "Publisher registry
+check" workflow reports which candidate pages answer.
 
 An entry is only ever applied if it's well-formed: a real `http(s)`
 `evidence_url`, a non-empty `verified_by`, and a parseable `verified_at` —
@@ -130,6 +131,7 @@ as if verification happened (`isWellFormedEntry()` in
 ```json
 {
   "publisher": "Publisher Name",
+  "publisher_aliases": ["Publisher Name Ltd"],
   "policy_type": "publication_ethics_policy",
   "scope": "all_journals",
   "evidence_url": "https://...",
