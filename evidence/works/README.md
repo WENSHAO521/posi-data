@@ -139,8 +139,9 @@ corpus record (11 of 31 as of this run) — an untried check, not a
 confirmed absence; `infrastructure_item_statuses.oai_pmh_schema_org_machine_readable`
 resolves `unknown` for those, never `not_met`.
 
-**Never mutated in place** — a re-run produces a new snapshot, same
-discipline as `evidence/journals/`.
+**Replaced by each refresh only when Crossref answered**, earlier snapshots
+kept in git history — same rule as `evidence/journals/` (see
+`evidence/README.md`).
 
 ## What this does NOT do
 

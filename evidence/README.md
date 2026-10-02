@@ -15,6 +15,10 @@ AJR-E-1.1 dimensions, together not hand-edited:
   from `posi-engine`'s Article-Sample ETL pipeline (`src/works-fetch.mjs` /
   `src/works-resolver.mjs`, `scripts/run-works-etl.mjs`) — see
   `works/README.md` for its own format and rationale.
+- `output/` — yearly output (AJR-M Dimension 2: five-year continuity,
+  output stability), works per publication year from the journal's OpenAlex
+  source record, from `posi-engine`'s `scripts/run-output-history-etl.mjs`.
+  Fetched for Mature journals only.
 
 ## Layout
 
@@ -22,6 +26,7 @@ AJR-E-1.1 dimensions, together not hand-edited:
 evidence/
 ├── journals/<posi_id>.json      -- one site-crawl evidence package per journal
 ├── works/<posi_id>.json         -- one article-sample evidence package per journal
+├── output/<posi_id>.json        -- one yearly-output record per Mature journal
 └── publishers/<slug>.json       -- publisher-wide policy entries (AJR-SPEC.md § 8)
 ```
 
@@ -46,8 +51,15 @@ which this Evidence-only pipeline computes; that determination happens at
 the AJR-E/AJR-M scoring step, once those other inputs also exist for a
 journal.
 
-**Never mutated in place** — a re-run produces a new snapshot; comparing
-snapshots over time is how coverage-improvement work gets measured
+**One file per journal, replaced by each refresh; earlier snapshots are its
+git history.** posi-engine's monthly AJR rerate re-runs the ETLs and
+replaces a journal's file only when the fresh run reached its source (at
+least one page fetched `ok`; for `works/` a Crossref 200; for `output/` the
+OpenAlex record read): a crawl the site blocked keeps the stored snapshot
+instead of overwriting it with an empty one, and a run that reached no
+source at all applies nothing (`scripts/apply-evidence-refresh.mjs`). The
+change arrives as a pull request. `snapshot_date` tells snapshots apart;
+comparing them over time is how coverage-improvement work gets measured
 (AJR-SPEC.md § 9 Phase 4).
 
 ### `evidence_snapshot_status` — provenance, not a scoring field
@@ -66,6 +78,27 @@ snapshots over time is how coverage-improvement work gets measured
   `audits/evidence-etl/evidence-etl-v1-core30-2026/README.md` for a real
   example (12 journals flagged this way on 2026-08-12, all sharing one
   intermittently-unresponsive host).
+
+## Output history record shape
+
+Each `output/<posi_id>.json` (illustrative values):
+
+```json
+{
+  "posi_id": "POSI-J-000000",
+  "title": "Example Journal",
+  "openalex_source_id": "S0000000000",
+  "counts_by_year": { "2021": 120, "2022": 131, "2023": 127, "2024": 118, "2025": 125 },
+  "fetch_error": null,
+  "snapshot_date": "2026-10-07"
+}
+```
+
+`counts_by_year` is OpenAlex `works_count` per year (about the last ten
+years); a year that is missing published nothing. It is `null`, with
+`fetch_error`, when the source record could not be read — never an empty
+history standing in for a failed request. AJR-M reads the last five complete
+years before its rating date (AJR-M-1.0-SPEC.md § 11).
 
 ## Publisher registry — see AJR-SPEC.md § 8
 

@@ -1,11 +1,20 @@
 # AJR-M 1.0 — POSI Automated Journal Rating, Mature Model
 
-> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged (still `AJR-M-1.0`).
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged in `AJR-M-1.1`.
 
 > **Status: implemented in posi-engine** (`src/ajr-mature.mjs`,
-> `AJR_M_METHODOLOGY_VERSION = 'AJR-M-1.0'`), covered by unit tests
+> `AJR_M_METHODOLOGY_VERSION = 'AJR-M-1.1'`), covered by unit tests
 > (`test/ajr-mature.test.mjs`). Part of the **"POSI Journal Evaluation &
 > Ranking Framework 1.0"** methodology overhaul.
+>
+> **Run monthly since 2026-10** by posi-engine's AJR rerate
+> (`.github/workflows/ajr-rerate.yml`, `scripts/rate-mature.mjs`,
+> `src/ajr-m-rerate.mjs`) on the Core Collection, which has no Mature journal
+> before December 2029. § 11 records where each input comes from; those
+> input rules change scores, so ratings computed with them are `AJR-M-1.1`
+> (the formulas of §§ 2–8 are unchanged from 1.0). Results
+> are stored as `mature_rating` on corpus records, in
+> `schema/rating.schema.json`'s shape (`track: mature`).
 >
 > **This model did not exist before.** [AJR-SPEC.md](./AJR-SPEC.md) § 3
 > sketched AJR-M's dimension weights as a design placeholder and explicitly
@@ -189,7 +198,86 @@ collapsed into one number or displayed as bare "Q1" — always the full
 track name (`M-Q1`, `Citation Q1`; see `src/quartile-tracks.mjs`'s
 `quartileLabel()`).
 
-## 11. Changelog
+## 11. Inputs and their sources
+
+How posi-engine's runner (`src/ajr-m-rerate.mjs`) resolves the inputs of
+§§ 2–8 from this repository. The formulas and weights above are unchanged,
+but these rules (the 20-peer minimum, the 80% structural share, how
+evidence items combine) change scores, so they define **AJR-M-1.1**. The
+items marked **judgment call** are choices the framework leaves open.
+
+**Dimension 1 — citation.** PNCI and the journal's category
+(`ranking_category_id`) come from the current Citation Ranking edition
+(`rankings/citation/`); PCI and PCI-5 from the PCI audit
+(`audits/pjr-seed-corpus/<run>/pci/`, one file per journal; published as
+`collections/pci.json` in the data snapshot). PNCI peers are the journals that edition ranks
+(official or provisional) in the same category; PCI and PCI-5 peers are the
+journals with a value in the same category. A percentile with fewer than 20
+peers is not computed (`MIN_CATEGORY_SIZE`, the Citation Ranking's own
+minimum) and drops out of `computable_max` as in § 2.
+
+**Dimension 2 — output.** Five-year continuity and output stability read the
+last five complete calendar years before the rating date from
+`evidence/output/` (OpenAlex `works_count` per year; a missing year counts
+as no output). Schedule adherence reads the Article-Sample ETL's cadence,
+and DOI deposit timeliness its `deposit_timeliness`. From the article
+sample (`evidence/works/`):
+
+- article structural/metadata quality is `met` when, on average, 80% or
+  more of AJR-E's structural fields (abstract, references, affiliation,
+  ORCID, licence) are present (**judgment call**), `unknown` below 10
+  sampled articles;
+- publication/date consistency uses AJR-E's batch-dump rule: five or more
+  dated articles all on one date is `not_met`, fewer than five is `unknown`.
+
+**Dimensions 3 and 4 — evidence items.** The site crawl and the article
+sample resolve AJR-E-1.1's items; each AJR-M item is made of these
+(**judgment call**; every AJR-E governance and integrity item is used
+exactly once):
+
+| AJR-M item | AJR-E-1.1 evidence items |
+|---|---|
+| Editorial governance | `aims_scope_explicit`, `editorial_board_public`, `editor_identity_affiliation_verifiable` |
+| Peer review transparency | `peer_review_process_disclosed`, `reviewer_editorial_guidelines` |
+| Retraction/correction/integrity framework | `corrections_retractions_policy`, `publication_ethics_policy`, `plagiarism_similarity_policy`, `complaints_appeals` |
+| Authorship/COI | `authorship_contributorship_policy`, `conflict_of_interest_policy` |
+| Research/data ethics | `human_animal_ethics_consent`, `data_availability_sharing` |
+| AI policy | `ai_use_policy` |
+| DOI reliability | `doi_resolution_reliability` |
+| Metadata completeness | `crossref_metadata_completeness` |
+| Structured harvesting | `oai_pmh_schema_org_machine_readable` |
+| Reference metadata | `abstract_reference_license_metadata` |
+| Long-term preservation | `digital_preservation_archiving` |
+| Stable article URLs/HTTPS | none yet: always `unknown` |
+
+An AJR-M item made of several evidence items is `met` only when every
+applicable one is met, `not_met` as soon as a resolved one is not met, and
+otherwise unresolved (**judgment call**: each AJR-M item is a composite
+requirement). Dimension 6 reads the AJR-E-1.1 transparency items directly
+(§ 7).
+
+**Dimension 5 — reach.** Author share is the share of sampled articles by
+the most frequent identifiable author (ORCID or full name, never
+affiliation); institution shares are computed only when at least 30% of
+authors carry an affiliation, otherwise they take the neutral defaults.
+Citing-source concentration has no source yet and takes its neutral
+default.
+
+**Eligibility.** Evidence Coverage is computed over every evidence-backed
+item (Dimensions 3, 4, 6 and Dimension 2's three evidence items), with the
+same 80% official / 60% provisional thresholds as AJR-E. Mandatory evidence:
+an ISSN, Mature stage on the rating date, an article sample of at least 10,
+a category in the Citation Ranking edition, and an output history.
+
+**Integrity (§ 8).** Only suppressions confirmed by review are passed to
+the gate; a raw flag is never one.
+
+## 12. Changelog
 
 **1.0** (this document) — first real AJR-M spec, resolving AJR-SPEC.md
 § 13's open question about AJR-M's non-citation sub-scoring formulas.
+
+**1.1, 2026-10-02** — § 11: where each input comes from, as implemented by
+posi-engine's runner. The formulas, weights and thresholds of §§ 2–8 are
+unchanged; the input rules of § 11 change scores, hence the new version.
+No AJR-M score had been published under 1.0.

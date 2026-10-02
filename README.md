@@ -46,7 +46,7 @@ and kept only as archive.
 |---|---|
 | [POSI-EVAL-1.0](./POSI-EVAL-1.0-SPEC.md) | Evaluation architecture: ranking method, percentiles, quartiles, zones, minimum data, ties, snapshots, versioning, limitations |
 | [PNCI-1.0](./PNCI-1.0-SPEC.md) | PNCI formula, items, baselines |
-| [AJR](./AJR-SPEC.md), [AJR-E-1.1](./AJR-E-1.1-SPEC.md), [AJR-M-1.0](./AJR-M-1.0-SPEC.md) | Lifecycle rating models |
+| [AJR](./AJR-SPEC.md), [AJR-E-1.1](./AJR-E-1.1-SPEC.md), [AJR-M-1.1](./AJR-M-1.0-SPEC.md) | Lifecycle rating models |
 | [PJR](./PJR-SPEC.md) | PCI / PCI-5 and PJR releases |
 | [PCS-1.0](./PCS-1.0-SPEC.md) | PCS |
 | [PSC-CROSSWALK](./PSC-CROSSWALK.md) | Subject classification |
@@ -60,13 +60,20 @@ Every change to a formula, threshold or status is a version bump recorded in
 ## Data flow
 
 ```
-posi-engine (monthly cycle) ──release──▶ import-global-index (every 20 min) ──▶ rankings/ in this repo
+posi-engine global-index (yearly, December) ──release──▶ import-global-index (every 20 min) ──▶ rankings/ in this repo
+posi-engine ajr-rerate (monthly, 7th) ──pull request──▶ corpus/, evidence/ in this repo
 this repo ──publish-data-snapshot.mjs──▶ posi-data-delivery ──▶ data.posi.panorama-sg.com ──▶ website
 ```
 
 - `.github/workflows/import-global-index.yml` imports the newest complete
   engine release: the Citation Ranking edition into `rankings/citation/`, the
   PCS edition into `rankings/pcs-q/`, summaries into `audits/global-index/`.
+  The ranking is built once a year; posi-engine's monthly journal-directory
+  releases feed the website's journal directory, not this repository.
+- posi-engine's monthly AJR rerate refreshes the Core Collection's evidence
+  (`evidence/`) and ratings (`early_stage_rating`, `mature_rating` in
+  `corpus/core-collection.json`) and opens a pull request here, branch
+  `ajr-rerate/<YYYY-MM>`; nothing changes until it is reviewed and merged.
 - posi-data-delivery builds an immutable snapshot whenever the published
   collections change.
 - `.github/workflows/validate.yml` validates records against `schema/` on

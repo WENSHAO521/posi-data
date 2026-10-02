@@ -10,6 +10,35 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-10-02 — Monthly AJR rerate; AJR-M-1.1
+
+**AJR-M-1.1.** The formulas, weights and thresholds of AJR-M-1.0 are
+unchanged; the input rules of AJR-M-1.0-SPEC.md § 11 (20-peer minimum for
+citation percentiles, 80% structural-metadata share, how evidence items
+combine into one AJR-M item) change scores, so they carry a new version.
+No AJR-M score had been published under 1.0. Nothing else changed version.
+
+### Added
+
+- [AJR-M-1.0-SPEC.md](./AJR-M-1.0-SPEC.md) § 11: where AJR-M's inputs come
+  from — citation percentiles from the Citation Ranking edition and the PCI
+  audit (no percentile below 20 peers), yearly output from `evidence/output/`,
+  the mapping of AJR-E-1.1 evidence items onto AJR-M's items and how several
+  of them combine into one, the article-sample rules, and the mandatory
+  evidence. The changelog moves to § 12.
+- `evidence/output/`: yearly output per Mature journal (OpenAlex), for
+  AJR-M Dimension 2.
+- `mature_rating` on corpus records (`schema/rating.schema.json`,
+  `track: mature`), written by posi-engine's AJR-M runner.
+
+### Changed
+
+- Evidence files (`evidence/journals/`, `evidence/works/`) are replaced by
+  each refresh when the fresh run reached its source, earlier snapshots
+  kept in git history; previously every re-run was described as a new
+  snapshot. posi-engine's monthly AJR rerate proposes refreshed evidence and
+  ratings as a pull request (branch `ajr-rerate/<YYYY-MM>`).
+
 ## 2026-09-28 — POSI Journal Evaluation Architecture 1.0
 
 ### Added

@@ -251,12 +251,10 @@ function main() {
   // separately — a reader can recompute every one of these from the
   // collections/ files above.
   const earlyStageRated = coreCollection.filter(j => ['official', 'provisional'].includes(j.early_stage_rating?.rating_status) && j.early_stage_rating?.total != null).length
-  // Always 0: AJR-M is implemented (posi-engine's ajr-mature.mjs) but has
-  // not been run against real data for any journal yet — see AJR-M-1.0-
-  // SPEC.md and the website's frozen "AJR-M Score: Not Yet Available"
-  // copy. Computed explicitly (not hardcoded) so this becomes non-zero
-  // automatically, without code changes, once real AJR-M data exists.
-  const matureRated = coreCollection.filter(j => j.early_stage_rating?.lifecycle_stage === 'mature' && j.early_stage_rating?.version?.startsWith('AJR-M') && j.early_stage_rating?.total != null).length
+  // AJR-M ratings live in mature_rating (schema/rating.schema.json, written
+  // by posi-engine's monthly rerate); a scored one is official or
+  // provisional with a total_score.
+  const matureRated = coreCollection.filter(j => ['official', 'provisional'].includes(j.mature_rating?.rating_status) && j.mature_rating?.total_score != null).length
 
   const type = isRelease ? 'official_release' : latestRelease ? 'post_release_data_snapshot' : 'pre_release_data_snapshot'
   const note = isRelease
