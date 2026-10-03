@@ -10,6 +10,26 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-10-03 — Publisher evidence registry: six inheritable now, seven pending
+
+Review of the 2026-10-02 change below.
+
+### Changed
+
+- AJR-SPEC.md § 8: inheriting the newly added items changes AJR scores and
+  Evidence Coverage, so it must not happen under AJR-E-1.1, AJR-M-1.1 and
+  EC-1.0. The six original items stay inheritable now; seven publisher-wide
+  policies (similarity checking, human/animal research ethics, complaints
+  and appeals, fee policy, copyright and licensing, ownership and contact,
+  advertising and sponsorship) can be registered and verified now but are
+  inherited only from the next methodology version.
+- No longer inheritable: access model (it differs between journals of one
+  publisher) and other applicable terms (not applicable to any journal).
+  Their 20 draft entries are removed (130 remain).
+- Aliases: `Frontiers Media SA` (183 Global Benchmark journals),
+  `Springer Nature (Netherlands)` and `Informa` added.
+- No published score changes: no registry entry is verified yet.
+
 ## 2026-10-02 — Publisher evidence registry: fifteen inheritable items, drafts
 
 ### Changed

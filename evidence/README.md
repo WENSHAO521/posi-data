@@ -105,14 +105,17 @@ years before its rating date (AJR-M-1.0-SPEC.md § 11).
 `publishers/*.json` entries let a verified, publisher-wide policy fill an
 `unknown`/`blocked` gap for every journal under that publisher, instead of
 being re-crawled per journal. Only the inheritable items of AJR-SPEC.md § 8
-qualify (fifteen since 2026-10); aims and scope, editorial board, editor
+qualify: six now, and seven more (similarity checking, human/animal
+ethics, complaints, fees, copyright, ownership, advertising) inherited only
+from the next methodology version. Aims and scope, editorial board, editor
 identity, peer-review process, reviewer and author guidelines, publication
-frequency and a journal-specific APC amount never do.
+frequency, a journal's access model and a journal-specific APC amount
+never do.
 
 **Drafts.** One file per publisher (Elsevier, Wiley, Springer Nature,
 Oxford University Press, MDPI, SAGE, Wolters Kluwer, ACS, Taylor & Francis,
 Frontiers: about three quarters of the Global Benchmark journals AJR can
-rate), one entry per inheritable item. They are drafts: `evidence_url` is a
+rate), one entry per inheritable item (13 per publisher). They are drafts: `evidence_url` is a
 candidate page nobody has opened yet, or `null` where none is known, and
 `verified_by`/`verified_at` are empty, so the ETL ignores every entry. To
 make one count, open the page, confirm it states the policy and that it
