@@ -1,6 +1,6 @@
 # AJR-M 1.0 — POSI Automated Journal Rating, Mature Model
 
-> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged in `AJR-M-1.1`.
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged in `AJR-M-1.1` and `AJR-M-1.2`.
 
 > **Current version: AJR-M-1.2** (from the 2026-11 monthly rerate; § 12):
 > the formulas below over Evidence Coverage EC-1.1 (AJR-SPEC.md § 8).
