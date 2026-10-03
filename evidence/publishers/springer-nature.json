@@ -176,10 +176,10 @@
     ],
     "policy_type": "publisher_ownership_contact",
     "scope": "all_journals",
-    "evidence_url": "https://group.springernature.com/gp/group/aboutus",
+    "evidence_url": null,
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
+    "draft_note": "DRAFT, no candidate: the earlier candidate (https://group.springernature.com/gp/group/aboutus) answered 404 on 2026-10-02. Find the current page, put it in evidence_url, confirm it states this policy for all of this publisher's journals, then fill verified_by and verified_at."
   },
   {
     "publisher": "Springer Nature",
@@ -204,9 +204,9 @@
     ],
     "policy_type": "other_applicable_terms",
     "scope": "all_journals",
-    "evidence_url": "https://www.springernature.com/gp/legal/general-terms-of-use",
+    "evidence_url": null,
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
+    "draft_note": "DRAFT, no candidate: the earlier candidate (https://www.springernature.com/gp/legal/general-terms-of-use) answered 404 on 2026-10-02. Find the current page, put it in evidence_url, confirm it states this policy for all of this publisher's journals, then fill verified_by and verified_at."
   }
 ]

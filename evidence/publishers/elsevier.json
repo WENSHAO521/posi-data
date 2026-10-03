@@ -124,10 +124,10 @@
     ],
     "policy_type": "fee_disclosure",
     "scope": "all_journals",
-    "evidence_url": "https://www.elsevier.com/open-access/pricing",
+    "evidence_url": null,
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
+    "draft_note": "DRAFT, no candidate: the earlier candidate (https://www.elsevier.com/open-access/pricing) answered 404 on 2026-10-02. Find the current page, put it in evidence_url, confirm it states this policy for all of this publisher's journals, then fill verified_by and verified_at."
   },
   {
     "publisher": "Elsevier",
