@@ -26,8 +26,10 @@ Review of the 2026-10-02 change below.
 - No longer inheritable: access model (it differs between journals of one
   publisher) and other applicable terms (not applicable to any journal).
   Their 20 draft entries are removed (130 remain).
-- Aliases: `Frontiers Media SA` (183 Global Benchmark journals),
-  `Springer Nature (Netherlands)` and `Informa` added.
+- Aliases: `Frontiers Media SA` (183 Global Benchmark journals) and
+  `Springer Nature (Netherlands)` added. POSI-J-000600 (Acta Obstetricia et
+  Gynecologica Scandinavica) recorded its former publisher, Informa; it is
+  published by Wiley, which the record now says.
 - No published score changes: no registry entry is verified yet.
 
 ## 2026-10-02 — Publisher evidence registry: fifteen inheritable items, drafts
