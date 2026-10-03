@@ -10,6 +10,34 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-10-03 — AJR-E-1.2, AJR-M-1.2, Evidence Coverage EC-1.1
+
+**New versions.** The AJR-E and AJR-M formulas, weights and thresholds are
+unchanged. What changes is the evidence (Evidence Coverage EC-1.1,
+AJR-SPEC.md § 8), which moves scores, hence AJR-E-1.2, AJR-M-1.2 and
+EC-1.1. First applied by the 2026-11 monthly rerate (7 November); ratings
+published before keep their 1.1 stamps.
+
+### Changed
+
+- AJR-SPEC.md § 8: the seven publisher-wide policies registered in the
+  previous entry (similarity checking, human/animal research ethics,
+  complaints and appeals, fee policy, copyright and licensing, ownership
+  and contact, advertising and sponsorship) are inheritable from a
+  verified registry entry: thirteen inheritable items in all.
+- AJR-SPEC.md § 8: new evidence source, the journal's own Crossref
+  deposits. After the site and the registry, an item still unknown or
+  blocked is met when at least 50% of at least 20 of the journal's newest
+  articles of the last three years carry the signal: license
+  (copyright and licensing), Crossmark (corrections and retractions),
+  received and accepted dates or published reviews (peer-review process),
+  COI statement, data-availability statement. Never the access model;
+  never over a site's met or not met.
+- AJR-E-1.1-SPEC.md § 13 and AJR-M-1.0-SPEC.md § 12 record the new versions.
+
+Ratings are published for Core Collection journals only (site
+announcement of 2026-10-03), so these versions apply to them.
+
 ## 2026-10-03 — Publisher evidence registry: six inheritable now, seven pending
 
 Review of the 2026-10-02 change below.

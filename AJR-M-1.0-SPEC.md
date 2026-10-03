@@ -281,3 +281,9 @@ the gate; a raw flag is never one.
 posi-engine's runner. The formulas, weights and thresholds of §§ 2–8 are
 unchanged; the input rules of § 11 change scores, hence the new version.
 No AJR-M score had been published under 1.0.
+
+**1.2, 2026-10-03** (first applied by the 2026-11 monthly rerate) — the
+site-crawl evidence items of § 11 are Evidence Coverage EC-1.1: items the
+journal's website leaves unresolved may be resolved from a verified
+publisher-wide policy (thirteen inheritable items) and from the journal's
+own Crossref deposits (AJR-SPEC.md § 8). Formulas unchanged.

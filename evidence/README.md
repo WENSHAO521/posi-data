@@ -105,9 +105,9 @@ years before its rating date (AJR-M-1.0-SPEC.md § 11).
 `publishers/*.json` entries let a verified, publisher-wide policy fill an
 `unknown`/`blocked` gap for every journal under that publisher, instead of
 being re-crawled per journal. Only the inheritable items of AJR-SPEC.md § 8
-qualify: six now, and seven more (similarity checking, human/animal
-ethics, complaints, fees, copyright, ownership, advertising) inherited only
-from the next methodology version. Aims and scope, editorial board, editor
+qualify: thirteen from EC-1.1 (AJR-E-1.2 / AJR-M-1.2), the six integrity
+policies and seven publisher-wide ones (similarity checking, human/animal
+ethics, complaints, fees, copyright, ownership, advertising). Aims and scope, editorial board, editor
 identity, peer-review process, reviewer and author guidelines, publication
 frequency, a journal's access model and a journal-specific APC amount
 never do.

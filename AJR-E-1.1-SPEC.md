@@ -255,6 +255,13 @@ a suggested category but are never used to rank. See
 
 ## 13. Changelog
 
+**1.2** (2026-10-03; first applied by the 2026-11 monthly rerate) — the 1.1
+formulas, weights and thresholds unchanged, computed over Evidence
+Coverage EC-1.1: the evidence items a journal's own website leaves
+unresolved may be resolved from a verified publisher-wide policy (thirteen
+inheritable items) and from the journal's own Crossref deposits
+(AJR-SPEC.md § 8). Scores move with the evidence, so the version changes.
+
 **1.1** (this document) — see § 1 for the four bug fixes and § 7 for the
 sample-size increase. Supersedes the AJR-E portion of AJR-SPEC.md § 2 /
 EARLY-STAGE-RATING-SPEC.md § 4 for any score computed from this point
