@@ -13,7 +13,8 @@
 > `posi-engine/src/lifecycle.mjs`, using exact date-boundary arithmetic
 > rather than calendar-month counting (fixes a real boundary bug — see
 > [CHANGELOG.md](./CHANGELOG.md)). Evidence Coverage (§ 6) is implemented
-> as `EC-1.0`. This document's own body is left as the original design
+> as `EC-1.1` (from AJR-E-1.2 / AJR-M-1.2; `EC-1.0` before), with the
+> evidence sources of § 8. This document's own body is left as the original design
 > record — see the two new specs and CHANGELOG.md for what's actually
 > built and versioned.
 >
@@ -297,37 +298,60 @@ through bot-blocking anyway).
 }
 ```
 
-**Inheritable now** (publisher-wide policies genuinely can apply
-uniformly; in force under AJR-E-1.1, AJR-M-1.1 and EC-1.0): research
-integrity, corrections/retractions, authorship, COI, AI-use policy, data
-policy (`INHERITABLE_CRITERION_IDS` in posi-engine's
-`src/evidence-publisher-registry.mjs`).
-
-**Inheritable from the next methodology version** (registered and
-verified now, inherited only once that version is released, because
-inheriting them changes scores and Evidence Coverage): similarity
-checking, human/animal research ethics, complaints and appeals, and four
-publisher-level transparency items: fee policy (the publisher's stated
-charges, not a journal's own amount), copyright and licensing, ownership
-and contact, advertising and sponsorship
-(`PENDING_INHERITABLE_CRITERION_IDS`).
+**Inheritable** (publisher-wide policies genuinely can apply uniformly;
+`INHERITABLE_CRITERION_IDS` in posi-engine's
+`src/evidence-publisher-registry.mjs`): research integrity,
+corrections/retractions, authorship, COI, AI-use policy, data policy (since
+EC-1.0); and from EC-1.1 (AJR-E-1.2 / AJR-M-1.2) similarity checking,
+human/animal research ethics, complaints and appeals, and three
+publisher-level transparency items: copyright and licensing, ownership and
+contact, advertising and sponsorship. Twelve items in all.
 
 **Never inheritable** (inherently journal-specific, no publisher-wide
 policy can substitute): aims and scope, editorial board, editor identity,
 peer-review process, reviewer and editorial guidelines, author guidelines,
 publication frequency, a journal's access model (subscription, hybrid or
-open access differ between journals of one publisher) and a
-journal-specific APC amount. These must always come from journal-level
+open access differ between journals of one publisher) and fee disclosure
+(what a journal charges differs between a publisher's journals, and a
+publisher-wide fee page does not state one journal's charge). These must always come from journal-level
 evidence. Other applicable terms are not applicable to any journal
 (Evidence ETL v1 audit), so they are not inherited either.
 
-**Why the list grows.** The 2026-10 evidence trial on 50 Global Benchmark
+**Why the list grew.** The 2026-10 evidence trial on 50 Global Benchmark
 journals reached the site of only 13; ScienceDirect, Wiley, Taylor &
-Francis, SAGE, OUP, ACS and MDPI refused every request. With the six items
-inheritable now, a journal whose site refuses every request still reaches
+Francis, SAGE, OUP, ACS and MDPI refused every request. With the six
+EC-1.0 items, a journal whose site refuses every request still reaches
 only about 43% Evidence Coverage, below the 60% needed for any rating. The
-seven items added for the next version are ones a large publisher sets
-once for all its journals.
+six items added in EC-1.1 are ones a large publisher sets once for all
+its journals.
+
+**The journal's own Crossref deposits (from EC-1.1).** After the site and
+the registry, an item still unknown or blocked is resolved as met from
+the journal's own articles: of its newest Crossref journal articles
+published in the three years before the rating date (at most 100), at
+least 20 must be found and at least 50% must carry the signal:
+
+| Evidence item | Crossref signal |
+|---|---|
+| copyright_licensing | a licence for the version of record or the accepted manuscript (`content-version` vor / am); a text-and-data-mining licence alone does not count |
+| corrections_retractions_policy | a Crossmark update policy (the journal's corrections and retractions policy page) |
+
+Only these two state the journal's own terms. Received and accepted
+dates, published reviews, and authors' conflict-of-interest or
+data-availability statements describe articles, not the journal's peer-
+review process or policies, so they resolve nothing (posi-engine reports
+them for information); nor does anything here resolve the access model.
+Crossref never overrides a met or not met the journal's site gave. When a
+run's Crossref request fails, items resolved from Crossref in an earlier
+run are kept only while the sample they came from ended inside the current
+run's three-year window (never after its rating date); older evidence
+lapses and the item is unresolved again. Each such item is tagged `source:
+crossref` with the share of articles and the query (posi-engine
+`src/crossref-policy-signals.mjs`, `scripts/run-evidence-etl.mjs`). In the
+2026-10 trial, Crossref returned articles for 48 of 50 journals; for the 31
+whose sites refused every request it raised site evidence coverage from 0%
+to between 8% and 31% under a broader trial mapping; the two signals
+adopted (licence, Crossmark) carried most of that.
 
 **An entry takes effect only once verified.** Each entry names the page
 (`evidence_url`) and who checked that it states the policy and its

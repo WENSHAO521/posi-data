@@ -54,8 +54,9 @@ journal.
 **One file per journal, replaced by each refresh; earlier snapshots are its
 git history.** posi-engine's monthly AJR rerate re-runs the ETLs and
 replaces a journal's file only when the fresh run reached its source (at
-least one page fetched `ok`; for `works/` a Crossref 200; for `output/` the
-OpenAlex record read): a crawl the site blocked keeps the stored snapshot
+least one page fetched `ok`, or, from EC-1.1, the journal's Crossref
+deposits read for the policy signals of AJR-SPEC.md § 8; for `works/` a
+Crossref 200; for `output/` the OpenAlex record read): a crawl the site blocked keeps the stored snapshot
 instead of overwriting it with an empty one, and a run that reached no
 source at all applies nothing (`scripts/apply-evidence-refresh.mjs`). The
 change arrives as a pull request. `snapshot_date` tells snapshots apart;
@@ -105,17 +106,17 @@ years before its rating date (AJR-M-1.0-SPEC.md § 11).
 `publishers/*.json` entries let a verified, publisher-wide policy fill an
 `unknown`/`blocked` gap for every journal under that publisher, instead of
 being re-crawled per journal. Only the inheritable items of AJR-SPEC.md § 8
-qualify: six now, and seven more (similarity checking, human/animal
-ethics, complaints, fees, copyright, ownership, advertising) inherited only
-from the next methodology version. Aims and scope, editorial board, editor
+qualify: twelve from EC-1.1 (AJR-E-1.2 / AJR-M-1.2), the six integrity
+policies and six publisher-wide ones (similarity checking, human/animal
+ethics, complaints, copyright, ownership, advertising). Aims and scope, editorial board, editor
 identity, peer-review process, reviewer and author guidelines, publication
-frequency, a journal's access model and a journal-specific APC amount
+frequency, a journal's access model and fee disclosure
 never do.
 
 **Drafts.** One file per publisher (Elsevier, Wiley, Springer Nature,
 Oxford University Press, MDPI, SAGE, Wolters Kluwer, ACS, Taylor & Francis,
 Frontiers: about three quarters of the Global Benchmark journals AJR can
-rate), one entry per inheritable item (13 per publisher). They are drafts: `evidence_url` is a
+rate), one entry per inheritable item (12 per publisher). They are drafts: `evidence_url` is a
 candidate page nobody has opened yet, or `null` where none is known, and
 `verified_by`/`verified_at` are empty, so the ETL ignores every entry. To
 make one count, open the page, confirm it states the policy and that it

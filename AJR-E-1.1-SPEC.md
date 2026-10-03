@@ -1,9 +1,13 @@
 # AJR-E 1.1 — POSI Automated Journal Rating, Early-Stage Model
 
-> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 11 (E-Q ranking) is retired. An AJR-E score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The scoring rubric below is unchanged (still `AJR-E-1.1`).
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 11 (E-Q ranking) is retired. An AJR-E score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The scoring rubric below is unchanged (the `AJR-E-1.1` rubric, also used by `AJR-E-1.2`).
 
+> **Current version: AJR-E-1.2** (from the 2026-11 monthly rerate; § 13):
+> this rubric unchanged, computed over Evidence Coverage EC-1.1
+> (AJR-SPEC.md § 8). Scores computed before keep `AJR-E-1.1`.
+>
 > **Status: implemented in posi-engine** (`src/ajr-early-stage.mjs`,
-> `AJR_E_METHODOLOGY_VERSION = 'AJR-E-1.1'`), covered by unit tests
+> `AJR_E_METHODOLOGY_VERSION = 'AJR-E-1.2'`), covered by unit tests
 > (`test/ajr-early-stage.test.mjs`). Part of the **"POSI Journal Evaluation
 > & Ranking Framework 1.0"** methodology overhaul.
 >
@@ -13,7 +17,9 @@
 > 100-point model) **stays published as-is** — every score already computed
 > under it keeps `methodology_version: "AJR-E-1.0"` and is never
 > retroactively reinterpreted. Every score computed by this spec stamps
-> `methodology_version: "AJR-E-1.1"`. The two are never conflated in
+> `methodology_version: "AJR-E-1.1"` when computed over EC-1.0 evidence
+> (until the 2026-10 rerate), and `"AJR-E-1.2"` when computed over EC-1.1
+> evidence (from the 2026-11 rerate; § 13). The two are never conflated in
 > display or in ranking cohorts (an E-Q cohort mixing 1.0 and 1.1 scores
 > would be comparing journals on two different rubrics).
 
@@ -254,6 +260,13 @@ a suggested category but are never used to rank. See
 4-state confidence model this gate depends on.
 
 ## 13. Changelog
+
+**1.2** (2026-10-03; first applied by the 2026-11 monthly rerate) — the 1.1
+formulas, weights and thresholds unchanged, computed over Evidence
+Coverage EC-1.1: the evidence items a journal's own website leaves
+unresolved may be resolved from a verified publisher-wide policy (twelve
+inheritable items) and from the journal's own Crossref deposits
+(AJR-SPEC.md § 8). Scores move with the evidence, so the version changes.
 
 **1.1** (this document) — see § 1 for the four bug fixes and § 7 for the
 sample-size increase. Supersedes the AJR-E portion of AJR-SPEC.md § 2 /

@@ -67,7 +67,7 @@
     "evidence_url": "https://us.sagepub.com/en-us/nam/ethics-responsibility",
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at. Once verified, inherited only from the next methodology version (AJR-SPEC.md § 8)."
+    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
   },
   {
     "publisher": "SAGE Publishing",
@@ -77,7 +77,7 @@
     "evidence_url": "https://us.sagepub.com/en-us/nam/ethics-responsibility",
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at. Once verified, inherited only from the next methodology version (AJR-SPEC.md § 8)."
+    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
   },
   {
     "publisher": "SAGE Publishing",
@@ -87,17 +87,7 @@
     "evidence_url": "https://us.sagepub.com/en-us/nam/ethics-responsibility",
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at. Once verified, inherited only from the next methodology version (AJR-SPEC.md § 8)."
-  },
-  {
-    "publisher": "SAGE Publishing",
-    "publisher_aliases": [],
-    "policy_type": "fee_disclosure",
-    "scope": "all_journals",
-    "evidence_url": "https://us.sagepub.com/en-us/nam/sage-choice",
-    "verified_by": "",
-    "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at. Once verified, inherited only from the next methodology version (AJR-SPEC.md § 8)."
+    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
   },
   {
     "publisher": "SAGE Publishing",
@@ -107,7 +97,7 @@
     "evidence_url": "https://us.sagepub.com/en-us/nam/journal-author-archiving-policies-and-re-use",
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at. Once verified, inherited only from the next methodology version (AJR-SPEC.md § 8)."
+    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
   },
   {
     "publisher": "SAGE Publishing",
@@ -117,7 +107,7 @@
     "evidence_url": null,
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT: no candidate page yet; find the publisher-wide page for this policy, or leave this entry out. Once verified, inherited only from the next methodology version (AJR-SPEC.md § 8)."
+    "draft_note": "DRAFT: no candidate page yet; find the publisher-wide page for this policy, or leave this entry out."
   },
   {
     "publisher": "SAGE Publishing",
@@ -127,6 +117,6 @@
     "evidence_url": null,
     "verified_by": "",
     "verified_at": "",
-    "draft_note": "DRAFT: no candidate page yet; find the publisher-wide page for this policy, or leave this entry out. Once verified, inherited only from the next methodology version (AJR-SPEC.md § 8)."
+    "draft_note": "DRAFT: no candidate page yet; find the publisher-wide page for this policy, or leave this entry out."
   }
 ]

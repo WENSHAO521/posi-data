@@ -1,9 +1,12 @@
 # AJR-M 1.0 — POSI Automated Journal Rating, Mature Model
 
-> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged in `AJR-M-1.1`.
+> **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 9 (M-Q ranking) and § 10 are retired. An AJR-M score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The internal percentile normalization of citation sub-metrics (§ 2) is part of scoring and unchanged in `AJR-M-1.1` and `AJR-M-1.2`.
 
+> **Current version: AJR-M-1.2** (from the 2026-11 monthly rerate; § 12):
+> the formulas below over Evidence Coverage EC-1.1 (AJR-SPEC.md § 8).
+>
 > **Status: implemented in posi-engine** (`src/ajr-mature.mjs`,
-> `AJR_M_METHODOLOGY_VERSION = 'AJR-M-1.1'`), covered by unit tests
+> `AJR_M_METHODOLOGY_VERSION = 'AJR-M-1.2'`), covered by unit tests
 > (`test/ajr-mature.test.mjs`). Part of the **"POSI Journal Evaluation &
 > Ranking Framework 1.0"** methodology overhaul.
 >
@@ -11,8 +14,9 @@
 > (`.github/workflows/ajr-rerate.yml`, `scripts/rate-mature.mjs`,
 > `src/ajr-m-rerate.mjs`) on the Core Collection, which has no Mature journal
 > before December 2029. § 11 records where each input comes from; those
-> input rules change scores, so ratings computed with them are `AJR-M-1.1`
-> (the formulas of §§ 2–8 are unchanged from 1.0). Results
+> input rules change scores, so ratings computed with them are `AJR-M-1.1`,
+> and with EC-1.1 evidence `AJR-M-1.2` (the formulas of §§ 2–8 are
+> unchanged from 1.0). Results
 > are stored as `mature_rating` on corpus records, in
 > `schema/rating.schema.json`'s shape (`track: mature`).
 >
@@ -281,3 +285,9 @@ the gate; a raw flag is never one.
 posi-engine's runner. The formulas, weights and thresholds of §§ 2–8 are
 unchanged; the input rules of § 11 change scores, hence the new version.
 No AJR-M score had been published under 1.0.
+
+**1.2, 2026-10-03** (first applied by the 2026-11 monthly rerate) — the
+site-crawl evidence items of § 11 are Evidence Coverage EC-1.1: items the
+journal's website leaves unresolved may be resolved from a verified
+publisher-wide policy (twelve inheritable items) and from the journal's
+own Crossref deposits (AJR-SPEC.md § 8). Formulas unchanged.
