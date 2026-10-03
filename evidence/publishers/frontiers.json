@@ -112,18 +112,6 @@
     "publisher_aliases": [
       "Frontiers Media SA"
     ],
-    "policy_type": "fee_disclosure",
-    "scope": "all_journals",
-    "evidence_url": "https://www.frontiersin.org/about/publishing-fees",
-    "verified_by": "",
-    "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
-  },
-  {
-    "publisher": "Frontiers Media",
-    "publisher_aliases": [
-      "Frontiers Media SA"
-    ],
     "policy_type": "copyright_licensing",
     "scope": "all_journals",
     "evidence_url": "https://www.frontiersin.org/guidelines/policies-and-publication-ethics",

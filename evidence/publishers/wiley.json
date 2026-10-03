@@ -92,16 +92,6 @@
   {
     "publisher": "Wiley",
     "publisher_aliases": [],
-    "policy_type": "fee_disclosure",
-    "scope": "all_journals",
-    "evidence_url": "https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html",
-    "verified_by": "",
-    "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
-  },
-  {
-    "publisher": "Wiley",
-    "publisher_aliases": [],
     "policy_type": "copyright_licensing",
     "scope": "all_journals",
     "evidence_url": "https://authorservices.wiley.com/author-resources/Journal-Authors/licensing/index.html",

@@ -20,19 +20,20 @@ published before keep their 1.1 stamps.
 
 ### Changed
 
-- AJR-SPEC.md § 8: the seven publisher-wide policies registered in the
+- AJR-SPEC.md § 8: six of the publisher-wide policies registered in the
   previous entry (similarity checking, human/animal research ethics,
-  complaints and appeals, fee policy, copyright and licensing, ownership
-  and contact, advertising and sponsorship) are inheritable from a
-  verified registry entry: thirteen inheritable items in all.
+  complaints and appeals, copyright and licensing, ownership and contact,
+  advertising and sponsorship) are inheritable from a verified registry
+  entry: twelve inheritable items in all. Fee disclosure is not
+  inheritable (a journal's charges are its own); its ten drafts are removed.
 - AJR-SPEC.md § 8: new evidence source, the journal's own Crossref
   deposits. After the site and the registry, an item still unknown or
   blocked is met when at least 50% of at least 20 of the journal's newest
-  articles of the last three years carry the signal: license
-  (copyright and licensing), Crossmark (corrections and retractions),
-  received and accepted dates or published reviews (peer-review process),
-  COI statement, data-availability statement. Never the access model;
-  never over a site's met or not met.
+  articles of the last three years carry the signal: a licence for the
+  version of record or accepted manuscript (copyright and licensing), a
+  Crossmark update policy (corrections and retractions). Article-level
+  statements (review dates, COI, data) do not count; never the access
+  model; never over a site's met or not met.
 - AJR-E-1.1-SPEC.md § 13 and AJR-M-1.0-SPEC.md § 12 record the new versions.
 
 Ratings are published for Core Collection journals only (site

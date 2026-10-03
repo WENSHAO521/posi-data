@@ -142,21 +142,6 @@
       "BioMed Central",
       "Springer Nature (Netherlands)"
     ],
-    "policy_type": "fee_disclosure",
-    "scope": "all_journals",
-    "evidence_url": null,
-    "verified_by": "",
-    "verified_at": "",
-    "draft_note": "DRAFT: no candidate page yet; find the publisher-wide page for this policy, or leave this entry out."
-  },
-  {
-    "publisher": "Springer Nature",
-    "publisher_aliases": [
-      "Springer Science+Business Media",
-      "Nature Portfolio",
-      "BioMed Central",
-      "Springer Nature (Netherlands)"
-    ],
     "policy_type": "copyright_licensing",
     "scope": "all_journals",
     "evidence_url": null,

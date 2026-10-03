@@ -92,16 +92,6 @@
   {
     "publisher": "Oxford University Press",
     "publisher_aliases": [],
-    "policy_type": "fee_disclosure",
-    "scope": "all_journals",
-    "evidence_url": null,
-    "verified_by": "",
-    "verified_at": "",
-    "draft_note": "DRAFT: no candidate page yet; find the publisher-wide page for this policy, or leave this entry out."
-  },
-  {
-    "publisher": "Oxford University Press",
-    "publisher_aliases": [],
     "policy_type": "copyright_licensing",
     "scope": "all_journals",
     "evidence_url": null,

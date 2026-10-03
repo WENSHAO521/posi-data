@@ -112,18 +112,6 @@
     "publisher_aliases": [
       "Multidisciplinary Digital Publishing Institute"
     ],
-    "policy_type": "fee_disclosure",
-    "scope": "all_journals",
-    "evidence_url": "https://www.mdpi.com/apc",
-    "verified_by": "",
-    "verified_at": "",
-    "draft_note": "DRAFT, unverified candidate: confirm the page states this policy and that it covers all of this publisher's journals, then fill verified_by and verified_at."
-  },
-  {
-    "publisher": "MDPI",
-    "publisher_aliases": [
-      "Multidisciplinary Digital Publishing Institute"
-    ],
     "policy_type": "copyright_licensing",
     "scope": "all_journals",
     "evidence_url": "https://www.mdpi.com/authors/rights",
