@@ -297,29 +297,37 @@ through bot-blocking anyway).
 }
 ```
 
-**Inheritable** (publisher-wide policies genuinely can apply uniformly):
-research integrity, corrections/retractions, authorship, COI, AI-use
-policy, data policy; and, since 2026-10, similarity checking,
-human/animal research ethics, complaints and appeals, and the
-publisher-level transparency items: fee policy (the publisher's stated
-charges, not a journal's own amount), copyright and licensing, access
-model, ownership and contact, advertising and sponsorship, other terms
-(`INHERITABLE_CRITERION_IDS` in posi-engine's
+**Inheritable now** (publisher-wide policies genuinely can apply
+uniformly; in force under AJR-E-1.1, AJR-M-1.1 and EC-1.0): research
+integrity, corrections/retractions, authorship, COI, AI-use policy, data
+policy (`INHERITABLE_CRITERION_IDS` in posi-engine's
 `src/evidence-publisher-registry.mjs`).
+
+**Inheritable from the next methodology version** (registered and
+verified now, inherited only once that version is released, because
+inheriting them changes scores and Evidence Coverage): similarity
+checking, human/animal research ethics, complaints and appeals, and four
+publisher-level transparency items: fee policy (the publisher's stated
+charges, not a journal's own amount), copyright and licensing, ownership
+and contact, advertising and sponsorship
+(`PENDING_INHERITABLE_CRITERION_IDS`).
 
 **Never inheritable** (inherently journal-specific, no publisher-wide
 policy can substitute): aims and scope, editorial board, editor identity,
 peer-review process, reviewer and editorial guidelines, author guidelines,
-publication frequency, a journal-specific APC amount. These must always
-come from journal-level evidence.
+publication frequency, a journal's access model (subscription, hybrid or
+open access differ between journals of one publisher) and a
+journal-specific APC amount. These must always come from journal-level
+evidence. Other applicable terms are not applicable to any journal
+(Evidence ETL v1 audit), so they are not inherited either.
 
-**Why the list grew.** The 2026-10 evidence trial on 50 Global Benchmark
+**Why the list grows.** The 2026-10 evidence trial on 50 Global Benchmark
 journals reached the site of only 13; ScienceDirect, Wiley, Taylor &
-Francis, SAGE, OUP, ACS and MDPI refused every request. With the first six
-items inherited, a journal whose site refuses every request still reaches
-only about 43% Evidence Coverage, below the 60% needed for any rating;
-with these fifteen, about 75% (provisional). The items added are ones a
-large publisher sets once for all its journals.
+Francis, SAGE, OUP, ACS and MDPI refused every request. With the six items
+inheritable now, a journal whose site refuses every request still reaches
+only about 43% Evidence Coverage, below the 60% needed for any rating. The
+seven items added for the next version are ones a large publisher sets
+once for all its journals.
 
 **An entry takes effect only once verified.** Each entry names the page
 (`evidence_url`) and who checked that it states the policy and its
