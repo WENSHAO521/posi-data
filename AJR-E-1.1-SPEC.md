@@ -2,7 +2,7 @@
 
 > **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 11 (E-Q ranking) is retired. An AJR-E score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The scoring rubric below is unchanged (the `AJR-E-1.1` rubric, also used by `AJR-E-1.2`).
 
-> **Current version: AJR-E-1.2** (from the 2026-11 monthly rerate; § 13):
+> **Current version: AJR-E-1.2** (from the 2026-10 monthly rerate, 7 October; § 13):
 > this rubric unchanged, computed over Evidence Coverage EC-1.1
 > (AJR-SPEC.md § 8). Scores computed before keep `AJR-E-1.1`.
 >
@@ -18,8 +18,8 @@
 > under it keeps `methodology_version: "AJR-E-1.0"` and is never
 > retroactively reinterpreted. Every score computed by this spec stamps
 > `methodology_version: "AJR-E-1.1"` when computed over EC-1.0 evidence
-> (until the 2026-10 rerate), and `"AJR-E-1.2"` when computed over EC-1.1
-> evidence (from the 2026-11 rerate; § 13). The two are never conflated in
+> (until the 2026-09 rerate), and `"AJR-E-1.2"` when computed over EC-1.1
+> evidence (from the 2026-10 rerate; § 13). The two are never conflated in
 > display or in ranking cohorts (an E-Q cohort mixing 1.0 and 1.1 scores
 > would be comparing journals on two different rubrics).
 
@@ -261,7 +261,7 @@ a suggested category but are never used to rank. See
 
 ## 13. Changelog
 
-**1.2** (2026-10-03; first applied by the 2026-11 monthly rerate) — the 1.1
+**1.2** (2026-10-03; first applied by the 2026-10 monthly rerate, 7 October) — the 1.1
 formulas, weights and thresholds unchanged, computed over Evidence
 Coverage EC-1.1: the evidence items a journal's own website leaves
 unresolved may be resolved from a verified publisher-wide policy (twelve

@@ -15,7 +15,7 @@ despite PJR-SPEC.md referencing one since v1.0.
 **New versions.** The AJR-E and AJR-M formulas, weights and thresholds are
 unchanged. What changes is the evidence (Evidence Coverage EC-1.1,
 AJR-SPEC.md § 8), which moves scores, hence AJR-E-1.2, AJR-M-1.2 and
-EC-1.1. First applied by the 2026-11 monthly rerate (7 November); ratings
+EC-1.1. First applied by the 2026-10 monthly rerate (7 October); ratings
 published before keep their 1.1 stamps.
 
 ### Changed
