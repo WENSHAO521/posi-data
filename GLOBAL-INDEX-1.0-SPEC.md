@@ -36,6 +36,11 @@ them bounds the index.
 - Merging across Crossref and OpenAlex happens on ISSN only (any ISSN in
   common), never on title similarity (consistent with the initial journal
   migration rules).
+- **Publisher**: OpenAlex's host organisation; where OpenAlex has none, the
+  publisher Crossref records for the same journal (the Crossref member that
+  registers its DOIs, the same name its articles' DOI records carry).
+  `publisher_source` (`openalex` / `crossref`, or null when neither has one)
+  says which was used.
 
 ## 3. Pipeline
 
@@ -95,3 +100,9 @@ per-journal checkpointing (see `run-pcs-etl.mjs`) applies unchanged.
 ## 6. Changelog
 
 - **GLOBAL-INDEX-1.0** (2026-09-26) — initial version.
+- 2026-10-03 — publisher falls back to Crossref's when OpenAlex has none
+  (§ 2), and records carry `publisher_source`. In the 2026-09-26 corpus,
+  93,133 of 158,242 journals had no publisher; 76,357 of them are also in
+  Crossref's journal list, which records a publisher for its journals. Descriptive metadata only: identity,
+  PSC classification, PCS, PNCI and every ranking are unaffected, so the
+  methodology version is unchanged.
