@@ -306,7 +306,7 @@ policy (`INHERITABLE_CRITERION_IDS` in posi-engine's
 **Inheritable from the next methodology version** (registered and
 verified now, inherited only once that version is released, because
 inheriting them changes scores and Evidence Coverage): similarity
-checking, human/animal research ethics, complaints and appeals, and three
+checking, human/animal research ethics, complaints and appeals, and four
 publisher-level transparency items: fee policy (the publisher's stated
 charges, not a journal's own amount), copyright and licensing, ownership
 and contact, advertising and sponsorship
