@@ -2,8 +2,12 @@
 
 > **POSI-EVAL-1.0 (2026-09-28) — read this first.** § 11 (E-Q ranking) is retired. An AJR-E score is published with its AJR Rating (A+ … D) from [POSI-EVAL-1.0-SPEC.md](./POSI-EVAL-1.0-SPEC.md) § 3, never with a quartile. The scoring rubric below is unchanged (still `AJR-E-1.1`).
 
+> **Current version: AJR-E-1.2** (from the 2026-11 monthly rerate; § 13):
+> this rubric unchanged, computed over Evidence Coverage EC-1.1
+> (AJR-SPEC.md § 8). Scores computed before keep `AJR-E-1.1`.
+>
 > **Status: implemented in posi-engine** (`src/ajr-early-stage.mjs`,
-> `AJR_E_METHODOLOGY_VERSION = 'AJR-E-1.1'`), covered by unit tests
+> `AJR_E_METHODOLOGY_VERSION = 'AJR-E-1.2'`), covered by unit tests
 > (`test/ajr-early-stage.test.mjs`). Part of the **"POSI Journal Evaluation
 > & Ranking Framework 1.0"** methodology overhaul.
 >
@@ -258,7 +262,7 @@ a suggested category but are never used to rank. See
 **1.2** (2026-10-03; first applied by the 2026-11 monthly rerate) — the 1.1
 formulas, weights and thresholds unchanged, computed over Evidence
 Coverage EC-1.1: the evidence items a journal's own website leaves
-unresolved may be resolved from a verified publisher-wide policy (thirteen
+unresolved may be resolved from a verified publisher-wide policy (twelve
 inheritable items) and from the journal's own Crossref deposits
 (AJR-SPEC.md § 8). Scores move with the evidence, so the version changes.
 

@@ -342,8 +342,10 @@ data-availability statements describe articles, not the journal's peer-
 review process or policies, so they resolve nothing (posi-engine reports
 them for information); nor does anything here resolve the access model.
 Crossref never overrides a met or not met the journal's site gave. When a
-run's Crossref request fails, the items it resolved in the previous run
-are kept. Each such item is tagged `source:
+run's Crossref request fails, items resolved from Crossref in an earlier
+run are kept only while the sample they came from ended inside the current
+run's three-year window (never after its rating date); older evidence
+lapses and the item is unresolved again. Each such item is tagged `source:
 crossref` with the share of articles and the query (posi-engine
 `src/crossref-policy-signals.mjs`, `scripts/run-evidence-etl.mjs`). In the
 2026-10 trial, Crossref returned articles for 48 of 50 journals; for the 31

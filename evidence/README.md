@@ -54,8 +54,9 @@ journal.
 **One file per journal, replaced by each refresh; earlier snapshots are its
 git history.** posi-engine's monthly AJR rerate re-runs the ETLs and
 replaces a journal's file only when the fresh run reached its source (at
-least one page fetched `ok`; for `works/` a Crossref 200; for `output/` the
-OpenAlex record read): a crawl the site blocked keeps the stored snapshot
+least one page fetched `ok`, or, from EC-1.1, the journal's Crossref
+deposits read for the policy signals of AJR-SPEC.md § 8; for `works/` a
+Crossref 200; for `output/` the OpenAlex record read): a crawl the site blocked keeps the stored snapshot
 instead of overwriting it with an empty one, and a run that reached no
 source at all applies nothing (`scripts/apply-evidence-refresh.mjs`). The
 change arrives as a pull request. `snapshot_date` tells snapshots apart;
