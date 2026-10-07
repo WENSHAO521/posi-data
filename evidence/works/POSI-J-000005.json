@@ -4,9 +4,30 @@
   "title": "PoliEcoM Administration Review",
   "issn_queried": "3053-3597",
   "crossref_status": 200,
-  "total_results": 11,
-  "works_fetched": 11,
+  "total_results": 12,
+  "works_fetched": 12,
   "article_sample": [
+    {
+      "doi": "10.63802/pemr.v2.i2.357",
+      "title": "From Technological Capability to Disaster Governance in North Korea: An Evidence-Bounded Framework from Scientific Publications",
+      "hasAbstract": true,
+      "referenceCount": 37,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-03",
+      "depositDate": "2026-10-03",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "PoliEcoM Administration Review",
+      "authors": [
+        {
+          "affiliation": "Soongsil University",
+          "orcid": null,
+          "given_name": "Leyuan",
+          "family_name": "Liu"
+        }
+      ]
+    },
     {
       "doi": "10.63802/pemr.v2.i1.266",
       "title": "Exploring North Korea–China Relations in the Kim Jong-un Era: A Pluralistic Construction from Geopolitics to a Community of Shared Destiny",
@@ -289,10 +310,10 @@
   ],
   "sample_adequacy": {
     "sufficient": true,
-    "size": 11,
+    "size": 12,
     "meets_target": false,
     "spans_multiple_periods": true,
-    "note": "sample of 11 clears the minimum (10) but is below the target of 30"
+    "note": "sample of 12 clears the minimum (10) but is below the target of 30"
   },
   "infrastructure_item_statuses": {
     "doi_resolution_reliability": "met",
@@ -303,6 +324,12 @@
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
+    {
+      "doi": "10.63802/pemr.v2.i2.357",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
     {
       "doi": "10.63802/pemr.v2.i1.266",
       "resolved": true,
@@ -356,12 +383,6 @@
       "resolved": true,
       "http_status": 302,
       "error": null
-    },
-    {
-      "doi": "10.63802/pemr.v1.i1.90",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
     }
   ],
   "oai_pmh_check": {
@@ -377,12 +398,12 @@
     },
     "continuity": {
       "totalWindows": 5,
-      "activeWindows": 2
+      "activeWindows": 3
     },
     "deposit_timeliness": "not_met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-09-14",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-02"
+  "snapshot_date": "2026-10-07"
 }

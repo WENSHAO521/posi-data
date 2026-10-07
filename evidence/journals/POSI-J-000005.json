@@ -161,140 +161,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr/about/editorialMasthead",
-      "retrieved_at": "2026-10-02T04:42:29.363Z"
+      "retrieved_at": "2026-10-07T10:34:56.464Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr/publication-ethics",
-      "retrieved_at": "2026-10-02T04:42:30.486Z"
+      "retrieved_at": "2026-10-07T10:34:57.398Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr/publication-ethics",
-      "retrieved_at": "2026-10-02T04:42:30.486Z"
+      "retrieved_at": "2026-10-07T10:34:57.398Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr/about/submissions",
-      "retrieved_at": "2026-10-02T04:42:29.364Z"
+      "retrieved_at": "2026-10-07T10:34:56.465Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr/publication-ethics",
-      "retrieved_at": "2026-10-02T04:42:30.486Z"
+      "retrieved_at": "2026-10-07T10:34:57.398Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr/publication-ethics",
-      "retrieved_at": "2026-10-02T04:42:30.486Z"
+      "retrieved_at": "2026-10-07T10:34:57.398Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/pemr",
-      "retrieved_at": "2026-10-02T04:42:28.267Z"
+      "retrieved_at": "2026-10-07T10:34:55.529Z"
     },
     {
       "id": "other_applicable_terms",
@@ -304,6 +304,25 @@
       "retrieved_at": null
     }
   ],
+  "crossref_evidence": {
+    "articles": 12,
+    "since": "2023-10-07",
+    "until": "2026-10-07",
+    "failed": false,
+    "attempts": [
+      {
+        "issn": "3053-3597",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "item_shares": {
+      "articles": 12,
+      "copyright_licensing": 0,
+      "corrections_retractions_policy": 0
+    },
+    "upgraded": []
+  },
   "dimension_scores": {
     "editorial_governance": {
       "score": 15,
@@ -344,8 +363,8 @@
     "not_applicable_weight": 1
   },
   "site_evidence_coverage_percent": 100,
-  "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-10-02",
+  "evidence_methodology_version": "EC-1.1",
+  "snapshot_date": "2026-10-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }
