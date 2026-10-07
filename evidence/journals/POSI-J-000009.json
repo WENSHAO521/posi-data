@@ -56,8 +56,8 @@
     },
     {
       "url": "https://journals.panorama-sg.com/Resonance/publication-ethics",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
       "url": "https://journals.panorama-sg.com/Resonance/ethics",
@@ -125,17 +125,17 @@
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/Resonance/fte",
+      "url": "https://journals.panorama-sg.com/Resonance/from-the-editors",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/Resonance/Mission/Scope",
+      "url": "https://journals.panorama-sg.com/Resonance/mission-scope",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/Resonance/iv",
+      "url": "https://journals.panorama-sg.com/Resonance/indexing-discovery-archiving",
       "fetch_status": "ok",
       "http_status": 200
     },
@@ -145,12 +145,12 @@
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/Resonance/safam",
+      "url": "https://journals.panorama-sg.com/Resonance/sound-archives-fieldwork-and-memory",
       "fetch_status": "ok",
       "http_status": 200
     },
     {
-      "url": "https://journals.panorama-sg.com/Resonance/Submission/Guidelines",
+      "url": "https://journals.panorama-sg.com/Resonance/submission-guidelines",
       "fetch_status": "ok",
       "http_status": 200
     }
@@ -161,140 +161,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance/editorial-board",
-      "retrieved_at": "2026-10-02T04:42:58.559Z"
+      "retrieved_at": "2026-10-07T10:35:30.768Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
-      "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/Resonance/publication-ethics",
+      "retrieved_at": "2026-10-07T10:35:31.709Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/Resonance",
-      "retrieved_at": "2026-10-02T04:42:57.595Z"
+      "retrieved_at": "2026-10-07T10:35:29.676Z"
     },
     {
       "id": "other_applicable_terms",
@@ -304,6 +304,25 @@
       "retrieved_at": null
     }
   ],
+  "crossref_evidence": {
+    "articles": 19,
+    "since": "2023-10-07",
+    "until": "2026-10-07",
+    "failed": false,
+    "attempts": [
+      {
+        "issn": "3053-4410",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "item_shares": {
+      "articles": 19,
+      "copyright_licensing": 0,
+      "corrections_retractions_policy": 0.053
+    },
+    "upgraded": []
+  },
   "dimension_scores": {
     "editorial_governance": {
       "score": 11,
@@ -316,12 +335,12 @@
       }
     },
     "research_integrity": {
-      "score": 8,
+      "score": 10,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 15,
         "resolved_weight": 15,
-        "met_weight": 8,
+        "met_weight": 10,
         "not_applicable_weight": 0
       }
     },
@@ -340,12 +359,12 @@
     "coverage_percent": 100,
     "applicable_weight": 39,
     "resolved_weight": 39,
-    "met_weight": 25,
+    "met_weight": 27,
     "not_applicable_weight": 1
   },
   "site_evidence_coverage_percent": 100,
-  "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-10-02",
+  "evidence_methodology_version": "EC-1.1",
+  "snapshot_date": "2026-10-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }
