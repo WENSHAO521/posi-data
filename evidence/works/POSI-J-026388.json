@@ -1,0 +1,667 @@
+{
+  "posi_id": "POSI-J-026388",
+  "journal_code": "aimed",
+  "title": "AI Med",
+  "issn_queried": "3079-4757",
+  "crossref_status": 200,
+  "total_results": 12,
+  "works_fetched": 12,
+  "article_sample": [
+    {
+      "doi": "10.71423/aimed.20260606",
+      "title": "Artificial Intelligence-Driven Antibody-Drug Conjugate Development for Chronic Neuropathic Pain: From Target Discovery to Clinical Translation",
+      "hasAbstract": true,
+      "referenceCount": 91,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2026-06-06",
+      "depositDate": "2026-06-07",
+      "issueOrPeriod": "v2i1",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "The First Clinical Medical College, Xuzhou Medical University, Xuzhou, Jiangsu 221004, China",
+          "orcid": null,
+          "given_name": "Yuan",
+          "family_name": "Liu"
+        },
+        {
+          "affiliation": "Good Samaritan Hospital, San Jose, CA 95124, USA",
+          "orcid": null,
+          "given_name": "Qin",
+          "family_name": "Xie"
+        },
+        {
+          "affiliation": "Department of Medicine, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY 10467, USA",
+          "orcid": null,
+          "given_name": "Huixian",
+          "family_name": "Zhou"
+        },
+        {
+          "affiliation": "Department of Medicine, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY 10467, USA",
+          "orcid": null,
+          "given_name": "Krushi",
+          "family_name": "Shah"
+        },
+        {
+          "affiliation": "Department of Anesthesiology, Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY 10467, USA; Department of Neuroscience, Baylor College of Medicine, Houston, TX 77030, USA",
+          "orcid": null,
+          "given_name": "Siyuan",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20251209",
+      "title": "Bidirectional Mendelian Randomization Analysis of the Association between Telomere Length and the Risk of Vascular Dementia and Idiopathic Normal Pressure Hydrocephalus",
+      "hasAbstract": true,
+      "referenceCount": 60,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-09",
+      "depositDate": "2026-05-21",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "The Second Affiliated Hospital of Harbin Medical University, Harbin, Heilongjiang, China",
+          "orcid": null,
+          "given_name": "Wencai",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20250729",
+      "title": "From bench to bedside: immune and genetic innovations driving the future of cardiac, renal, and hepatic xenotransplantation",
+      "hasAbstract": true,
+      "referenceCount": 262,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-07-29",
+      "depositDate": "2025-08-01",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "Baylor College of Medicine",
+          "orcid": null,
+          "given_name": "Siyuan",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20250105",
+      "title": "Progress in Medical AI: Reviewing Large Language Models and Multimodal Systems for Diagnosis",
+      "hasAbstract": true,
+      "referenceCount": 68,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-02-10",
+      "depositDate": "2026-05-21",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "Department of Mathematics and Statistics, University of Texas at Dallas, Richardson, TX, USA",
+          "orcid": null,
+          "given_name": "Ran",
+          "family_name": "Tong"
+        },
+        {
+          "affiliation": "Department of Computer Science, University of Massachusetts Boston, Boston, MA, USA",
+          "orcid": null,
+          "given_name": "Ting",
+          "family_name": "Xu"
+        },
+        {
+          "affiliation": "Department of Mathematics and Statistics, University of Texas at Dallas, Richardson, TX, USA",
+          "orcid": null,
+          "given_name": "Xinxin",
+          "family_name": "Ju"
+        },
+        {
+          "affiliation": "Naveen Jindal School of Management, University of Texas at Dallas, Richardson, TX, USA",
+          "orcid": null,
+          "given_name": "Lanruo",
+          "family_name": "Wang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20251206",
+      "title": "Machine Learning and Large Language Models in Preoperative Bariatric Surgery: From Risk Assessment to Shared Decision-Making",
+      "hasAbstract": true,
+      "referenceCount": 71,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-06",
+      "depositDate": "2025-12-06",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "West China Hospital, West China School of Medicine, Sichuan University, Chengdu, Sichuan, China",
+          "orcid": null,
+          "given_name": "Yuxin",
+          "family_name": "Shang"
+        },
+        {
+          "affiliation": "Clinical Medical College, North Sichuan Medical College, Nanchong, Sichuan, China",
+          "orcid": null,
+          "given_name": "Xinting",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": "West China Hospital, West China School of Medicine, Sichuan University, Chengdu, Sichuan, China",
+          "orcid": null,
+          "given_name": "Ke",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20250630",
+      "title": "Stem Cell-Based Regenerative Therapies for Ischemic Heart Disease: Mechanisms, Clinical Evidence, and Translational Strategies",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-06-30",
+      "depositDate": "2025-06-30",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "School of Medical Imaging, Xuzhou Medical University, No. 209 Tongshan Road, Xuzhou 221004, China",
+          "orcid": null,
+          "given_name": "Liu",
+          "family_name": "Hanxiang"
+        },
+        {
+          "affiliation": "Department of Anesthesiology, University of Maryland School of Medicine, Baltimore, MD 21201, USA",
+          "orcid": null,
+          "given_name": "Yijia",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Montefiore Medical Center Wakefield Campus, 600 East 233rd Street, Bronx, NY 10466, USA",
+          "orcid": null,
+          "given_name": "Huixian",
+          "family_name": "Zhou"
+        },
+        {
+          "affiliation": "Department of Clinical Medicine, The First Clinical Medical College, Norman Bethune University of Medical Sciences, Jilin 130021, China",
+          "orcid": null,
+          "given_name": "Yixin",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": "Department of Radiology, Ohio State University, Columbus, OH 43210, USA",
+          "orcid": null,
+          "given_name": "Rongkai",
+          "family_name": "Yan"
+        },
+        {
+          "affiliation": "Greenwich Hospital, Yale New Haven Health, Greenwich, CT 06519, USA",
+          "orcid": null,
+          "given_name": "Xiaofeng",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "Department of Cardiology, Shanghai Chest Hospital, Shanghai Jiao Tong University, 241 West Huaihai Road, Shanghai 200030, China",
+          "orcid": null,
+          "given_name": "Yutong",
+          "family_name": "Miao"
+        },
+        {
+          "affiliation": "Department of Neuroscience, Baylor College of Medicine, Houston, TX 77030, USA",
+          "orcid": null,
+          "given_name": "Siyuan",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": "Department of Internal Medicine, Montefiore Medical Center Wakefield Campus, 600 East 233rd Street, Bronx, NY 10466, USA",
+          "orcid": null,
+          "given_name": "Lingyu",
+          "family_name": "Bao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20250103",
+      "title": "AI Perspectives on the Present and Future of Antidepressant Pharmaceutical Treatment Based on Anti-inflammatory Strategies: A Scoping Review of Randomised Controlled Clinical Trials",
+      "hasAbstract": true,
+      "referenceCount": 89,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-01-26",
+      "depositDate": "2026-07-21",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "Northwest Minzu University",
+          "orcid": null,
+          "given_name": "Yan",
+          "family_name": "Bo"
+        },
+        {
+          "affiliation": "Department of Emergency Medicine, The Affiliated Hospital of Yangzhou University, Yangzhou 225012, Jiangsu Province, China",
+          "orcid": null,
+          "given_name": "Yifei",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": "School of Electrical Engineering, Monash University, Melbourne City 3800, Victory State, Australia",
+          "orcid": null,
+          "given_name": "Hsu Yi",
+          "family_name": "Liang"
+        },
+        {
+          "affiliation": "Shantou University Medical College, Shantou City 515041, Guangdong Province, China",
+          "orcid": null,
+          "given_name": "Fengjiao",
+          "family_name": "Zhao"
+        },
+        {
+          "affiliation": "Gongli Hospital affiliated to Second Military Medical University, Shanghai 200000, China",
+          "orcid": null,
+          "given_name": "Ming",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": "School of Medicine, Beihua University, Jilin City 132013, Jilin Province, China",
+          "orcid": null,
+          "given_name": "Youwei",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Inner Mongolia Chaopai New Materials Co., Ltd., Hohhot City 010000, Inner Mongolia Autonomous Region, China",
+          "orcid": null,
+          "given_name": "Ren",
+          "family_name": "Sha"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20251106",
+      "title": "Mechanisms associated with diabetic peripheral neuralgia and potential interventions",
+      "hasAbstract": true,
+      "referenceCount": 135,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-11-06",
+      "depositDate": "2026-06-02",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "North Sichuan Medical College",
+          "orcid": null,
+          "given_name": "Yudie",
+          "family_name": "Du"
+        },
+        {
+          "affiliation": "North Sichuan Medical College",
+          "orcid": null,
+          "given_name": "He",
+          "family_name": "Xiao"
+        },
+        {
+          "affiliation": "West China Hospital of Sichuan University",
+          "orcid": null,
+          "given_name": "Xinting",
+          "family_name": "Huang"
+        },
+        {
+          "affiliation": "Department of Clinical Medicine, North Sichuan Medical College, Nanchong, Sichuan, China",
+          "orcid": null,
+          "given_name": "Yiming",
+          "family_name": "Shao"
+        },
+        {
+          "affiliation": "West China School of Medicine, Sichuan University, Chengdu, Sichuan, China",
+          "orcid": null,
+          "given_name": "Ke",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20250102",
+      "title": "Advancements in Gene Structure Prediction:\nInnovation and Prospects of Deep Learning Models Apply in Multi-species",
+      "hasAbstract": true,
+      "referenceCount": 121,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-01-25",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "Department of Biology, Duke University, Durham, NC 27708, the United States",
+          "orcid": null,
+          "given_name": "Tong",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Huazhong University of Science and Technology, Wuhan 430074, China",
+          "orcid": null,
+          "given_name": "Jing-Min",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": "University of Massachusetts Boston, Boston, MA 02125, United States",
+          "orcid": null,
+          "given_name": "Ting",
+          "family_name": "Xu"
+        },
+        {
+          "affiliation": "Institute of Hematology, Zhejiang University, Hangzhou 310003, China",
+          "orcid": null,
+          "given_name": "Yuanyin",
+          "family_name": "Teng"
+        },
+        {
+          "affiliation": "Department of Biology, Duke University, Durham, NC 27708, the United States",
+          "orcid": null,
+          "given_name": "Yuqing",
+          "family_name": "Miao"
+        },
+        {
+          "affiliation": "Gongli Hospital affiliated to Second Military Medical University, Shanghai 200135, China",
+          "orcid": null,
+          "given_name": "Ming",
+          "family_name": "Wu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20250806",
+      "title": "Immunotherapy in Renal Cell Carcinoma: Modulating the Tumor Microenvironment, Overcoming Resistance Mechanisms, and Implementing Biomarker-Guided Combination Treatments",
+      "hasAbstract": true,
+      "referenceCount": 192,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-06",
+      "depositDate": "2026-05-21",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "Jacobi Medical Center, Albert Einstein College of Medicine, Bronx, NY , USA",
+          "orcid": null,
+          "given_name": "Xiaoyi",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "Cheeloo College of Medicine, Shandong University, Jinan , Shandong, China",
+          "orcid": null,
+          "given_name": "Na",
+          "family_name": "Xiao"
+        },
+        {
+          "affiliation": "Jacobi Medical Center, Albert Einstein College of Medicine, Bronx, NY , USA",
+          "orcid": null,
+          "given_name": "Toru",
+          "family_name": "Yoshino"
+        },
+        {
+          "affiliation": "Department of Urology, Memorial Sloan Kettering Cancer Center, New York, NY，USA; Department of Urology, Qilu Hospital of Shandong University, Jinan, Shandong, China",
+          "orcid": null,
+          "given_name": "Zizhuo",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": "Department of Urology, Qilu Hospital of Shandong University, Jinan, Shandong, China",
+          "orcid": null,
+          "given_name": "Jun",
+          "family_name": "Chen"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20250101",
+      "title": "Application of Immune Checkpoint Inhibitors in the Treatment of Renal Cell Carcinoma: Current Status, Challenges, and Future Directions",
+      "hasAbstract": true,
+      "referenceCount": 179,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-01-23",
+      "depositDate": "2025-11-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "Department of Urology, Peking University First Hospital, Beijing, China",
+          "orcid": null,
+          "given_name": "Lingxiang",
+          "family_name": "Ran"
+        },
+        {
+          "affiliation": "Acupuncture Center, Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of Traditional      Chinese Medicine, Shanghai, China",
+          "orcid": null,
+          "given_name": "Rui",
+          "family_name": "Zhao"
+        },
+        {
+          "affiliation": "College of Basic Medicine, Dalian Medical University, Dalian, liaoning, China",
+          "orcid": null,
+          "given_name": "Yu",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": "Department of Dermatology, The First Affiliated Hospital of Jinzhou Medical University, Jinzhou, zhejiang, China",
+          "orcid": null,
+          "given_name": "Benfan",
+          "family_name": "Lin"
+        },
+        {
+          "affiliation": "Medical College, Shantou University, Jinan, Shantou, China",
+          "orcid": null,
+          "given_name": "Zhen",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": "Institute of Hematology, Zhejiang University, Hangzhou, zhejiang, China",
+          "orcid": null,
+          "given_name": "Yuanyin",
+          "family_name": "Teng"
+        },
+        {
+          "affiliation": "Affiliated Hospital, North China University of Science and Technology, Tangshan, Hebei, China",
+          "orcid": null,
+          "given_name": "Jingyi",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": "Department of surgery, Danyang Community Health Service Center, Hengxi Sub-district of Jiangning District, Nanjing, China",
+          "orcid": null,
+          "given_name": "Shi",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Electrical engineering, Monash University, Clayton City, State Victory, Australia",
+          "orcid": null,
+          "given_name": "Hsu Yi",
+          "family_name": "Liang"
+        },
+        {
+          "affiliation": "Department of Urology, the first people's hospital of Hefei, Hefei, Anhui, China",
+          "orcid": null,
+          "given_name": "Guangmo",
+          "family_name": "Hu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71423/aimed.20250802",
+      "title": "Analysis of hub genes and signalling pathways in lipomas by integrated bioinformatics",
+      "hasAbstract": true,
+      "referenceCount": 38,
+      "hasLicense": true,
+      "hasArchive": true,
+      "documentType": "journal-article",
+      "publishedDate": "2025-08-02",
+      "depositDate": "2026-06-02",
+      "issueOrPeriod": "v1i3",
+      "containerTitle": "AI Med",
+      "authors": [
+        {
+          "affiliation": "Shanghai Medical College, Fudan University, Shanghai, China",
+          "orcid": null,
+          "given_name": "Fei",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Institute of Medicine, Sechenov First Moscow State Medical University, Moscow, Russian Federation",
+          "orcid": null,
+          "given_name": "Yuyang",
+          "family_name": "Xia"
+        },
+        {
+          "affiliation": "Brown School, Washington University in St.Louis, MO, USA",
+          "orcid": null,
+          "given_name": "Yuxin",
+          "family_name": "Jia"
+        },
+        {
+          "affiliation": "College of Basic Medical Sciences, Hebei Medical University, Shijiazhuang, China",
+          "orcid": null,
+          "given_name": "Zhuyuan",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "Cardiology Department, Sanyuan County Traditional Chinese Medicine Hospital, Xianyang, Shanxi, China",
+          "orcid": null,
+          "given_name": "Yu",
+          "family_name": "Deng"
+        },
+        {
+          "affiliation": "School of Clinical Medicine, Jining Medical University, Jining, China",
+          "orcid": null,
+          "given_name": "YuJing",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": "College of Information Engineering, Wuhan University of Technology, Wuhan, China",
+          "orcid": null,
+          "given_name": "Yating",
+          "family_name": "Zhang"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": true,
+    "size": 12,
+    "meets_target": false,
+    "spans_multiple_periods": true,
+    "note": "sample of 12 clears the minimum (10) but is below the target of 30"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "met",
+    "digital_preservation_archiving": "met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.71423/aimed.20260606",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20251209",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20250729",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20250105",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20251206",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20250630",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20250103",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20251106",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20250102",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71423/aimed.20250806",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": {
+    "attempted": true,
+    "ok": true,
+    "http_status": 200,
+    "error": null
+  },
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 7,
+      "activeWindows": 5
+    },
+    "deposit_timeliness": "not_met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": "2025-01-23",
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-10-09"
+}
