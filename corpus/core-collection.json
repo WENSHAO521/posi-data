@@ -2769,23 +2769,23 @@
       "rating_status": "official",
       "not_rateable_reason": null,
       "subfactors": {
-        "egf": 12.69,
-        "rif": 8,
+        "egf": 13,
+        "rif": 14,
         "inf": 15,
         "pub": 5.14,
         "soc": 18.7,
         "rdc": 10,
-        "trn": 6.67
+        "trn": 8.89
       },
-      "total": 76.2,
-      "evidence_coverage": 93.1,
-      "rating": "B+",
+      "total": 84.73,
+      "evidence_coverage": 96.55,
+      "rating": "A−",
       "rating_version": "AJR-RATING-1.0"
     },
     "psc_category": "P3.02",
     "psc_confidence": "low",
     "created_at": "2026-10-08T00:00:00Z",
-    "updated_at": "2026-10-09T11:40:48.000Z",
+    "updated_at": "2026-10-09T11:53:22.000Z",
     "source_group": "indexed",
     "posi_id": "POSI-J-026388",
     "apc": {
