@@ -1,0 +1,45 @@
+{
+  "posi_id": "POSI-J-026388",
+  "journal_code": "aimed",
+  "title": "AI Med",
+  "metric_year": 2026,
+  "pcs_window_start_year": 2022,
+  "pcs_window_end_year": 2025,
+  "issn_queried": "3079-4757",
+  "issns_without_works": [],
+  "fetch_status": 200,
+  "fetch_error": null,
+  "enumerated_count": 11,
+  "works_fetched": 11,
+  "pages_fetched": 2,
+  "pcs": 1.3636363636363635,
+  "pcs_eligible_items": 11,
+  "pcs_citation_count": 15,
+  "pcs_items_with_citation_data": 11,
+  "pcs_coverage": 1,
+  "excluded_outside_window": 0,
+  "pcs_source": "crossref",
+  "pcs_source_retrieved_at": "2026-10-09",
+  "pcs_methodology_version": "PCS-1.0",
+  "cells": [
+    {
+      "y": 2025,
+      "t": "research-article",
+      "h": [
+        [
+          0,
+          8
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          13,
+          1
+        ]
+      ]
+    }
+  ],
+  "note": null
+}
