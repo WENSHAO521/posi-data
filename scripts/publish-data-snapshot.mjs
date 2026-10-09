@@ -236,6 +236,14 @@ function main() {
   const pcsQRaw = pcsQFile ? readFileSync(join(pcsQDir, pcsQFile)) : null
   const pcsQEdition = pcsQRaw ? JSON.parse((pcsQFile.endsWith('.gz') ? gunzipSync(pcsQRaw) : pcsQRaw).toString('utf-8')) : null
   if (pcsQEdition) files['collections/pcs-q.json.gz'] = gzipSync(JSON.stringify(pcsQEdition) + '\n', { level: 9 })
+  // The two editions are generated and checksummed as wholes (posi-engine; posi-data-delivery archives each by its
+  // SHA-256), and their ranks are computed across all journals, so removing a record here would change the
+  // edition's identity and leave it inconsistent. A withdrawn journal in one is therefore not removed but reported:
+  // the fix is a regenerated edition without it.
+  for (const [name, edition] of [['Citation Ranking', citationEdition], ['PCS', pcsQEdition]]) {
+    const carried = edition ? edition.records.filter(r => withdrawnIds.has(r.journal_id)).map(r => r.journal_id) : []
+    if (carried.length > 0) console.warn(`Warning: the ${name} edition still contains ${carried.length} withdrawn journal(s) (${carried.join(', ')}); it is published unmodified. Regenerate the edition without them.`)
+  }
   const fileSums = Object.fromEntries(Object.entries(files).map(([relPath, content]) => [relPath, sha256(content)]))
   if (checksumsOnly) {
     console.log(JSON.stringify(fileSums, null, 2))
