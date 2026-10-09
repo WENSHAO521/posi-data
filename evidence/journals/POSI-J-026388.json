@@ -1,0 +1,372 @@
+{
+  "posi_id": "POSI-J-026388",
+  "journal_code": "aimed",
+  "title": "AI Med",
+  "website_url": "https://www.ai-press.org/index.php/aimed",
+  "fetched_pages": [
+    {
+      "url": "https://www.ai-press.org/index.php/aimed",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/about/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/about/editorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/about/editorialMasthead",
+      "fetch_status": "server_error",
+      "http_status": 500
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/aims-and-scope",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/editorial-board",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/editorial-policies",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/peer-review",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/publication-ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/ethics",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/author-guidelines",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/for-authors",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/apc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/fees",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/copyright",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/licensing",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/corrections",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/retractions",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/archiving",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/data-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/index.php/aimed/ai-policy",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://www.ai-press.org/journal/aimed/register",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/journal/aimed/login",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/journal/aimed",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/journal/aimed/current-issue",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/journal/aimed/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.ai-press.org/journal/aimed/page/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    }
+  ],
+  "evidence_items": [
+    {
+      "id": "aims_scope_explicit",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/index.php/aimed/about",
+      "retrieved_at": "2026-10-09T11:40:23.441Z"
+    },
+    {
+      "id": "editorial_board_public",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "editor_identity_affiliation_verifiable",
+      "weight": 2,
+      "status": "unknown",
+      "source_url": null,
+      "retrieved_at": null
+    },
+    {
+      "id": "peer_review_process_disclosed",
+      "weight": 4,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "reviewer_editorial_guidelines",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "complaints_appeals",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/journal/aimed/issue/archive",
+      "retrieved_at": "2026-10-09T11:40:31.459Z"
+    },
+    {
+      "id": "publication_ethics_policy",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/journal/aimed/issue/archive",
+      "retrieved_at": "2026-10-09T11:40:31.459Z"
+    },
+    {
+      "id": "corrections_retractions_policy",
+      "weight": 3,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/journal/aimed/issue/archive",
+      "retrieved_at": "2026-10-09T11:40:31.459Z"
+    },
+    {
+      "id": "authorship_contributorship_policy",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/index.php/aimed/about/submissions",
+      "retrieved_at": "2026-10-09T11:40:25.506Z"
+    },
+    {
+      "id": "conflict_of_interest_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "plagiarism_similarity_policy",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "human_animal_ethics_consent",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "data_availability_sharing",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "ai_use_policy",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "fee_disclosure",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "copyright_licensing",
+      "weight": 2,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/index.php/aimed/about/submissions",
+      "retrieved_at": "2026-10-09T11:40:25.506Z"
+    },
+    {
+      "id": "access_model_disclosure",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "publisher_ownership_contact",
+      "weight": 2,
+      "status": "not_met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "author_guidelines",
+      "weight": 1,
+      "status": "met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "advertising_sponsorship_disclosure",
+      "weight": 1,
+      "status": "not_met",
+      "source_url": "https://www.ai-press.org/index.php/aimed",
+      "retrieved_at": "2026-10-09T11:40:23.440Z"
+    },
+    {
+      "id": "other_applicable_terms",
+      "weight": 1,
+      "status": "not_applicable",
+      "source_url": null,
+      "retrieved_at": null
+    }
+  ],
+  "crossref_evidence": {
+    "articles": 12,
+    "since": "2023-10-09",
+    "until": "2026-10-09",
+    "failed": false,
+    "attempts": [
+      {
+        "issn": "3079-4757",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "item_shares": {
+      "articles": 12,
+      "copyright_licensing": 0,
+      "corrections_retractions_policy": 0
+    },
+    "upgraded": []
+  },
+  "dimension_scores": {
+    "editorial_governance": {
+      "score": 12.69,
+      "coverage": {
+        "coverage_percent": 86.67,
+        "applicable_weight": 15,
+        "resolved_weight": 13,
+        "met_weight": 11,
+        "not_applicable_weight": 0
+      }
+    },
+    "research_integrity": {
+      "score": 8,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 15,
+        "resolved_weight": 15,
+        "met_weight": 8,
+        "not_applicable_weight": 0
+      }
+    },
+    "transparency": {
+      "score": 6.67,
+      "coverage": {
+        "coverage_percent": 100,
+        "applicable_weight": 9,
+        "resolved_weight": 9,
+        "met_weight": 6,
+        "not_applicable_weight": 1
+      }
+    }
+  },
+  "coverage": {
+    "coverage_percent": 94.87,
+    "applicable_weight": 39,
+    "resolved_weight": 37,
+    "met_weight": 25,
+    "not_applicable_weight": 1
+  },
+  "site_evidence_coverage_percent": 94.87,
+  "evidence_methodology_version": "EC-1.1",
+  "snapshot_date": "2026-10-09",
+  "evidence_snapshot_status": "partial_source_unavailable",
+  "recrawl_required": true,
+  "recrawl_reason": "source_host_errors",
+  "recrawl_host": "www.ai-press.org"
+}
