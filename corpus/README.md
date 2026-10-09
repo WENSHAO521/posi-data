@@ -6,6 +6,12 @@ Canonical source for the two manually-curated journal sets: `core-collection.jso
 selected purely from OpenAlex's open signals — never a POSI admission
 candidate, see `AJR-SPEC.md` § "Global Benchmark Collection").
 
+## Withdrawn journals
+
+A journal taken out of the database after admission is not deleted from `core-collection.json`: its record stays, so its `POSI-J-######` id and history are kept, with `collection_status: "withdrawn"`. Everything downstream skips it: `scripts/publish-data-snapshot.mjs` leaves it out of the published collections, the per-journal PCS/PCI records and every count, and posi-engine's crawls and monthly rerate do not process it. The website lists the same journals in its own `withdrawn-journals.json`. To index one again, remove the status (and the website entry).
+
+So far one journal is withdrawn: Digital Intelligence Frontiers (`dif-rfp`, `POSI-J-000030`), 2026-10-03, no DOIs registered.
+
 ## Why this is not `journals/`
 
 `journals/core/` and `journals/discovered/` are reserved for the output of
