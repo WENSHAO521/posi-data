@@ -2780,7 +2780,15 @@
       "total": 84.73,
       "evidence_coverage": 96.55,
       "rating": "A−",
-      "rating_version": "AJR-RATING-1.0"
+      "rating_version": "AJR-RATING-1.0",
+      "deprecated_fields": [
+        "quartile",
+        "quartile_label",
+        "cohort_key",
+        "cohort_level",
+        "cohort_size",
+        "ranking_method"
+      ]
     },
     "psc_category": "P3.02",
     "psc_confidence": "low",
