@@ -167,26 +167,36 @@ function main() {
   const today = new Date().toISOString().slice(0, 10)
   const snapshotId = arg('snapshot-id', today)
 
-  const coreCollection = JSON.parse(readFileSync(resolve('corpus/core-collection.json'), 'utf-8'))
-  const globalBenchmark = JSON.parse(readFileSync(resolve('corpus/global-benchmark.json'), 'utf-8'))
+  // A journal whose collection_status is 'withdrawn' (taken out of the database after admission, e.g. no
+  // DOIs so it cannot be indexed) stays in the corpus, so its id and history are kept, but it is not
+  // published: not in the collections, not in the per-journal PCS/PCI/Citation-Q records, and not in
+  // any count below. The Citation Ranking and PCS editions are imported from posi-engine and passed
+  // through unmodified (neither carries the one journal withdrawn so far).
+  const corpusCore = JSON.parse(readFileSync(resolve('corpus/core-collection.json'), 'utf-8'))
+  const corpusGlobal = JSON.parse(readFileSync(resolve('corpus/global-benchmark.json'), 'utf-8'))
+  const isWithdrawn = j => j.collection_status === 'withdrawn'
+  const withdrawnIds = new Set([...corpusCore, ...corpusGlobal].filter(isWithdrawn).map(j => j.posi_id))
+  const coreCollection = corpusCore.filter(j => !isWithdrawn(j))
+  const globalBenchmark = corpusGlobal.filter(j => !isWithdrawn(j))
+  const withoutWithdrawn = records => (records === null ? null : records.filter(r => !withdrawnIds.has(r.journal_id)))
   const curated = globalBenchmark.filter(j => !j.source_note)
   const publisherCatalog = globalBenchmark.filter(j => !!j.source_note)
 
   const pcsAuditDir = arg('pcs-audit-dir', PCS_AUDIT_DIR_DEFAULT)
-  const pcsRecords = collectShardedRecords(pcsAuditDir, 'pcs')
+  const pcsRecords = withoutWithdrawn(collectShardedRecords(pcsAuditDir, 'pcs'))
   if (pcsRecords === null) {
     console.warn(`Warning: no PCS audit found at ${pcsAuditDir}/pcs -- collections/pcs.json will not be published this run.`)
   }
   const pcsComputedCount = pcsRecords ? pcsRecords.filter(r => r.pcs != null).length : 0
 
   const pciAuditDir = arg('pci-audit-dir', PCI_AUDIT_DIR_DEFAULT)
-  const pciRecords = collectShardedRecords(pciAuditDir, 'pci')
+  const pciRecords = withoutWithdrawn(collectShardedRecords(pciAuditDir, 'pci'))
   if (pciRecords === null) {
     console.warn(`Warning: no PCI audit found at ${pciAuditDir}/pci -- collections/pci.json will not be published this run.`)
   }
   const pciComputedCount = pciRecords ? pciRecords.filter(r => r.pci != null).length : 0
 
-  const rankingRecords = collectShardedRecords(pciAuditDir, 'rankings')
+  const rankingRecords = withoutWithdrawn(collectShardedRecords(pciAuditDir, 'rankings'))
   const rankedCount = rankingRecords ? rankingRecords.filter(r => r.ranking_method !== 'unavailable').length : 0
 
   const files = {
@@ -226,6 +236,14 @@ function main() {
   const pcsQRaw = pcsQFile ? readFileSync(join(pcsQDir, pcsQFile)) : null
   const pcsQEdition = pcsQRaw ? JSON.parse((pcsQFile.endsWith('.gz') ? gunzipSync(pcsQRaw) : pcsQRaw).toString('utf-8')) : null
   if (pcsQEdition) files['collections/pcs-q.json.gz'] = gzipSync(JSON.stringify(pcsQEdition) + '\n', { level: 9 })
+  // The two editions are generated and checksummed as wholes (posi-engine; posi-data-delivery archives each by its
+  // SHA-256), and their ranks are computed across all journals, so removing a record here would change the
+  // edition's identity and leave it inconsistent. A withdrawn journal in one is therefore not removed but reported:
+  // the fix is a regenerated edition without it.
+  for (const [name, edition] of [['Citation Ranking', citationEdition], ['PCS', pcsQEdition]]) {
+    const carried = edition ? edition.records.filter(r => withdrawnIds.has(r.journal_id)).map(r => r.journal_id) : []
+    if (carried.length > 0) console.warn(`Warning: the ${name} edition still contains ${carried.length} withdrawn journal(s) (${carried.join(', ')}); it is published unmodified. Regenerate the edition without them.`)
+  }
   const fileSums = Object.fromEntries(Object.entries(files).map(([relPath, content]) => [relPath, sha256(content)]))
   if (checksumsOnly) {
     console.log(JSON.stringify(fileSums, null, 2))
