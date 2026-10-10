@@ -149,6 +149,22 @@ function loadReleases() {
     .sort((a, b) => (a.published < b.published ? 1 : a.published > b.published ? -1 : 0))
 }
 
+/**
+ * The highest version stamp among the published ratings (e.g. 'AJR-E-1.2'),
+ * so the manifest names the version the data was actually rated with and
+ * cannot fall behind posi-engine. `fallback` is the version in force when no
+ * journal carries a stamp yet.
+ */
+function newestVersion(stamps, fallback) {
+  const key = v => (/(\d+(?:\.\d+)*)$/.exec(v)?.[1] ?? '').split('.').map(Number)
+  const newer = (a, b) => {
+    const [x, y] = [key(a), key(b)]
+    for (let i = 0; i < Math.max(x.length, y.length); i++) if ((x[i] ?? 0) !== (y[i] ?? 0)) return (x[i] ?? 0) > (y[i] ?? 0)
+    return false
+  }
+  return stamps.filter(Boolean).reduce((best, v) => (best === null || newer(v, best) ? v : best), null) ?? fallback
+}
+
 function main() {
   const checksumsOnly = process.argv.includes('--checksums-only')
   const outDir = checksumsOnly ? null : resolve(arg('out'))
@@ -292,8 +308,8 @@ function main() {
     data_cutoff: isRelease ? latestRelease.data_cutoff : today,
     lifecycle_version: 'LIFECYCLE-1.1',
     psc_crosswalk_version: 'PSC-CROSSWALK-0.3',
-    ajr_e_version: 'AJR-E-1.1',
-    ajr_m_version: 'AJR-M-1.0',
+    ajr_e_version: newestVersion(coreCollection.map(j => j.early_stage_rating?.version), 'AJR-E-1.2'),
+    ajr_m_version: newestVersion(coreCollection.map(j => j.mature_rating?.methodology_version), 'AJR-M-1.2'),
     // Archived E-Q/M-Q/Citation Q/PCS-Q ranking core; retired as published rankings (POSI-EVAL-1.0).
     rank_version: 'RANK-1.0',
     evaluation_version: 'POSI-EVAL-1.0',
@@ -304,7 +320,7 @@ function main() {
     ranking_snapshot_date: citationEdition?.snapshot_date ?? null,
     citation_ranking_official_count: citationEdition ? citationEdition.records.filter(r => r.citation_ranking_status === 'official').length : 0,
     citation_ranking_ranked_count: citationEdition ? citationEdition.records.filter(r => r.citation_rank != null).length : 0,
-    evidence_version: 'EVIDENCE-1.0',
+    evidence_version: 'EC-1.1',
     diagnostics_version: 'DIAG-1.0',
     // 'PCS-1.0' once a real PCS collection is actually published in this
     // snapshot (mirrors how ajr_e_version/ajr_m_version reflect the spec
