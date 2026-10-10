@@ -8,7 +8,7 @@
   "properties": {
     "methodology_version": { "const": "PCS-Q-1.0" },
     "metric_year": { "type": "integer", "minimum": 2020 },
-    "records": { "type": "array", "items": { "$ref": "#/$defs/record" } }
+    "records": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/record" } }
   },
   "$defs": {
     "nullableInt": { "type": ["integer", "null"], "minimum": 1 },
@@ -52,7 +52,23 @@
       "allOf": [
         {
           "if": { "properties": { "ranking_method": { "const": "pcs_midrank" } }, "required": ["ranking_method"] },
-          "then": { "properties": { "rank": { "type": "integer" }, "quartile": { "enum": ["Q1", "Q2", "Q3", "Q4"] }, "exclusion_reason": { "const": null } } },
+          "then": {
+            "properties": {
+              "pcs": { "type": "number" },
+              "category_code": { "type": "string" },
+              "rank": { "type": "integer" },
+              "rank_mid": { "type": "number" },
+              "category_size": { "type": "integer" },
+              "percentile": { "type": "number" },
+              "quartile": { "enum": ["Q1", "Q2", "Q3", "Q4"] },
+              "quartile_label": { "enum": ["PCS-Q1", "PCS-Q2", "PCS-Q3", "PCS-Q4"] },
+              "overall_rank": { "type": "integer" },
+              "overall_size": { "type": "integer" },
+              "overall_percentile": { "type": "number" },
+              "overall_quartile": { "enum": ["Q1", "Q2", "Q3", "Q4"] },
+              "exclusion_reason": { "const": null }
+            }
+          },
           "else": { "properties": { "rank": { "const": null }, "quartile": { "const": null }, "exclusion_reason": { "type": "string" } } }
         }
       ]
