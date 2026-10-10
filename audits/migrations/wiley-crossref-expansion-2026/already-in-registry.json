@@ -1,0 +1,857 @@
+[
+ {
+  "title": "Physiologia Plantarum",
+  "issns": [
+   "0031-9317",
+   "1399-3054"
+  ],
+  "posi_id": "POSI-J-023651"
+ },
+ {
+  "title": "Journal of Medical Virology",
+  "issns": [
+   "0146-6615",
+   "1096-9071"
+  ],
+  "posi_id": "POSI-J-024190"
+ },
+ {
+  "title": "Microwave and Optical Technology Letters",
+  "issns": [
+   "0895-2477",
+   "1098-2760"
+  ],
+  "posi_id": "POSI-J-023543"
+ },
+ {
+  "title": "Small",
+  "issns": [
+   "1613-6810",
+   "1613-6829"
+  ],
+  "posi_id": "POSI-J-023442"
+ },
+ {
+  "title": "Advanced Materials",
+  "issns": [
+   "0935-9648",
+   "1521-4095"
+  ],
+  "posi_id": "POSI-J-023399"
+ },
+ {
+  "title": "Advanced Functional Materials",
+  "issns": [
+   "1616-301X",
+   "1616-3028"
+  ],
+  "posi_id": "POSI-J-023406"
+ },
+ {
+  "title": "Arthroscopy The Journal of Arthroscopic and Related Surgery",
+  "issns": [
+   "0749-8063",
+   "1526-3231"
+  ],
+  "posi_id": "POSI-J-024138"
+ },
+ {
+  "title": "Ultrasound in Obstetrics and Gynecology",
+  "issns": [
+   "0960-7692",
+   "1469-0705"
+  ],
+  "posi_id": "POSI-J-024048"
+ },
+ {
+  "title": "Mathematical Problems in Engineering",
+  "issns": [
+   "1024-123X",
+   "1563-5147"
+  ],
+  "posi_id": "POSI-J-023551"
+ },
+ {
+  "title": "Chemie Ingenieur Technik",
+  "issns": [
+   "0009-286X",
+   "1522-2640"
+  ],
+  "posi_id": "POSI-J-023446"
+ },
+ {
+  "title": "Modern Language Journal",
+  "issns": [
+   "0026-7902",
+   "1540-4781"
+  ],
+  "posi_id": "POSI-J-023770"
+ },
+ {
+  "title": "Optometry and Vision Science",
+  "issns": [
+   "1040-5488",
+   "1538-9235"
+  ],
+  "posi_id": "POSI-J-024100"
+ },
+ {
+  "title": "American Journal of Botany",
+  "issns": [
+   "0002-9122",
+   "1537-2197"
+  ],
+  "posi_id": "POSI-J-023596"
+ },
+ {
+  "title": "Cognitive Science",
+  "issns": [
+   "0364-0213",
+   "1551-6709"
+  ],
+  "posi_id": "POSI-J-023969"
+ },
+ {
+  "title": "Cancer",
+  "issns": [
+   "0008-543X",
+   "1097-0142"
+  ],
+  "posi_id": "POSI-J-024009"
+ },
+ {
+  "title": "The Journal of Comparative Neurology",
+  "issns": [
+   "0021-9967",
+   "1096-9861"
+  ],
+  "posi_id": "POSI-J-023611"
+ },
+ {
+  "title": "Journal of Neuroscience Research",
+  "issns": [
+   "0360-4012",
+   "1097-4547"
+  ],
+  "posi_id": "POSI-J-023725"
+ },
+ {
+  "title": "Developmental Medicine & Child Neurology",
+  "issns": [
+   "0012-1622",
+   "1469-8749"
+  ],
+  "posi_id": "POSI-J-024139"
+ },
+ {
+  "title": "The Journal of Physiology",
+  "issns": [
+   "0022-3751",
+   "1469-7793"
+  ],
+  "posi_id": "POSI-J-023564"
+ },
+ {
+  "title": "FEBS Letters",
+  "issns": [
+   "0014-5793",
+   "1873-3468"
+  ],
+  "posi_id": "POSI-J-023563"
+ },
+ {
+  "title": "Journal of Pediatric Gastroenterology and Nutrition",
+  "issns": [
+   "0277-2116",
+   "1536-4801"
+  ],
+  "posi_id": "POSI-J-024062"
+ },
+ {
+  "title": "Medical Physics",
+  "issns": [
+   "0094-2405",
+   "2473-4209"
+  ],
+  "posi_id": "POSI-J-023400"
+ },
+ {
+  "title": "Southern Economic Journal",
+  "issns": [
+   "0038-4038",
+   "2325-8012"
+  ],
+  "posi_id": "POSI-J-023821"
+ },
+ {
+  "title": "Ecology",
+  "issns": [
+   "0012-9658",
+   "1939-9170"
+  ],
+  "posi_id": "POSI-J-023503"
+ },
+ {
+  "title": "European Journal of Immunology",
+  "issns": [
+   "0014-2980",
+   "1521-4141"
+  ],
+  "posi_id": "POSI-J-023633"
+ },
+ {
+  "title": "physica status solidi (b)",
+  "issns": [
+   "0370-1972",
+   "1521-3951"
+  ],
+  "posi_id": "POSI-J-023427"
+ },
+ {
+  "title": "The Plant Journal",
+  "issns": [
+   "0960-7412",
+   "1365-313X"
+  ],
+  "posi_id": "POSI-J-023710"
+ },
+ {
+  "title": "Transfusion",
+  "issns": [
+   "0041-1132",
+   "1537-2995",
+   "0372-1248"
+  ],
+  "posi_id": "POSI-J-024125"
+ },
+ {
+  "title": "Journal of the American Geriatrics Society",
+  "issns": [
+   "0002-8614",
+   "1532-5415"
+  ],
+  "posi_id": "POSI-J-024083"
+ },
+ {
+  "title": "Journal of the European Academy of Dermatology and Venereology",
+  "issns": [
+   "0926-9959",
+   "1468-3083"
+  ],
+  "posi_id": "POSI-J-024129"
+ },
+ {
+  "title": "European Journal of Neuroscience",
+  "issns": [
+   "0953-816X",
+   "1460-9568"
+  ],
+  "posi_id": "POSI-J-023674"
+ },
+ {
+  "title": "Anaesthesia",
+  "issns": [
+   "0003-2409",
+   "1365-2044"
+  ],
+  "posi_id": "POSI-J-024057"
+ },
+ {
+  "title": "Journal of Food Science",
+  "issns": [
+   "0022-1147",
+   "1750-3841"
+  ],
+  "posi_id": "POSI-J-023598"
+ },
+ {
+  "title": "ChemistrySelect",
+  "issns": [
+   "2365-6549",
+   "2365-6549"
+  ],
+  "posi_id": "POSI-J-023531"
+ },
+ {
+  "title": "Angewandte Chemie International Edition",
+  "issns": [
+   "1433-7851",
+   "1521-3773"
+  ],
+  "posi_id": "POSI-J-023350"
+ },
+ {
+  "title": "Angewandte Chemie",
+  "issns": [
+   "0044-8249",
+   "1521-3757",
+   "1433-7851"
+  ],
+  "posi_id": "POSI-J-023339"
+ },
+ {
+  "title": "American Journal of Medical Genetics Part A",
+  "issns": [
+   "1552-4825",
+   "1552-4833"
+  ],
+  "posi_id": "POSI-J-023719"
+ },
+ {
+  "title": "Chemistry - A European Journal",
+  "issns": [
+   "0947-6539",
+   "1521-3765"
+  ],
+  "posi_id": "POSI-J-023377"
+ },
+ {
+  "title": "Journal of Applied Polymer Science",
+  "issns": [
+   "0021-8995",
+   "1097-4628"
+  ],
+  "posi_id": "POSI-J-023358"
+ },
+ {
+  "title": "British Journal of Haematology",
+  "issns": [
+   "0007-1048",
+   "1365-2141"
+  ],
+  "posi_id": "POSI-J-024056"
+ },
+ {
+  "title": "Clinical Pharmacology & Therapeutics",
+  "issns": [
+   "0009-9236",
+   "1532-6535"
+  ],
+  "posi_id": "POSI-J-023650"
+ },
+ {
+  "title": "Journal of the Science of Food and Agriculture",
+  "issns": [
+   "0022-5142",
+   "1097-0010"
+  ],
+  "posi_id": "POSI-J-023614"
+ },
+ {
+  "title": "Journal of the American Ceramic Society",
+  "issns": [
+   "0002-7820",
+   "1551-2916"
+  ],
+  "posi_id": "POSI-J-023429"
+ },
+ {
+  "title": "Annals of Neurology",
+  "issns": [
+   "0364-5134",
+   "1531-8249"
+  ],
+  "posi_id": "POSI-J-024152"
+ },
+ {
+  "title": "British Journal of Sociology",
+  "issns": [
+   "0007-1315",
+   "1468-4446"
+  ],
+  "posi_id": "POSI-J-023897"
+ },
+ {
+  "title": "International Journal of Dermatology",
+  "issns": [
+   "0011-9059",
+   "1365-4362",
+   "1365-4632"
+  ],
+  "posi_id": "POSI-J-024132"
+ },
+ {
+  "title": "Alimentary Pharmacology & Therapeutics",
+  "issns": [
+   "0269-2813",
+   "1365-2036"
+  ],
+  "posi_id": "POSI-J-023702"
+ },
+ {
+  "title": "Allergy",
+  "issns": [
+   "0105-4538",
+   "1398-9995"
+  ],
+  "posi_id": "POSI-J-024188"
+ },
+ {
+  "title": "International Journal of Eating Disorders",
+  "issns": [
+   "0276-3478",
+   "1098-108X"
+  ],
+  "posi_id": "POSI-J-023914"
+ },
+ {
+  "title": "Biotechnology and Bioengineering",
+  "issns": [
+   "0006-3592",
+   "1097-0290"
+  ],
+  "posi_id": "POSI-J-023644"
+ },
+ {
+  "title": "Photochemistry and Photobiology",
+  "issns": [
+   "0031-8655",
+   "0031-8655",
+   "1751-1097"
+  ],
+  "posi_id": "POSI-J-024200"
+ },
+ {
+  "title": "American Anthropologist",
+  "issns": [
+   "0002-7294",
+   "1548-1433"
+  ],
+  "posi_id": "POSI-J-024047"
+ },
+ {
+  "title": "Magnetic Resonance in Medicine",
+  "issns": [
+   "0740-3194",
+   "1522-2594"
+  ],
+  "posi_id": "POSI-J-024183"
+ },
+ {
+  "title": "Annalen der Physik",
+  "issns": [
+   "0003-3804",
+   "1521-3889"
+  ],
+  "posi_id": "POSI-J-023434"
+ },
+ {
+  "title": "New Phytologist",
+  "issns": [
+   "0028-646X",
+   "1469-8137"
+  ],
+  "posi_id": "POSI-J-023621"
+ },
+ {
+  "title": "British Journal of Clinical Pharmacology",
+  "issns": [
+   "0306-5251",
+   "1365-2125"
+  ],
+  "posi_id": "POSI-J-023678"
+ },
+ {
+  "title": "Otolaryngology",
+  "issns": [
+   "0194-5998",
+   "1097-6817",
+   "0161-6439"
+  ],
+  "posi_id": "POSI-J-024049"
+ },
+ {
+  "title": "Molecular Microbiology",
+  "issns": [
+   "0950-382X",
+   "1365-2958"
+  ],
+  "posi_id": "POSI-J-023682"
+ },
+ {
+  "title": "Journal of Child Psychology and Psychiatry",
+  "issns": [
+   "0021-9630",
+   "1469-7610"
+  ],
+  "posi_id": "POSI-J-023876"
+ },
+ {
+  "title": "Crop Science",
+  "issns": [
+   "0011-183X",
+   "1435-0653"
+  ],
+  "posi_id": "POSI-J-023618"
+ },
+ {
+  "title": "Acta Psychiatrica Scandinavica",
+  "issns": [
+   "0001-690X",
+   "1600-0447"
+  ],
+  "posi_id": "POSI-J-024166"
+ },
+ {
+  "title": "Alzheimer s & Dementia",
+  "issns": [
+   "1552-5260",
+   "1552-5279"
+  ],
+  "posi_id": "POSI-J-023997"
+ },
+ {
+  "title": "The FASEB Journal",
+  "issns": [
+   "0892-6638",
+   "1530-6860"
+  ],
+  "posi_id": "POSI-J-023987"
+ },
+ {
+  "title": "Epilepsia",
+  "issns": [
+   "0013-9580",
+   "1528-1157",
+   "1528-1167"
+  ],
+  "posi_id": "POSI-J-024147"
+ },
+ {
+  "title": "British Journal of Pharmacology",
+  "issns": [
+   "0007-1188",
+   "1476-5381"
+  ],
+  "posi_id": "POSI-J-023607"
+ },
+ {
+  "title": "Journal of Neurochemistry",
+  "issns": [
+   "0022-3042",
+   "1471-4159"
+  ],
+  "posi_id": "POSI-J-023583"
+ },
+ {
+  "title": "Journal of the Experimental Analysis of Behavior",
+  "issns": [
+   "0022-5002",
+   "0022-5002",
+   "1938-3711"
+  ],
+  "posi_id": "POSI-J-023975"
+ },
+ {
+  "title": "Annals of the New York Academy of Sciences",
+  "issns": [
+   "0077-8923",
+   "1749-6632"
+  ],
+  "posi_id": "POSI-J-023561"
+ },
+ {
+  "title": "Journal of Forensic Sciences",
+  "issns": [
+   "0022-1198",
+   "1556-4029"
+  ],
+  "posi_id": "POSI-J-023721"
+ },
+ {
+  "title": "Molecular Ecology",
+  "issns": [
+   "0962-1083",
+   "1365-294X"
+  ],
+  "posi_id": "POSI-J-023727"
+ },
+ {
+  "title": "Science Education",
+  "issns": [
+   "0036-8326",
+   "1098-237X"
+  ],
+  "posi_id": "POSI-J-023808"
+ },
+ {
+  "title": "Journal of Clinical Psychology",
+  "issns": [
+   "0021-9762",
+   "1097-4679"
+  ],
+  "posi_id": "POSI-J-023810"
+ },
+ {
+  "title": "International Journal of Cancer",
+  "issns": [
+   "0020-7136",
+   "1097-0215"
+  ],
+  "posi_id": "POSI-J-023582"
+ },
+ {
+  "title": "The Laryngoscope",
+  "issns": [
+   "0023-852X",
+   "1531-4995"
+  ],
+  "posi_id": "POSI-J-024027"
+ },
+ {
+  "title": "BJU International",
+  "issns": [
+   "1464-4096",
+   "1464-410X"
+  ],
+  "posi_id": "POSI-J-024177"
+ },
+ {
+  "title": "Vox Sanguinis",
+  "issns": [
+   "0042-9007",
+   "1423-0410"
+  ],
+  "posi_id": "POSI-J-024174"
+ },
+ {
+  "title": "Journal of Marriage and Family",
+  "issns": [
+   "0022-2445",
+   "1741-3737"
+  ],
+  "posi_id": "POSI-J-023900"
+ },
+ {
+  "title": "Journal of the American Oil Chemists Society",
+  "issns": [
+   "0003-021X",
+   "1558-9331"
+  ],
+  "posi_id": "POSI-J-023516"
+ },
+ {
+  "title": "Risk Analysis",
+  "issns": [
+   "0272-4332",
+   "1539-6924"
+  ],
+  "posi_id": "POSI-J-023908"
+ },
+ {
+  "title": "Public Administration",
+  "issns": [
+   "0033-3298",
+   "1467-9299"
+  ],
+  "posi_id": "POSI-J-023964"
+ },
+ {
+  "title": "Journal of Advanced Nursing",
+  "issns": [
+   "0309-2402",
+   "1365-2648"
+  ],
+  "posi_id": "POSI-J-024169"
+ },
+ {
+  "title": "Quality and Reliability Engineering International",
+  "issns": [
+   "0748-8017",
+   "1099-1638"
+  ],
+  "posi_id": "POSI-J-023981"
+ },
+ {
+  "title": "Psychology in the Schools",
+  "issns": [
+   "0033-3085",
+   "1520-6807"
+  ],
+  "posi_id": "POSI-J-023901"
+ },
+ {
+  "title": "Agronomy Journal",
+  "issns": [
+   "0002-1962",
+   "1435-0645"
+  ],
+  "posi_id": "POSI-J-023612"
+ },
+ {
+  "title": "Helvetica Chimica Acta",
+  "issns": [
+   "0018-019X",
+   "1522-2675"
+  ],
+  "posi_id": "POSI-J-023608"
+ },
+ {
+  "title": "The Medical Journal of Australia",
+  "issns": [
+   "0025-729X",
+   "1326-5377"
+  ],
+  "posi_id": "POSI-J-023986"
+ },
+ {
+  "title": "Journal of Cellular Physiology",
+  "issns": [
+   "0021-9541",
+   "1097-4652"
+  ],
+  "posi_id": "POSI-J-023642"
+ },
+ {
+  "title": "The Journal of Finance",
+  "issns": [
+   "0022-1082",
+   "1540-6261"
+  ],
+  "posi_id": "POSI-J-023789"
+ },
+ {
+  "title": "Public Administration Review",
+  "issns": [
+   "0033-3352",
+   "1540-6210"
+  ],
+  "posi_id": "POSI-J-023857"
+ },
+ {
+  "title": "Archiv der Pharmazie",
+  "issns": [
+   "0365-6233",
+   "1521-4184"
+  ],
+  "posi_id": "POSI-J-023387"
+ },
+ {
+  "title": "Geographical Journal",
+  "issns": [
+   "0016-7398",
+   "1475-4959"
+  ],
+  "posi_id": "POSI-J-023771"
+ },
+ {
+  "title": "Soil Science Society of America Journal",
+  "issns": [
+   "0361-5995",
+   "1435-0661"
+  ],
+  "posi_id": "POSI-J-023630"
+ },
+ {
+  "title": "American Journal of Primatology",
+  "issns": [
+   "0275-2565",
+   "1098-2345"
+  ],
+  "posi_id": "POSI-J-023961"
+ },
+ {
+  "title": "European Journal of Organic Chemistry",
+  "issns": [
+   "1434-193X",
+   "1099-0690"
+  ],
+  "posi_id": "POSI-J-023523"
+ },
+ {
+  "title": "Economica",
+  "issns": [
+   "0013-0427",
+   "1468-0335"
+  ],
+  "posi_id": "POSI-J-023871"
+ },
+ {
+  "title": "ZAMM ‐ Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik",
+  "issns": [
+   "0044-2267",
+   "1521-4001"
+  ],
+  "posi_id": "POSI-J-023545"
+ },
+ {
+  "title": "Journal of Policy Analysis and Management",
+  "issns": [
+   "0276-8739",
+   "1520-6688"
+  ],
+  "posi_id": "POSI-J-023976"
+ },
+ {
+  "title": "Journal of Cellular Biochemistry",
+  "issns": [
+   "0730-2312",
+   "1097-4644"
+  ],
+  "posi_id": "POSI-J-023672"
+ },
+ {
+  "title": "Pacing and Clinical Electrophysiology",
+  "issns": [
+   "0147-8389",
+   "1540-8159"
+  ],
+  "posi_id": "POSI-J-024198"
+ },
+ {
+  "title": "Bulletin of the Korean Chemical Society",
+  "issns": [
+   "0253-2964",
+   "1229-5949"
+  ],
+  "posi_id": "POSI-J-023689"
+ },
+ {
+  "title": "Taxon",
+  "issns": [
+   "0040-0262",
+   "1996-8175"
+  ],
+  "posi_id": "POSI-J-023696"
+ },
+ {
+  "title": "Philosophy and Phenomenological Research",
+  "issns": [
+   "0031-8205",
+   "1933-1592"
+  ],
+  "posi_id": "POSI-J-023867"
+ },
+ {
+  "title": "American Journal of Agricultural Economics",
+  "issns": [
+   "0002-9092",
+   "1467-8276"
+  ],
+  "posi_id": "POSI-J-023717"
+ },
+ {
+  "title": "Journal of Applied Social Psychology",
+  "issns": [
+   "0021-9029",
+   "1559-1816"
+  ],
+  "posi_id": "POSI-J-023960"
+ },
+ {
+  "title": "School Science and Mathematics",
+  "issns": [
+   "0036-6803",
+   "1949-8594"
+  ],
+  "posi_id": "POSI-J-023622"
+ },
+ {
+  "title": "Biopolymers",
+  "issns": [
+   "0006-3525",
+   "1097-0282"
+  ],
+  "posi_id": "POSI-J-023732"
+ }
+]
