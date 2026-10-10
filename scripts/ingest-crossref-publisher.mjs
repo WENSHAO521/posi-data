@@ -60,7 +60,7 @@ for (const c of candidates) {
   else fresh.push(c)
 }
 
-const entityOf = (c, n) => ({ candidate_id: String(n), issn_l: null, issn_set: [...c.ISSN].sort(), openalex_source_ids: [], representative_title: c.title })
+const entityOf = (c, n) => ({ candidate_id: String(n), issn_l: null, issn_set: [...new Set(c.ISSN)].sort(), openalex_source_ids: [], representative_title: c.title })
 const entities = fresh.map(entityOf)
 const { assignments, newRegistryRows, unresolved } = resolveOrMintIds(entities, registryIndex, nextSequenceNumber(regRows), retrieved)
 if (unresolved.length) throw new Error(`${unresolved.length} candidates have no usable ISSN`)

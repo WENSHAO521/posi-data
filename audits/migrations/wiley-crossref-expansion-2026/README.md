@@ -34,6 +34,14 @@ Validated with `posi-engine/scripts/validate-against-schema.mjs`: all valid.
 - `open_access` is true only for the 5 journals found in DOAJ; the rest are subscription journals (`false`). `license`, `country`, `language`, `classification` are `null`: Crossref does not supply them.
 - Journals with the same ISSN under a new publisher are not renamed here; this run only adds.
 
+## Correction: duplicate ISSNs in the first run's registry rows
+
+Crossref lists a journal's ISSN twice when its print and online ISSN are the same, and the first run built the
+`issn_pair` value from that list, so 177 of the 1,553 new rows had values such as `2637-3726/2637-3726` or
+`1344-3941/1344-3941/1740-0929`. `registry/README.md` counts identical ISSNs as one. The `identity_value` of those
+177 rows was corrected (ids unchanged, none had been used by anything else yet); the list is in
+[`registry-identity-value-fixes.json`](./registry-identity-value-fixes.json), and the script now de-duplicates the ISSN set.
+
 ## Reproducibility
 
 ```
