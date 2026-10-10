@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/master/schema/pcs-edition.schema.json",
+  "title": "POSI PCS edition (PCS-Q-1.0 build)",
+  "description": "rankings/pcs-q/pcs-q-<Y>.json.gz: one record per journal. The edition is the source of PCS values; its rank, percentile and quartile fields are retired as a ranking (POSI-EVAL-1.0, PCS-Q-1.0-SPEC.md) and kept for continuity only.",
+  "type": "object",
+  "required": ["methodology_version", "metric_year", "records"],
+  "properties": {
+    "methodology_version": { "const": "PCS-Q-1.0" },
+    "metric_year": { "type": "integer", "minimum": 2020 },
+    "records": { "type": "array", "items": { "$ref": "#/$defs/record" } }
+  },
+  "$defs": {
+    "nullableInt": { "type": ["integer", "null"], "minimum": 1 },
+    "quartile": { "enum": ["Q1", "Q2", "Q3", "Q4", null] },
+    "record": {
+      "type": "object",
+      "required": [
+        "journal_id", "track", "metric_year", "pcs", "pcs_eligible_items", "category_code",
+        "rank", "rank_mid", "category_size", "percentile", "quartile", "quartile_label",
+        "overall_rank", "overall_size", "overall_percentile", "overall_quartile",
+        "ranking_method", "exclusion_reason", "tied_with", "methodology_version", "title", "issn"
+      ],
+      "properties": {
+        "journal_id": { "type": "string", "pattern": "^(POSI-J-\\d{6}|ISSNL-\\d{4}-\\d{3}[\\dXx])$" },
+        "track": { "const": "pcs" },
+        "metric_year": { "type": "integer", "minimum": 2020 },
+        "pcs": { "type": ["number", "null"], "minimum": 0, "description": "PCS-1.0, unrounded." },
+        "pcs_eligible_items": { "type": "integer", "minimum": 0 },
+        "category_code": { "type": ["string", "null"] },
+        "rank": { "$ref": "#/$defs/nullableInt" },
+        "rank_mid": { "type": ["number", "null"], "minimum": 1 },
+        "category_size": { "$ref": "#/$defs/nullableInt" },
+        "percentile": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+        "quartile": { "$ref": "#/$defs/quartile" },
+        "quartile_label": { "enum": ["PCS-Q1", "PCS-Q2", "PCS-Q3", "PCS-Q4", null] },
+        "overall_rank": { "$ref": "#/$defs/nullableInt" },
+        "overall_size": { "$ref": "#/$defs/nullableInt" },
+        "overall_percentile": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+        "overall_quartile": { "$ref": "#/$defs/quartile" },
+        "ranking_method": { "enum": ["pcs_midrank", "unavailable"] },
+        "exclusion_reason": {
+          "enum": [null, "no_pcs", "too_few_items", "incomplete_fetch", "multidisciplinary", "no_psc_category", "psc_confidence_not_rank_eligible", "category_below_min_size"]
+        },
+        "tied_with": { "type": "array", "items": { "type": "string" } },
+        "methodology_version": { "const": "PCS-Q-1.0" },
+        "title": { "type": "string" },
+        "publisher": { "type": ["string", "null"] },
+        "issn": { "type": "array", "items": { "type": "string" } },
+        "open_access": { "type": ["boolean", "null"] }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "ranking_method": { "const": "pcs_midrank" } }, "required": ["ranking_method"] },
+          "then": { "properties": { "rank": { "type": "integer" }, "quartile": { "enum": ["Q1", "Q2", "Q3", "Q4"] }, "exclusion_reason": { "const": null } } },
+          "else": { "properties": { "rank": { "const": null }, "quartile": { "const": null }, "exclusion_reason": { "type": "string" } } }
+        }
+      ]
+    }
+  }
+}

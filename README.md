@@ -46,7 +46,7 @@ and kept only as archive.
 |---|---|
 | [POSI-EVAL-1.0](./POSI-EVAL-1.0-SPEC.md) | Evaluation architecture: ranking method, percentiles, quartiles, zones, minimum data, ties, snapshots, versioning, limitations |
 | [PNCI-1.0](./PNCI-1.0-SPEC.md) | PNCI formula, items, baselines |
-| [AJR](./AJR-SPEC.md), [AJR-E-1.1](./AJR-E-1.1-SPEC.md), [AJR-M-1.1](./AJR-M-1.0-SPEC.md) | Lifecycle rating models |
+| [AJR](./AJR-SPEC.md), [AJR-E](./AJR-E-1.1-SPEC.md) (current AJR-E-1.2), [AJR-M](./AJR-M-1.0-SPEC.md) (current AJR-M-1.2) | Lifecycle rating models |
 | [PJR](./PJR-SPEC.md) | PCI / PCI-5 and PJR releases |
 | [PCS-1.0](./PCS-1.0-SPEC.md) | PCS |
 | [PSC-CROSSWALK](./PSC-CROSSWALK.md) | Subject classification |

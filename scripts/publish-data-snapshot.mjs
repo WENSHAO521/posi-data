@@ -87,6 +87,7 @@
  *     [--snapshot-id 2026-08-13] \
  *     [--pcs-audit-dir path] [--pci-audit-dir path]
  *     [--checksums-only]   print the collection checksums a release manifest records, write nothing
+ *     [--with-versions]    with --checksums-only: also print the manifest's component versions as "_versions"
  */
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'fs'
@@ -147,6 +148,22 @@ function loadReleases() {
     .filter(f => existsSync(f))
     .map(f => JSON.parse(readFileSync(f, 'utf-8')))
     .sort((a, b) => (a.published < b.published ? 1 : a.published > b.published ? -1 : 0))
+}
+
+/**
+ * The highest version stamp among the published ratings (e.g. 'AJR-E-1.2'),
+ * so the manifest names the version the data was actually rated with and
+ * cannot fall behind posi-engine. `fallback` is the version in force when no
+ * journal carries a stamp yet.
+ */
+function newestVersion(stamps, fallback) {
+  const key = v => (/(\d+(?:\.\d+)*)$/.exec(v)?.[1] ?? '').split('.').map(Number)
+  const newer = (a, b) => {
+    const [x, y] = [key(a), key(b)]
+    for (let i = 0; i < Math.max(x.length, y.length); i++) if ((x[i] ?? 0) !== (y[i] ?? 0)) return (x[i] ?? 0) > (y[i] ?? 0)
+    return false
+  }
+  return stamps.filter(Boolean).reduce((best, v) => (best === null || newer(v, best) ? v : best), null) ?? fallback
 }
 
 function main() {
@@ -238,15 +255,50 @@ function main() {
   if (pcsQEdition) files['collections/pcs-q.json.gz'] = gzipSync(JSON.stringify(pcsQEdition) + '\n', { level: 9 })
   // The two editions are generated and checksummed as wholes (posi-engine; posi-data-delivery archives each by its
   // SHA-256), and their ranks are computed across all journals, so removing a record here would change the
-  // edition's identity and leave it inconsistent. A withdrawn journal in one is therefore not removed but reported:
-  // the fix is a regenerated edition without it.
+  // edition's identity and leave it inconsistent. A withdrawn journal in one is therefore not removed but makes
+  // the snapshot fail: the fix is a regenerated edition without it.
   for (const [name, edition] of [['Citation Ranking', citationEdition], ['PCS', pcsQEdition]]) {
     const carried = edition ? edition.records.filter(r => withdrawnIds.has(r.journal_id)).map(r => r.journal_id) : []
-    if (carried.length > 0) console.warn(`Warning: the ${name} edition still contains ${carried.length} withdrawn journal(s) (${carried.join(', ')}); it is published unmodified. Regenerate the edition without them.`)
+    if (carried.length > 0) {
+      const msg = `the ${name} edition still contains ${carried.length} withdrawn journal(s) (${carried.join(', ')}); regenerate the edition without them`
+      // A withdrawn journal must not be published. Writing a snapshot stops here; a
+      // checksum check only warns, so the sync reports the failure at the build step.
+      if (!checksumsOnly) throw new Error(msg)
+      console.warn(`Warning: ${msg}.`)
+    }
+  }
+  const versions = {
+    lifecycle_version: 'LIFECYCLE-1.1',
+    psc_crosswalk_version: 'PSC-CROSSWALK-0.3',
+    ajr_e_version: newestVersion(coreCollection.map(j => j.early_stage_rating?.version), 'AJR-E-1.2'),
+    ajr_m_version: newestVersion(coreCollection.map(j => j.mature_rating?.methodology_version), 'AJR-M-1.2'),
+    // Archived E-Q/M-Q/Citation Q/PCS-Q ranking core; retired as published rankings (POSI-EVAL-1.0).
+    rank_version: 'RANK-1.0',
+    evaluation_version: 'POSI-EVAL-1.0',
+    citation_rank_version: citationEdition?.ranking_methodology_version ?? 'Pending',
+    pnci_version: citationEdition?.pnci_model_version ?? 'Pending',
+    zones_version: citationEdition?.zones_version ?? 'Pending',
+    citation_ranking_metric_year: citationEdition?.metric_year ?? null,
+    ranking_snapshot_date: citationEdition?.snapshot_date ?? null,
+    citation_ranking_official_count: citationEdition ? citationEdition.records.filter(r => r.citation_ranking_status === 'official').length : 0,
+    citation_ranking_ranked_count: citationEdition ? citationEdition.records.filter(r => r.citation_rank != null).length : 0,
+    evidence_version: 'EC-1.1',
+    diagnostics_version: 'DIAG-1.0',
+    // 'PCS-1.0' once a real PCS collection is actually published in this
+    // snapshot (mirrors how ajr_e_version/ajr_m_version reflect the spec
+    // version currently in force, not merely "some data exists"); falls
+    // back to 'Pending' if this run had no PCS audit to read from.
+    pcs_version: pcsRecords !== null ? 'PCS-1.0' : 'Pending',
+    // 'PCI-1.0' once a real PCI collection is actually published in this
+    // snapshot, mirroring pcs_version's own convention above. Scope note:
+    // covers curated Global Benchmark only, not Core Collection -- see
+    // pjr-seed-corpus-global993-2026/README.md.
+    pci_version: pciRecords !== null ? 'PCI-1.0' : 'Pending',
+    pcs_q_version: pcsQEdition?.methodology_version ?? 'Pending',
   }
   const fileSums = Object.fromEntries(Object.entries(files).map(([relPath, content]) => [relPath, sha256(content)]))
   if (checksumsOnly) {
-    console.log(JSON.stringify(fileSums, null, 2))
+    console.log(JSON.stringify(process.argv.includes('--with-versions') ? { ...fileSums, _versions: versions } : fileSums, null, 2))
     return
   }
 
@@ -290,32 +342,7 @@ function main() {
     note,
     generated_at: new Date().toISOString(),
     data_cutoff: isRelease ? latestRelease.data_cutoff : today,
-    lifecycle_version: 'LIFECYCLE-1.1',
-    psc_crosswalk_version: 'PSC-CROSSWALK-0.3',
-    ajr_e_version: 'AJR-E-1.1',
-    ajr_m_version: 'AJR-M-1.0',
-    // Archived E-Q/M-Q/Citation Q/PCS-Q ranking core; retired as published rankings (POSI-EVAL-1.0).
-    rank_version: 'RANK-1.0',
-    evaluation_version: 'POSI-EVAL-1.0',
-    citation_rank_version: citationEdition?.ranking_methodology_version ?? 'Pending',
-    pnci_version: citationEdition?.pnci_model_version ?? 'Pending',
-    zones_version: citationEdition?.zones_version ?? 'Pending',
-    citation_ranking_metric_year: citationEdition?.metric_year ?? null,
-    ranking_snapshot_date: citationEdition?.snapshot_date ?? null,
-    citation_ranking_official_count: citationEdition ? citationEdition.records.filter(r => r.citation_ranking_status === 'official').length : 0,
-    citation_ranking_ranked_count: citationEdition ? citationEdition.records.filter(r => r.citation_rank != null).length : 0,
-    evidence_version: 'EVIDENCE-1.0',
-    diagnostics_version: 'DIAG-1.0',
-    // 'PCS-1.0' once a real PCS collection is actually published in this
-    // snapshot (mirrors how ajr_e_version/ajr_m_version reflect the spec
-    // version currently in force, not merely "some data exists"); falls
-    // back to 'Pending' if this run had no PCS audit to read from.
-    pcs_version: pcsRecords !== null ? 'PCS-1.0' : 'Pending',
-    // 'PCI-1.0' once a real PCI collection is actually published in this
-    // snapshot, mirroring pcs_version's own convention above. Scope note:
-    // covers curated Global Benchmark only, not Core Collection -- see
-    // pjr-seed-corpus-global993-2026/README.md.
-    pci_version: pciRecords !== null ? 'PCI-1.0' : 'Pending',
+    ...versions,
     pjr_release: null,
     data_commit: dataCommit,
     engine_commit: engineCommit,
@@ -341,7 +368,6 @@ function main() {
     // category's real-PCI peer pool (Core Collection + Global Benchmark,
     // PJR-SPEC.md § 8) reaches MIN_CATEGORY_SIZE=20 for that journal.
     citation_q_ranked_count: rankedCount,
-    pcs_q_version: pcsQEdition?.methodology_version ?? 'Pending',
     pcs_q_metric_year: pcsQEdition?.metric_year ?? null,
     // DEPRECATED (POSI-EVAL-1.0): PCS-Q is not a ranking; count kept for continuity.
     pcs_q_ranked_count: pcsQEdition ? pcsQEdition.records.filter(r => r.overall_rank != null).length : 0,
