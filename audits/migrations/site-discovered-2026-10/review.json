@@ -1,0 +1,1484 @@
+{
+ "quarantined": [],
+ "conflicts": [],
+ "title_overlaps": [
+  {
+   "title": "Journal of Electromagnetic Engineering and Science",
+   "candidates": [
+    {
+     "issns": [
+      "2671-7255",
+      "2671-7263"
+     ],
+     "publisher": "The Korean Institute of Electromagnetic Engineering and Science"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-004261"
+   ]
+  },
+  {
+   "title": "SCRIPTA MEDICA",
+   "candidates": [
+    {
+     "issns": [
+      "2490-3329"
+     ],
+     "publisher": "Faculty of Agronomy in Čačak"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-004946"
+   ]
+  },
+  {
+   "title": "Indian Journal of Neurotrauma",
+   "candidates": [
+    {
+     "issns": [
+      "0973-0508"
+     ],
+     "publisher": "Thieme Medical Publishers (Germany)"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-006837"
+   ]
+  },
+  {
+   "title": "Informatics and Automation",
+   "candidates": [
+    {
+     "issns": [
+      "2713-3192",
+      "2713-3206"
+     ],
+     "publisher": "SPIIRAS"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-003469"
+   ]
+  },
+  {
+   "title": "Journal of Yeungnam Medical Science",
+   "candidates": [
+    {
+     "issns": [
+      "2799-8010"
+     ],
+     "publisher": "Yeungnam University College of Medicine"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-008193"
+   ]
+  },
+  {
+   "title": "Ocean and Coastal Research",
+   "candidates": [
+    {
+     "issns": [
+      "2675-2824"
+     ],
+     "publisher": "SciELO"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-004520"
+   ]
+  },
+  {
+   "title": "Journal of Clinical Practice and Research",
+   "candidates": [
+    {
+     "issns": [
+      "2980-2156"
+     ],
+     "publisher": "KARE Publishing"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-005341"
+   ]
+  },
+  {
+   "title": "iPolytech Journal",
+   "candidates": [
+    {
+     "issns": [
+      "2782-4004",
+      "2782-6341"
+     ],
+     "publisher": "Irkutsk National Research Technical University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-003951"
+   ]
+  },
+  {
+   "title": "Journal of Kinesiology and Exercise Sciences",
+   "candidates": [
+    {
+     "issns": [
+      "2956-4581"
+     ],
+     "publisher": "Index Copernicus International S.A."
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-014391"
+   ]
+  },
+  {
+   "title": "European journal of human movement",
+   "candidates": [
+    {
+     "issns": [
+      "2386-4095"
+     ],
+     "publisher": "Universidad Miguel Hernandez de Elche"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-015064"
+   ]
+  },
+  {
+   "title": "Kairos",
+   "candidates": [
+    {
+     "issns": [
+      "1846-4599",
+      "1848-2511"
+     ],
+     "publisher": "Biblijski institut"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017344"
+   ]
+  },
+  {
+   "title": "GEUS Bulletin",
+   "candidates": [
+    {
+     "issns": [
+      "2597-2154",
+      "2597-2162"
+     ],
+     "publisher": "Geoloical Survey of Denmark and Greenland"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-007148"
+   ]
+  },
+  {
+   "title": "Nordic Journal of Studies in Policing",
+   "candidates": [
+    {
+     "issns": [
+      "2703-7045"
+     ],
+     "publisher": "Scandinavian University Press/Universitetsforlaget"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017696"
+   ]
+  },
+  {
+   "title": "Le foucaldien",
+   "candidates": [
+    {
+     "issns": [
+      "2755-0923"
+     ],
+     "publisher": "Open Library of Humanities"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017810"
+   ]
+  },
+  {
+   "title": "Turkish journal of islamic economics",
+   "candidates": [
+    {
+     "issns": [
+      "2587-2303",
+      "2587-232X"
+     ],
+     "publisher": "Nokta Yayın Grubu"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-016499"
+   ]
+  },
+  {
+   "title": "Musicology of Kyiv",
+   "candidates": [
+    {
+     "issns": [
+      "2617-0302"
+     ],
+     "publisher": "R. Glier Kyiv Institute of Music"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017501"
+   ]
+  },
+  {
+   "title": "Logistics Supply Chain Sustainability and Global Challenges",
+   "candidates": [
+    {
+     "issns": [
+      "2784-7497"
+     ],
+     "publisher": "De Gruyter Poland Sp. z o.o."
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019301"
+   ]
+  },
+  {
+   "title": "Sovremennye issledovaniya sotsialnykh problem",
+   "candidates": [
+    {
+     "issns": [
+      "3033-5981"
+     ],
+     "publisher": "Science and Innovation Center"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-001546"
+   ]
+  },
+  {
+   "title": "Comptes Rendus Mécanique",
+   "candidates": [
+    {
+     "issns": [
+      "1631-0721"
+     ],
+     "publisher": "Elsevier BV"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-001874"
+   ]
+  },
+  {
+   "title": "Dance Articulated",
+   "candidates": [
+    {
+     "issns": [
+      "2703-8327"
+     ],
+     "publisher": "Norwegian University of Science and Technology"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-020163"
+   ]
+  },
+  {
+   "title": "European Journal of Biology",
+   "candidates": [
+    {
+     "issns": [
+      "2602-2575"
+     ],
+     "publisher": "Istanbul University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-012862"
+   ]
+  },
+  {
+   "title": "Business and Economic Analysis Journal",
+   "candidates": [
+    {
+     "issns": [
+      "2798-396X"
+     ],
+     "publisher": "Jurusan Ilmu Komputer Universitas Negeri Semarang"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019947"
+   ]
+  },
+  {
+   "title": "Al-Mukhtar journal of sciences.",
+   "candidates": [
+    {
+     "issns": [
+      "3006-6352"
+     ],
+     "publisher": "Omar Al-Mukhtar University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-005934"
+   ]
+  },
+  {
+   "title": "Revista Criterios",
+   "candidates": [
+    {
+     "issns": [
+      "0121-8670"
+     ],
+     "publisher": "Universidad Mariana"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-014291"
+   ]
+  },
+  {
+   "title": "Journal of pathology informatics",
+   "candidates": [
+    {
+     "issns": [
+      "2229-5089"
+     ],
+     "publisher": "Medknow"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-003275"
+   ]
+  },
+  {
+   "title": "Istanbul Journal of Economics / İstanbul İktisat Dergisi",
+   "candidates": [
+    {
+     "issns": [
+      "2602-4152"
+     ],
+     "publisher": "Istanbul University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-013260"
+   ]
+  },
+  {
+   "title": "Revista Desarrollo y Sociedad",
+   "candidates": [
+    {
+     "issns": [
+      "0120-3584"
+     ],
+     "publisher": "Universidad de Los Andes"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-005750"
+   ]
+  },
+  {
+   "title": "ABUAD Journal of Engineering Research and Development (AJERD)",
+   "candidates": [
+    {
+     "issns": [
+      "2756-6811"
+     ],
+     "publisher": "Afe Babalola University Ado-Ekiti"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-011411"
+   ]
+  },
+  {
+   "title": "UMYU Journal of Microbiology Research (UJMR)",
+   "candidates": [
+    {
+     "issns": [
+      "2616-0668"
+     ],
+     "publisher": "Umaru Musa YarAdua University Katsina NG"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-006280"
+   ]
+  },
+  {
+   "title": "Jurnal Teknologi Informatika dan Komputer",
+   "candidates": [
+    {
+     "issns": [
+      "2656-9957"
+     ],
+     "publisher": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Mohammad Husni Thamrin"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-007467"
+   ]
+  },
+  {
+   "title": "Espiral estudios sobre Estado y sociedad",
+   "candidates": [
+    {
+     "issns": [
+      "1665-0565"
+     ],
+     "publisher": "University of Guadalajara"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-007648"
+   ]
+  },
+  {
+   "title": "La Colmena",
+   "candidates": [
+    {
+     "issns": [
+      "1405-6313"
+     ],
+     "publisher": "Universidad Autónoma del Estado de México"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-008129",
+    "POSI-J-020034"
+   ]
+  },
+  {
+   "title": "Mimbar Hukum - Fakultas Hukum Universitas Gadjah Mada",
+   "candidates": [
+    {
+     "issns": [
+      "0852-100X"
+     ],
+     "publisher": "Gadjah Mada University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-005989"
+   ]
+  },
+  {
+   "title": "International Journal of Technology",
+   "candidates": [
+    {
+     "issns": [
+      "2086-9614"
+     ],
+     "publisher": "University of Indonesia"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-001999"
+   ]
+  },
+  {
+   "title": "Cahiers de narratologie",
+   "candidates": [
+    {
+     "issns": [
+      "0993-8516"
+     ],
+     "publisher": "Laboratoire Interdisciplinaire Récits Cultures Et Sociétés"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-005079"
+   ]
+  },
+  {
+   "title": "Jurnal Prima Edukasia",
+   "candidates": [
+    {
+     "issns": [
+      "2338-4743"
+     ],
+     "publisher": "State University of Yogyakarta"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-010559"
+   ]
+  },
+  {
+   "title": "INTENSIF Jurnal Ilmiah Penelitian dan Penerapan Teknologi Sistem Informasi",
+   "candidates": [
+    {
+     "issns": [
+      "2580-409X"
+     ],
+     "publisher": "Universitas Nusantara PGRI Kediri"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-014096"
+   ]
+  },
+  {
+   "title": "Journal of Moral and Civic Education",
+   "candidates": [
+    {
+     "issns": [
+      "2580-412X"
+     ],
+     "publisher": "Universitas Negeri Padang"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017732"
+   ]
+  },
+  {
+   "title": "Rekayasa Bahan Alam dan Energi Berkelanjutan",
+   "candidates": [
+    {
+     "issns": [
+      "2548-2300"
+     ],
+     "publisher": "Brawijaya University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-018094"
+   ]
+  },
+  {
+   "title": "Informaatiotutkimus",
+   "candidates": [
+    {
+     "issns": [
+      "1797-9137"
+     ],
+     "publisher": "Informaatiotutkimuksen yhdistys ITY"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-010576"
+   ]
+  },
+  {
+   "title": "Jurnal Riset dan Aplikasi Akuntansi dan Manajemen",
+   "candidates": [
+    {
+     "issns": [
+      "2443-3381"
+     ],
+     "publisher": "Politeknik Negeri Malang"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-012570"
+   ]
+  },
+  {
+   "title": "KEMBARA Journal of Scientific Language Literature and Teaching",
+   "candidates": [
+    {
+     "issns": [
+      "2442-7632"
+     ],
+     "publisher": "Muhammadiyah University of Malang"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-007998"
+   ]
+  },
+  {
+   "title": "Studi Multidisipliner Jurnal Kajian Keislaman",
+   "candidates": [
+    {
+     "issns": [
+      "2355-7850"
+     ],
+     "publisher": "Universitas Islam Negeri Syekh Ali Hasan Ahmad Addary Padangsidimpuan"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-013734"
+   ]
+  },
+  {
+   "title": "Ultrasound International Open",
+   "candidates": [
+    {
+     "issns": [
+      "2509-596X"
+     ],
+     "publisher": "Georg Thieme Verlag"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-011894"
+   ]
+  },
+  {
+   "title": "JURNAL PENDIDIKAN KEPERAWATAN INDONESIA",
+   "candidates": [
+    {
+     "issns": [
+      "2541-0024"
+     ],
+     "publisher": "Universitas Pendidikan Indonesia Press"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-012357"
+   ]
+  },
+  {
+   "title": "JAUR (JOURNAL OF ARCHITECTURE AND URBANISM RESEARCH)",
+   "candidates": [
+    {
+     "issns": [
+      "2599-0179"
+     ],
+     "publisher": "Medan Area University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-016594"
+   ]
+  },
+  {
+   "title": "International Journal of Multilingual Education",
+   "candidates": [
+    {
+     "issns": [
+      "1987-9601"
+     ],
+     "publisher": "Center for Civil Integration and Inter-Ethnic Relations"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-011295"
+   ]
+  },
+  {
+   "title": "Revista Nuevo Humanismo",
+   "candidates": [
+    {
+     "issns": [
+      "1405-0234"
+     ],
+     "publisher": "National University, Costa Rica"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-014862"
+   ]
+  },
+  {
+   "title": "Armenian folia anglistika",
+   "candidates": [
+    {
+     "issns": [
+      "1829-2429"
+     ],
+     "publisher": "Yerevan State University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-006353"
+   ]
+  },
+  {
+   "title": "Media Jurnal Filsafat dan Teologi",
+   "candidates": [
+    {
+     "issns": [
+      "2775-0116"
+     ],
+     "publisher": "Sekolah Tinggi Filsafat Seminari Pineleng"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017556"
+   ]
+  },
+  {
+   "title": "JKBM (JURNAL KONSEP BISNIS DAN MANAJEMEN)",
+   "candidates": [
+    {
+     "issns": [
+      "2407-2648"
+     ],
+     "publisher": "Medan Area University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-015956"
+   ]
+  },
+  {
+   "title": "NeoBiota",
+   "candidates": [
+    {
+     "issns": [
+      "1619-0033"
+     ],
+     "publisher": "Pensoft Publishers"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-004543"
+   ]
+  },
+  {
+   "title": "Jurnal Ilmiah Dinamika Sosial",
+   "candidates": [
+    {
+     "issns": [
+      "2597-3657"
+     ],
+     "publisher": "Universitas Pendidikan Nasional"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-015034"
+   ]
+  },
+  {
+   "title": "Linguistic English Education and Art (LEEA) Journal",
+   "candidates": [
+    {
+     "issns": [
+      "2597-9248"
+     ],
+     "publisher": "IPM2KPE"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-012174"
+   ]
+  },
+  {
+   "title": "Jati Jurnal Akuntansi Terapan Indonesia",
+   "candidates": [
+    {
+     "issns": [
+      "2615-157X"
+     ],
+     "publisher": "Muhammadiyah University of Yogyakarta"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-016632"
+   ]
+  },
+  {
+   "title": "JAI (Jurnal Anestesiologi Indonesia)",
+   "candidates": [
+    {
+     "issns": [
+      "2337-5124"
+     ],
+     "publisher": "Institute of Research and Community Services Diponegoro University (LPPM UNDIP)"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-009398"
+   ]
+  },
+  {
+   "title": "JIPVA (Jurnal Pendidikan IPA Veteran)",
+   "candidates": [
+    {
+     "issns": [
+      "2598-5876"
+     ],
+     "publisher": "Institut Keguruan dan Ilmu Pendidikan (IKIP) Veteran Semarang"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019265"
+   ]
+  },
+  {
+   "title": "Jornal de Assistência Farmacêutica e Farmacoeconomia",
+   "candidates": [
+    {
+     "issns": [
+      "2525-5010"
+     ],
+     "publisher": "Jornal de Assistencia Farmaceutica e Farmacoeconomia"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-002901"
+   ]
+  },
+  {
+   "title": "Jurnal Ilmu Ekonomi Terapan",
+   "candidates": [
+    {
+     "issns": [
+      "2541-1470"
+     ],
+     "publisher": "Universitas Airlangga"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-015120"
+   ]
+  },
+  {
+   "title": "IBLAM LAW REVIEW",
+   "candidates": [
+    {
+     "issns": [
+      "2775-4146"
+     ],
+     "publisher": "IBLAM Law Review"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-008578"
+   ]
+  },
+  {
+   "title": "JUSTISI",
+   "candidates": [
+    {
+     "issns": [
+      "1979-7532"
+     ],
+     "publisher": "Universitas Muhammadiyah Sidoarjo"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-011815"
+   ]
+  },
+  {
+   "title": "ABEI Journal",
+   "candidates": [
+    {
+     "issns": [
+      "1518-0581"
+     ],
+     "publisher": "University of São Paulo"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-007691"
+   ]
+  },
+  {
+   "title": "CSID Journal of Infrastructure Development",
+   "candidates": [
+    {
+     "issns": [
+      "2407-4438"
+     ],
+     "publisher": "Universitas Indonesia"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-014941"
+   ]
+  },
+  {
+   "title": "Social Psychology and Society",
+   "candidates": [
+    {
+     "issns": [
+      "2221-1527"
+     ],
+     "publisher": "Moscow State University of Psychology and Education"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-006331"
+   ]
+  },
+  {
+   "title": "Jurnal Ilmu Keperawatan Jiwa",
+   "candidates": [
+    {
+     "issns": [
+      "2685-9394"
+     ],
+     "publisher": "Persatuan Perawat Nasional Indonesia Jawa Tengah"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019313"
+   ]
+  },
+  {
+   "title": "Jurnal Pendidikan Geografi Undiksha",
+   "candidates": [
+    {
+     "issns": [
+      "2614-591X"
+     ],
+     "publisher": "Universitas Pendidikan Ganesha"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-011788"
+   ]
+  },
+  {
+   "title": "HUMANIS",
+   "candidates": [
+    {
+     "issns": [
+      "2528-5076"
+     ],
+     "publisher": "Udayana University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-006380"
+   ]
+  },
+  {
+   "title": "Archives of Basic and Clinical Research",
+   "candidates": [
+    {
+     "issns": [
+      "2687-4520"
+     ],
+     "publisher": "Galenos Yayinevi"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-013986"
+   ]
+  },
+  {
+   "title": "İstanbul medical journal",
+   "candidates": [
+    {
+     "issns": [
+      "2619-9793"
+     ],
+     "publisher": "Galenos Yayinevi"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-006863"
+   ]
+  },
+  {
+   "title": "Asian Journal of Medical Sciences",
+   "candidates": [
+    {
+     "issns": [
+      "2467-9100"
+     ],
+     "publisher": "Progressive Sustainable Developers Nepal"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-001061"
+   ]
+  },
+  {
+   "title": "International Journal on Research in STEM Education",
+   "candidates": [
+    {
+     "issns": [
+      "2721-3242"
+     ],
+     "publisher": "Universitas Terbuka"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-015722"
+   ]
+  },
+  {
+   "title": "Indonesian Journal of Anesthesiology and Reanimation",
+   "candidates": [
+    {
+     "issns": [
+      "2722-4554"
+     ],
+     "publisher": "Universitas Airlangga"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017049"
+   ]
+  },
+  {
+   "title": "Agroindustrial Technology Journal",
+   "candidates": [
+    {
+     "issns": [
+      "2599-0799"
+     ],
+     "publisher": "Universitas Darussalam Gontor"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-014740"
+   ]
+  },
+  {
+   "title": "Indonesian Journal of Learning and Instruction",
+   "candidates": [
+    {
+     "issns": [
+      "2614-8250"
+     ],
+     "publisher": "University of Kuningan and Association of Indonesian Scholars of English Education (AISEE)"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-018183"
+   ]
+  },
+  {
+   "title": "INSPIREE Indonesian Sport Innovation Review",
+   "candidates": [
+    {
+     "issns": [
+      "2774-2520"
+     ],
+     "publisher": "Inspiretech Global Insight"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-014531"
+   ]
+  },
+  {
+   "title": "Alauddin Law Development Journal",
+   "candidates": [
+    {
+     "issns": [
+      "2714-8742"
+     ],
+     "publisher": "Universitas Islam Negeri Alauddin Makassar"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-010545"
+   ]
+  },
+  {
+   "title": "Nabawi Journal of Hadith Studies",
+   "candidates": [
+    {
+     "issns": [
+      "2797-8370"
+     ],
+     "publisher": "Ma'had Aly Hasyim Asy'ari Pesantren Tebuireng"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-018153"
+   ]
+  },
+  {
+   "title": "Maliki Islamic Economics Journal",
+   "candidates": [
+    {
+     "issns": [
+      "2798-0383"
+     ],
+     "publisher": "Maulana Malik Ibrahim State Islamic University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019241"
+   ]
+  },
+  {
+   "title": "Chemistry and Materials",
+   "candidates": [
+    {
+     "issns": [
+      "2828-271X"
+     ],
+     "publisher": "The Center for Science Innovation"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017823"
+   ]
+  },
+  {
+   "title": "Lentera Perawat",
+   "candidates": [
+    {
+     "issns": [
+      "2722-2837"
+     ],
+     "publisher": "Jurnal Cendekia Medika, STIKES Al-Ma'arif"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-012045"
+   ]
+  },
+  {
+   "title": "African Scientific Reports",
+   "candidates": [
+    {
+     "issns": [
+      "2955-1625"
+     ],
+     "publisher": "Nigerian Society of Physical Sciences"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-014873"
+   ]
+  },
+  {
+   "title": "IUL Research",
+   "candidates": [
+    {
+     "issns": [
+      "2724-3915"
+     ],
+     "publisher": "IUL Research"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-010813"
+   ]
+  },
+  {
+   "title": "LAN TABUR Jurnal Ekonomi Syariah",
+   "candidates": [
+    {
+     "issns": [
+      "2721-0677"
+     ],
+     "publisher": "Institut Agama Islam Al-Qodiri Jember"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-016512"
+   ]
+  },
+  {
+   "title": "JIEF Journal of Islamic Economics and Finance",
+   "candidates": [
+    {
+     "issns": [
+      "2797-4014"
+     ],
+     "publisher": "LP2M IAIN Pekalongan"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-018154"
+   ]
+  },
+  {
+   "title": "Tiempo devorado",
+   "candidates": [
+    {
+     "issns": [
+      "2565-2915"
+     ],
+     "publisher": "Universitat Autonoma de Barcelona.  Facultat de Dret"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-012468"
+   ]
+  },
+  {
+   "title": "International Journal of Banking and Finance",
+   "candidates": [
+    {
+     "issns": [
+      "2811-3799"
+     ],
+     "publisher": "UUM Press, Universiti Utara Malaysia"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019803"
+   ]
+  },
+  {
+   "title": "AQWAL Journal of Qur an and Hadis Studies",
+   "candidates": [
+    {
+     "issns": [
+      "2774-7980"
+     ],
+     "publisher": "LP2M IAIN Pekalongan"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017709"
+   ]
+  },
+  {
+   "title": "Media Ilmiah Kesehatan Indonesia",
+   "candidates": [
+    {
+     "issns": [
+      "2987-5404"
+     ],
+     "publisher": "Pakis Journal Institute"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-018420"
+   ]
+  },
+  {
+   "title": "Lareh Law Review",
+   "candidates": [
+    {
+     "issns": [
+      "2988-2753"
+     ],
+     "publisher": "Universitas Andalas"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019526"
+   ]
+  },
+  {
+   "title": "IREELL Indonesian Review of English Education Linguistics and Literature",
+   "candidates": [
+    {
+     "issns": [
+      "3025-2369"
+     ],
+     "publisher": "State College of Islamic Studies (STAIN) Kediri"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019011"
+   ]
+  },
+  {
+   "title": "Jurnal Konatif Jurnal Ilmiah Pendidikan",
+   "candidates": [
+    {
+     "issns": [
+      "3031-0636"
+     ],
+     "publisher": "Labschool Cibubur"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-019527"
+   ]
+  },
+  {
+   "title": "Revista Ciencias Pedagógicas e Innovación",
+   "candidates": [
+    {
+     "issns": [
+      "1390-7786"
+     ],
+     "publisher": "Universidad Estatal Peninsula de Santa Elena"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-008618"
+   ]
+  },
+  {
+   "title": "Journal of Comparative Study of Religions",
+   "candidates": [
+    {
+     "issns": [
+      "2776-8457"
+     ],
+     "publisher": "Universitas Darussalam Gontor"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-018822"
+   ]
+  },
+  {
+   "title": "International Journal of Business Economics and Social Development",
+   "candidates": [
+    {
+     "issns": [
+      "2722-1164"
+     ],
+     "publisher": "Research Collaboration Community (RCC)"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-011285"
+   ]
+  },
+  {
+   "title": "Journal of South Asian Logistics and Transport",
+   "candidates": [
+    {
+     "issns": [
+      "2783-8897"
+     ],
+     "publisher": "Sri Lanka Society of Logistics & Transport (SLSTL)"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-018636"
+   ]
+  },
+  {
+   "title": "Delicti Jurnal Hukum Pidana Dan Kriminologi",
+   "candidates": [
+    {
+     "issns": [
+      "3030-9360"
+     ],
+     "publisher": "Universitas Andalas"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-020007"
+   ]
+  },
+  {
+   "title": "Dawuh Guru Jurnal Pendidikan MI/SD",
+   "candidates": [
+    {
+     "issns": [
+      "2962-746X"
+     ],
+     "publisher": "Institut Pesantren Mathali ul Falah"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-017247"
+   ]
+  },
+  {
+   "title": "Khidmat,",
+   "candidates": [
+    {
+     "issns": [
+      "3063-5527"
+     ],
+     "publisher": "Universitas Islam Negeri Sayyid Ali Rahmatullah Tulungagung"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-018944"
+   ]
+  },
+  {
+   "title": "Limina",
+   "candidates": [
+    {
+     "issns": [
+      "2617-1953"
+     ],
+     "publisher": "Karl Franzens-Universität Graz"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-020381"
+   ]
+  },
+  {
+   "title": "Inter",
+   "candidates": [
+    {
+     "issns": [
+      "2596-3503"
+     ],
+     "publisher": "Universidade Federal do Rio de Janeiro"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-011701"
+   ]
+  },
+  {
+   "title": "Podium",
+   "candidates": [
+    {
+     "issns": [
+      "1996-2452"
+     ],
+     "publisher": "Universidad de Pinar del Río \"Hermanos Saíz Montes de Oca\""
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-002173"
+   ]
+  },
+  {
+   "title": "Diacritica",
+   "candidates": [
+    {
+     "issns": [
+      "2421-115X"
+     ],
+     "publisher": "Diacritica Edizioni"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-007239"
+   ]
+  },
+  {
+   "title": "Juntendo Medical Journal",
+   "candidates": [
+    {
+     "issns": [
+      "2759-7504"
+     ],
+     "publisher": "The Juntendo Medical Society"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-002347"
+   ]
+  },
+  {
+   "title": "Cognitio",
+   "candidates": [
+    {
+     "issns": [
+      "2624-8417"
+     ],
+     "publisher": "Student-Edited"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-021054"
+   ]
+  },
+  {
+   "title": "Journal of Applied Mechanics",
+   "candidates": [
+    {
+     "issns": [
+      "2423-6705",
+      "2423-6713"
+     ],
+     "publisher": "University of Tehran"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-028044"
+   ]
+  }
+ ]
+}
