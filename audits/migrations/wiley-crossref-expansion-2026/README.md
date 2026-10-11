@@ -56,6 +56,9 @@ the data below was corrected and `scripts/ingest-crossref-publisher.mjs` was cha
   placeholder 1234-5678 on POSI-J-027600). The wrong value is replaced by the valid ISSN from the same Crossref list (e.g.
   1354-5078), and the `issn_pair` value of those nine registry rows keeps only valid ISSNs. The ids are unchanged and nothing else
   used them yet. Changes: POSI-J-026644, 026695, 026753, 026756, 026926, 027129, 027203, 027533, 027600.
+  Four more registry rows held an invalid ISSN only among their extra pair values (not in the record's print or online field), and
+  were corrected the same way: POSI-J-026643 (1521-3979), 026895 (1752-0117), 026996 (1034-3780), 027506 (1467-8441).
+  The candidate snapshot now carries the DOAJ journal ids (it had `true`), so the documented command reproduces the `doaj_id` values.
 - **`open_access` is true for the 5 DOAJ-listed journals (now with their `doaj_id`) and `null` for the rest.** The first run wrote
   `false` for every journal DOAJ does not list, which says more than is known: Food Science & Nutrition, for one, is open access.
   The DOAJ lookup was re-run with retries and no failed batch; the count of 5 is unchanged.

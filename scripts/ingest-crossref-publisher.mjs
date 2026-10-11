@@ -26,7 +26,8 @@
  *     from DOAJ does not show that a journal is closed.
  * Quarantined, conflicting and held candidates are written to review.json in the
  * audit directory. The registry and the records are written to temporary files
- * first and renamed together, so a failed run leaves both as they were.
+ * first and then renamed; if a rename fails the other file is restored, so a failed
+ * run leaves both as they were.
  *
  * Usage (from the directory holding both checkouts):
  *   node posi-data/scripts/ingest-crossref-publisher.mjs \
@@ -68,7 +69,9 @@ function validIssn(s) {
   const c = (11 - (t % 11)) % 11
   return d[7] === (c === 10 ? 'X' : String(c))
 }
-const normTitle = t => (t ?? '').toLowerCase().normalize('NFKD').replace(/[^a-z0-9]+/g, ' ').trim()
+// Lower-case, accents (combining marks) removed, any other run of non-letters/digits a single space; letters and
+// digits of every script are kept, so a title in Japanese or Arabic does not normalise to nothing.
+const normTitle = t => (t ?? '').toLowerCase().normalize('NFKD').replace(/\p{M}+/gu, '').replace(/[^\p{L}\p{N}]+/gu, ' ').trim()
 
 const regRows = readFileSync(registryFile, 'utf8').trim().split('\n').slice(1).map(l => {
   const [posi_id, identity_type, identity_value, first_seen] = l.split(',')
@@ -159,18 +162,23 @@ fresh.forEach((c, n) => {
   mapping.push([a.posi_id, JSON.stringify(c.title), print ?? '', online ?? '', JSON.stringify(c.publisher ?? ''), c.doaj ? true : 'unknown', a.minted].join(','))
 })
 
-// Both files are written aside and renamed together, so a failure cannot leave registry ids without records.
+// Both files are written aside first. If a rename then fails, the files already renamed are put back as they were,
+// so the registry cannot be left with ids that have no records (a rerun would treat those ISSNs as already known).
 const tmp = f => `${f}.tmp-${process.pid}`
 const prior = existsSync(outFile) ? readFileSync(outFile, 'utf8') : ''
 const writes = []
 if (newRegistryRows.length) {
   const text = readFileSync(registryFile, 'utf8')
-  writes.push([registryFile, (text.endsWith('\n') ? text : text + '\n') + newRegistryRows.map(r => `${r.posi_id},${r.identity_type},${r.identity_value},${r.first_seen}`).join('\n') + '\n'])
+  writes.push([registryFile, text, (text.endsWith('\n') ? text : text + '\n') + newRegistryRows.map(r => `${r.posi_id},${r.identity_type},${r.identity_value},${r.first_seen}`).join('\n') + '\n'])
 }
-if (lines.length) writes.push([outFile, prior + lines.join('\n') + '\n'])
+if (lines.length) writes.push([outFile, existsSync(outFile) ? prior : null, prior + lines.join('\n') + '\n'])
+const done = []
 try {
-  for (const [f, text] of writes) writeFileSync(tmp(f), text)
-  for (const [f] of writes) renameSync(tmp(f), f)
+  for (const [f, , text] of writes) writeFileSync(tmp(f), text)
+  for (const w of writes) { renameSync(tmp(w[0]), w[0]); done.push(w) }
+} catch (e) {
+  for (const [f, before] of done.reverse()) { if (before === null) rmSync(f, { force: true }); else writeFileSync(f, before) }
+  throw e
 } finally {
   for (const [f] of writes) rmSync(tmp(f), { force: true })
 }
