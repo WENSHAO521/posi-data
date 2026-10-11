@@ -66,7 +66,7 @@ for (const r of upById.values()) for (const i of new Set(issnsOf(r))) {
 const site = JSON.parse(readFileSync(siteFile, 'utf8'))
 
 // ---- match ------------------------------------------------------------------
-const norm = (s) => (s ?? '').toString().normalize('NFKC').toLowerCase().replace(/&/g, 'and').replace(/[^\p{L}\p{N}]+/g, ' ').trim()
+const norm = (s) => (s ?? '').toString().normalize('NFKC').toLowerCase().replace(/&/g, 'and').replace(/[^\p{L}\p{N}]+/gu, ' ').trim()
 const matchedUp = new Set()
 const onlySite = [], ambiguous = [], pairs = []
 for (const s of site) {
