@@ -24,8 +24,9 @@
  *     superseded id resolves to its survivor), two different ids for one
  *     candidate are a conflict for review, and fresh candidates sharing an ISSN
  *     are merged before one id is minted;
- *   - two fresh journals with the same normalised title but no ISSN in common are
- *     held for review rather than minted;
+ *   - a fresh journal with the same normalised title as another fresh journal or as a
+ *     record already in posi-data, but no ISSN in common, is held for review rather
+ *     than minted; the ISSNs written on the records count as well as the registry keys;
  *   - open_access is true for a DOAJ-listed journal and null otherwise: absence
  *     from DOAJ does not show that a journal is closed.
  * Quarantined, conflicting and held candidates are written to review.json in the
@@ -43,7 +44,7 @@
  * src/migration/mint.mjs does the id minting). Re-running it is safe: ISSNs
  * already in the registry resolve to their existing id and nothing is minted twice.
  */
-import { readFileSync, writeFileSync, mkdirSync, existsSync, renameSync, rmSync } from 'fs'
+import { readFileSync, writeFileSync, mkdirSync, existsSync, renameSync, rmSync, readdirSync } from 'fs'
 import { join, resolve } from 'path'
 import { pathToFileURL } from 'url'
 
@@ -101,6 +102,27 @@ for (const r of regRows) {
   else if (r.identity_type === 'issn_pair') for (const p of r.identity_value.split('/')) note(p, r.posi_id)
 }
 
+// The registry keys older ids on one ISSN-L (OpenAlex's), which is often not among the ISSNs Crossref lists or
+// the record's own print and online ISSN. So the ISSNs written on the records count as well, or a journal
+// already in posi-data is minted a second time. Records also give the titles used for the same-title check.
+const existingTitles = new Map()
+function readRecords(file, each) {
+  if (file.endsWith('.jsonl')) { for (const l of readFileSync(file, 'utf8').split('\n')) if (l.trim()) each(JSON.parse(l)) } else each(JSON.parse(readFileSync(file, 'utf8')))
+}
+function walk(dir, each) {
+  if (!existsSync(dir)) return
+  for (const e of readdirSync(dir, { withFileTypes: true })) {
+    const f = join(dir, e.name)
+    if (e.isDirectory()) walk(f, each); else if (/\.(jsonl|json)$/.test(e.name)) readRecords(f, each)
+  }
+}
+walk(join(root, 'journals'), j => {
+  if (!j?.id || !j.identifiers || superseded.has(j.id)) return
+  for (const k of ['issn_print', 'issn_online', 'issn_l']) if (j.identifiers[k]) note(j.identifiers[k], j.id)
+  const t = normTitle(j.title)
+  if (t) existingTitles.set(t, [...(existingTitles.get(t) ?? []), j.id])
+})
+
 const review = { quarantined: [], conflicts: [], title_overlaps: [] }
 const alreadyKnown = []
 let fresh = []
@@ -135,6 +157,12 @@ for (const c of fresh) { const k = normTitle(c.title); byTitle.set(k, [...(byTit
 const held = new Set()
 for (const [k, g] of byTitle) {
   if (k && g.length > 1) { g.forEach(c => held.add(c)); review.title_overlaps.push({ title: g[0].title, candidates: g.map(c => ({ issns: c.ISSN, publisher: c.publisher })) }) }
+}
+// The same title as a record already in posi-data, but no ISSN in common (an ISSN in common would have matched above):
+// a relaunch or a different journal; for a person to decide.
+for (const c of fresh) {
+  const ids = existingTitles.get(normTitle(c.title))
+  if (ids && !held.has(c)) { held.add(c); review.title_overlaps.push({ title: c.title, candidates: [{ issns: c.ISSN, publisher: c.publisher }], existing_ids: [...new Set(ids)] }) }
 }
 fresh = fresh.filter(c => !held.has(c))
 
