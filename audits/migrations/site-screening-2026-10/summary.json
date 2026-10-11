@@ -1,0 +1,10 @@
+{
+  "site_records": 25676,
+  "imported": 25144,
+  "matched_by": {
+    "issn": 25119,
+    "openalex": 6,
+    "issn+openalex": 19
+  },
+  "unresolved": 532
+}

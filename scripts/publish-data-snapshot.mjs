@@ -24,6 +24,7 @@
  *   snapshots/<snapshot-id>/collections/core-collection.json
  *   snapshots/<snapshot-id>/collections/benchmark-curated.json
  *   snapshots/<snapshot-id>/collections/publisher-catalog.json
+ *   snapshots/<snapshot-id>/collections/discovered-journals.json.gz -- discovered journals: journal records joined to their screening data
  *   snapshots/<snapshot-id>/collections/pcs.json
  *   snapshots/<snapshot-id>/collections/pci.json
  *   snapshots/<snapshot-id>/collections/citation-ranking.json.gz -- POSI Citation Ranking edition
@@ -95,6 +96,7 @@ import { resolve, join } from 'path'
 import { execSync } from 'child_process'
 import { createHash } from 'crypto'
 import { gunzipSync, gzipSync } from 'zlib'
+import { composeDiscovered } from './lib/compose-discovered.mjs'
 
 // Default PCS ETL audit run this snapshot pulls collections/pcs.json from.
 // See the file header comment above for why this reads an audit directory
@@ -252,6 +254,12 @@ function main() {
     : null
   const pcsQRaw = pcsQFile ? readFileSync(join(pcsQDir, pcsQFile)) : null
   const pcsQEdition = pcsQRaw ? JSON.parse((pcsQFile.endsWith('.gz') ? gunzipSync(pcsQRaw) : pcsQRaw).toString('utf-8')) : null
+  // The discovered journals (identity from journals/, screening from screening/), gzipped like the editions.
+  // Withdrawn journals are not in it either.
+  if (existsSync(resolve('screening/discovered-screening.jsonl'))) {
+    const discovered = composeDiscovered('.').filter(j => !withdrawnIds.has(j.posi_id))
+    files['collections/discovered-journals.json.gz'] = gzipSync(JSON.stringify(discovered) + '\n', { level: 9 })
+  }
   if (pcsQEdition) files['collections/pcs-q.json.gz'] = gzipSync(JSON.stringify(pcsQEdition) + '\n', { level: 9 })
   // The two editions are generated and checksummed as wholes (posi-engine; posi-data-delivery archives each by its
   // SHA-256), and their ranks are computed across all journals, so removing a record here would change the

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/WENSHAO521/posi-data/master/schema/screening.schema.json",
+  "title": "POSI Discovered-Journal Screening Record",
+  "description": "What the automated screening of a discovered journal produced, and the directory fields the journal record does not carry. One record per POSI journal id in screening/discovered-screening.jsonl. Identity and descriptive fields (title, ISSNs, publisher, country, open access, website, OpenAlex id) stay in journals/ and are never repeated here; the published collection discovered-journals.json.gz joins the two.",
+  "type": "object",
+  "required": ["posi_id", "journal_code", "updated_at"],
+  "additionalProperties": false,
+  "properties": {
+    "posi_id": { "type": "string", "pattern": "^POSI-J-[0-9]{6,}$" },
+    "journal_code": { "type": "string", "minLength": 1, "description": "The journal's code in website URLs (/journal/<code>/). Unique and stable; never reused for another journal." },
+    "language": { "type": ["string", "null"] },
+    "frequency": { "type": ["string", "null"] },
+    "license": { "type": ["string", "null"] },
+    "peer_review_type": { "type": ["string", "null"] },
+    "oai_base_url": { "type": ["string", "null"] },
+    "registration_country": { "type": ["string", "null"] },
+    "doaj_status": { "type": ["string", "null"], "enum": ["listed", "pending", "not_listed", null] },
+    "metadata_quality_score": { "type": ["integer", "null"] },
+    "transparency_score": { "type": ["integer", "null"] },
+    "indexing_readiness": { "type": ["string", "null"] },
+    "pqf": { "type": ["object", "null"] },
+    "article_count": { "type": ["integer", "null"] },
+    "auto_pqf": {
+      "type": ["object", "null"],
+      "description": "Automated PQF pre-screen from public evidence; not a PQF evaluation.",
+      "required": ["total", "grade", "subfactors", "evaluated_at", "version"],
+      "properties": {
+        "total": { "type": "number" },
+        "grade": { "type": "string" },
+        "subfactors": { "type": "object" },
+        "evaluated_at": { "type": "string", "format": "date" },
+        "version": { "type": "string" }
+      }
+    },
+    "subjects": { "type": ["array", "null"], "items": { "type": "string" } },
+    "crossref_checked_at": { "type": ["string", "null"] },
+    "created_at": { "type": ["string", "null"] },
+    "updated_at": { "type": "string" }
+  }
+}
