@@ -10,6 +10,10 @@
  * Input is a JSON array of candidates:
  *   { title, publisher, ISSN: [..], 'issn-type': [{value,type}], dois, subjects, doaj }
  * where `doaj` is a DOAJ journal id, `true` for "listed" or absent when not listed.
+ * Optional: `provenance` (a list of {source, source_record_id}; default one crossref entry),
+ * `website_url` (used as the journal's home page instead of --site) and `ceased: true`
+ * (the source says the journal has stopped; recorded as status_model collection_status
+ * "ceased", coverage_state "inactive").
  *
  * What it does before minting anything:
  *   - ISSNs are de-duplicated and checked against the ISSN check digit; an invalid
@@ -153,10 +157,13 @@ fresh.forEach((c, n) => {
     id: a.posi_id, title: c.title, short_title: c.title, status: 'discovered',
     publisher: c.publisher ?? null, country: null, language: null,
     open_access: c.doaj ? true : null, license: null,
-    website_url: ours && site ? site.replace('{issn}', main.replace('-', '')) : null,
-    identifiers: { issn_l: null, issn_print: print, issn_online: online ?? (print ? null : c.ISSN[0]), openalex_source_id: null, crossref_member_id: member, ror_publisher_id: null, doaj_id: doajId },
+    website_url: c.website_url ?? (ours && site ? site.replace('{issn}', main.replace('-', '')) : null),
+    identifiers: { issn_l: null, issn_print: print, issn_online: online ?? (print ? null : c.ISSN[0]), openalex_source_id: null, crossref_member_id: /^\d+$/.test(member ?? '') ? member : null, ror_publisher_id: null, doaj_id: doajId },
     classification: null, coverage: null, selection: null,
-    provenance: [{ source: 'crossref', source_record_id: main, retrieved_at: retrievedAt, license: null }].concat(c.doaj ? [{ source: 'doaj', source_record_id: doajId, retrieved_at: retrievedAt, license: null }] : []),
+    ...(c.ceased ? { status_model: { collection_status: 'ceased', coverage_state: 'inactive' } } : {}),
+    provenance: (c.provenance ?? [{ source: 'crossref', source_record_id: main }])
+      .concat(c.doaj ? [{ source: 'doaj', source_record_id: doajId }] : [])
+      .map(p => ({ source: p.source, source_record_id: p.source_record_id ?? null, retrieved_at: retrievedAt, license: null })),
     created_at: retrievedAt, updated_at: retrievedAt,
   }))
   mapping.push([a.posi_id, JSON.stringify(c.title), print ?? '', online ?? '', JSON.stringify(c.publisher ?? ''), c.doaj ? true : 'unknown', a.minted].join(','))

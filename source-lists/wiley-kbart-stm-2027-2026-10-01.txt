@@ -1,0 +1,974 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	OCLC_Control_Number	additional_notes
+ce/papers	 	2509-7075	2017	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25097075	 	10.1002/(ISSN)2509-7075	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+genesis	1526-954X	1526-968X	2000	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/1526968X	 	10.1002/(ISSN)1526-968X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-6408	P	 	 
+geotechnik	0172-6145	2190-6653	2011	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/21906653	 	10.1002/(ISSN)2190-6653	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+physica status solidi (a) applications and materials science	1862-6300	1862-6319	2005	202	1	 	 	 	https://onlinelibrary.wiley.com/loi/18626319	 	10.1002/(ISSN)1862-6319	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-396X	P	 	 
+physica status solidi (a) applied research	0031-8965	1521-396X	1997	159	1	2004	201	15	https://onlinelibrary.wiley.com/loi/1521396X	 	10.1002/(ISSN)1521-396X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+physica status solidi (b) basic solid state physics	0370-1972	1521-3951	1997	199	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213951	 	10.1002/(ISSN)1521-3951	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+physica status solidi (RRL) Rapid Research Letters	1862-6254	1862-6270	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18626270	 	10.1002/(ISSN)1862-6270	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+steel research international	1611-3683	1869-344X	2003	74	1	 	 	 	https://onlinelibrary.wiley.com/loi/1869344X	 	10.1002/(ISSN)1869-344X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Academic Emergency Medicine	1069-6563	1553-2712	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/15532712	 	10.1111/(ISSN)1553-2712	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta crystallographica. Section D: Biological Crystallography	0907-4449	1399-0047	1997	53	1	2015	71	12	https://onlinelibrary.wiley.com/loi/S13990047	 	10.1107/S13990047	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta hydrochimica et hydrobiologica	0323-4320	1521-401X	1998	26	1	2006	34	6	https://onlinelibrary.wiley.com/loi/1521401X	 	10.1002/(ISSN)1521-401X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta Anaesthesiologica Scandinavica	0001-5172	1399-6576	1997	41	1	 	 	 	https://onlinelibrary.wiley.com/loi/13996576	 	10.1111/(ISSN)1399-6576	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta Crystallographica Section A: Foundations and Advances	 	2053-2733	2014	70	1	 	 	 	https://onlinelibrary.wiley.com/loi/S20532733	 	10.1107/S20532733	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-5724	P	 	 
+Acta Crystallographica Section A: Foundations of Crystallography	0108-7673	1600-5724	1997	53	1	2013	69	6	https://onlinelibrary.wiley.com/loi/S01087673	 	10.1107/S01087673	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-5724	P	 	 
+Acta Crystallographica Section B: Structural Science	0108-7681	1600-5740	1997	53	1	2012	68	6	https://onlinelibrary.wiley.com/loi/S01087681	 	10.1107/S01087681	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-5740	P	 	 
+Acta Crystallographica Section B: Structural Science, Crystal Engineering and Materials	2052-5192	2052-5206	2013	69	1	 	 	 	https://onlinelibrary.wiley.com/loi/S20525192	 	10.1107/S20525206	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-5740	P	 	 
+Acta Crystallographica Section C: Crystal Structure Communications	0108-2701	1600-5759	1997	53	1	2013	69	12	https://onlinelibrary.wiley.com/loi/S01082701	 	10.1107/S01082701	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta Crystallographica Section C: Structural Chemistry	 	2053-2296	2014	70	1	 	 	 	https://onlinelibrary.wiley.com/loi/S20532296	 	10.1107/S20532296	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-5759	P	 	 
+Acta Crystallographica Section D: Structural Biology	 	2059-7983	2016	72	1	 	 	 	https://onlinelibrary.wiley.com/loi/S20597983	 	10.1107/S20597983	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1399-0047	P	 	 
+Acta Crystallographica Section F: Structural Biology and Crystallization Communications	 	1744-3091	2005	61	1	2013	69	12	https://onlinelibrary.wiley.com/loi/S17443091	 	10.1107/S17443091	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta Crystallographica Section F: Structural Biology Communications	 	2053-230X	2014	70	1	 	 	 	https://onlinelibrary.wiley.com/loi/S2053230X	 	10.1107/S2053230X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1744-3091	P	 	 
+Acta Geologica Sinica (English Edition)	1000-9515	1755-6724	1997	71	1	2026	100	4	https://onlinelibrary.wiley.com/loi/17556724	 	10.1111/(ISSN)1755-6724	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta Ophthalmologica	1755-375X	1755-3768	2008	86	1	 	 	 	https://onlinelibrary.wiley.com/loi/17553768	 	10.1111/(ISSN)1755-3768	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0420	P	 	 
+Acta Ophthalmologica Scandinavica	1395-3907	1600-0420	1997	75	1	2007	85	8	https://onlinelibrary.wiley.com/loi/16000420	 	10.1111/(ISSN)1600-0420	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	0001-639X	P	 	 
+Acta Paediatrica	0803-5253	1651-2227	1997	86	1	 	 	 	https://onlinelibrary.wiley.com/loi/16512227	 	10.1111/(ISSN)1651-2227	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta Physiologica	1748-1708	1748-1716	2006	186	1	 	 	 	https://onlinelibrary.wiley.com/loi/17481716	 	10.1111/(ISSN)1748-1716	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-201X	P	 	 
+Acta Physiologica Scandinavica	0001-6772	1365-201X	1997	159	1	2005	185	4	https://onlinelibrary.wiley.com/loi/1365201X	 	10.1111/(ISSN)1365-201X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1748-1716	P	 	 
+Acta Psychiatrica Scandinavica	0001-690X	1600-0447	1997	95	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000447	 	10.1111/(ISSN)1600-0447	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Acta Zoologica	0001-7272	1463-6395	1997	78	1	 	 	 	https://onlinelibrary.wiley.com/loi/14636395	 	10.1111/(ISSN)1463-6395	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Addiction	0965-2140	1360-0443	1997	92	1	 	 	 	https://onlinelibrary.wiley.com/loi/13600443	 	10.1111/(ISSN)1360-0443	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2056-5178	P	 	 
+Advanced Biology	 	2701-0198	2021	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/27010198	 	10.1002/(ISSN)2701-0198	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2366-7478	P	 	 
+Advanced Biosystems	 	2366-7478	2017	1	1	2020	4	12	https://onlinelibrary.wiley.com/loi/23667478	 	10.1002/(ISSN)2366-7478	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Control for Applications: Engineering and Industrial Systems	 	2578-0727	2019	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25780727	 	10.1002/(ISSN)2578-0727	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Energy Materials	1614-6832	1614-6840	2011	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16146840	 	10.1002/(ISSN)1614-6840	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Engineering Materials	1438-1656	1527-2648	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15272648	 	10.1002/(ISSN)1527-2648	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Functional Materials	1616-301X	1616-3028	2001	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/16163028	 	10.1002/(ISSN)1616-3028	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0712	P	 	 
+Advanced Healthcare Materials	2192-2640	2192-2659	2012	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/21922659	 	10.1002/(ISSN)2192-2659	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Materials	0935-9648	1521-4095	1998	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214095	 	10.1002/(ISSN)1521-4095	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Materials for Optics and Electronics	1057-9257	1099-0712	1997	7	1	2000	10	6	https://onlinelibrary.wiley.com/loi/10990712	 	10.1002/(ISSN)1099-0712	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Materials Technologies	2365-709X	2365-709X	2016	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/2365709X	 	10.1002/(ISSN)2365-709X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Optical Materials	2195-1071	2195-1071	2013	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/21951071	 	10.1002/(ISSN)2195-1071	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Quantum Technologies	 	2511-9044	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25119044	 	10.1002/(ISSN)2511-9044	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Sustainable Systems	2366-7486	2366-7486	2017	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23667486	 	10.1002/(ISSN)2366-7486	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Synthesis & Catalysis	1615-4150	1615-4169	2001	343	1	 	 	 	https://onlinelibrary.wiley.com/loi/16154169	 	10.1002/(ISSN)1615-4169	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Theory and Simulations	 	2513-0390	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25130390	 	10.1002/(ISSN)2513-0390	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Advanced Therapeutics	 	2366-3987	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23663987	 	10.1002/(ISSN)2366-3987	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+African Journal of Ecology	0141-6707	1365-2028	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652028	 	10.1111/(ISSN)1365-2028	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Aggressive Behavior	0096-140X	1098-2337	1996	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982337	 	10.1002/(ISSN)1098-2337	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Agricultural and Forest Entomology	1461-9555	1461-9563	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14619563	 	10.1111/(ISSN)1461-9563	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Agronomy Journal	0002-1962	1435-0645	1997	89	1	 	 	 	https://acsess.onlinelibrary.wiley.com/loi/14350645	 	10.1002/(ISSN)1435-0645	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2690-9162	P	 	 
+Alcohol, Clinical and Experimental Research	 	2993-7175	2023	47	1	 	 	 	https://onlinelibrary.wiley.com/loi/29937175	 	10.1111/(ISSN)2993-7175	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1530-0277	P	 	 
+Alcoholism: Clinical and Experimental Research	0145-6008	1530-0277	1997	21	1	2022	46	12	https://onlinelibrary.wiley.com/loi/15300277	 	10.1111/(ISSN)1530-0277	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Alimentary Pharmacology & Therapeutics	0269-2813	1365-2036	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652036	 	10.1111/(ISSN)1365-2036	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Allergy	0105-4538	1398-9995	1997	52	1	 	 	 	https://onlinelibrary.wiley.com/loi/13989995	 	10.1111/(ISSN)1398-9995	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Biological Anthropology	 	2692-7691	2022	177	1	 	 	 	https://onlinelibrary.wiley.com/loi/26927691	 	10.1002/(ISSN)2692-7691	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1096-8644	P	 	 
+American Journal of Botany	0002-9122	1537-2197	1997	84	1	 	 	 	https://bsapubs.onlinelibrary.wiley.com/loi/15372197	 	10.1002/(ISSN)1537-2197	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Hematology	0361-8609	1096-8652	1996	51	1	 	 	 	https://onlinelibrary.wiley.com/loi/10968652	 	10.1002/(ISSN)1096-8652	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Human Biology	1042-0533	1520-6300	1996	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206300	 	10.1002/(ISSN)1520-6300	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Industrial Medicine	0271-3586	1097-0274	1996	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970274	 	10.1002/(ISSN)1097-0274	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Medical Genetics	0148-7299	1096-8628	1996	61	1	2002	115	4	https://onlinelibrary.wiley.com/loi/10968628	 	10.1002/(ISSN)1096-8628	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Medical Genetics Part A	1552-4825	1552-4833	2003	116A	1	 	 	 	https://onlinelibrary.wiley.com/loi/15524833	 	10.1002/(ISSN)1552-4833	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1552-485X	P	 	 
+American Journal of Medical Genetics Part B: Neuropsychiatric Genetics	1552-4841	1552-485X	2003	116B	1	 	 	 	https://onlinelibrary.wiley.com/loi/1552485X	 	10.1002/(ISSN)1552-485X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Medical Genetics Part C: Seminars in Medical Genetics	1552-4868	1552-4876	2003	117C	1	 	 	 	https://onlinelibrary.wiley.com/loi/15524876	 	10.1002/(ISSN)1552-4876	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1096-8628	P	 	 
+American Journal of Physical Anthropology	0002-9483	1096-8644	1996	99	1	2021	176	4	https://onlinelibrary.wiley.com/loi/10968644	 	10.1002/(ISSN)1096-8644	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Primatology	0275-2565	1098-2345	1996	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982345	 	10.1002/(ISSN)1098-2345	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Reproductive Immunology	1046-7408	1600-0897	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000897	 	10.1111/(ISSN)1600-0897	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0897	P	 	 
+Anaesthesia	0003-2409	1365-2044	1997	52	1	 	 	 	https://associationofanaesthetists-publications.onlinelibrary.wiley.com/loi/13652044	 	10.1111/(ISSN)1365-2044	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Anaesthesia Cases	 	2396-8397	2013	1	1	2018	6	2	https://associationofanaesthetists-publications.onlinelibrary.wiley.com/loi/23968397	 	10.1002/(ISSN)2396-8397	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	Free content 2013 vol 1-2017 vol 5
+Anaesthesia Reports	 	2637-3726	2019	7	1	 	 	 	https://associationofanaesthetists-publications.onlinelibrary.wiley.com/loi/26373726	 	10.1002/(ISSN)2637-3726	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2396-8397	P	 	 
+Analysis & Sensing	 	2629-2742	2020	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26292742	 	10.1002/(ISSN)2629-2742	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Anatomia, Histologia, Embryologia	0340-2096	1439-0264	1997	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/14390264	 	10.1111/(ISSN)1439-0264	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Anatomical Sciences Education	1935-9772	1935-9780	2008	1	1	 	 	 	https://anatomypubs.onlinelibrary.wiley.com/loi/19359780	 	10.1002/(ISSN)1935-9780	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Andrology	2047-2919	2047-2927	2013	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20472927	 	10.1111/(ISSN)2047-2927	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2605	P	 	 
+Angewandte Chemie	0044-8249	1521-3757	1998	110	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/15213757	 	10.1002/(ISSN)1521-3757	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Angewandte Chemie International Edition	1433-7851	1521-3773	1998	37	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/15213773	 	10.1002/(ISSN)1521-3773	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3773	P	 	 
+Animal Conservation	1367-9430	1469-1795	1998	1	1	 	 	 	https://zslpublications.onlinelibrary.wiley.com/loi/14691795	 	10.1111/(ISSN)1469-1795	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Animal Genetics	0268-9146	1365-2052	1997	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652052	 	10.1111/(ISSN)1365-2052	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2053-3179	P	 	 
+Animal Science Journal	1344-3941	1740-0929	2002	73	1	 	 	 	https://onlinelibrary.wiley.com/loi/17400929	 	10.1111/(ISSN)1740-0929	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Annalen der Physik	0003-3804	1521-3889	1998	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213889	 	10.1002/(ISSN)1521-3889	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Annals of the College of Surgeons of Hong Kong	1028-4001	1442-2034	1999	3	1	2004	8	4	https://onlinelibrary.wiley.com/loi/14422034	 	10.1111/(ISSN)1442-2034	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Annals of the New York Academy of Sciences	0077-8923	1749-6632	1997	807	1	 	 	 	https://nyaspubs.onlinelibrary.wiley.com/loi/17496632	 	10.1111/(ISSN)1749-6632	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2374-8559	P	 	 
+Annals of Applied Biology	0003-4746	1744-7348	1997	130	1	 	 	 	https://onlinelibrary.wiley.com/loi/17447348	 	10.1111/(ISSN)1744-7348	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Annals of Human Genetics	0003-4800	1469-1809	1997	61	1	 	 	 	https://onlinelibrary.wiley.com/loi/14691809	 	10.1111/(ISSN)1469-1809	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2050-1439	P	 	 
+Annals of Neurology	0364-5134	1531-8249	1999	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/15318249	 	10.1002/(ISSN)1531-8249	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Applied Mechanics Reviews	0003-6900	2379-0407	1997	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970266	 	10.1002/(ISSN)2379-0407	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Applied Organometallic Chemistry	0268-2605	1099-0739	1996	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990739	 	10.1002/(ISSN)1099-0739	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Applied Stochastic Models and Data Analysis	8755-0024	1099-0747	1996	12	1	1999	15	1	https://onlinelibrary.wiley.com/loi/10990747	 	10.1002/(ISSN)1099-0747	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Applied Stochastic Models in Business and Industry	1524-1904	1526-4025	1999	15	2	 	 	 	https://onlinelibrary.wiley.com/loi/15264025	 	10.1002/(ISSN)1526-4025	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0747	P	 	 
+Applied Vegetation Science	1402-2001	1654-109X	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1654109X	 	10.1111/(ISSN)1654-109X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Aquatic Conservation: Marine and Freshwater Ecosystems	1052-7613	1099-0755	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990755	 	10.1002/(ISSN)1099-0755	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Archaeological Prospection	1075-2196	1099-0763	1996	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990763	 	10.1002/(ISSN)1099-0763	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Archiv der Pharmazie	0365-6233	1521-4184	1998	331	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214184	 	10.1002/(ISSN)1521-4184	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Archives of Insect Biochemistry and Physiology	0739-4462	1520-6327	1997	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206327	 	10.1002/(ISSN)1520-6327	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Arthritis & Rheumatism	0004-3591	1529-0131	1999	42	1	2013	65	12	https://onlinelibrary.wiley.com/loi/15290131	 	10.1002/(ISSN)1529-0131	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Arthritis & Rheumatology	2326-5191	2326-5205	2014	66	1	 	 	 	https://onlinelibrary.wiley.com/loi/23265205	 	10.1002/(ISSN)2326-5205	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1529-0131	P	 	 
+Arthritis Care & Research	2151-464X	2151-4658	2010	62	1	 	 	 	https://onlinelibrary.wiley.com/loi/21514658	 	10.1002/(ISSN)2151-4658	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1529-0123	P	 	 
+Arthritis Care and Research	0893-7524	1529-0123	1999	12	1	2009	61	12	https://onlinelibrary.wiley.com/loi/21514658	 	10.1002/(ISSN)1529-0131a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Arthroscopy	0749-8063	1526-3231	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/15263231	 	10.1002/(ISSN)1526-3231	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Artificial Organs	0160-564X	1525-1594	1997	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/15251594	 	10.1111/(ISSN)1525-1594	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asia-Pacific Journal of Clinical Oncology	1743-7555	1743-7563	2005	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17437563	 	10.1111/(ISSN)1743-7563	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asia-Pacific Psychiatry	1758-5864	1758-5872	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17585872	 	10.1111/(ISSN)1758-5872	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asian Journal of Control	1561-8625	1934-6093	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19346093	 	10.1002/(ISSN)1934-6093	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asian Journal of Endoscopic Surgery	1758-5902	1758-5910	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17585910	 	10.1111/(ISSN)1758-5910	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asian Journal of Organic Chemistry	2193-5807	2193-5815	2012	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/21935815	 	10.1002/(ISSN)2193-5815	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Astronomische Nachrichten	0004-6337	1521-3994	1999	320	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213994	 	10.1002/(ISSN)1521-3994	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Austral Ecology	1442-9985	1442-9993	2000	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/14429993	 	10.1111/(ISSN)1442-9993	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1442-9993	P	 	 
+Austral Entomology	2052-174X	2052-1758	2014	53	1	 	 	 	https://onlinelibrary.wiley.com/loi/20521758	 	10.1111/(ISSN)2052-1758	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1440-6055	P	 	Content Older than 1997
+Australasian Journal of Dermatology	0004-8380	1440-0960	1997	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/14400960	 	10.1111/(ISSN)1440-0960	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australasian Journal of Ultrasound in Medicine	1836-6864	2205-0140	2009	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/22050140	 	10.1002/(ISSN)2205-0140	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australasian Radiology	0004-8461	1440-1673	1997	41	1	2007	51	6	https://onlinelibrary.wiley.com/loi/14401673	 	10.1111/(ISSN)1440-1673	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian & New Zealand Journal of Statistics	1369-1473	1467-842X	1998	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467842X	 	10.1111/(ISSN)1467-842X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-842X	P	 	 
+Australian and New Zealand Journal of Medicine	0004-8291	1445-5994	1997	27	1	2000	30	6	https://onlinelibrary.wiley.com/loi/14455994	 	10.1111/(ISSN)1445-5994a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1445-5994	P	 	 
+Australian and New Zealand Journal of Mental Health Nursing	1324-3780	1440-0979	1999	8	1	2001	10	4	https://onlinelibrary.wiley.com/loi/14400979	 	10.1111/(ISSN)1440-0979	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian and New Zealand Journal of Obstetrics and Gynaecology	0004-8666	1479-828X	1997	37	1	 	 	 	https://obgyn.onlinelibrary.wiley.com/loi/1479828X	 	10.1111/(ISSN)1479-828X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian and New Zealand Journal of Ophthalmology	0814-9763	1440-1606	1997	25	1	1999	27	6	https://onlinelibrary.wiley.com/loi/14401606	 	10.1111/(ISSN)1440-1606	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1442-9071	P	 	 
+Australian and New Zealand Journal of Surgery	0004-8682	1445-2197	1997	67	1	2000	70	12	https://onlinelibrary.wiley.com/loi/14452197a	 	10.1111/(ISSN)1445-2197a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Dental Journal	0045-0421	1834-7819	1997	42	1	 	 	 	https://onlinelibrary.wiley.com/loi/18347819	 	10.1111/(ISSN)1834-7819	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Endodontic Journal	1329-1947	1747-4477	1998	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/17474477	 	10.1111/(ISSN)1747-4477	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1747-4477	P	 	 
+Australian Journal of Ecology	0307-692X	1442-9993	1997	22	1	1999	24	6	https://onlinelibrary.wiley.com/loi/14429993	 	10.1111/(ISSN)1442-9993a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Journal of Entomology	1326-6756	1440-6055	1997	36	1	2013	52	4	https://onlinelibrary.wiley.com/loi/14406055	 	10.1111/(ISSN)1440-6055	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1440-6055	P	 	 
+Australian Journal of Rural Health	1038-5282	1440-1584	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401584	 	10.1111/(ISSN)1440-1584	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Journal of Statistics	0004-9581	1467-842X	1997	39	1	1997	39	3	https://onlinelibrary.wiley.com/loi/1467842X	 	10.1111/(ISSN)1467-842Xa	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Occupational Therapy Journal	0045-0766	1440-1630	1999	46	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401630	 	10.1111/(ISSN)1440-1630	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Veterinary Journal	0005-0423	1751-0813	1997	75	1	 	 	 	https://onlinelibrary.wiley.com/loi/17510813	 	10.1111/(ISSN)1751-0813	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Autism Research	1939-3792	1939-3806	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19393806	 	10.1002/(ISSN)1939-3806	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+AEM Education and Training	2472-5390	2472-5390	2017	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/24725390	 	10.1002/(ISSN)2472-5390	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+AIChE Journal	0001-1541	1547-5905	1998	44	1	 	 	 	https://aiche.onlinelibrary.wiley.com/loi/15475905	 	10.1002/(ISSN)1547-5905	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ANZ Journal of Surgery	1445-1433	1445-2197	2001	71	1	 	 	 	https://onlinelibrary.wiley.com/loi/14452197	 	10.1111/(ISSN)1445-2197	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1445-2197	P	 	 
+AORN Journal	0001-2092	1878-0369	1997	65	1	 	 	 	https://aornjournal.onlinelibrary.wiley.com/loi/18780369	 	10.1002/(ISSN)1878-0369	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+APLAR Journal of Rheumatology	0219-0494	1479-8077	2002	5	1	2007	10	4	https://onlinelibrary.wiley.com/loi/14798077	 	10.1111/(ISSN)1479-8077	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+APMIS	0903-4641	1600-0463	1997	105	1-6	 	 	 	https://onlinelibrary.wiley.com/loi/16000463	 	10.1111/(ISSN)1600-0463	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0463	P	 	 
+ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering	2332-9017	2332-9025	2015	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23329025	 	10.1002/(ISSN)2332-9025	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ASLO Bulletin (American Society of Limnology and Oceanography bulletin)	1536-352X	1536-3538	1997	6	1	2001	10	2	https://aslopubs.onlinelibrary.wiley.com/loi/15363538	 	10.1002/(ISSN)1536-3538	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ASME Journal of Engineering and Science in Medical Diagnostics and Therapy	2572-7958	2572-7966	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25727966	 	10.1002/(ISSN)2572-7966	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ASME Journal of Heat and Mass Transfer	2832-8450	2832-8469	2023	145	1	 	 	 	https://onlinelibrary.wiley.com/loi/28328469	 	10.1002/(ISSN)2832-8469	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1528-8943	P	 	 
+ASME Letters in Dynamic Systems and Control	2689-6117	2689-6125	2021	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26896125	 	10.1002/(ISSN)2689-6125	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ASME Letters in Translational Robotics	2997-9765	2997-9773	2025	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/29979773	 	10.1002/(ISSN)2997-9773	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+AWWA Water Science	 	2577-8161	2019	1	1	 	 	 	https://awwa.onlinelibrary.wiley.com/loi/25778161	 	10.1002/(ISSN)2577-8161	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Basic & Clinical Pharmacology & Toxicology	1742-7835	1742-7843	2004	94	1	 	 	 	https://onlinelibrary.wiley.com/loi/17427843	 	10.1111/(ISSN)1742-7843	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0773	P	 	 
+Basin Research	0950-091X	1365-2117	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652117	 	10.1111/(ISSN)1365-2117	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Batteries & Supercaps	 	2566-6223	2018	1	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/25666223	 	10.1002/(ISSN)2566-6223	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bauphysik	0171-5445	1437-0980	2001	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/14370980	 	10.1002/(ISSN)1437-0980	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bautechnik	0932-8351	1437-0999	1998	75	1	 	 	 	https://onlinelibrary.wiley.com/loi/14370999	 	10.1002/(ISSN)1437-0999	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Berichte zur Wissenschaftsgeschichte	0170-6233	1522-2365	2002	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222365	 	10.1002/(ISSN)1522-2365	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Beton- und Stahlbetonbau	0005-9900	1437-1006	1997	92	1	 	 	 	https://onlinelibrary.wiley.com/loi/14371006	 	10.1002/(ISSN)1437-1006	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biochemistry and Molecular Biology Education	1470-8175	1539-3429	2000	28	4	 	 	 	https://iubmb.onlinelibrary.wiley.com/loi/15393429	 	10.1002/(ISSN)1539-3429	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1879-1468	P	 	 
+Biochemistry and Molecular Biology International	1039-9712	1521-6551	1996	39	1	1999	47	6	https://iubmb.onlinelibrary.wiley.com/loi/15216551	 	10.1002/(ISSN)1521-6551a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bioelectromagnetics	0197-8462	1521-186X	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/1521186X	 	10.1002/(ISSN)1521-186X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biofuels, Bioproducts and Biorefining	1932-104X	1932-1031	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19321031	 	10.1002/(ISSN)1932-1031	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bioimaging	0966-9051	1361-6374	1997	5	1	1998	6	4	https://onlinelibrary.wiley.com/loi/13616374	 	10.1002/(ISSN)1361-6374	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	Content older than 12 months
+Biological reviews of the Cambridge Philosophical Society	0006-3231	1469-185X	1997	72	1	1997	72	4	https://onlinelibrary.wiley.com/loi/1469185X	 	10.1111/(ISSN)1469-185X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biological Reviews	1464-7931	1469-185X	1998	73	1	 	 	 	https://onlinelibrary.wiley.com/loi/1469185X	 	10.1111/(ISSN)1469-185X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1469-185X	P	 	 
+Biology of the Cell	0248-4900	1768-322X	1997	89	1	 	 	 	https://onlinelibrary.wiley.com/loi/1768322X	 	10.1111/(ISSN)1768-322X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biomedical Chromatography	0269-3879	1099-0801	1996	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990801	 	10.1002/(ISSN)1099-0801	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biometrical Journal	0323-3847	1521-4036	1998	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214036	 	10.1002/(ISSN)1521-4036	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-4037	P	 	 
+Biopharmaceutics & Drug Disposition	0142-2782	1099-081X	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/1099081X	 	10.1002/(ISSN)1099-081X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biopolymers	0006-3525	1097-0282	1996	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970282	 	10.1002/(ISSN)1097-0282	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-0282	P	 	 
+Biotechnology and Applied Biochemistry	0885-4513	1470-8744	1997	25	1	 	 	 	https://iubmb.onlinelibrary.wiley.com/loi/14708744	 	10.1002/(ISSN)1470-8744	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biotechnology and Bioengineering	0006-3592	1097-0290	1996	49	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970290	 	10.1002/(ISSN)1097-0290	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1547-173X	P	 	 
+Biotechnology Journal	1860-6768	1860-7314	2006	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18607314	 	10.1002/(ISSN)1860-7314	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biotechnology Progress	8756-7938	1520-6033	1996	12	1	 	 	 	https://aiche.onlinelibrary.wiley.com/loi/15206033	 	10.1021/(ISSN)1520-6033	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Biotropica	0006-3606	1744-7429	1997	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/17447429	 	10.1111/(ISSN)1744-7429	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+BioEssays	0265-9247	1521-1878	1998	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/15211878	 	10.1002/(ISSN)1521-1878	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+BioFactors	0951-6433	1872-8081	1997	6	1	 	 	 	https://iubmb.onlinelibrary.wiley.com/loi/18728081	 	10.1002/(ISSN)1872-8081	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bipolar Disorders	1398-5647	1399-5618	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/13995618	 	10.1111/(ISSN)1399-5618	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Birth	0730-7659	1523-536X	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/1523536X	 	10.1111/(ISSN)1523-536X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Birth Defects Research	 	2472-1727	2017	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/24721727	 	10.1002/(ISSN)2472-1727	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1542-0760	P	 	 
+Birth Defects Research Part A: Clinical and Molecular Teratology	1542-0752	1542-0760	2003	67	1	2016	106	12	https://onlinelibrary.wiley.com/loi/15420760	 	10.1002/(ISSN)1542-0760	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1542-9768	P	 	 
+Birth Defects Research Part B: Developmental and Reproductive Toxicology	1542-9733	1542-9741	2003	68	1	2016	107	6	https://onlinelibrary.wiley.com/loi/15429741	 	10.1002/(ISSN)1542-9741	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-6866	P	 	 
+Birth Defects Research Part C: Embryo Today: Reviews	1542-975X	1542-9768	2003	69	1	2016	108	4	https://onlinelibrary.wiley.com/loi/15429768	 	10.1002/(ISSN)1542-9768	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1542-9741	P	 	 
+British Journal of Clinical Pharmacology	0306-5251	1365-2125	1997	43	1	 	 	 	https://bpspubs.onlinelibrary.wiley.com/loi/13652125	 	10.1111/(ISSN)1365-2125	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Haematology	0007-1048	1365-2141	1997	96	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652141	 	10.1111/(ISSN)1365-2141	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Pharmacology	0007-1188	1476-5381	1997	120	1	 	 	 	https://bpspubs.onlinelibrary.wiley.com/loi/14765381	 	10.1111/(ISSN)1476-5381	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1476-5381	P	 	 
+British Journal of Urology	0007-1331	1365-2176	1997	79	1	1998	83	2	https://bjui-journals.onlinelibrary.wiley.com/loi/1464410Xa	 	10.1111/(ISSN)1464-410Xa	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bulletin of the Korean Chemical Society	1229-5949	1229-5949	2015	36	1	 	 	 	https://onlinelibrary.wiley.com/loi/12295949	 	10.1002/(ISSN)1229-5949	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bulletin of the London Mathematical Society	0024-6093	1469-2120	1969	1	1	 	 	 	https://londmathsoc.onlinelibrary.wiley.com/loi/14692120	 	10.1112/(ISSN)1469-2120	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+BJOG: An International Journal of Obstetrics and Gynaecology	1470-0328	1471-0528	1997	104	1	 	 	 	https://obgyn.onlinelibrary.wiley.com/loi/14710528	 	10.1111/(ISSN)1471-0528	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+BJU International	1464-4096	1464-410X	1999	83	3	 	 	 	https://bjui-journals.onlinelibrary.wiley.com/loi/1464410X	 	10.1111/(ISSN)1464-410X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2176	P	 	 
+Canadian Journal of Cardiology	0828-282X	1916-7075	1997	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/19167075	 	10.1002/(ISSN)1916-7075	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Cancer	0008-543X	1097-0142	1996	77	1	 	 	 	https://acsjournals.onlinelibrary.wiley.com/loi/10970142	 	10.1002/(ISSN)1097-0142	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	Content older than 1 year back to Vol 1, 1948 (Vol 81, 1997 for Cancer Cyotpathology)
+Cancer Cytopathology	1934-662X	1934-6638	2009	117	1	 	 	 	https://acsjournals.onlinelibrary.wiley.com/loi/19346638	 	10.1002/(ISSN)1934-6638	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-0142	P	 	 
+Catheterization and Cardiovascular Diagnosis	0098-6569	1097-0304	1996	37	1	1998	45	4	https://onlinelibrary.wiley.com/loi/10970304	 	10.1002/(ISSN)1097-0304	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Catheterization and Cardiovascular Interventions	1522-1946	1522-726X	1999	46	1	 	 	 	https://onlinelibrary.wiley.com/loi/1522726X	 	10.1002/(ISSN)1522-726X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-0304	P	 	 
+Cell Biology International	1065-6995	1095-8355	1997	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/10958355	 	10.1002/(ISSN)1095-8355	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Cell Motility and the Cytoskeleton	0886-1544	1097-0169	1996	33	1	2009	66	12	https://onlinelibrary.wiley.com/loi/10970169	 	10.1002/(ISSN)1097-0169	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-0169	P	 	 
+Cereal Chemistry	0009-0352	1943-3638	1997	74	1	 	 	 	https://onlinelibrary.wiley.com/loi/19433638	 	10.1002/(ISSN)1943-3638	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Chemical Engineering & Technology	0930-7516	1521-4125	1998	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214125	 	10.1002/(ISSN)1521-4125	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Chemie in unserer Zeit	0009-2851	1521-3781	2000	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213781	 	10.1002/(ISSN)1521-3781	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Chemie Ingenieur Technik	0009-286X	1522-2640	2000	72	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/15222640	 	10.1002/(ISSN)1522-2640	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Chemistry & Industry	0009-3068	2047-6329	2011	75	19	 	 	 	https://onlinelibrary.wiley.com/loi/20476329	 	10.1002/(ISSN)2047-6329	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Chemistry - A European Journal	0947-6539	1521-3765	1998	4	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/15213765	 	10.1002/(ISSN)1521-3765	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Chemistry - An Asian Journal	1861-4728	1861-471X	2006	1	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/1861471X	 	10.1002/(ISSN)1861-471X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemistrySelect	2365-6549	2365-6549	2016	1	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/23656549	 	10.1002/(ISSN)2365-6549	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemBioChem	1439-4227	1439-7633	2000	1	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/14397633	 	10.1002/(ISSN)1439-7633	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemBioEng Reviews	2196-9744	2196-9744	2014	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/21969744	 	10.1002/(ISSN)2196-9744	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemCatChem	1867-3880	1867-3899	2009	1	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/18673899	 	10.1002/(ISSN)1867-3899	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemMedChem	1860-7179	1860-7187	2006	1	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/18607187	 	10.1002/(ISSN)1860-7187	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemNanoMat	2199-692X	2199-692X	2015	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/2199692X	 	10.1002/(ISSN)2199-692X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemPhotoChem	2367-0932	2367-0932	2017	1	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/23670932	 	10.1002/(ISSN)2367-0932	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemPhysChem	1439-4235	1439-7641	2000	1	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/14397641	 	10.1002/(ISSN)1439-7641	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemPlusChem	2192-6506	2192-6506	2012	77	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/21926506	 	10.1002/(ISSN)2192-6506	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemSusChem	1864-5631	1864-564X	2008	1	1-2	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/1864564X	 	10.1002/(ISSN)1864-564X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ChemSystemsChem	 	2570-4206	2019	1	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/25704206	 	10.1002/(ISSN)2570-4206	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Chinese Journal of Chemistry	1001-604X	1614-7065	2005	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/16147065	 	10.1002/(ISSN)1614-7065	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1614-7065	P	 	 
+Chinese Journal of Digestive Diseases	1443-9611	1443-9573	2000	1	1	2006	7	4	https://onlinelibrary.wiley.com/loi/14439573	 	10.1111/(ISSN)1443-9573	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Chirality	0899-0042	1520-636X	1996	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/1520636X	 	10.1002/(ISSN)1520-636X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Cladistics	0748-3007	1096-0031	1997	13	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/10960031	 	10.1111/(ISSN)1096-0031	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical & Experimental Allergy	0954-7894	1365-2222	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652222	 	10.1111/(ISSN)1365-2222	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical & Experimental Ophthalmology	1442-6404	1442-9071	2000	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/14429071	 	10.1111/(ISSN)1442-9071	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1440-1606	P	 	 
+Clinical & Laboratory Haematology	0141-9854	1365-2257	1997	19	1	2006	28	6	https://onlinelibrary.wiley.com/loi/13652257	 	10.1111/(ISSN)1365-2257	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical and Experimental Neuroimmunology	1759-1961	1759-1961	2010	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17591961	 	10.1111/(ISSN)1759-1961	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical and Experimental Pharmacology and Physiology	0305-1870	1440-1681	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401681	 	10.1111/(ISSN)1440-1681	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Advances in Periodontics	2573-8046	2163-0097	2011	1	1	 	 	 	https://aap.onlinelibrary.wiley.com/loi/21630097	 	10.1002/(ISSN)2163-0097	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Anatomy	0897-3806	1098-2353	1996	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982353	 	10.1002/(ISSN)1098-2353	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Endocrinology	0300-0664	1365-2265	1997	46	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652265	 	10.1111/(ISSN)1365-2265	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Genetics	0009-9163	1399-0004	1997	51	1	 	 	 	https://onlinelibrary.wiley.com/loi/13990004	 	10.1111/(ISSN)1399-0004	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Implant Dentistry and Related Research	1523-0899	1708-8208	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17088208	 	10.1111/(ISSN)1708-8208	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Obesity	1758-8103	1758-8111	2011	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17588111	 	10.1111/(ISSN)1758-8111	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Oral Implants Research	0905-7161	1600-0501	1999	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000501	 	10.1111/(ISSN)1600-0501	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Orthodontics and Research	1397-5927	1600-0544	2000	3	1	2001	4	4	https://onlinelibrary.wiley.com/loi/16000544	 	10.1111/(ISSN)1600-0544	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Otolaryngology	1749-4478	1749-4486	2005	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/17494486	 	10.1111/(ISSN)1749-4486	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2273	P	 	 
+Clinical Otolaryngology & Allied Sciences	0307-7772	1365-2273	1997	22	1	2004	29	6	https://onlinelibrary.wiley.com/loi/13652273	 	10.1111/(ISSN)1365-2273	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Pharmacology & Therapeutics	0009-9236	1532-6535	1997	61	1	 	 	 	https://ascpt.onlinelibrary.wiley.com/loi/15326535	 	10.1002/(ISSN)1532-6535	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Pharmacology in Drug Development	2160-763X	2160-7648	2012	1	1	 	 	 	https://accp1.onlinelibrary.wiley.com/loi/21607648	 	10.1002/(ISSN)2160-7648	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Physiology	0144-5979	1365-2281	1997	17	1	2001	21	6	https://onlinelibrary.wiley.com/loi/13652281	 	10.1111/(ISSN)1365-2281	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Clinical Physiology and Functional Imaging	1475-0961	1475-097X	2002	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/1475097X	 	10.1111/(ISSN)1475-097X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2281	P	 	 
+Clinical Transplantation	0902-0063	1399-0012	1999	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/13990012	 	10.1111/(ISSN)1399-0012	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Color Research & Application	0361-2317	1520-6378	1996	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206378	 	10.1002/(ISSN)1520-6378	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Coloration Technology	1472-3581	1478-4408	1999	115	1	 	 	 	https://onlinelibrary.wiley.com/loi/14784408	 	10.1111/(ISSN)1478-4408	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1478-4408	P	 	 
+Colorectal Disease	1462-8910	1463-1318	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14631318	 	10.1111/(ISSN)1463-1318	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Communications in Numerical Methods in Engineering	1069-8299	1099-0887	1996	12	1	2009	25	12	https://onlinelibrary.wiley.com/loi/10990887	 	10.1002/(ISSN)1099-0887	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1555-2047	P	 	 
+Communications on Pure and Applied Mathematics	0010-3640	1097-0312	1996	49	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970312	 	10.1002/(ISSN)1097-0312	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Community Dentistry and Oral Epidemiology	0301-5661	1600-0528	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000528	 	10.1111/(ISSN)1600-0528	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Comprehensive Physiology	 	2040-4603	2011	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20404603	 	10.1002/(ISSN)2040-4603	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Comprehensive Reviews in Food Science and Food Safety	1541-4337	1541-4337	2002	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15414337	 	10.1111/(ISSN)1541-4337	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	Content is tagged as free. This is not part of the Wiley Open Access program
+Computational Intelligence	0824-7935	1467-8640	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678640	 	10.1111/(ISSN)1467-8640	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Computer Animation and Virtual Worlds	1546-4261	1546-427X	2004	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/1546427X	 	10.1002/(ISSN)1546-427X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1778	P	 	 
+Computer Applications in Engineering Education	1061-3773	1099-0542	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990542	 	10.1002/(ISSN)1099-0542	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Computer Graphics Forum	0167-7055	1467-8659	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678659	 	10.1111/(ISSN)1467-8659	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Concurrency and Computation: Practice and Experience	1532-0626	1532-0634	2001	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/15320634	 	10.1002/(ISSN)1532-0634	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1096-9128	P	 	 
+Concurrency: Practice and Experience	1040-3108	1096-9128	1996	8	1	2000	12	15	https://onlinelibrary.wiley.com/loi/10969128	 	10.1002/(ISSN)1096-9128	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Congenital Anomalies	0914-3505	1741-4520	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/17414520	 	10.1111/(ISSN)1741-4520	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Conservation Biology	0888-8892	1523-1739	1997	11	1	 	 	 	https://conbio.onlinelibrary.wiley.com/loi/15231739	 	10.1111/(ISSN)1523-1739	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Contact Dermatitis	0105-1873	1600-0536	1997	36	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000536	 	10.1111/(ISSN)1600-0536	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Contributions to Plasma Physics	0863-1042	1521-3986	2000	40	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/15213986	 	10.1002/(ISSN)1521-3986	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3986	P	 	 
+Crop Science	0011-183X	1435-0653	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/14350653	 	10.1002/(ISSN)1435-0653	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Crop, Forage & Turfgrass Management	 	2374-3832	2015	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23743832	 	10.1002/(ISSN)2374-3832	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1552-5821	P	 	 
+Crystal Research and Technology	0232-1300	1521-4079	1998	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214079	 	10.1002/(ISSN)1521-4079	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-4079	P	 	 
+Curtis's Botanical Magazine	1355-4905	1467-8748	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678748	 	10.1111/(ISSN)1467-8748	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Cytometry	0196-4763	1097-0320	1997	27	1	2002	50	6	https://onlinelibrary.wiley.com/loi/10970320	 	10.1002/(ISSN)1097-0320	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1361-6374	P	 	 
+Cytometry Part A	1552-4922	1552-4930	2003	51A	1	 	 	 	https://onlinelibrary.wiley.com/loi/15524930	 	10.1002/(ISSN)1552-4930	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1552-4957	P	 	 
+Cytometry Part B: Clinical Cytometry	1552-4949	1552-4957	2003	51B	1	 	 	 	https://onlinelibrary.wiley.com/loi/15524957	 	10.1002/(ISSN)1552-4957	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-0320	P	 	 
+Cytopathology	0956-5507	1365-2303	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652303	 	10.1111/(ISSN)1365-2303	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Cytoskeleton	1949-3584	1949-3592	2010	67	1	 	 	 	https://onlinelibrary.wiley.com/loi/19493592	 	10.1002/(ISSN)1949-3592	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-0169	P	 	 
+CHEMKON	0944-5846	1521-3730	2002	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213730	 	10.1002/(ISSN)1521-3730	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+CLEAN - Soil, Air, Water	1863-0650	1863-0669	2007	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/18630669	 	10.1002/(ISSN)1863-0669	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-401X	P	 	 
+Dental Traumatology	1600-4469	1600-9657	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/16009657	 	10.1111/(ISSN)1600-9657	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Dermatological Reviews	 	2637-7489	2019	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26377489	 	10.1002/(ISSN)2637-7489	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Development, Growth & Differentiation	0012-1592	1440-169X	1997	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/1440169X	 	10.1111/(ISSN)1440-169X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1440-169X	P	 	 
+Developmental Dynamics	1058-8388	1097-0177	1996	205	1	 	 	 	https://anatomypubs.onlinelibrary.wiley.com/loi/10970177	 	10.1002/(ISSN)1097-0177	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1553-0795	P	 	 
+Developmental Genetics	0192-253X	1520-6408	1996	18	1	1999	25	4	https://onlinelibrary.wiley.com/loi/15206408	 	10.1002/(ISSN)1520-6408	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Developmental Medicine & Child Neurology	0012-1622	1469-8749	1997	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/14698749	 	10.1111/(ISSN)1469-8749	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Developmental Neurobiology	1932-8451	1932-846X	2007	67	1	 	 	 	https://onlinelibrary.wiley.com/loi/1932846X	 	10.1002/(ISSN)1932-846X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-4695	P	 	 
+Developmental Psychobiology	0012-1630	1098-2302	1996	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982302	 	10.1002/(ISSN)1098-2302	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Diabetes, Obesity and Metabolism	1462-8902	1463-1326	1999	1	1	 	 	 	https://dom-pubs.onlinelibrary.wiley.com/loi/14631326	 	10.1111/(ISSN)1463-1326	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Diabetic Medicine	0742-3071	1464-5491	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/14645491	 	10.1111/(ISSN)1464-5491	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Diagnostic Cytopathology	8755-1039	1097-0339	1996	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970339	 	10.1002/(ISSN)1097-0339	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Digestive Endoscopy	0915-5635	1443-1661	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/14431661	 	10.1111/(ISSN)1443-1661	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Drug and Alcohol Review	0959-5236	1465-3362	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/14653362	 	10.1111/(ISSN)1465-3362	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1465-3362	P	 	 
+Drug Development Research	0272-4391	1098-2299	1996	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982299	 	10.1002/(ISSN)1098-2299	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Drug Testing and Analysis	1942-7603	1942-7611	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19427611	 	10.1002/(ISSN)1942-7611	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Early Intervention in Psychiatry	1751-7885	1751-7893	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17517893	 	10.1111/(ISSN)1751-7893	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Earth Surface Processes and Landforms	0197-9337	1096-9837	1996	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969837	 	10.1002/(ISSN)1096-9837	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1931-8065	P	 	 
+Earthquake Engineering & Structural Dynamics	0098-8847	1096-9845	1996	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969845	 	10.1002/(ISSN)1096-9845	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Earthquake Spectra	8755-2930	1944-8201	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/19448201	 	10.1002/(ISSN)1944-8201	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Echocardiography	0742-2822	1540-8175	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/15408175	 	10.1111/(ISSN)1540-8175	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ecohydrology	1936-0584	1936-0592	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19360592	 	10.1002/(ISSN)1936-0592	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ecological Applications	1051-0761	1939-5582	1997	7	1	 	 	 	https://esajournals.onlinelibrary.wiley.com/loi/19395582	 	10.1002/(ISSN)1939-5582	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ecological Entomology	0307-6946	1365-2311	1997	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652311	 	10.1111/(ISSN)1365-2311	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2311	P	 	 
+Ecological Management & Restoration	1442-7001	1442-8903	2000	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14428903	 	10.1111/(ISSN)1442-8903	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ecological Monographs	0012-9615	1557-7015	1997	67	1	 	 	 	https://esajournals.onlinelibrary.wiley.com/loi/15577015	 	10.1002/(ISSN)1557-7015	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ecological Research	0912-3814	1440-1703	1997	12	1	 	 	 	https://esj-journals.onlinelibrary.wiley.com/loi/14401703	 	10.1111/(ISSN)1440-1703	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ecology	0012-9658	1939-9170	1997	78	1	 	 	 	https://esajournals.onlinelibrary.wiley.com/loi/19399170	 	10.1002/(ISSN)1939-9170	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ecology of Freshwater Fish	0906-6691	1600-0633	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000633	 	10.1111/(ISSN)1600-0633	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ecology Letters	1461-023X	1461-0248	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14610248	 	10.1111/(ISSN)1461-0248	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Electrical Engineering in Japan	0424-7760	1520-6416	1997	118	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206416	 	10.1002/(ISSN)1520-6416	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Electroanalysis	1040-0397	1521-4109	1998	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214109	 	10.1002/(ISSN)1521-4109	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Electronics and Communications in Japan	1942-9533	1942-9541	2008	91	1	 	 	 	https://onlinelibrary.wiley.com/loi/19429541	 	10.1002/(ISSN)1942-9541	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-6440	P	 	 
+Electronics and Communications in Japan (Part I: Communications)	8756-6621	1520-6424	1997	80	1	2007	90	12	https://onlinelibrary.wiley.com/loi/15206424	 	10.1002/(ISSN)1520-6424	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Electronics and Communications in Japan (Part II: Electronics)	8756-663X	1520-6432	1997	80	1	2007	90	12	https://onlinelibrary.wiley.com/loi/15206432	 	10.1002/(ISSN)1520-6432	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-6424	P	 	 
+Electronics and Communications in Japan (Part III: Fundamental Electronic Science)	1042-0967	1520-6440	1997	80	1	2007	90	12	https://onlinelibrary.wiley.com/loi/15206440	 	10.1002/(ISSN)1520-6440	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-6432	P	 	 
+Emergency Medicine	1035-6851	1442-2026	1997	9	1	2004	16	5-6	https://onlinelibrary.wiley.com/loi/14422026	 	10.1111/(ISSN)1442-2026	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Emergency Medicine Australasia	1742-6731	1742-6723	2005	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/17426723	 	10.1111/(ISSN)1742-6723	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1442-2026	P	 	 
+Energy Storage	 	2578-4862	2019	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25784862	 	10.1002/(ISSN)2578-4862	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Energy Technology	2194-4288	2194-4296	2013	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/21944296	 	10.1002/(ISSN)2194-4296	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Entomologia Experimentalis et Applicata	0013-8703	1570-7458	1997	82	1	 	 	 	https://onlinelibrary.wiley.com/loi/15707458	 	10.1111/(ISSN)1570-7458	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Entomological Research	1738-2297	1748-5967	2002	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/17485967	 	10.1111/(ISSN)1748-5967	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Entomological Science	1343-8786	1479-8298	2003	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/14798298	 	10.1111/(ISSN)1479-8298	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Environmental and Molecular Mutagenesis	0893-6692	1098-2280	1996	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982280	 	10.1002/(ISSN)1098-2280	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1930-238X	P	 	 
+Environmental Microbiology	1462-2912	1462-2920	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14622920	 	10.1111/(ISSN)1462-2920	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Environmental Progress	0278-4491	1547-5921	2000	19	1	2008	27	4	https://aiche.onlinelibrary.wiley.com/loi/15475921	 	10.1002/(ISSN)1547-5921	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Environmental Progress & Sustainable Energy	1944-7442	1944-7450	2009	28	1	 	 	 	https://aiche.onlinelibrary.wiley.com/loi/19447450	 	10.1002/(ISSN)1944-7450	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1547-5921	P	 	 
+Environmental Toxicology	1520-4081	1522-7278	1999	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/15227278	 	10.1002/(ISSN)1522-7278	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1098-2256	P	 	 
+Environmental Toxicology and Water Quality	1053-4725	1098-2256	1996	11	1	1998	13	4	https://onlinelibrary.wiley.com/loi/10982256	 	10.1002/(ISSN)1098-2256	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1098-2256	P	 	 
+Environmetrics	1180-4009	1099-095X	1996	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/1099095X	 	10.1002/(ISSN)1099-095X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Epilepsia	0013-9580	1528-1167	1997	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/15281167	 	10.1111/(ISSN)1528-1167	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Epileptic Disorders	1294-9361	1950-6945	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19506945	 	10.1684/(ISSN)1950-6945	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Equine Veterinary Education	0957-7734	2042-3292	1997	9	1	 	 	 	https://beva.onlinelibrary.wiley.com/loi/20423292	 	10.1001/(ISSN)2042-3292	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Equine Veterinary Journal	0425-1644	2042-3306	1997	29	1	 	 	 	https://beva.onlinelibrary.wiley.com/loi/20423306	 	10.1001/(ISSN)2042-3306	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ethology	0179-1613	1439-0310	1997	103	1	 	 	 	https://onlinelibrary.wiley.com/loi/14390310	 	10.1111/(ISSN)1439-0310	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1439-0310	P	 	 
+European Eating Disorders Review	1072-4133	1099-0968	1996	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990968	 	10.1002/(ISSN)1099-0968	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Biochemistry	0014-2956	1432-1033	1997	243	1	2004	271	23-24	https://febs.onlinelibrary.wiley.com/loi/14321033	 	10.1111/(ISSN)1432-1033	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Clinical Investigation	0014-2972	1365-2362	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652362	 	10.1111/(ISSN)1365-2362	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Dental Education	1396-5883	1600-0579	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000579	 	10.1111/(ISSN)1600-0579	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Forest Pathology	0300-1237	 	1997	27	1	1999	29	6	https://onlinelibrary.wiley.com/loi/14390329a	 	10.1111/(ISSN)1439-0329a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Haematology	0902-4441	1600-0609	1997	58	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000609	 	10.1111/(ISSN)1600-0609	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0609	P	 	 
+European Journal of Immunogenetics	0960-7420	1365-2370	1997	24	1	2004	31	6	https://onlinelibrary.wiley.com/loi/13652370	 	10.1111/(ISSN)1365-2370	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1744-313X	P	 	 
+European Journal of Immunology	0014-2980	1521-4141	1998	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214141	 	10.1002/(ISSN)1521-4141	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Inorganic Chemistry	1434-1948	1099-0682	1998	1998	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/10990682c	 	10.1002/(ISSN)1099-0682c	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0682	P	 	 
+European Journal of Lipid Science and Technology	1438-7697	1438-9312	2000	102	1	 	 	 	https://onlinelibrary.wiley.com/loi/14389312	 	10.1002/(ISSN)1438-9312	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-4133	P	 	 
+European Journal of Neuroscience	0953-816X	1460-9568	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/14609568	 	10.1111/(ISSN)1460-9568	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Oral Sciences	0909-8836	1600-0722	1997	105	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000722	 	10.1111/(ISSN)1600-0722	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Organic Chemistry	1434-193X	1099-0690	1998	1998	1	 	 	 	https://chemistry-europe.onlinelibrary.wiley.com/loi/10990690	 	10.1002/(ISSN)1099-0690	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0690	P	 	 
+European Journal of Pain	1090-3801	1532-2149	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15322149	 	10.1002/(ISSN)1532-2149	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Soil Science	1351-0754	1365-2389	1997	48	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652389	 	10.1111/(ISSN)1365-2389	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2389	P	 	 
+European Transactions on Telecommunications	1124-318X	1541-8251	2004	15	1	2011	22	8	https://onlinelibrary.wiley.com/loi/15418251	 	10.1002/(ISSN)1541-8251	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Evolution & Development	1520-541X	1525-142X	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1525142X	 	10.1111/(ISSN)1525-142X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Evolutionary Anthropology	1060-1538	1520-6505	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206505	 	10.1002/(ISSN)1520-6505	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Experimental Dermatology	0906-6705	1600-0625	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000625	 	10.1111/(ISSN)1600-0625	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Expert Systems	0266-4720	1468-0394	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680394	 	10.1111/(ISSN)1468-0394	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+EDTNA-ERCA Journal	1019-083X	1755-6686	1999	25	1	2006	32	2	https://onlinelibrary.wiley.com/loi/17556686a	 	10.1111/(ISSN)1755-6686a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+ELECTROPHORESIS	0173-0835	1522-2683	1999	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222683	 	10.1002/(ISSN)1522-2683	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+EPPO Bulletin	0250-8052	1365-2338	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652338	 	10.1111/(ISSN)1365-2338	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Fatigue & Fracture of Engineering Materials & Structures	8756-758X	1460-2695	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/14602695	 	10.1111/(ISSN)1460-2695	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Feddes Repertorium	0014-8962	1522-239X	2002	113	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/1522239Xb	 	10.1002/(ISSN)1522-239Xb	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1522-239X	P	 	 
+Fire and Materials	0308-0501	1099-1018	1996	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991018	 	10.1002/(ISSN)1099-1018	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Fish and Fisheries	1467-2960	1467-2979	2000	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14672979	 	10.1111/(ISSN)1467-2979	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Fisheries Management and Ecology	0969-997X	1365-2400	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652400	 	10.1111/(ISSN)1365-2400	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Fisheries Oceanography	1054-6006	1365-2419	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652419	 	10.1111/(ISSN)1365-2419	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Flavour and Fragrance Journal	0882-5734	1099-1026	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991026	 	10.1002/(ISSN)1099-1026	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Food / Nahrung	0027-769X	1521-3803	1998	42	1	2004	48	3	https://onlinelibrary.wiley.com/loi/15213803	 	10.1002/(ISSN)1521-3803	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Forest Pathology	1437-4781	1439-0329	2000	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/14390329	 	10.1111/(ISSN)1439-0329	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Fortschritte der Physik	0015-8208	1521-3978	1998	46	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213978	 	10.1002/(ISSN)1521-3978	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3979	P	 	 
+Freshwater Biology	0046-5070	1365-2427	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652427	 	10.1111/(ISSN)1365-2427	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Frontiers in Ecology and the Environment	1540-9295	1540-9309	2003	1	1	 	 	 	https://esajournals.onlinelibrary.wiley.com/loi/15409309	 	10.1002/(ISSN)1540-9309	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Fuel Cells	1615-6846	1615-6854	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16156854	 	10.1002/(ISSN)1615-6854	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Fundamental & Clinical Pharmacology	0767-3981	1472-8206	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14728206	 	10.1111/(ISSN)1472-8206	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+FEBS Letters	0014-5793	1873-3468	1997	400	1	 	 	 	https://febs.onlinelibrary.wiley.com/loi/18733468	 	10.1002/(ISSN)1873-3468	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Genes to Cells	1356-9597	1365-2443	1996	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652443	 	10.1111/(ISSN)1365-2443	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Genes, Chromosomes and Cancer	1045-2257	1098-2264	1996	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982264	 	10.1002/(ISSN)1098-2264	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Genetic Epidemiology	0741-0395	1098-2272	1996	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982272	 	10.1002/(ISSN)1098-2272	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geoarchaeology	0883-6353	1520-6548	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206548	 	10.1002/(ISSN)1520-6548	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geobiology	1472-4677	1472-4669	2003	1	1	 	 	1	https://onlinelibrary.wiley.com/loi/14724669	 	10.1111/(ISSN)1472-4669	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geological Journal	0072-1050	1099-1034	1996	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991034	 	10.1002/(ISSN)1099-1034	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geological Society of China Bulletin	3144-1297	3144-0754	2026	100	5	 	 	 	https://onlinelibrary.wiley.com/loi/31440754	 	10.1111/(ISSN)3144-0754	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1755-6724	P	 	 
+Geology Today	0266-6979	1365-2451	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652451	 	10.1111/(ISSN)1365-2451	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geomechanics and Tunnelling	1865-7362	1865-7389	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18657389	 	10.1002/(ISSN)1865-7389	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geophysical Prospecting	0016-8025	1365-2478	1997	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652478	 	10.1111/(ISSN)1365-2478	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geostandards and Geoanalytical Research	1639-4488	1751-908X	2004	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/1751908X	 	10.1111/(ISSN)1751-908X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geostandards Newsletter	0150-5505	 	1997	21	1	2003	27	3	https://onlinelibrary.wiley.com/loi/1751908Xa	 	10.1111/(ISSN)1751-908Xa	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geriatrics & Gerontology International	1444-1586	1447-0594	2001	1	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/14470594	 	10.1111/(ISSN)1447-0594	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Gerodontology	0734-0664	1741-2358	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/17412358	 	10.1111/(ISSN)1741-2358	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Global Biogeochemical Cycles	0886-6236	1944-9224	1997	11	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/19449224	 	10.1002/(ISSN)1944-9224	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Global Change Biology	1354-1013	1365-2486	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652486	 	10.1111/(ISSN)1365-2486	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Global Ecology & Biogeography Letters	0960-7447	1466-8238	1998	7	1	1998	7	6	https://onlinelibrary.wiley.com/loi/14668238a	 	10.1111/(ISSN)1466-8238a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Global Ecology and Biogeography	1466-822X	1466-8238	1999	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/14668238	 	10.1111/(ISSN)1466-8238	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1466-8238	P	 	 
+Grass and Forage Science	0142-5242	1365-2494	1997	52	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652494	 	10.1111/(ISSN)1365-2494	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Grassland Science	1744-6961	1744-697X	2005	51	1	 	 	 	https://onlinelibrary.wiley.com/loi/1744697X	 	10.1111/(ISSN)1744-697X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Greenhouse Gases: Science and Technology	2152-3878	2152-3878	2011	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/21523878	 	10.1002/(ISSN)2152-3878	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Groundwater	0017-467X	1745-6584	1997	35	1	 	 	 	https://ngwa.onlinelibrary.wiley.com/loi/17456584	 	10.1111/(ISSN)1745-6584	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Groundwater Monitoring & Remediation	1069-3629	1745-6592	1997	17	1	 	 	 	https://ngwa.onlinelibrary.wiley.com/loi/17456592	 	10.1111/(ISSN)1745-6592	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+GAMM-Mitteilungen	0936-7195	1522-2608	2004	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222608	 	10.1002/(ISSN)1522-2608	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+GLIA	0894-1491	1098-1136	1996	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/10981136	 	10.1002/(ISSN)1098-1136	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+H&G Zeitschrift für Hautkrankheiten	0301-0481	1439-0353	2002	77	1	2002	77	12	https://onlinelibrary.wiley.com/loi/14390353	 	10.1111/(ISSN)1439-0353	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Haemophilia	1351-8216	1365-2516	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652516	 	10.1111/(ISSN)1365-2516	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Head & Neck	1043-3074	1097-0347	1996	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970347	 	10.1002/(ISSN)1097-0347	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1930-2398	P	 	 
+Headache Currents	1743-5005	1743-5013	2004	1	1	2006	3	5	https://headachejournal.onlinelibrary.wiley.com/loi/17435013	 	10.1111/(ISSN)1743-5013	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Headache: The Journal of Head and Face Pain	0017-8748	1526-4610	1997	37	1	 	 	 	https://headachejournal.onlinelibrary.wiley.com/loi/15264610	 	10.1111/(ISSN)1526-4610	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1743-5013	P	 	 
+Health Information and Libraries Journal	1471-1834	1471-1842	2001	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/14711842	 	10.1111/(ISSN)1471-1842	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2532	P	 	 
+Health Libraries Review	0265-6647	1365-2532	1997	14	1	2000	17	4	https://onlinelibrary.wiley.com/loi/13652532	 	10.1111/(ISSN)1365-2532	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Heat Transfer	2688-4534	2688-4542	2020	49	1	 	 	 	https://onlinelibrary.wiley.com/loi/26884542	 	10.1002/(ISSN)2688-4542	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1523-1496	P	 	 
+Heat Transfer - Japanese Research	0096-0802	1520-6556	1996	25	1	1998	27	8	https://onlinelibrary.wiley.com/loi/15206556	 	10.1002/(ISSN)1520-6556	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Heat Transfer Asian Research	1099-2871	1523-1496	1999	28	1	2019	48	8	https://onlinelibrary.wiley.com/loi/15231496	 	10.1002/(ISSN)1523-1496	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-6556	P	 	 
+Helicobacter	1083-4389	1523-5378	1997	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/15235378	 	10.1111/(ISSN)1523-5378	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Helvetica Chimica Acta	0018-019X	1522-2675	1999	82	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222675	 	10.1002/(ISSN)1522-2675	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Hematological Oncology	0278-0232	1099-1069	1996	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991069	 	10.1002/(ISSN)1099-1069	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Hemodialysis International	1492-7535	1542-4758	2000	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/15424758	 	10.1111/(ISSN)1542-4758	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Hippocampus	1050-9631	1098-1063	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/10981063	 	10.1002/(ISSN)1098-1063	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Histopathology	0309-0167	1365-2559	1997	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652559	 	10.1111/(ISSN)1365-2559	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Home Hemodialysis International	1480-0225	 	1997	1	1	1999	1	1	https://onlinelibrary.wiley.com/loi/15424758	 	10.1111/(ISSN)1542-4758a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Human Factors and Ergonomics in Manufacturing & Service Industries	1090-8471	1520-6564	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206564	 	10.1002/(ISSN)1520-6564	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1522-7111	P	 	 
+Human Psychopharmacology: Clinical and Experimental	0885-6222	1099-1077	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991077	 	10.1002/(ISSN)1099-1077	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Hydrological Processes	0885-6087	1099-1085	1996	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991085	 	10.1002/(ISSN)1099-1085	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+HIV Medicine	1464-2662	1468-1293	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14681293	 	10.1111/(ISSN)1468-1293	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+HLA: Immune Response Genetics	2059-2302	2059-2310	2016	87	1	 	 	 	https://onlinelibrary.wiley.com/loi/20592310	 	10.1111/(ISSN)2059-2310	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1399-0039	P	 	 
+Immunological Reviews	0105-2896	1600-065X	1997	155	1	 	 	 	https://onlinelibrary.wiley.com/loi/1600065X	 	10.1111/(ISSN)1600-065X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Immunology	0019-2805	1365-2567	1996	87	2	 	 	 	https://onlinelibrary.wiley.com/loi/13652567	 	10.1111/(ISSN)1365-2567	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Immunology & Cell Biology	0818-9641	1440-1711	1997	75	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401711	 	10.1111/(ISSN)1440-1711	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1440-1711	P	 	 
+In Practice	0263-841X	2042-7689	1997	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/20427689	 	10.1002/(ISSN)2042-7689	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Information Systems Journal	1350-1917	1365-2575	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652575	 	10.1111/(ISSN)1365-2575	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Insect Conservation and Diversity	1752-458X	1752-4598	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17524598	 	10.1111/(ISSN)1752-4598	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Insect Molecular Biology	0962-1075	1365-2583	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652583	 	10.1111/(ISSN)1365-2583	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Insect Science	1672-9609	1744-7917	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/17447917	 	10.1111/(ISSN)1744-7917	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Internal Medicine Journal	1444-0903	1445-5994	2001	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/14455994	 	10.1111/(ISSN)1445-5994	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1445-5994	P	 	 
+International Endodontic Journal	0143-2885	1365-2591	1997	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652591	 	10.1111/(ISSN)1365-2591	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Forum of Allergy & Rhinology	2042-6976	2042-6984	2011	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20426984	 	10.1002/(ISSN)2042-6984	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal for Numerical and Analytical Methods in Geomechanics	0363-9061	1096-9853	1996	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969853	 	10.1002/(ISSN)1096-9853	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1484	P	 	 
+International Journal for Numerical Methods in Biomedical Engineering	2040-7939	2040-7947	2010	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/20407947	 	10.1002/(ISSN)2040-7947	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0887	P	 	 
+International Journal for Numerical Methods in Engineering	0029-5981	1097-0207	1996	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970207	 	10.1002/(ISSN)1097-0207	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal for Numerical Methods in Fluids	0271-2091	1097-0363	1996	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970363	 	10.1002/(ISSN)1097-0363	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Adaptive Control and Signal Processing	0890-6327	1099-1115	1996	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991115	 	10.1002/(ISSN)1099-1115	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Andrology	0105-6263	1365-2605	1997	20	1	2012	35	6	https://onlinelibrary.wiley.com/loi/13652605	 	10.1111/(ISSN)1365-2605	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1939-4640	F	 	 
+International Journal of Applied Ceramic Technology	1546-542X	1744-7402	2004	1	1	 	 	 	https://ceramics.onlinelibrary.wiley.com/loi/17447402	 	10.1111/(ISSN)1744-7402	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Applied Glass Science	2041-1286	2041-1294	2010	1	1	 	 	 	https://ceramics.onlinelibrary.wiley.com/loi/20411294	 	10.1111/(ISSN)2041-1294	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Cancer	0020-7136	1097-0215	1996	65	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970215	 	10.1002/(ISSN)1097-0215	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Chemical Kinetics	0538-8066	1097-4601	1996	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974601	 	10.1002/(ISSN)1097-4601	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Circuit Theory and Applications	0098-9886	1097-007X	1996	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/1097007X	 	10.1002/(ISSN)1097-007X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Climatology	0899-8418	1097-0088	1996	16	1	 	 	 	https://rmets.onlinelibrary.wiley.com/loi/10970088	 	10.1002/(ISSN)1097-0088	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2374-7412	P	 	 
+International Journal of Communication Systems	1074-5351	1099-1131	1996	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991131	 	10.1002/(ISSN)1099-1131	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1131	P	 	 
+International Journal of Cosmetic Science	0142-5463	1468-2494	1997	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682494	 	10.1111/(ISSN)1468-2494	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Dairy Technology	1364-727X	1471-0307	1997	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/14710307	 	10.1111/(ISSN)1471-0307	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Dental Hygiene	1601-5029	1601-5037	2003	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16015037	 	10.1111/(ISSN)1601-5037	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Dermatology	0011-9059	1365-4632	1997	36	1	 	 	 	https://onlinelibrary.wiley.com/loi/13654632	 	10.1111/(ISSN)1365-4632	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Developmental Neuroscience	0736-5748	1873-474X	1997	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/1873474X	 	10.1002/(ISSN)1873-474X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Eating Disorders	0276-3478	1098-108X	1996	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/1098108X	 	10.1002/(ISSN)1098-108X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Geriatric Psychiatry	0885-6230	1099-1166	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991166	 	10.1002/(ISSN)1099-1166	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Gynecology & Obstetrics	0020-7292	1879-3479	1997	56	1	 	 	 	https://obgyn.onlinelibrary.wiley.com/loi/18793479	 	10.1002/(ISSN)1879-3479	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1879-3479	P	 	 
+International Journal of Human Factors in Manufacturing	1045-2699	1522-7111	1996	6	1	1996	6	4	https://onlinelibrary.wiley.com/loi/15227111	 	10.1002/(ISSN)1522-7111	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Imaging Systems and Technology	0899-9457	1098-1098	1996	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/10981098	 	10.1002/(ISSN)1098-1098	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Immunogenetics	1744-3121	1744-313X	2005	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/1744313X	 	10.1111/(ISSN)1744-313X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2370	P	 	 
+International Journal of Laboratory Hematology	1751-5521	1751-553X	2007	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/1751553X	 	10.1111/(ISSN)1751-553X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2257	P	 	 
+International Journal of Mental Health Nursing	1445-8330	1447-0349	2002	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14470349	 	10.1111/(ISSN)1447-0349	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1440-0979	P	 	 
+International Journal of Network Management	1055-7148	1099-1190	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991190	 	10.1002/(ISSN)1099-1190	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Numerical Modelling: Electronic Networks, Devices and Fields	0894-3370	1099-1204	1996	9	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/10991204	 	10.1002/(ISSN)1099-1204	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Nursing Practice	1322-7114	1440-172X	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/1440172X	 	10.1111/(ISSN)1440-172X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Older People Nursing	1748-3735	1748-3743	2006	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17483743	 	10.1111/(ISSN)1748-3743	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Osteoarchaeology	1047-482X	1099-1212	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991212	 	10.1002/(ISSN)1099-1212	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Paediatric Dentistry	0960-7439	1365-263X	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/1365263X	 	10.1111/(ISSN)1365-263X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Pediatric Obesity	1747-7166	1747-7174	2006	1	1	2011	6	5-6	https://onlinelibrary.wiley.com/loi/17477174	 	10.1111/(ISSN)1747-7174	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Quantum Chemistry	0020-7608	1097-461X	1996	57	1	 	 	 	https://onlinelibrary.wiley.com/loi/1097461X	 	10.1002/(ISSN)1097-461X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Rheumatic Diseases	1756-1841	1756-185X	2008	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/1756185X	 	10.1111/(ISSN)1756-185X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1479-8077	P	 	 
+International Journal of Robust and Nonlinear Control	1049-8923	1099-1239	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991239	 	10.1002/(ISSN)1099-1239	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Satellite Communications	0737-2884	1099-1247	1996	14	1	2002	20	6	https://onlinelibrary.wiley.com/loi/10991247	 	10.1002/(ISSN)1099-1247	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Satellite Communications and Networking	1542-0973	1542-0981	2003	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/15420981	 	10.1002/(ISSN)1542-0981	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1247	P	 	 
+International Journal of Urological Nursing	1749-7701	1749-771X	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1749771X	 	10.1111/(ISSN)1749-771X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Urology	0919-8172	1442-2042	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/14422042	 	10.1111/(ISSN)1442-2042	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Nursing Review	0020-8132	1466-7657	1998	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/14667657	 	10.1111/(ISSN)1466-7657	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Review of Hydrobiology	1434-2944	1522-2632	2000	85	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222632	 	10.1002/(ISSN)1522-2632	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Statistical Review	0306-7734	1751-5823	1997	65	1	 	 	 	https://onlinelibrary.wiley.com/loi/17515823	 	10.1111/(ISSN)1751-5823	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Internet Technology Letters	 	2476-1508	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/24761508	 	10.1002/(ISSN)2476-1508	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Irrigation and Drainage	1531-0353	1531-0361	2001	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/15310361	 	10.1002/(ISSN)1531-0361	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Island Arc	1038-4871	1440-1738	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401738	 	10.1111/(ISSN)1440-1738	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Israel Journal of Chemistry	0021-2148	1869-5868	2000	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/18695868	 	10.1002/(ISSN)1869-5868	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+IBIS	0019-1019	1474-919X	1997	139	1	 	 	 	https://onlinelibrary.wiley.com/loi/1474919X	 	10.1111/(ISSN)1474-919X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+IEEJ Transactions on Electrical and Electronic Engineering	1931-4973	1931-4981	2006	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19314981	 	10.1002/(ISSN)1931-4981	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+INCOSE International Symposium	 	2334-5837	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/23345837	 	10.1002/(ISSN)2334-5837	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+IUBMB Life	1521-6543	1521-6551	1999	48	1	 	 	 	https://iubmb.onlinelibrary.wiley.com/loi/15216551	 	10.1002/(ISSN)1521-6551	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-6551	P	 	 
+Japan Journal of Nursing Science	1742-7932	1742-7924	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17427924	 	10.1111/(ISSN)1742-7924	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Japanese Journal of Microbiology	0021-5139	1348-0421	1957	1	1	1976	20	6	https://onlinelibrary.wiley.com/loi/13480421a	 	10.1111/(ISSN)1348-0421a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal der Deutschen Dermatologischen Gesellschaft	1610-0379	1610-0387	2003	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16100387	 	10.1111/(ISSN)1610-0387	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1439-0353	P	 	 
+Journal for Specialists in Pediatric Nursing	1539-0136	1744-6155	1997	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/17446155	 	10.1111/(ISSN)1744-6155	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the American Ceramic Society	0002-7820	1551-2916	1997	80	1	 	 	 	https://ceramics.onlinelibrary.wiley.com/loi/15512916	 	10.1111/(ISSN)1551-2916	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1551-2916	P	 	 
+Journal of the American Geriatrics Society	0002-8614	1532-5415	1997	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/15325415	 	10.1111/(ISSN)1532-5415	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the American Oil Chemists' Society	0003-021X	1558-9331	1997	74	1	 	 	 	https://aocs.onlinelibrary.wiley.com/loi/15589331	 	10.1002/(ISSN)1558-9331	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2331-3420	P	 	 
+Journal of the American Society for Information Science	0002-8231	1097-4571	1997	48	1	2000	51	14	https://asistdl.onlinelibrary.wiley.com/loi/10974571	 	10.1002/(ISSN)1097-4571	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1936-6108	P	 	 
+Journal of the American Society for Information Science and Technology	1532-2882	1532-2890	2001	52	1	2013	64	12	https://asistdl.onlinelibrary.wiley.com/loi/15322890	 	10.1002/(ISSN)1532-2890	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-4571	P	 	 
+Journal of the American Water Resources Association	1093-474X	1752-1688	1997	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/17521688	 	10.1111/(ISSN)1752-1688	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the Association for Information Science and Technology	2330-1635	2330-1643	2014	65	1	 	 	 	https://asistdl.onlinelibrary.wiley.com/loi/23301643	 	10.1002/(ISSN)2330-1643	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1532-2890	P	 	 
+Journal of the Chartered Institution of Water and Environmental Management	1360-4015	 	1997	11	1	2004	18	4	https://onlinelibrary.wiley.com/loi/17476593	 	10.1111/(ISSN)1747-6593	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1747-6593	P	 	 
+Journal of the Chinese Chemical Society	0009-4536	2192-6549	2011	58	1	 	 	 	https://onlinelibrary.wiley.com/loi/21926549	 	10.1002/(ISSN)2192-6549	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the European Academy of Dermatology and Venereology	0926-9959	1468-3083	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/14683083	 	10.1111/(ISSN)1468-3083	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the London Mathematical Society	0024-6107	1469-7750	1997	55	1	 	 	 	https://londmathsoc.onlinelibrary.wiley.com/loi/14697750	 	10.1112/(ISSN)1469-7750	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the Peripheral Nervous System	1085-9489	1529-8027	2000	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/15298027	 	10.1111/(ISSN)1529-8027	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the Royal Society of New Zealand	0303-6758	1175-8899	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/11758899	 	10.1002/(ISSN)1175-8899	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the Science of Food and Agriculture	0022-5142	1097-0010	1996	70	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970010	 	10.1002/(ISSN)1097-0010	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the Society for Information Display	1071-0922	1938-3657	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/19383657	 	10.1002/(ISSN)1938-3657	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the Society of Dyers and Colourists	0037-9859	2056-5267	1997	113	1	2000	116	12	https://onlinelibrary.wiley.com/loi/14784408b	 	10.1111/(ISSN)1478-4408b	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Advanced Nursing	0309-2402	1365-2648	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652648	 	10.1111/(ISSN)1365-2648	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Anatomy	0021-8782	1469-7580	1997	190	1	 	 	 	https://onlinelibrary.wiley.com/loi/14697580	 	10.1111/(ISSN)1469-7580	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Andrology	0196-3635	1939-4640	1997	18	1	2012	33	6	https://onlinelibrary.wiley.com/loi/19394640	 	10.1002/(ISSN)1939-4640	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	F	 	 
+Journal of Animal Breeding and Genetics	0931-2668	1439-0388	1997	114	1-6	 	 	 	https://onlinelibrary.wiley.com/loi/14390388	 	10.1111/(ISSN)1439-0388	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1439-0388	P	 	 
+Journal of Animal Ecology	0021-8790	1365-2656	1998	67	1	 	 	 	https://besjournals.onlinelibrary.wiley.com/loi/13652656	 	10.1111/(ISSN)1365-2656	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Animal Physiology and Animal Nutrition	0931-2439	1439-0396	1997	77	1-5	 	 	 	https://onlinelibrary.wiley.com/loi/14390396	 	10.1111/(ISSN)1439-0396	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1439-0396	P	 	 
+Journal of Applied Crystallography	0021-8898	1600-5767	1997	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/S16005767	 	10.1107/S16005767	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Ecology	0021-8901	1365-2664	1998	35	1	 	 	 	https://besjournals.onlinelibrary.wiley.com/loi/13652664	 	10.1111/(ISSN)1365-2664	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Entomology	0931-2048	1439-0418	1997	121	1-5	 	 	 	https://onlinelibrary.wiley.com/loi/14390418	 	10.1111/(ISSN)1439-0418	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1439-0418	P	 	 
+Journal of Applied Mechanics	0021-8936	1528-9036	1997	64	1	 	 	 	https://onlinelibrary.wiley.com/loi/15289036	 	10.1002/(ISSN)1528-9036	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Polymer Science	0021-8995	1097-4628	1996	59	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974628	 	10.1002/(ISSN)1097-4628	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Social Psychology	0021-9029	1559-1816	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/15591816	 	10.1111/(ISSN)1559-1816	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Toxicology	0260-437X	1099-1263	1996	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991263	 	10.1002/(ISSN)1099-1263	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Autonomous Vehicles and Systems	2690-702X	2690-7038	2021	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26907038	 	10.1002/(ISSN)2690-7038	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Basic Microbiology	0233-111X	1521-4028	1998	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214028	 	10.1002/(ISSN)1521-4028	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-4028	P	 	 
+Journal of Biogeography	0305-0270	1365-2699	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652699	 	10.1111/(ISSN)1365-2699	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Bioluminescence and Chemiluminescence	0884-3996	1099-1271	1996	11	1	1998	13	6	https://onlinelibrary.wiley.com/loi/10991271	 	10.1002/(ISSN)1099-1271	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Biomechanical Engineering	0148-0731	1528-8951	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288951	 	10.1002/(ISSN)1528-8951	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Biomedical Materials Research	0021-9304	1097-4636	1996	30	1	2002	63	6	https://onlinelibrary.wiley.com/loi/10974636	 	10.1002/(ISSN)1097-4636	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Biomedical Materials Research Part A	1549-3296	1552-4965	2003	64A	1	 	 	 	https://onlinelibrary.wiley.com/loi/15524965	 	10.1002/(ISSN)1552-4965	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1552-4981	P	 	 
+Journal of Biomedical Materials Research Part B: Applied Biomaterials	1552-4973	1552-4981	2003	63B	1	 	 	 	https://onlinelibrary.wiley.com/loi/15524981	 	10.1002/(ISSN)1552-4981	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-4636	P	 	 
+Journal of Biophotonics	1864-063X	1864-0648	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18640648	 	10.1002/(ISSN)1864-0648	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Cardiovascular Electrophysiology	1045-3873	1540-8167	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/15408167	 	10.1111/(ISSN)1540-8167	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2347-8427	P	 	 
+Journal of Cellular Biochemistry	0730-2312	1097-4644	1996	60	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974644	 	10.1002/(ISSN)1097-4644	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1547-1748	P	 	 
+Journal of Cellular Physiology	0021-9541	1097-4652	1996	166	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974652	 	10.1002/(ISSN)1097-4652	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1553-0809	P	 	 
+Journal of Chemical Technology and Biotechnology	0268-2575	1097-4660	1996	65	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974660	 	10.1002/(ISSN)1097-4660	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1935-1828	P	 	 
+Journal of Chemometrics	0886-9383	1099-128X	1996	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/1099128X	 	10.1002/(ISSN)1099-128X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Child and Adolescent Psychiatric Nursing	1073-6077	1744-6171	1997	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/17446171	 	10.1111/(ISSN)1744-6171	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Clinical Apheresis	0733-2459	1098-1101	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10981101	 	10.1002/(ISSN)1098-1101	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Clinical Nursing	0962-1067	1365-2702	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652702	 	10.1111/(ISSN)1365-2702	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Clinical Periodontology	0303-6979	1600-051X	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/1600051X	 	10.1111/(ISSN)1600-051X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Clinical Ultrasound	0091-2751	1097-0096	1996	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970096	 	10.1002/(ISSN)1097-0096	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Combinatorial Designs	1063-8539	1520-6610	1996	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206610	 	10.1002/(ISSN)1520-6610	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Computational and Nonlinear Dynamics	1555-1415	1555-1423	2006	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15551423	 	10.1002/(ISSN)1555-1423	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Computational Chemistry	0192-8651	1096-987X	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/1096987X	 	10.1002/(ISSN)1096-987X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Computing and Information Science in Engineering	1530-9827	1944-7078	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19447078	 	10.1002/(ISSN)1944-7078	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Crohn's and Colitis	1873-9946	1876-4479	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18764479	 	10.1002/(ISSN)1876-4479	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Cutaneous Pathology	0303-6987	1600-0560	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000560	 	10.1111/(ISSN)1600-0560	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Dental Education	0022-0337	1930-7837	2001	65	1	 	 	 	https://onlinelibrary.wiley.com/loi/19307837	 	10.1002/(ISSN)1930-7837	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Digestive Diseases	1751-2972	1751-2980	2007	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/17512980	 	10.1111/(ISSN)1751-2980	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1443-9573	P	 	 
+Journal of Dynamic Systems, Measurement, and Control	0022-0434	1528-9028	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15289028	 	10.1002/(ISSN)1528-9028	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Ecology	0022-0477	1365-2745	1998	86	1	 	 	 	https://besjournals.onlinelibrary.wiley.com/loi/13652745	 	10.1111/(ISSN)1365-2745	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Electrochemical Energy Conversion and Storage	2381-6872	2381-6910	2016	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/23816910	 	10.1002/(ISSN)2381-6910	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1551-6989	P	 	 
+Journal of Electronic Packaging	1043-7398	1528-9044	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15289044	 	10.1002/(ISSN)1528-9044	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Energy Resources Technology, Part A: Sustainable and Renewable Energy	2997-0253	2997-0261	2025	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/29970261	 	10.1002/(ISSN)2997-0261	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Energy Resources Technology, Part B: Subsurface Energy and Carbon Capture	2998-1638	2998-1646	2025	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/29981646	 	10.1002/(ISSN)2998-1646	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Engineering for Gas Turbines and Power	0742-4795	1528-8919	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288919	 	10.1002/(ISSN)1528-8919	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2161-945X	P	 	 
+Journal of Engineering for Sustainable Buildings and Cities	2642-6641	2642-6625	2020	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26426625	 	10.1002/(ISSN)2642-6625	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Engineering Education	1069-4730	2168-9830	1997	86	1	 	 	 	https://onlinelibrary.wiley.com/loi/21689830	 	10.1002/(ISSN)2168-9830	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Engineering Materials and Technology	0094-4289	1528-8889	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288889	 	10.1002/(ISSN)1528-8889	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Environmental Quality	0047-2425	1537-2537	1997	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/15372537	 	10.1002/(ISSN)1537-2537	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Esthetic and Restorative Dentistry	1496-4155	1708-8240	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/17088240	 	10.1111/(ISSN)1708-8240	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Eukaryotic Microbiology	1066-5234	1550-7408	1997	44	1	 	 	 	https://onlinelibrary.wiley.com/loi/15507408	 	10.1111/(ISSN)1550-7408	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1550-7408	P	 	 
+Journal of Evaluation in Clinical Practice	1356-1294	1365-2753	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652753	 	10.1111/(ISSN)1365-2753	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Evidence-Based Medicine	 	1756-5391	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17565391	 	10.1111/(ISSN)1756-5391	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Experimental Zoology	0022-104X	1097-010X	1996	274	1	2002	294	4	https://onlinelibrary.wiley.com/loi/1097010X	 	10.1002/(ISSN)1097-010X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Experimental Zoology Part A: Comparative Experimental Biology	1548-8969	1552-499X	2003	295A	1	2006	305A	12	https://onlinelibrary.wiley.com/loi/1552499X	 	10.1002/(ISSN)1552-499X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-010X	P	 	 
+Journal of Experimental Zoology Part A: Ecological and Integrative Physiology	2471-5638	2471-5646	2017	327	1	 	 	 	https://onlinelibrary.wiley.com/loi/24715646	 	10.1002/(ISSN)2471-5646	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1932-5231	P	 	 
+Journal of Experimental Zoology Part A: Ecological Genetics and Physiology	1932-5223	1932-5231	2007	307A	1	2016	325	10	https://onlinelibrary.wiley.com/loi/19325231	 	10.1002/(ISSN)1932-5231	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1552-499X	P	 	 
+Journal of Experimental Zoology Part B: Molecular and Developmental Evolution	1552-5007	1552-5015	2003	295B	1	 	 	 	https://onlinelibrary.wiley.com/loi/15525015	 	10.1002/(ISSN)1552-5015	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-010X	P	 	 
+Journal of Field Robotics	1556-4959	1556-4967	2006	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/15564967	 	10.1002/(ISSN)1556-4967	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-4563	P	 	 
+Journal of Fish Biology	0022-1112	1095-8649	1997	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/10958649	 	10.1111/(ISSN)1095-8649	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Fish Diseases	0140-7775	1365-2761	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652761	 	10.1111/(ISSN)1365-2761	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Fluids Engineering	0098-2202	1528-901X	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/1528901X	 	10.1002/(ISSN)1528-901X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Food Process Engineering	0145-8876	1745-4530	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/17454530	 	10.1111/(ISSN)1745-4530	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Food Safety	0149-6085	1745-4565	1997	16	4	 	 	 	https://onlinelibrary.wiley.com/loi/17454565	 	10.1111/(ISSN)1745-4565	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1745-4581	P	 	 
+Journal of Food Science	0022-1147	1750-3841	1997	62	1	 	 	 	https://onlinelibrary.wiley.com/loi/17503841	 	10.1111/(ISSN)1750-3841	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Forensic Sciences	0022-1198	1556-4029	2006	51	1	 	 	 	https://onlinelibrary.wiley.com/loi/15564029	 	10.1111/(ISSN)1556-4029	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Fuel Cell Science and Technology	1550-624X	1551-6989	2004	1	1	2015	12	6	https://onlinelibrary.wiley.com/loi/15516989	 	10.1002/(ISSN)1551-6989	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Gastroenterology and Hepatology	0815-9319	1440-1746	1997	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401746	 	10.1111/(ISSN)1440-1746	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Genetic Counseling	1059-7700	1573-3599	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/15733599	 	10.1002/(ISSN)1573-3599	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Geophysical Research: Atmospheres	2169-897X	2169-8996	2013	118	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/21698996	 	10.1002/(ISSN)2169-8996	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Atmospheres (1984-2012)	0148-0227	2156-2202	1997	102	D1	2012	117	D24	https://agupubs.onlinelibrary.wiley.com/loi/21698996	 	10.1002/(ISSN)2156-2202d	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Biogeosciences	2169-8953	2169-8961	2013	118	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/21698961	 	10.1002/(ISSN)2169-8961	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Biogeosciences (2005-2012)	0148-0227	2156-2202	2005	110	G1	2012	117	G4	https://agupubs.onlinelibrary.wiley.com/loi/21698961	 	10.1002/(ISSN)2156-2202g	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Earth Surface	2169-9003	2169-9011	2013	118	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/21699011	 	10.1002/(ISSN)2169-9011	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Earth Surface (2003-2012)	0148-0227	2156-2202	2003	108	F1	2012	117	F4	https://agupubs.onlinelibrary.wiley.com/loi/21699011	 	10.1002/(ISSN)2156-2202f	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Oceans	2169-9275	2169-9291	2013	118	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/21699291	 	10.1002/(ISSN)2169-9291	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Oceans (1978-2012)	0148-0227	2156-2202	1997	102	C1	2012	117	C12	https://agupubs.onlinelibrary.wiley.com/loi/21699291	 	10.1002/(ISSN)2156-2202c	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Planets	2169-9097	2169-9100	2013	118	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/21699100	 	10.1002/(ISSN)2169-9100	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Planets (1991-2012)	0148-0227	2156-2202	1997	102	E1	2012	117	E12	https://agupubs.onlinelibrary.wiley.com/loi/21699100	 	10.1002/(ISSN)2156-2202e	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Solid Earth	2169-9313	2169-9356	2013	118	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/21699356	 	10.1002/(ISSN)2169-9356	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Solid Earth (1978-2012)	0148-0227	2156-2202	1997	102	B1	2012	117	B12	https://agupubs.onlinelibrary.wiley.com/loi/21699356	 	10.1002/(ISSN)2156-2202b	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Space Physics	2169-9380	2169-9402	2013	118	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/21699402	 	10.1002/(ISSN)2169-9402	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Geophysical Research: Space Physics (1978-2012)	0148-0227	2156-2202	1997	102	A1	2012	117	A12	https://agupubs.onlinelibrary.wiley.com/loi/21699402	 	10.1002/(ISSN)2156-2202a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2156-2202	P	 	 
+Journal of Graph Theory	0364-9024	1097-0118	1996	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970118	 	10.1002/(ISSN)1097-0118	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Heat Transfer	0022-1481	1528-8943	1997	119	1	2022	144	12	https://onlinelibrary.wiley.com/loi/15288943	 	10.1002/(ISSN)1528-8943	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Hepato-Biliary-Pancreatic Sciences	1868-6974	1868-6982	2010	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/18686982	 	10.1002/(ISSN)1868-6982	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1436-0691	P	 	 
+Journal of Heterocyclic Chemistry	0022-152X	1943-5193	1997	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/19435193	 	10.1002/(ISSN)1943-5193	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of High Resolution Chromatography	0935-6304	1521-4168	1998	21	1	2000	23	12	https://onlinelibrary.wiley.com/loi/15214168	 	10.1002/(ISSN)1521-4168	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Hospital Medicine	1553-5592	1553-5606	2006	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15535606	 	10.1002/(ISSN)1553-5606	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Human Nutrition and Dietetics	0952-3871	1365-277X	1997	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/1365277X	 	10.1111/(ISSN)1365-277X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Inherited Metabolic Disease	0141-8955	1573-2665	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/15732665	 	10.1002/(ISSN)1573-2665	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Integrative Plant Biology	1672-9072	1744-7909	2005	47	1	 	 	 	https://onlinelibrary.wiley.com/loi/17447909	 	10.1111/(ISSN)1744-7909	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Internal Medicine	0954-6820	1365-2796	1997	241	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652796	 	10.1111/(ISSN)1365-2796	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2796	P	 	 
+Journal of Labelled Compounds and Radiopharmaceuticals	0362-4803	1099-1344	1996	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991344	 	10.1002/(ISSN)1099-1344	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1344	P	 	 
+Journal of Magnetic Resonance Imaging	1053-1807	1522-2586	1999	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222586	 	10.1002/(ISSN)1522-2586	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Manufacturing Science and Engineering	1087-1357	1528-8935	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288935	 	10.1002/(ISSN)1528-8935	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2161-9433	P	 	 
+Journal of Mass Spectrometry	1076-5174	1096-9888	1996	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969888c	 	10.1002/(ISSN)1096-9888c	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1096-9888	P	 	 
+Journal of Mechanical Design	1050-0472	1528-9001	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15289001	 	10.1002/(ISSN)1528-9001	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2161-9573	P	 	 
+Journal of Mechanisms and Robotics	1942-4302	1942-4310	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19424310	 	10.1002/(ISSN)1942-4310	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Medical Devices	1932-6181	1932-619X	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1932619X	 	10.1002/(ISSN)1932-619X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Medical Imaging and Radiation Oncology	1754-9477	1754-9485	2008	52	1	 	 	 	https://onlinelibrary.wiley.com/loi/17549485	 	10.1111/(ISSN)1754-9485	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1440-1673	P	 	 
+Journal of Medical Primatology	0047-2565	1600-0684	1997	26	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/16000684	 	10.1111/(ISSN)1600-0684	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Medical Virology	0146-6615	1096-9071	1996	48	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969071	 	10.1002/(ISSN)1096-9071	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Metamorphic Geology	0263-4929	1525-1314	1997	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/15251314	 	10.1111/(ISSN)1525-1314	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Micro and Nano Science and Engineering	2994-7316	2994-7324	2024	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/29947324	 	10.1002/(ISSN)2994-7324	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2166-0476	P	 	 
+Journal of Micro and Nano-Manufacturing	2166-0468	2166-0476	2013	1	1	2023	11	4	https://onlinelibrary.wiley.com/loi/2166-0476	 	10.1002/(ISSN)2166-0476	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Microcolumn Separations	1040-7685	1520-667X	1998	10	1	2001	13	8	https://onlinelibrary.wiley.com/loi/1520667X	 	10.1002/(ISSN)1520-667X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-4168	P	 	 
+Journal of Microscopy	0022-2720	1365-2818	1997	185	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652818	 	10.1111/(ISSN)1365-2818	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-2818	P	 	 
+Journal of Midwifery & Women's Health	1526-9523	1542-2011	2000	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/15422011	 	10.1111/(ISSN)1542-2011	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1879-1565	P	 	 
+Journal of Molecular Recognition	0952-3499	1099-1352	1996	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991352	 	10.1002/(ISSN)1099-1352	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Morphology	0362-2525	1097-4687	1996	227	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974687	 	10.1002/(ISSN)1097-4687	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Natural Resources and Life Sciences Education	1059-9053	1539-1582	1997	26	1	2012	41	1	https://acsess.onlinelibrary.wiley.com/loi/15391582	 	10.1002/(ISSN)1539-1582	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2689-7113	P	 	 
+Journal of Neurobiology	0022-3034	1097-4695	1996	29	1	2006	66	14	https://onlinelibrary.wiley.com/loi/10974695	 	10.1002/(ISSN)1097-4695	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Neurochemistry	0022-3042	1471-4159	1997	68	1	 	 	 	https://onlinelibrary.wiley.com/loi/14714159	 	10.1111/(ISSN)1471-4159	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Neuroendocrinology	0953-8194	1365-2826	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652826	 	10.1111/(ISSN)1365-2826	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Neuroimaging	1051-2284	1552-6569	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/15526569	 	10.1111/(ISSN)1552-6569	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Neuroscience Research	0360-4012	1097-4547	1996	43	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974547	 	10.1002/(ISSN)1097-4547	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Nondestructive Evaluation, Diagnostics and Prognostics of Engineering Systems	2572-3901	2572-3898	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25723898	 	10.1002/(ISSN)2572-3898	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Nuclear Engineering and Radiation Science	2332-8983	2332-8975	2015	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23328975	 	10.1002/(ISSN)2332-8975	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Nursing Scholarship	1527-6546	1547-5069	2000	32	1	 	 	 	https://sigmapubs.onlinelibrary.wiley.com/loi/15475069	 	10.1111/(ISSN)1547-5069	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1547-5069	P	 	 
+Journal of Obstetrics and Gynaecology Research	1341-8076	1447-0756	1997	23	1	 	 	 	https://obgyn.onlinelibrary.wiley.com/loi/14470756	 	10.1111/(ISSN)1447-0756	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1447-0756	P	 	 
+Journal of Offshore Mechanics and Arctic Engineering	0892-7219	1528-896X	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/1528896X	 	10.1002/(ISSN)1528-896X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Oral Pathology & Medicine	0904-2512	1600-0714	1997	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000714	 	10.1111/(ISSN)1600-0714	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Oral Rehabilitation	0305-182X	1365-2842	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652842	 	10.1111/(ISSN)1365-2842	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Orthopaedic Research ®	0736-0266	1554-527X	2001	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/1554527X	 	10.1002/(ISSN)1554-527X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Paediatrics and Child Health	1034-4810	1440-1754	1997	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401754	 	10.1111/(ISSN)1440-1754	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Parenteral and Enteral Nutrition	0148-6071	1941-2444	1997	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/19412444	 	10.1002/(ISSN)1941-2444	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Pediatric Gastroenterology and Nutrition	0277-2116	1536-4801	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/15364801	 	10.1002/(ISSN)1536-4801	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Peptide Science	1075-2617	1099-1387	1996	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991387	 	10.1002/(ISSN)1099-1387	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Periodontal Research	0022-3484	1600-0765	1997	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000765	 	10.1111/(ISSN)1600-0765	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Periodontology	0022-3492	1943-3670	1997	68	1	 	 	 	https://aap.onlinelibrary.wiley.com/loi/19433670	 	10.1002/(ISSN)1943-3670	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Petroleum Geology	0141-6421	1747-5457	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/17475457	 	10.1111/(ISSN)1747-5457	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Pharmacy Practice and Research	1445-937X	2055-2335	2002	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/20552335	 	10.1002/(ISSN)2055-2335	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	0310-6810	P	 	 
+Journal of Physical Organic Chemistry	0894-3230	1099-1395	1996	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991395	 	10.1002/(ISSN)1099-1395	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Phytopathology	0931-1785	1439-0434	1997	145	1	 	 	 	https://onlinelibrary.wiley.com/loi/14390434	 	10.1111/(ISSN)1439-0434	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Pineal Research	0742-3098	1600-079X	1997	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/1600079X	 	10.1111/(ISSN)1600-079X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Plant Nutrition and Soil Science	1436-8730	1522-2624	1999	162	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222624	 	10.1002/(ISSN)1522-2624	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1522-2624	P	 	 
+Journal of Plant Registrations	 	1940-3496	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19403496	 	10.1002/(ISSN)1940-3496	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Polymer Science	2642-4150	2642-4169	2020	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26424169	 	10.1002/(ISSN)2642-4169	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0518	P	 	 
+Journal of Polymer Science Part A: Polymer Chemistry	0887-624X	1099-0518	1996	34	1	2019	57	24	https://onlinelibrary.wiley.com/loi/10990518	 	10.1002/(ISSN)1099-0518	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Pressure Vessel Technology	0094-9930	1528-8978	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288978	 	10.1002/(ISSN)1528-8978	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Prosthodontics	1059-941X	1532-849X	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/1532849X	 	10.1111/(ISSN)1532-849X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Psychiatric and Mental Health Nursing	1351-0126	1365-2850	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652850	 	10.1111/(ISSN)1365-2850	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Public Health Dentistry	0022-4006	1752-7325	1997	57	1	 	 	 	https://onlinelibrary.wiley.com/loi/17527325	 	10.1111/(ISSN)1752-7325	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Quaternary Science	0267-8179	1099-1417	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991417	 	10.1002/(ISSN)1099-1417	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Raman Spectroscopy	0377-0486	1097-4555	1996	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974555	 	10.1002/(ISSN)1097-4555	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Rapid Methods & Automation in Microbiology	1060-3999	1745-4581	1997	5	1	2009	17	4	https://onlinelibrary.wiley.com/loi/17454581	 	10.1111/(ISSN)1745-4581	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Renal Care	1755-6678	1755-6686	2006	32	3	 	 	 	https://onlinelibrary.wiley.com/loi/17556686	 	10.1111/(ISSN)1755-6686	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1755-6686	P	 	 
+Journal of Research in Science Teaching	0022-4308	1098-2736	1996	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982736	 	10.1002/(ISSN)1098-2736	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Robotic Systems	0741-2223	1097-4563	1996	13	1	2005	22	12	https://onlinelibrary.wiley.com/loi/10974563	 	10.1002/(ISSN)1097-4563	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Sensory Studies	0887-8250	1745-459X	1997	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/1745459X	 	10.1111/(ISSN)1745-459X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Separation Science	1615-9306	1615-9314	2001	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/16159314	 	10.1002/(ISSN)1615-9314	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-667X	P	 	 
+Journal of Sleep Research	0962-1105	1365-2869	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652869	 	10.1111/(ISSN)1365-2869	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Small Animal Practice	0022-4510	1748-5827	1997	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/17485827	 	10.1111/(ISSN)1748-5827	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Software Maintenance and Evolution: Research and Practice	1532-060X	1532-0618	2001	13	1	2011	23	8	https://onlinelibrary.wiley.com/loi/15320618	 	10.1002/(ISSN)1532-0618	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1096-908X	P	 	 
+Journal of Software Maintenance: Research and Practice	1040-550X	1096-908X	1996	8	1	2000	12	6	https://onlinelibrary.wiley.com/loi/1096908X	 	10.1002/(ISSN)1096-908X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Software: Evolution and Process	2047-7473	2047-7481	2012	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/20477481	 	10.1002/(ISSN)2047-7481	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1532-0618	P	 	 
+Journal of Solar Energy Engineering	0199-6231	1528-8986	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288986	 	10.1002/(ISSN)1528-8986	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Surfactants and Detergents	1097-3958	1558-9293	1998	1	1	 	 	 	https://aocs.onlinelibrary.wiley.com/loi/15589293	 	10.1002/(ISSN)1558-9293	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Surgical Oncology	0022-4790	1096-9098	1996	61	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969098	 	10.1002/(ISSN)1096-9098	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1098-2388	P	 	 
+Journal of Synthetic Lubrication	0265-6582	1557-6841	2006	23	1	2008	25	4	https://onlinelibrary.wiley.com/loi/15576841	 	10.1002/(ISSN)1557-6841	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Systematics and Evolution	1674-4918	1759-6831	2009	47	1	 	 	 	https://onlinelibrary.wiley.com/loi/17596831	 	10.1111/(ISSN)1759-6831	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Texture Studies	0022-4901	1745-4603	1997	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/17454603	 	10.1111/(ISSN)1745-4603	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Thermal Science and Engineering Applications	1948-5085	1948-5093	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19485093	 	10.1002/(ISSN)1948-5093	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Time Series Analysis	0143-9782	1467-9892	1997	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679892	 	10.1111/(ISSN)1467-9892	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Topology	1753-8416	1753-8424	2008	1	1	 	 	 	https://londmathsoc.onlinelibrary.wiley.com/loi/17538424	 	10.1112/(ISSN)1753-8424	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Traumatic Stress	0894-9867	1573-6598	1998	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/15736598	 	10.1002/(ISSN)1573-6598	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Tribology	0742-4787	1528-8897	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288897	 	10.1002/(ISSN)1528-8897	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2161-9522	P	 	 
+Journal of Turbomachinery	0889-504X	1528-8900	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288900	 	10.1002/(ISSN)1528-8900	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Ultrasound in Medicine	0278-4297	1550-9613	1996	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/15509613	 	10.1002/(ISSN)1550-9613	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Vegetation Science	1100-9233	1654-1103	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/16541103	 	10.1111/(ISSN)1654-1103	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Verification, Validation and Uncertainty Quantification	2377-2158	2377-2166	2016	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23772166	 	10.1002/(ISSN)2377-2166	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Veterinary Emergency and Critical Care	1479-3261	1476-4431	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/14764431	 	10.1111/(ISSN)1476-4431	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Veterinary Medicine, Series B	0931-1793	1439-0450	1997	44	1-10	2006	53	10	https://onlinelibrary.wiley.com/loi/14390450	 	10.1111/(ISSN)1439-0450	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1439-0450	P	 	 
+Journal of Veterinary Pharmacology and Therapeutics	0140-7783	1365-2885	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652885	 	10.1111/(ISSN)1365-2885	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Vibration and Acoustics	1048-9002	1528-8927	1997	119	1	 	 	 	https://onlinelibrary.wiley.com/loi/15288927	 	10.1002/(ISSN)1528-8927	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2161-9611	P	 	 
+Journal of Vinyl & Additive Technology	1083-5601	1548-0585	1996	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/15480585	 	10.1002/(ISSN)1548-0585	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1548-0577	P	 	 
+Journal of Viral Hepatitis	1352-0504	1365-2893	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652893	 	10.1111/(ISSN)1365-2893	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Zoology	0952-8369	1469-7998	1997	241	1	 	 	 	https://zslpublications.onlinelibrary.wiley.com/loi/14697998	 	10.1111/(ISSN)1469-7998	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal AWWA	0003-150X	1551-8833	1997	89	1	 	 	 	https://awwa.onlinelibrary.wiley.com/loi/15518833	 	10.1002/(ISSN)1551-8833	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+JACCP: Journal of the American College of Clinical Pharmacy	 	2574-9870	2018	1	1	 	 	 	https://accpjournals.onlinelibrary.wiley.com/loi/25749870	 	10.1002/(ISSN)2574-9870	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Knee Surgery, Sports Traumatology, Arthroscopy	0942-2056	1433-7347	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/14337347	 	10.1002/(ISSN)1433-7347	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Lakes and Reservoirs	1320-5331	1440-1770	1998	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401770	 	10.1111/(ISSN)1440-1770	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Laser & Photonics Reviews	1863-8880	1863-8899	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18638899	 	10.1002/(ISSN)1863-8899	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Lasers in Surgery and Medicine	0196-8092	1096-9101	1996	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969101	 	10.1002/(ISSN)1096-9101	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Lebensmittelchemie	0937-1478	1521-3811	2010	64	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213811	 	10.1002/(ISSN)1521-3811	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Limnology and Oceanography	0024-3590	1939-5590	1997	42	1	 	 	 	https://aslopubs.onlinelibrary.wiley.com/loi/19395590	 	10.1002/(ISSN)1939-5590	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Limnology and Oceanography Bulletin	1539-607X	1539-6088	2001	10	3	 	 	 	https://aslopubs.onlinelibrary.wiley.com/loi/15396088	 	10.1002/(ISSN)1539-6088	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1536-3538	P	 	 
+Limnology and Oceanography: Methods	1541-5856	1541-5856	2003	1	1	 	 	 	https://aslopubs.onlinelibrary.wiley.com/loi/15415856	 	10.1002/(ISSN)1541-5856	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Lipid / Fett	0931-5985	1521-4133	1998	100	1	1999	101	12	https://onlinelibrary.wiley.com/loi/15214133	 	10.1002/(ISSN)1521-4133	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-4133	P	 	 
+Lipids	0024-4201	1558-9307	1997	32	1	 	 	 	https://aocs.onlinelibrary.wiley.com/loi/15589307	 	10.1002/(ISSN)1558-9307	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Liver	0106-9543	1600-0676	1997	17	1	2002	22	6	https://onlinelibrary.wiley.com/loi/16000676	 	10.1111/(ISSN)1600-0676	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Liver International	1478-3223	1478-3231	2003	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/14783231	 	10.1111/(ISSN)1478-3231	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0676	P	 	 
+Lubrication Science	0954-0075	1557-6833	2006	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/15576833	 	10.1002/(ISSN)1557-6833	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1557-685X	P	 	 
+Luminescence	1522-7235	1522-7243	1999	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/15227243	 	10.1002/(ISSN)1522-7243	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1271	P	 	 
+LUTS: Lower Urinary Tract Symptoms	1757-5664	1757-5672	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17575672	 	10.1111/(ISSN)1757-5672	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Macromolecular Bioscience	1616-5187	1616-5195	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16165195	 	10.1002/(ISSN)1616-5195	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Macromolecular Chemistry and Physics	1022-1352	1521-3935	1998	199	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213935	 	10.1002/(ISSN)1521-3935	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	0025-116X	P	 	 
+Macromolecular Rapid Communications	1022-1336	1521-3927	1998	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213927	 	10.1002/(ISSN)1521-3927	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3927	P	 	 
+Macromolecular Reaction Engineering	1862-832X	1862-8338	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18628338	 	10.1002/(ISSN)1862-8338	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Macromolecular Symposia	1022-1360	1521-3900	2000	149	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213900	 	10.1002/(ISSN)1521-3900	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3900	P	 	 
+Macromolecular Theory and Simulations	1022-1344	1521-3919	1998	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213919	 	10.1002/(ISSN)1521-3919	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Magnetic Resonance in Chemistry	0749-1581	1097-458X	1996	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/1097458Xa	 	10.1002/(ISSN)1097-458Xa	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-458X	P	 	 
+Magnetic Resonance in Medicine	0740-3194	1522-2594	1999	41	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222594	 	10.1002/(ISSN)1522-2594	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1557-3672	P	 	 
+Mammal Review	0305-1838	1365-2907	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652907	 	10.1111/(ISSN)1365-2907	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Marine Ecology	0173-9565	1439-0485	1997	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/14390485	 	10.1111/(ISSN)1439-0485	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Marine Mammal Science	0824-0469	1748-7692	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/17487692	 	10.1111/(ISSN)1748-7692	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Mass Spectrometry Reviews	0277-7037	1098-2787	1996	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982787	 	10.1002/(ISSN)1098-2787	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Materials and Corrosion	0947-5117	1521-4176	1998	49	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214176	 	10.1002/(ISSN)1521-4176	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Materialwissenschaft und Werkstofftechnik	0933-5137	1521-4052	1999	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214052	 	10.1002/(ISSN)1521-4052	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Mathematical Logic Quarterly	0942-5616	1521-3870	2000	46	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213870	 	10.1002/(ISSN)1521-3870	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3870	P	 	 
+Mathematical Methods in the Applied Sciences	0170-4214	1099-1476	1996	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991476	 	10.1002/(ISSN)1099-1476	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Mathematika	0025-5793	2041-7942	1997	44	1	 	 	 	https://onlinelibrary.wiley.com/loi/20417942	 	10.1112/(ISSN)2041-7942	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Mathematische Nachrichten	0025-584X	1522-2616	2000	209	1	 	 	 	https://onlinelibrary.wiley.com/loi/15222616	 	10.1002/(ISSN)1522-2616	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Mechanics of Cohesive-frictional Materials	1082-5010	1099-1484	1996	1	1	2000	5	8	https://onlinelibrary.wiley.com/loi/10991484	 	10.1002/(ISSN)1099-1484	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Medical and Pediatric Oncology	0098-1532	1096-911X	1996	26	1	2003	41	6	https://onlinelibrary.wiley.com/loi/1096911X	 	10.1002/(ISSN)1096-911X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Medical and Veterinary Entomology	0269-283X	1365-2915	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652915	 	10.1111/(ISSN)1365-2915	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Medical Education	0308-0110	1365-2923	1997	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652923	 	10.1111/(ISSN)1365-2923	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Medical Journal of Australia	0025-729X	1326-5377	1997	166	1	 	 	 	https://onlinelibrary.wiley.com/loi/13265377	 	10.5694/(ISSN)1326-5377	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Medical Physics	0094-2405	2473-4209	1997	24	1	 	 	 	https://aapm.onlinelibrary.wiley.com/loi/24734209	 	10.1002/(ISSN)2473-4209	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Medicinal Research Reviews	0198-6325	1098-1128	1996	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/10981128	 	10.1002/(ISSN)1098-1128	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Meteoritics & Planetary Science	1086-9379	1945-5100	1997	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/19455100	 	10.1111/(ISSN)1945-5100	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1945-5100	P	 	 
+Microbiology and Immunology	0385-5600	1348-0421	1997	41	1	 	 	 	https://onlinelibrary.wiley.com/loi/13480421	 	10.1111/(ISSN)1348-0421	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1348-0421	P	 	 
+Microcirculation	1073-9688	1549-8719	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/15498719	 	10.1111/(ISSN)1549-8719	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Microscopy Research and Technique	1059-910X	1097-0029	1996	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970029	 	10.1002/(ISSN)1097-0029	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1553-0817	P	 	 
+Microsurgery	0738-1085	1098-2752	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982752	 	10.1002/(ISSN)1098-2752	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Microwave and Optical Technology Letters	0895-2477	1098-2760	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982760	 	10.1002/(ISSN)1098-2760	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Molecular Carcinogenesis	0899-1987	1098-2744	1996	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982744	 	10.1002/(ISSN)1098-2744	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Molecular Ecology	0962-1083	1365-294X	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/1365294X	 	10.1111/(ISSN)1365-294X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Molecular Informatics	1868-1743	1868-1751	2010	29	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/18681751	 	10.1002/(ISSN)1868-1751	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1611-0218	P	 	 
+Molecular Microbiology	0950-382X	1365-2958	1997	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652958	 	10.1111/(ISSN)1365-2958	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Molecular Nutrition & Food Research	1613-4125	1613-4133	2004	48	4	 	 	 	https://onlinelibrary.wiley.com/loi/16134133	 	10.1002/(ISSN)1613-4133	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3803	P	 	 
+Molecular Oral Microbiology	2041-1006	2041-1014	2010	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/20411014	 	10.1111/(ISSN)2041-1014	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1399-302X	P	 	 
+Molecular Reproduction and Development	1040-452X	1098-2795	1996	43	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982795	 	10.1002/(ISSN)1098-2795	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1554-3919	P	 	 
+Movement Disorders	0885-3185	1531-8257	1999	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/15318257	 	10.1002/(ISSN)1531-8257	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Movement Disorders Clinical Practice	2330-1619	2330-1619	2014	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23301619	 	10.1002/(ISSN)2330-1619	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Muscle & Nerve	0148-639X	1097-4598	1996	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974598	 	10.1002/(ISSN)1097-4598	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Musculoskeletal Care	1478-2189	1557-0681	2003	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15570681	 	10.1002/(ISSN)1557-0681	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Natural Sciences Education	2168-8273	2168-8281	2013	42	1	 	 	 	https://acsess.onlinelibrary.wiley.com/loi/21688281	 	10.1002/(ISSN)2168-8281	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1539-1582	P	 	 
+Naval Research Logistics	0894-069X	1520-6750	1996	43	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206750	 	10.1002/(ISSN)1520-6750	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1931-9193	P	 	 
+Near Surface Geophysics	1569-4445	1873-0604	2003	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18730604	 	10.1002/(ISSN)1873-0604	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nephrology	1320-5358	1440-1797	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401797	 	10.1111/(ISSN)1440-1797	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Networks	0028-3045	1097-0037	1996	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970037	 	10.1002/(ISSN)1097-0037	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Neurogastroenterology & Motility	1350-1925	1365-2982	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652982	 	10.1111/(ISSN)1365-2982	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Neurology and Clinical Neuroscience	2049-4173	2049-4173	2013	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20494173	 	10.1002/(ISSN)2049-4173	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Neuropathology	0919-6544	1440-1789	1997	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401789	 	10.1111/(ISSN)1440-1789	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Neuropathology and Applied Neurobiology	0305-1846	1365-2990	1997	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652990	 	10.1111/(ISSN)1365-2990	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Neurourology and Urodynamics	0733-2467	1520-6777	1996	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206777	 	10.1002/(ISSN)1520-6777	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Phytologist	0028-646X	1469-8137	1997	135	1	 	 	 	https://nph.onlinelibrary.wiley.com/loi/14698137	 	10.1111/(ISSN)1469-8137	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Zealand Journal of Agricultural Research	0028-8233	1175-8775	1997	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/11758775	 	10.1002/(ISSN)1175-8775	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Zealand Journal of Botany	0028-825X	1175-8643	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/11758643	 	10.1002/(ISSN)1175-8643	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Zealand Journal of Crop and Horticultural Science	0114-0671	1175-8783	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/11758783	 	10.1002/(ISSN)1175-8783	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	3021-4459	P	 	 
+New Zealand Journal of Geology and Geophysics	0028-8306	1175-8791	1997	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/11758791	 	10.1002/(ISSN)1175-8791	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Zealand Journal of Marine and Freshwater Research	0028-8330	1175-8805	1997	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/11758805	 	10.1002/(ISSN)1175-8805	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Zealand Journal of Zoology	0301-4223	1175-8821	1997	24	1	 	 	 	10.1002/(ISSN)11758821	 	10.1002/(ISSN)1175-8821	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Numerical Linear Algebra with Applications	1070-5325	1099-1506	1996	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991506	 	10.1002/(ISSN)1099-1506	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Numerical Methods for Partial Differential Equations	0749-159X	1098-2426	1996	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982426	 	10.1002/(ISSN)1098-2426	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nursing & Health Sciences	1441-0745	1442-2018	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14422018	 	10.1111/(ISSN)1442-2018	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nursing in Critical Care	1362-1017	1478-5153	2003	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/14785153	 	10.1111/(ISSN)1478-5153	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nursing Inquiry	1320-7881	1440-1800	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401800	 	10.1111/(ISSN)1440-1800	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nursing Philosophy	1466-7681	1466-769X	2000	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1466769X	 	10.1111/(ISSN)1466-769X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nutrition & Dietetics	1446-6368	1747-0080	2005	62	1	 	 	 	https://onlinelibrary.wiley.com/loi/17470080	 	10.1111/(ISSN)1747-0080	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nutrition in Clinical Practice	0884-5336	1941-2452	1997	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/19412452	 	10.1002/(ISSN)1941-2452	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nutrition Bulletin	1471-9827	1467-3010	1997	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/14673010	 	10.1111/(ISSN)1467-3010	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+NMR in Biomedicine	0952-3480	1099-1492	1996	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991492	 	10.1002/(ISSN)1099-1492	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Obesity	1930-7381	1930-739X	2006	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/1930739X	 	10.1002/(ISSN)1930-739X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1550-8528	P	 	 
+Obesity Research	1071-7323	1550-8528	1997	5	1	2005	13	12	https://onlinelibrary.wiley.com/loi/15508528	 	10.1002/(ISSN)1550-8528	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Obesity Reviews	1467-7881	1467-789X	2000	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467789X	 	10.1111/(ISSN)1467-789X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oikos	0030-1299	1600-0706	2000	88	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000706	 	10.1111/(ISSN)1600-0706	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oil and Energy Trends	0950-1045	1744-7992	2005	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/17447992	 	10.1111/(ISSN)1744-7992	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oil and Energy Trends: Annual Statistical Review	0953-1033	1746-9066	2012	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/17469066	 	10.1111/(ISSN)1746-9066	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Opflow	0149-8029	1551-8701	1997	23	1	 	 	 	https://awwa.onlinelibrary.wiley.com/loi/15518701	 	10.1002/(ISSN)1551-8701	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Optimal Control Applications and Methods	0143-2087	1099-1514	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991514	 	10.1002/(ISSN)1099-1514	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Optometry and Vision Science	1040-5488	1538-9235	1997	74	1	 	 	 	https://onlinelibrary.wiley.com/loi/15389235	 	10.1002/(ISSN)1538-9235	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2330-9512	P	 	 
+Oral Diseases	1354-523X	1601-0825	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/16010825	 	10.1111/(ISSN)1601-0825	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oral Microbiology and Immunology	0902-0055	1399-302X	1997	12	1	2009	24	6	https://onlinelibrary.wiley.com/loi/1399302X	 	10.1111/(ISSN)1399-302X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oral Science International	 	1881-4204	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18814204	 	10.1002/(ISSN)1881-4204	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oral Surgery	1752-2471	1752-248X	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1752248X	 	10.1111/(ISSN)1752-248X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Orthodontics & Craniofacial Research	1601-6335	1601-6343	2002	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/16016343	 	10.1111/(ISSN)1601-6343	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0544	P	 	 
+Otolaryngology-Head and Neck Surgery	0194-5998	1097-6817	1997	116	1	 	 	 	https://onlinelibrary.wiley.com/loi/10976817	 	10.1002/(ISSN)1097-6817	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pacing and Clinical Electrophysiology	0147-8389	1540-8159	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/15408159	 	10.1111/(ISSN)1540-8159	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Packaging Technology and Science	0894-3214	1099-1522	1996	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991522	 	10.1002/(ISSN)1099-1522	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Paediatric and Perinatal Epidemiology	0269-5022	1365-3016	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653016	 	10.1111/(ISSN)1365-3016	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pain Practice	1530-7085	1533-2500	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15332500	 	10.1111/(ISSN)1533-2500	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Palaeontology	0031-0239	1475-4983	1999	42	1	 	 	 	https://onlinelibrary.wiley.com/loi/14754983	 	10.1111/(ISSN)1475-4983	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Paleoceanography	0883-8305	1944-9186	1997	12	1	2017	32	12	https://agupubs.onlinelibrary.wiley.com/loi/19449186	 	10.1002/(ISSN)1944-9186	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Paleoceanography and Paleoclimatology	2572-4517	2572-4525	2018	33	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/25724525	 	10.1002/(ISSN)2572-4525	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1944-9186	P	 	 
+Papers in Palaeontology	2056-2799	2056-2802	2015	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20562802	 	10.1002/(ISSN)2056-2802	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Parasite Immunology	0141-9838	1365-3024	1997	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653024	 	10.1111/(ISSN)1365-3024	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Particle & Particle Systems Characterization	0934-0866	1521-4117	1998	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214117	 	10.1002/(ISSN)1521-4117	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pathology International	1320-5463	1440-1827	1997	47	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401827	 	10.1111/(ISSN)1440-1827	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	0001-6632	P	 	 
+Pediatric Allergy and Immunology	0905-6157	1399-3038	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/13993038	 	10.1111/(ISSN)1399-3038	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pediatric Anesthesia	1155-5645	1460-9592	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/14609592	 	10.1111/(ISSN)1460-9592	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pediatric Blood & Cancer	1545-5009	1545-5017	2004	42	1	 	 	 	https://onlinelibrary.wiley.com/loi/15455017	 	10.1002/(ISSN)1545-5017	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1096-911X	P	 	 
+Pediatric Dermatology	0736-8046	1525-1470	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/15251470	 	10.1111/(ISSN)1525-1470	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pediatric Obesity	2047-6302	2047-6310	2012	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/20476310	 	10.1111/(ISSN)2047-6310	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1747-7174	P	 	 
+Pediatric Pulmonology	8755-6863	1099-0496	1997	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990496	 	10.1002/(ISSN)1099-0496	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pediatric Transplantation	1397-3142	1399-3046	1999	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/13993046	 	10.1111/(ISSN)1399-3046	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pediatrics International	1328-8067	1442-200X	1999	41	1	 	 	 	https://onlinelibrary.wiley.com/loi/1442200X	 	10.1111/(ISSN)1442-200X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1442-200X	P	 	 
+Peptide Science	 	2475-8817	1996	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/24758817	 	10.1002/(ISSN)2475-8817	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Periodontology 2000	0906-6713	1600-0757	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000757	 	10.1111/(ISSN)1600-0757	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Permafrost and Periglacial Processes	1045-6740	1099-1530	1996	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991530	 	10.1002/(ISSN)1099-1530	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pest Management Science	1526-498X	1526-4998	2000	56	1	 	 	 	https://onlinelibrary.wiley.com/loi/15264998	 	10.1002/(ISSN)1526-4998	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1096-9063	P	 	 
+Pesticide Science	0031-613X	1096-9063	1996	46	1	1999	55	12	https://onlinelibrary.wiley.com/loi/10969063	 	10.1002/(ISSN)1096-9063	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pharmaceutical Statistics	1539-1604	1539-1612	2002	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15391612	 	10.1002/(ISSN)1539-1612	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pharmacoepidemiology and Drug Safety	1053-8569	1099-1557	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991557	 	10.1002/(ISSN)1099-1557	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pharmacology & Toxicology	0901-9928	1600-0773	1997	80	1	2003	93	6	https://onlinelibrary.wiley.com/loi/16000773a	 	10.1111/(ISSN)1600-0773a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0773	P	 	 
+Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy	0277-0008	1875-9114	1997	17	1	 	 	 	https://accpjournals.onlinelibrary.wiley.com/loi/18759114	 	10.1002/(ISSN)1875-9114	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Photochemistry and Photobiology	0031-8655	1751-1097	1997	65	1	 	 	 	https://onlinelibrary.wiley.com/loi/17511097	 	10.1111/(ISSN)1751-1097	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Photodermatology, Photoimmunology & Photomedicine	0905-4383	1600-0781	1998	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000781	 	10.1111/(ISSN)1600-0781	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Phycological Research	1322-0829	1440-1835	1997	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401835	 	10.1111/(ISSN)1440-1835	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Physik in unserer Zeit	0031-9252	1521-3943	2000	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213943	 	10.1002/(ISSN)1521-3943	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Physiologia Plantarum	0031-9317	1399-3054	1997	99	1	 	 	 	https://onlinelibrary.wiley.com/loi/13993054	 	10.1111/(ISSN)1399-3054	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Physiological Entomology	0307-6962	1365-3032	1997	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653032	 	10.1111/(ISSN)1365-3032	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-3032	P	 	 
+Physiotherapy Research International	1358-2267	1471-2865	1996	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14712865	 	10.1002/(ISSN)1471-2865	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Phytochemical Analysis	0958-0344	1099-1565	1996	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991565	 	10.1002/(ISSN)1099-1565	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pigment Cell & Melanoma Research	1755-1471	1755-148X	2008	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/1755148X	 	10.1111/(ISSN)1755-148X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1600-0749	P	 	 
+Pigment Cell Research	0893-5785	1600-0749	1997	10	1-2	2007	20	6	https://onlinelibrary.wiley.com/loi/16000749	 	10.1111/(ISSN)1600-0749	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Plant Biology	1435-8603	1438-8677	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14388677	 	10.1111/(ISSN)1438-8677	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1438-8677	P	 	 
+Plant Breeding	0179-9541	1439-0523	1997	116	1	 	 	 	https://onlinelibrary.wiley.com/loi/14390523	 	10.1111/(ISSN)1439-0523	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Plant Pathology	0032-0862	1365-3059	1997	46	1	 	 	 	https://bsppjournals.onlinelibrary.wiley.com/loi/13653059	 	10.1111/(ISSN)1365-3059	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Plant, Cell & Environment	0140-7791	1365-3040	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653040	 	10.1111/(ISSN)1365-3040	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Plasma Processes and Polymers	1612-8850	1612-8869	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16128869	 	10.1002/(ISSN)1612-8869	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Polymer Composites	0272-8397	1548-0569	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/15480569	 	10.1002/(ISSN)1548-0569	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Polymer Engineering & Science	0032-3888	1548-2634	1996	36	1	 	 	 	https://onlinelibrary.wiley.com/loi/15482634	 	10.1002/(ISSN)1548-2634	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Polymer International	0959-8103	1097-0126	1996	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970126	 	10.1002/(ISSN)1097-0126	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1934-256X	P	 	 
+Polymers for Advanced Technologies	1042-7147	1099-1581	1996	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991581	 	10.1002/(ISSN)1099-1581	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Population Ecology	1438-3896	1438-390X	2000	42	1	 	 	 	https://esj-journals.onlinelibrary.wiley.com/loi/1438390X	 	10.1002/(ISSN)1438-390X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1437-5613	P	 	 
+Prenatal Diagnosis	0197-3851	1097-0223	1996	16	1	 	 	 	https://obgyn.onlinelibrary.wiley.com/loi/10970223	 	10.1002/(ISSN)1097-0223	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Proceedings in Applied Mathematics and Mechanics	1617-7061	1617-7061	2002	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16177061	 	10.1002/(ISSN)1617-7061	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Proceedings of the American Society for Information Science and Technology	1936-1734	1550-8390	2002	39	1	2014	51	1	https://asistdl.onlinelibrary.wiley.com/loi/15508390	 	10.1002/(ISSN)1550-8390	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Proceedings of the Association for Information Science and Technology	 	2373-9231	2015	52	1	 	 	 	https://asistdl.onlinelibrary.wiley.com/loi/23739231	 	10.1002/(ISSN)2373-9231	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1550-8390	P	 	 
+Proceedings of the London Mathematical Society	0024-6115	1460-244X	1865	1	1	 	 	 	https://londmathsoc.onlinelibrary.wiley.com/loi/1460244X	 	10.1112/(ISSN)1460-244X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Process Safety Progress	1066-8527	1547-5913	1999	18	1	 	 	 	https://aiche.onlinelibrary.wiley.com/loi/15475913	 	10.1002/(ISSN)1547-5913	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1549-4632	P	 	 
+Progress in Photovoltaics: Research and Applications	1062-7995	1099-159X	1996	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/1099159X	 	10.1002/(ISSN)1099-159X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Propellants, Explosives, Pyrotechnics	0721-3115	1521-4087	1998	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214087	 	10.1002/(ISSN)1521-4087	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Protein Science	0961-8368	1469-896X	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/1469896X	 	10.1002/(ISSN)1469-896X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Proteomics	1615-9853	1615-9861	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16159861	 	10.1002/(ISSN)1615-9861	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Psychiatry and Clinical Neurosciences	1323-1316	1440-1819	1997	51	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401819	 	10.1111/(ISSN)1440-1819	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Psycho-Oncology	1057-9249	1099-1611	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991611	 	10.1002/(ISSN)1099-1611	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Psychogeriatrics	1346-3500	1479-8301	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14798301	 	10.1111/(ISSN)1479-8301	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Public Health Nursing	0737-1209	1525-1446	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/15251446	 	10.1111/(ISSN)1525-1446	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+PM&R	1934-1482	1934-1563	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19341563	 	10.1002/(ISSN)1934-1563	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+PROTEINS: Structure, Function, and Bioinformatics	0887-3585	1097-0134	1996	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970134	 	10.1002/(ISSN)1097-0134	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+PROTEOMICS - Clinical Applications	1862-8346	1862-8354	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18628354	 	10.1002/(ISSN)1862-8354	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Quality and Reliability Engineering International	0748-8017	1099-1638	1996	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991638	 	10.1002/(ISSN)1099-1638	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Quantitative Structure-Activity Relationships	0931-8771	1521-3838	1998	17	1	2002	21	6	https://onlinelibrary.wiley.com/loi/15213838	 	10.1002/(ISSN)1521-3838	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Quarterly Journal of the Royal Meteorological Society	0035-9009	1477-870X	2002	128	579	 	 	 	https://rmets.onlinelibrary.wiley.com/loi/1477870X	 	10.1002/(ISSN)1477-870X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+QSAR & Combinatorial Science	1611-020X	1611-0218	2003	22	1	2009	28	11-12	https://onlinelibrary.wiley.com/loi/16110218	 	10.1002/(ISSN)1611-0218	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3838	P	 	 
+Radio Science	0048-6604	1944-799X	1997	32	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/1944799X	 	10.1002/(ISSN)1944-799X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Random Structures & Algorithms	1042-9832	1098-2418	1996	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982418	 	10.1002/(ISSN)1098-2418	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Rapid Communications in Mass Spectrometry	0951-4198	1097-0231	1996	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970231	 	10.1002/(ISSN)1097-0231	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Regulated Rivers: Research & Management	0886-9375	1099-1646	1996	12	1	2001	17	6	https://onlinelibrary.wiley.com/loi/10991646	 	10.1002/(ISSN)1099-1646	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Reproduction in Domestic Animals	0936-6768	1439-0531	1997	32	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/14390531	 	10.1111/(ISSN)1439-0531	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Research in Nursing & Health	0160-6891	1098-240X	1996	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/1098240X	 	10.1002/(ISSN)1098-240X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Researches on population ecology	0034-5466	1437-5613	1997	39	1	1999	41	3	https://esj-journals.onlinelibrary.wiley.com/loi/1438390X	 	10.1002/(ISSN)1437-5613	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Resource Geology	1344-1698	1751-3928	1998	48	1	 	 	 	https://onlinelibrary.wiley.com/loi/17513928	 	10.1111/(ISSN)1751-3928	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Respirology	1323-7799	1440-1843	1997	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/14401843	 	10.1111/(ISSN)1440-1843	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Restoration Ecology	1061-2971	1526-100X	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/1526100X	 	10.1111/(ISSN)1526-100X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Review of Financial Economics	1058-3300	1873-5924	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/18735924	 	10.1002/(ISSN)1873-5924	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Review of Progress in Coloration and Related Topics	0557-9325	1478-4408	1997	27	1	2005	35	1	https://onlinelibrary.wiley.com/loi/14784408a	 	10.1111/(ISSN)1478-4408a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2056-5267	P	 	 
+Reviews in Aquaculture	1753-5123	1753-5131	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17535131	 	10.1111/(ISSN)1753-5131	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Reviews in Medical Virology	1052-9276	1099-1654	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991654	 	10.1002/(ISSN)1099-1654	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Reviews of Geophysics	8755-1209	1944-9208	1997	35	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/19449208	 	10.1002/(ISSN)1944-9208	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Rhinology	0300-0729	1996-8604	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/19968604	 	10.1002/(ISSN)1996-8604	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+River Research and Applications	1535-1459	1535-1467	2002	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/15351467	 	10.1002/(ISSN)1535-1467	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1646	P	 	 
+Scandinavian Journal of Caring Sciences	0283-9318	1471-6712	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14716712	 	10.1111/(ISSN)1471-6712	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Scandinavian Journal of Immunology	0300-9475	1365-3083	1997	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653083	 	10.1111/(ISSN)1365-3083	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Scandinavian Journal of Medicine & Science in Sports	0905-7188	1600-0838	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000838	 	10.1111/(ISSN)1600-0838	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Scandinavian Journal of Statistics	0303-6898	1467-9469	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679469	 	10.1111/(ISSN)1467-9469	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Science Education	0036-8326	1098-237X	1996	80	1	 	 	 	https://onlinelibrary.wiley.com/loi/1098237X	 	10.1002/(ISSN)1098-237X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1098-237X	P	 	 
+Security and Privacy	 	2475-6725	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/24756725	 	10.1002/(ISSN)2475-6725	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sedimentology	0037-0746	1365-3091	1997	44	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653091	 	10.1111/(ISSN)1365-3091	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Seminars in Dialysis	0894-0959	1525-139X	1997	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/1525139X	 	10.1111/(ISSN)1525-139X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Seminars in Surgical Oncology	8756-0437	1098-2388	1996	12	1	2003	21	4	https://onlinelibrary.wiley.com/loi/10982388	 	10.1002/(ISSN)1098-2388	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Separation Science Plus	 	2573-1815	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25731815	 	10.1002/(ISSN)2573-1815	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sexuality, Gender & Policy	 	2639-5355	2017	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26395355	 	10.1002/(ISSN)2639-5355	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Small	1613-6810	1613-6829	2005	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16136829	 	10.1002/(ISSN)1613-6829	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Small Methods	2366-9608	2366-9608	2017	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23669608	 	10.1002/(ISSN)2366-9608	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Software Testing, Verification and Reliability	0960-0833	1099-1689	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991689	 	10.1002/(ISSN)1099-1689	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Software: Practice and Experience	0038-0644	1097-024X	1996	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/1097024X	 	10.1002/(ISSN)1097-024X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Soil Science Society of America Journal	0361-5995	1435-0661	1997	61	1	 	 	 	https://acsess.onlinelibrary.wiley.com/loi/14350661	 	10.1002/(ISSN)1435-0661	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2691-1035	P	 	 
+Soil Use and Management	0266-0032	1475-2743	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/14752743	 	10.1111/(ISSN)1475-2743	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Solar RRL	2367-198X	2367-198X	2017	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/2367198X	 	10.1002/(ISSN)2367-198X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sonography	2202-8323	2054-6750	2014	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20546750	 	10.1002/(ISSN)2054-6750	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Special Care in Dentistry	0275-1879	1754-4505	1997	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/17544505	 	10.1111/(ISSN)1754-4505	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Stahlbau	0038-9145	1437-1049	1998	67	1	 	 	 	https://onlinelibrary.wiley.com/loi/14371049	 	10.1002/(ISSN)1437-1049	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Starch - Starke	0038-9056	1521-379X	1998	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/1521379X	 	10.1002/(ISSN)1521-379X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Stat	2049-1573	2049-1573	2012	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20491573	 	10.1002/(ISSN)2049-1573	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Statistica Neerlandica	0039-0402	1467-9574	1997	51	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679574	 	10.1111/(ISSN)1467-9574	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Statistical Analysis and Data Mining: An ASA Data Science Journal	1932-1864	1932-1872	2025	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/19321872	 	10.1002/(ISSN)1932-1872a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1932-1872	P	 	 
+Statistical Analysis and Data Mining: The ASA Data Science Journal	1932-1864	1932-1872	2008	1	1	2024	17	6	https://onlinelibrary.wiley.com/loi/19321872	 	10.1002/(ISSN)1932-1872	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Statistics in Medicine	0277-6715	1097-0258	1996	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970258	 	10.1002/(ISSN)1097-0258	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Steel research	0177-4832	 	1997	68	1	2002	 	 	https://onlinelibrary.wiley.com/loi/1869344Xa	 	10.1002/(ISSN)1869-344Xa	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Steel Construction	1867-0520	1867-0539	2008	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/18670539	 	10.1002/(ISSN)1867-0539	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Strain	0039-2103	1475-1305	1997	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/14751305	 	10.1111/(ISSN)1475-1305	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Stress and Health	1532-3005	1532-2998	2001	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/15322998	 	10.1002/(ISSN)1532-2998	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1700	P	 	 
+Stress Medicine	0748-8386	1099-1700	1996	12	1	2000	16	5	https://onlinelibrary.wiley.com/loi/10991700	 	10.1002/(ISSN)1099-1700	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Structural Concrete	1464-4177	1751-7648	2011	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/17517648	 	10.1002/(ISSN)1751-7648	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Studies in Applied Mathematics	0022-2526	1467-9590	1997	98	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679590	 	10.1111/(ISSN)1467-9590	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-9590	P	 	 
+Surface and Interface Analysis	0142-2421	1096-9918	1996	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969918	 	10.1002/(ISSN)1096-9918	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Surgical Practice	1744-1625	1744-1633	2005	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/17441633	 	10.1111/(ISSN)1744-1633	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1442-2034	P	 	 
+Synapse	0887-4476	1098-2396	1996	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982396	 	10.1002/(ISSN)1098-2396	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Systematic Entomology	0307-6970	1365-3113	1997	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653113	 	10.1111/(ISSN)1365-3113	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1365-3113	P	 	 
+Systems Engineering	1098-1241	1520-6858	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206858	 	10.1002/(ISSN)1520-6858	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+SID Symposium Digest of Technical Papers	0097-966X	2168-0159	1998	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/21680159	 	10.1002/(ISSN)2168-0159	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Teaching Statistics	0141-982X	1467-9639	1997	18	S1	 	 	 	https://onlinelibrary.wiley.com/loi/14679639	 	10.1111/(ISSN)1467-9639	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Tectonics	0278-7407	1944-9194	1997	16	1	 	 	 	https://agupubs.onlinelibrary.wiley.com/loi/19449194	 	10.1002/(ISSN)1944-9194	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Teratogenesis, Carcinogenesis, and Mutagenesis	0270-3211	1520-6866	1996	16	1	2003	23	S2	https://onlinelibrary.wiley.com/loi/15206866	 	 	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1096-9926	P	 	 
+Teratology	0040-3709	1096-9926	1996	53	1	2002	66	6	https://onlinelibrary.wiley.com/loi/10969926	 	10.1002/(ISSN)1096-9926	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	Previous incarnation of BDR: Part B
+Terra Nova	0954-4879	1365-3121	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653121	 	10.1111/(ISSN)1365-3121	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The American Journal on Addictions	1055-0496	1521-0391	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/15210391	 	10.1111/(ISSN)1521-0391	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Anatomical Record	0003-276X	1097-0185	1996	244	1	2002	269	6	https://anatomypubs.onlinelibrary.wiley.com/loi/10970185	 	10.1002/(ISSN)1097-0185	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Anatomical Record	1932-8486	1932-8494	2007	290	1	 	 	 	https://anatomypubs.onlinelibrary.wiley.com/loi/19328494	 	10.1002/(ISSN)1932-8494	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1552-4914	P	 	 
+The Anatomical Record Part A: Discoveries in Molecular, Cellular, and Evolutionary Biology	1552-4884	1552-4892	2003	270A	1	2006	288A	12	https://anatomypubs.onlinelibrary.wiley.com/loi/15524892	 	10.1002/(ISSN)1552-4892	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1097-0185	P	 	 
+The Anatomical Record Part B: The New Anatomist	1552-4906	1552-4914	2003	270B	1	2006	289B	6	https://anatomypubs.onlinelibrary.wiley.com/loi/15524914	 	10.1002/(ISSN)11552-4914	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1552-4892	P	 	 
+The Australian Journal of Hospital Pharmacy	0310-6810	0310-6810	1997	27	1	2001	31	4	https://onlinelibrary.wiley.com/loi/03106810	 	10.1002/(ISSN)0310-6810	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Canadian Journal of Chemical Engineering	0008-4034	1939-019X	1997	75	1	 	 	 	https://onlinelibrary.wiley.com/loi/1939019X	 	10.1002/(ISSN)1939-019X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Canadian Journal of Statistics|La revue canadienne de statistique	0319-5724	1708-945X	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/1708945X	 	10.1002/(ISSN)1708-945X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Chemical Record	1527-8999	1528-0691	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15280691	 	10.1002/(ISSN)1528-0691	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Clinical Teacher	1743-4971	1743-498X	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1743498X	 	10.1111/(ISSN)1743-498X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Electronic Journal of Information Systems in Developing Countries	 	1681-4835	2000	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16814835	 	10.1002/(ISSN)1681-4835	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The FASEB Journal	0892-6638	1530-6860	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/15306860	 	10.1096/(ISSN)1530-6860	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The FEBS Journal	1742-464X	1742-4658	2005	272	1	 	 	 	https://febs.onlinelibrary.wiley.com/loi/17424658	 	10.1111/(ISSN)1742-4658	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1432-1033	P	 	 
+The International Journal of Health Planning and Management	0749-6753	1099-1751	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991751	 	10.1002/(ISSN)1099-1751	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The International Journal of Medical Robotics and Computer Assisted Surgery	1478-5951	1478-596X	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1478596X	 	10.1002/(ISSN)1478-596X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Clinical Pharmacology	0091-2700	1552-4604	1997	37	1	 	 	 	https://accp1.onlinelibrary.wiley.com/loi/15524604	 	10.1002/(ISSN)1552-4604	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2375-0928	P	 	 
+The Journal of Comparative Neurology	0021-9967	1096-9861	1996	364	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969861	 	10.1002/(ISSN)1096-9861	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1550-7149	P	 	 
+The Journal of Dermatology	0385-2407	1346-8138	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/13468138	 	10.1111/(ISSN)1346-8138	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Pathology	0022-3417	1096-9896	1996	178	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969896	 	10.1002/(ISSN)1096-9896	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1555-2039	P	 	 
+The Journal of Physiology	0022-3751	1469-7793	1997	498	1	 	 	 	https://physoc.onlinelibrary.wiley.com/loi/14697793	 	10.1111/(ISSN)1469-7793	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Rural Health	0890-765X	1748-0361	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/17480361	 	10.1111/(ISSN)1748-0361	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Visualization and Computer Animation	1049-8907	1099-1778	1996	7	1	2003	14	5	https://onlinelibrary.wiley.com/loi/10991778	 	10.1002/(ISSN)1099-1778	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Wildlife Management	0022-541X	1937-2817	2004	68	1	 	 	 	https://wildlife.onlinelibrary.wiley.com/loi/19372817	 	10.1002/(ISSN)1937-2817	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Laryngoscope	0023-852X	1531-4995	1997	107	1	 	 	 	https://onlinelibrary.wiley.com/loi/15314995	 	10.1002/(ISSN)1531-4995	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Obstetrician & Gynaecologist	1467-2561	1744-4667	1999	1	1	 	 	 	https://obgyn.onlinelibrary.wiley.com/loi/17444667	 	10.1111/(ISSN)1744-4667	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Prostate	0270-4137	1097-0045	1996	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970045	 	10.1002/(ISSN)1097-0045	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Structural Design of Tall and Special Buildings	1541-7794	1541-7808	2003	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/15417808	 	10.1002/(ISSN)1541-7808	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1794	P	 	 
+The Structural Design of Tall Buildings	1062-8002	1099-1794	1996	5	1	2002	11	5	https://onlinelibrary.wiley.com/loi/10991794	 	10.1002/(ISSN)1099-1794	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Therapeutic Apheresis	1091-6660	1526-0968	1997	1	1	2002	6	6	https://onlinelibrary.wiley.com/loi/15260968	 	10.1111/(ISSN)1526-0968	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Therapeutic Apheresis and Dialysis	1744-9979	1744-9987	2003	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/17449987	 	10.1111/(ISSN)1744-9987	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1526-0968	P	 	 
+Tissue Antigens	0001-2815	1399-0039	1997	49	1	2015	86	6	https://onlinelibrary.wiley.com/loi/13990039	 	10.1111/(ISSN)1399-0039	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Traditional & Kampo Medicine	2053-4515	2053-4515	2014	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20534515	 	10.1002/(ISSN)2053-4515	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Traffic	1398-9219	1600-0854	2000	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000854	 	10.1111/(ISSN)1600-0854	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Transactions on Emerging Telecommunications Technologies	2161-3915	2161-3915	2012	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/21613915	 	10.1002/(ISSN)2161-3915	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1541-8251	P	 	 
+Transfusion	0041-1132	1537-2995	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/15372995	 	10.1111/(ISSN)1537-2995	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Transfusion Medicine	0958-7578	1365-3148	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653148	 	10.1111/(ISSN)1365-3148	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Transplant Infectious Disease	1398-2273	1399-3062	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/13993062	 	10.1111/(ISSN)1399-3062	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Tribotest	1354-4063	1557-685X	2006	12	1	2008	14	4	https://onlinelibrary.wiley.com/loi/1557685X	 	10.1002/(ISSN)1557-685X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1557-6841	P	 	 
+Tropical Medicine & International Health	1360-2276	1365-3156	1996	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653156	 	10.1111/(ISSN)1365-3156	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Twin Research	2053-6003	1369-0523	1998	1	1	2004	7	6	https://onlinelibrary.wiley.com/loi/13690523	 	10.1002/(ISSN)1369-0523	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Twin Research and Human Genetics	1832-4274	1839-2628	2005	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/18392628	 	10.1002/(ISSN)1839-2628	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1369-0523	P	 	 
+TAXON	0040-0262	1996-8175	1997	46	1	 	 	 	https://onlinelibrary.wiley.com/loi/19968175	 	10.1002/(ISSN)1996-8175	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ultrasound in Obstetrics & Gynecology	0960-7692	1469-0705	1996	9	1	 	 	 	https://obgyn.onlinelibrary.wiley.com/loi/14690705	 	10.1002/(ISSN)1469-0705	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Veterinary and Comparative Oncology	1476-5810	1476-5829	2003	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14765829	 	10.1111/(ISSN)1476-5829	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Veterinary Clinical Pathology	0275-6382	1939-165X	1997	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/1939165X	 	10.1111/(ISSN)1939-165X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1939-165X	P	 	 
+Veterinary Dermatology	0959-4493	1365-3164	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653164	 	10.1111/(ISSN)1365-3164	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Veterinary Ophthalmology	1463-5216	1463-5224	1998	1	4	 	 	 	https://onlinelibrary.wiley.com/loi/14635224	 	10.1111/(ISSN)1463-5224	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Veterinary Radiology & Ultrasound	1058-8183	1740-8261	1997	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/17408261	 	10.1111/(ISSN)1740-8261	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1740-8261	P	 	 
+Veterinary Record	0042-4900	2042-7670	1996	139	1	 	 	 	https://onlinelibrary.wiley.com/loi/20427670	 	10.1002/(ISSN)2042-7670	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Veterinary Record Case Reports	 	2052-6121	2013	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20526121	 	10.1002/(ISSN)2052-6121	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Veterinary Surgery	0161-3499	1532-950X	1997	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/1532950X	 	10.1111/(ISSN)1532-950X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Vietnam Journal of Chemistry	2572-8288	2572-8288	2018	56	1	 	 	 	https://onlinelibrary.wiley.com/loi/25728288	 	10.1002/(ISSN)2572-8288	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Vox Sanguinis	0042-9007	1423-0410	1997	72	1	 	 	 	https://onlinelibrary.wiley.com/loi/14230410	 	10.1111/(ISSN)1423-0410	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Water and Environment Journal	1747-6585	1747-6593	2005	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/17476593	 	10.1111/(ISSN)1747-6593	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Water Environment Research	1061-4303	1554-7531	1997	69	1	 	 	 	https://onlinelibrary.wiley.com/loi/15547531	 	10.1002/(ISSN)1554-7531	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Weather	0043-1656	1477-8696	1997	52	1	 	 	 	https://rmets.onlinelibrary.wiley.com/loi/14778696	 	10.1002/(ISSN)1477-8696	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Weed Biology and Management	1444-6162	1445-6664	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14456664	 	10.1111/(ISSN)1445-6664	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Weed Research	0043-1737	1365-3180	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/13653180	 	10.1111/(ISSN)1365-3180	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Wildlife Monographs	0084-0173	1938-5455	2004	155	1	 	 	 	https://wildlife.onlinelibrary.wiley.com/loi/19385455	 	10.1002/(ISSN)1938-5455	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+World Journal of Surgery	0364-2313	1432-2323	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14322323	 	10.1002/(ISSN)1432-2323	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+World Oil Trade	0950-1029	1467-9728	2012	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679728	 	10.1002/(ISSN)1467-9728	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Worldviews on Evidence-Based Nursing	1545-102X	1741-6787	2004	1	1	 	 	 	https://sigmapubs.onlinelibrary.wiley.com/loi/17416787	 	10.1111/(ISSN)1741-6787	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1072-7639	P	 	 
+Wound Repair and Regeneration	1067-1927	1524-475X	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/1524475X	 	10.1111/(ISSN)1524-475X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Climate Change	1757-7780	1757-7799	2010	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17577799	 	10.1002/(ISSN)1757-7799	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Computational Molecular Science	1759-0876	1759-0884	2011	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17590884	 	10.1111/(ISSN)1759-0884	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Computational Statistics	1939-5108	1939-0068	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19390068	 	10.1002/(ISSN)1939-0068	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Data Mining and Knowledge Discovery	1942-4787	1942-4795	2011	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19424795	 	10.1002/(ISSN)1942-4795	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Developmental Biology	1759-7684	1759-7692	2012	1	1	2021	10	6	https://onlinelibrary.wiley.com/loi/17597692	 	10.1111/(ISSN)1759-7692	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1939-005X	P	 	 
+WIREs Energy and Environment	2041-8396	2041-840X	2012	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/2041840X	 	10.1002/(ISSN)2041-840X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Forensic Science	 	2573-9468	2019	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25739468	 	10.1002/(ISSN)2573-9468	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Mechanisms of Disease	 	2692-9368	2021	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/26929368	 	10.1002/(ISSN)2692-9368	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1759-7692	P	 	 
+WIREs Nanomedicine and Nanobiotechnology	1939-5116	1939-0041	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19390041	 	10.1002/(ISSN)1939-0041	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs RNA	1757-7004	1757-7012	2010	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17577012	 	10.1002/(ISSN)1757-7012	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Systems Biology and Medicine	1939-5094	1939-005X	2009	1	1	2020	12	6	https://onlinelibrary.wiley.com/loi/1939005X	 	10.1002/(ISSN)1939-005X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+WIREs Water	2049-1948	2049-1948	2014	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20491948	 	10.1002/(ISSN)2049-1948	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+X-Ray Spectrometry	0049-8246	1097-4539	1996	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974539	 	10.1002/(ISSN)1097-4539	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Xenotransplantation	0908-665X	1399-3089	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/13993089	 	10.1111/(ISSN)1399-3089	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Yeast	0749-503X	1097-0061	1996	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970061	 	10.1002/(ISSN)1097-0061	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Zeitschrift für anorganische und allgemeine Chemie	0044-2313	1521-3749	1998	624	1	 	 	 	https://onlinelibrary.wiley.com/loi/15213749	 	10.1002/(ISSN)1521-3749	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1521-3749	P	 	 
+Zoo Biology	0733-3188	1098-2361	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/10982361	 	10.1002/(ISSN)1098-2361	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Zoologica Scripta	0300-3256	1463-6409	1997	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/14636409	 	10.1111/(ISSN)1463-6409	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Zoonoses and Public Health	1863-1959	1863-2378	2007	54	1	 	 	 	https://onlinelibrary.wiley.com/loi/18632378	 	10.1111/(ISSN)1863-2378	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1439-0450	P	 	 
+ZAMM - Journal of Applied Mathematics and Mechanics	0044-2267	1521-4001	1998	78	1	 	 	 	https://onlinelibrary.wiley.com/loi/15214001	 	10.1002/(ISSN)1521-4001	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 

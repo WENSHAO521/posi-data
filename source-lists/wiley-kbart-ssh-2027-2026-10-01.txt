@@ -1,0 +1,549 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type	OCLC_Control_Number	additional_notes
+Abacus	0001-3072	1467-6281	1997	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/14676281	 	10.1111/(ISSN)1467-6281	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Accounting & Finance	0810-5391	1467-629X	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467629X	 	10.1111/(ISSN)1467-629X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Accounting Perspectives	1911-382X	1911-3838	2007	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/19113838	 	10.1111/(ISSN)1911-3838	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2816-301X	P	 	 
+Africa Research Bulletin: Political, Social and Cultural Series	0001-9844	1467-825X	1997	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467825X	 	10.1111/(ISSN)1467-825X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+African Development Review	1017-6772	1467-8268	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678268	 	10.1111/(ISSN)1467-8268	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Agribusiness	0742-4477	1520-6297	1996	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206297	 	10.1002/(ISSN)1520-6297	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Agricultural Economics	0169-5150	1574-0862	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/15740862	 	10.1111/(ISSN)1574-0862	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Alcoholism & Drug Abuse Weekly	1042-1394	1556-7591	2005	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/15567591	 	10.1002/(ISSN)1556-7591	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1556-7559	P	 	 
+Ambulatory Child Health	1355-5626	1467-0658	2000	6	1	2001	7	3-4	https://onlinelibrary.wiley.com/loi/14670658	 	10.1111/(ISSN)1467-0658	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Anthropologist	0002-7294	1548-1433	1998	100	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481433	 	10.1111/(ISSN)1548-1433	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Business Law Journal	0002-7766	1744-1714	1997	34	3	 	 	 	https://onlinelibrary.wiley.com/loi/17441714	 	10.1111/(ISSN)1744-1714	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Ethnologist	0094-0496	1548-1425	1997	24	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481425	 	10.1111/(ISSN)1548-1425	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Agricultural Economics	0002-9092	1467-8276	1997	79	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678276	 	10.1111/(ISSN)1467-8276	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2163-6257	P	 	 
+American Journal of Community Psychology	0091-0562	1573-2770	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/15732770	 	10.1002/(ISSN)1573-2770	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+American Journal of Political Science	0092-5853	1540-5907	2003	47	1	 	 	 	https://onlinelibrary.wiley.com/loi/15405907	 	10.1111/(ISSN)1540-5907	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Analyses of Social Issues and Public Policy	1529-7489	1530-2415	2001	1	1	 	 	 	https://spssi.onlinelibrary.wiley.com/loi/15302415	 	10.1111/(ISSN)1530-2415	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Analytic Philosophy	2153-9596	2153-960X	2011	52	1	 	 	 	https://onlinelibrary.wiley.com/loi/2153960X	 	10.1111/(ISSN)2153-960X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-0149	P	 	 
+Annals of Anthropological Practice	2153-957X	2153-9588	2011	35	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/21539588	 	10.1111/(ISSN)2153-9588	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1556-4797	P	 	 
+Annals of Public and Cooperative Economics	1370-4788	1467-8292	1997	68	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678292	 	10.1111/(ISSN)1467-8292	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Anthropology & Education Quarterly	0161-7761	1548-1492	1997	28	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481492	 	10.1111/(ISSN)1548-1492	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1937-4399	P	 	 
+Anthropology and Humanism	1559-9167	1548-1409	1997	22	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481409	 	10.1111/(ISSN)1548-1409	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1548-1409	P	 	 
+Anthropology of Consciousness	1053-4202	1556-3537	1997	8	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15563537	 	10.1111/(ISSN)1556-3537	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Anthropology of Work Review	0883-024X	1548-1417	1997	18	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481417	 	10.1111/(ISSN)1548-1417	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2331-8929	P	 	 
+Anthropology Today	0268-540X	1467-8322	2000	16	1	 	 	 	https://rai.onlinelibrary.wiley.com/loi/14678322	 	10.1111/(ISSN)1467-8322	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Antipode	0066-4812	1467-8330	1997	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678330	 	10.1111/(ISSN)1467-8330	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Applied Cognitive Psychology	0888-4080	1099-0720	1996	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990720	 	10.1002/(ISSN)1099-0720	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Applied Economic Perspectives and Policy	2040-5790	2040-5804	2010	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/20405804	 	10.1002/(ISSN)2040-5804	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-9353	P	 	 
+Applied Psychology	0269-994X	1464-0597	1997	46	1	 	 	 	https://iaap-journals.onlinelibrary.wiley.com/loi/14640597	 	10.1111/(ISSN)1464-0597	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Applied Psychology: Health and Well-Being	1758-0846	1758-0854	2009	1	1	 	 	 	https://iaap-journals.onlinelibrary.wiley.com/loi/17580854	 	10.1111/(ISSN)1758-0854	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Arabian Archaeology and Epigraphy	0905-7196	1600-0471	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000471	 	10.1111/(ISSN)1600-0471	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Archaeological Papers of the American Anthropological Association	1551-823X	1551-8248	1997	7	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15518248	 	10.1111/(ISSN)1551-8248	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Archaeology in Oceania	0728-4896	1834-4453	1997	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/18344453	 	10.1002/(ISSN)1834-4453	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	0003-8121	P	 	 
+Archaeometry	0003-813X	1475-4754	1997	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/14754754	 	10.1111/(ISSN)1475-4754	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Area	0004-0894	1475-4762	1997	29	1	 	 	 	https://rgs-ibg.onlinelibrary.wiley.com/loi/14754762	 	10.1111/(ISSN)1475-4762	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asia Pacific Journal of Human Resources	1038-4111	1744-7941	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/17447941	 	10.1111/(ISSN)1744-7941	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asia Pacific Viewpoint	1360-7456	1467-8373	1997	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678373	 	10.1111/(ISSN)1467-8373	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asia-Pacific Economic History Review	 	2832-157X	2023	63	1	 	 	 	https://onlinelibrary.wiley.com/loi/2832157X	 	10.1111/(ISSN)2832-157X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-8446	P	 	 
+Asia-Pacific Journal of Financial Studies	2041-9945	2041-6156	2010	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/20416156	 	10.1111/(ISSN)2041-6156	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2041-6156	P	 	 
+Asian Economic Journal	1351-3958	1467-8381	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678381	 	10.1111/(ISSN)1467-8381	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asian Economic Policy Review	1832-8105	1748-3131	2006	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17483131	 	10.1111/(ISSN)1748-3131	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asian Journal of Social Psychology	1367-2223	1467-839X	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467839X	 	10.1111/(ISSN)1467-839X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asian Politics & Policy	1943-0779	1943-0787	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19430787	 	10.1111/(ISSN)1943-0787	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asian Social Work and Policy Review	1753-1403	1753-1411	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17531411	 	10.1111/(ISSN)1753-1411	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Asian-Pacific Economic Literature	0818-9935	1467-8411	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678411	 	10.1111/(ISSN)1467-8411	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Assessment Update	1041-6099	1536-0725	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/15360725	 	10.1002/(ISSN)1536-0725	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian and New Zealand Journal of Family Therapy	0814-723X	1467-8438	1997	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678438	 	10.1002/(ISSN)1467-8438	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-8438	P	 	 
+Australian Accounting Review	1035-6908	1835-2561	1997	7	13	 	 	 	https://onlinelibrary.wiley.com/loi/18352561	 	10.1111/(ISSN)1835-2561	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Economic History Review	0004-8992	1467-8446	1997	37	1	2022	62	3	https://onlinelibrary.wiley.com/loi/14678446	 	10.1111/(ISSN)1467-8446	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-8446	P	 	 
+Australian Economic Papers	0004-900X	1467-8454	1997	36	68	 	 	 	https://onlinelibrary.wiley.com/loi/14678454	 	10.1111/(ISSN)1467-8454	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Geographical Studies	0004-9190	1467-8470	1997	35	1	2004	42	3	https://onlinelibrary.wiley.com/loi/14678470	 	10.1111/(ISSN)1467-8470	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Journal of Politics & History	0004-9522	1467-8497	1997	43	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678497	 	10.1111/(ISSN)1467-8497	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Journal of Public Administration	0313-6647	1467-8500	1997	56	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678500	 	10.1111/(ISSN)1467-8500	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Australian Journal of Social Issues	0157-6321	1839-4655	1997	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/18394655	 	10.1002/(ISSN)1839-4655	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Behavioral Interventions	1072-0847	1099-078X	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/1099078X	 	10.1002/(ISSN)1099-078X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Behavioral Sciences & the Law	0735-3936	1099-0798	1996	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990798	 	10.1002/(ISSN)1099-0798	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bioethics	0269-9702	1467-8519	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678519	 	10.1111/(ISSN)1467-8519	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Board & Administrator for Administrators Only	1525-7878	1949-3215	2009	25	5	 	 	 	https://onlinelibrary.wiley.com/loi/19493215	 	10.1002/(ISSN)1949-3215	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Board Leadership	1061-4249	1542-7862	2000	2000	47	 	 	 	https://onlinelibrary.wiley.com/loi/15427862	 	10.1002/(ISSN)1542-7862	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Educational Research Journal	0141-1926	1469-3518	1997	23	1	 	 	 	https://bera-journals.onlinelibrary.wiley.com/loi/14693518	 	10.1002/(ISSN)1469-3518	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1469-3518	P	 	 
+British Journal of Clinical Psychology	0144-6657	2044-8260	1997	36	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448260	 	10.1111/(ISSN)2044-8260	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Developmental Psychology	0261-510X	2044-835X	1997	15	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/2044835X	 	10.1111/(ISSN)2044-835X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Educational Psychology	0007-0998	2044-8279	1997	67	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448279	 	10.1111/(ISSN)2044-8279	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Educational Technology	0007-1013	1467-8535	1997	28	1	 	 	 	https://bera-journals.onlinelibrary.wiley.com/loi/14678535	 	10.1111/(ISSN)1467-8535	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Health Psychology	1359-107X	2044-8287	1997	2	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448287	 	10.1111/(ISSN)2044-8287	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Industrial Relations	0007-1080	1467-8543	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678543	 	10.1111/(ISSN)1467-8543	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Learning Disabilities	1354-4187	1468-3156	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/14683156	 	10.1111/(ISSN)1468-3156	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2056-8134	P	 	 
+British Journal of Management	1045-3172	1467-8551	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678551	 	10.1111/(ISSN)1467-8551	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Mathematical and Statistical Psychology	0007-1102	2044-8317	1997	50	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448317	 	10.1111/(ISSN)2044-8317	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2044-8317	P	 	 
+British Journal of Medical Psychology	0007-1129	2056-5194	1997	70	1	2001	74	4	https://bpspsychub.onlinelibrary.wiley.com/loi/20448341a	 	10.1111/(ISSN)2044-8341a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Psychology	0007-1269	2044-8295	1997	88	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448295	 	10.1111/(ISSN)2044-8295	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1747-3462	P	 	 
+British Journal of Psychotherapy	0265-9883	1752-0118	1997	13	3	 	 	 	https://onlinelibrary.wiley.com/loi/17520118	 	10.1111/(ISSN)1752-0118	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Social Psychology	0144-6665	2044-8309	1997	36	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448309	 	10.1111/(ISSN)2044-8309	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+British Journal of Special Education	0952-3383	1467-8578	1997	24	1	 	 	 	https://nasenjournals.onlinelibrary.wiley.com/loi/14678578	 	10.1111/(ISSN)1467-8578	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bulletin of Economic Research	0307-3378	1467-8586	1997	49	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678586	 	10.1111/(ISSN)1467-8586	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Bulletin of Latin American Research	0261-3050	1470-9856	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/14709856	 	10.1111/(ISSN)1470-9856	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Business and Society Review	0045-3609	1467-8594	1998	99	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678594	 	10.1111/(ISSN)1467-8594	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Business Ethics, the Environment & Responsibility	2694-6416	2694-6424	2021	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/26946424	 	10.1111/(ISSN)2694-6424	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-8608	P	 	 
+Business Ethics: A European Review	0962-8770	1467-8608	1997	6	1	2020	29	4	https://onlinelibrary.wiley.com/loi/14678608	 	10.1111/(ISSN)1467-8608	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Business Strategy and the Environment	0964-4733	1099-0836	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990836	 	10.1002/(ISSN)1099-0836	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Business Strategy and Development	 	2572-3170	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25723170	 	10.1002/(ISSN)2572-3170	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Campus Legal Advisor	1531-3999	1945-6239	2008	8	5	 	 	 	https://onlinelibrary.wiley.com/loi/19456239	 	10.1002/(ISSN)1945-6239	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Campus Security Report	1551-2800	1945-6247	2008	4	9	 	 	 	https://onlinelibrary.wiley.com/loi/19456247	 	10.1002/(ISSN)1945-6247	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Canadian Accounting Perspectives	1499-8653	2816-301X	2002	1	1	2006	5	2	https://onlinelibrary.wiley.com/loi/19113838a	 	10.1111/(ISSN)1911-3838a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Canadian Geographer / Le géographe canadien	0008-3658	1541-0064	1997	41	1	2025	69	4	https://onlinelibrary.wiley.com/loi/15410064	 	10.1111/(ISSN)1541-0064	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Canadian Geographies / Géographies canadiennes	3069-0587	3069-0595	2026	70	1	 	 	 	https://onlinelibrary.wiley.com/loi/30690595	 	10.1111/(ISSN)3069-0595	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1541-0064	P	 	 
+Canadian Journal of Administrative Sciences / Revue Canadienne des Sciences de l'Administration	0825-0383	1936-4490	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/19364490	 	10.1002/(ISSN)1936-4490	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Canadian Journal of Agricultural Economics/Revue canadienne d'agroeconomie	0008-3976	1744-7976	1997	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/17447976	 	10.1111/(ISSN)1744-7976	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Canadian Journal of Economics/Revue canadienne d'economique	0008-4085	1540-5982	2000	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/15405982	 	10.1111/(ISSN)1540-5982	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Canadian Public Administration/Administration Publique du Canada	0008-4840	1754-7121	1997	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/17547121	 	10.1111/(ISSN)1754-7121	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Canadian Review of Sociology/Revue canadienne de sociologie	1755-6171	1755-618X	1997	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/1755618X	 	10.1111/(ISSN)1755-618X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Child & Family Social Work	1356-7500	1365-2206	1997	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652206	 	10.1111/(ISSN)1365-2206	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Child and Adolescent Mental Health	1475-357X	1475-3588	2002	7	1	 	 	 	https://acamh.onlinelibrary.wiley.com/loi/14753588	 	10.1111/(ISSN)1475-3588	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1469-2155	P	 	 
+Child Abuse Review	0952-9136	1099-0852	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990852	 	10.1002/(ISSN)1099-0852	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Child Psychology and Psychiatry Review	1360-6417	1469-2155	1997	2	1	2001	6	4	https://acamh.onlinelibrary.wiley.com/loi/14692155	 	10.1111/(ISSN)1469-2155	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Child: Care, Health and Development	0305-1862	1365-2214	1997	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652214	 	10.1111/(ISSN)1365-2214	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-0658	P	 	 
+Children & Society	0951-0605	1099-0860	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990860	 	10.1111/(ISSN)1099-0860	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+China & World Economy	1671-2234	1749-124X	2006	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/1749124X	 	10.1111/(ISSN)1749-124X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+City & Society	0893-0465	1548-744X	1997	9	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/1548744X	 	10.1111/(ISSN)1548-744X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Climate and Energy	2692-3831	2692-3823	2020	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/26923823	 	10.1002/(ISSN)2692-3823	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1545-7907	P	 	 
+Clinical Psychology & Psychotherapy	1063-3995	1099-0879	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990879	 	10.1002/(ISSN)1099-0879	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Cognitive Science	0364-0213	1551-6709	1997	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/15516709	 	10.1111/(ISSN)1551-6709	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+College Athletics and the Law	1552-8774	1943-7579	2008	4	10	 	 	 	https://onlinelibrary.wiley.com/loi/19437579	 	10.1002/(ISSN)1943-7579	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Conflict Resolution Quarterly	1536-5581	1541-1508	2003	20	3	 	 	 	https://onlinelibrary.wiley.com/loi/15411508	 	10.1002/(ISSN)1541-1508	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1932-7544	P	 	 
+Constellations	1351-0487	1467-8675	1997	3	3	 	 	 	https://onlinelibrary.wiley.com/loi/14678675	 	10.1111/(ISSN)1467-8675	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Consumer Psychology Review	2476-1273	2476-1281	2018	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/24761281	 	10.1002/(ISSN)2476-1281	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Contemporary Accounting Research	0823-9150	1911-3846	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/19113846	 	10.1111/(ISSN)1911-3846	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Contemporary Economic Policy	1074-3529	1465-7287	1997	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/14657287	 	10.1111/(ISSN)1465-7287	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2689-1352	P	 	 
+Conversations in Religion & Theology	1479-2206	1479-2214	2003	1	1	2011	9	2	https://onlinelibrary.wiley.com/loi/14792214	 	10.1111/(ISSN)1479-2214	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Corporate Governance: An International Review	0964-8410	1467-8683	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678683	 	10.1111/(ISSN)1467-8683	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Corporate Philanthropy Report	0885-8365	1949-3207	2009	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/19493207	 	10.1002/(ISSN)1949-3207	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1945-6255	P	 	 
+Corporate Social Responsibility and Environmental Management	1535-3958	1535-3966	2002	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/15353966	 	10.1002/(ISSN)1535-3966	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0925	P	 	 
+Counselling and Psychotherapy Research	1473-3145	1746-1405	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17461405	 	10.1002/(ISSN)1746-1405	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Counselor Education and Supervision	0011-0035	1556-6978	1997	36	3	 	 	 	https://onlinelibrary.wiley.com/loi/15566978	 	10.1002/(ISSN)1556-6978	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Creativity and Innovation Management	0963-1690	1467-8691	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678691	 	10.1111/(ISSN)1467-8691	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Criminal Behaviour and Mental Health	0957-9664	1471-2857	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/14712857	 	10.1002/(ISSN)1471-2857	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Critical Quarterly	0011-1562	1467-8705	1997	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678705	 	10.1111/(ISSN)1467-8705	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Culture & Agriculture	1048-4876	1556-486X	1997	19	1-2	2010	32	2	https://anthrosource.onlinelibrary.wiley.com/loi/1556486X	 	10.1111/(ISSN)1556-486X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Culture, Agriculture, Food and Environment	2153-9553	2153-9561	2011	33	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/21539561	 	10.1111/(ISSN)2153-9561	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1556-486X	P	 	 
+Curator: The Museum Journal	0011-3069	2151-6952	1997	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/21516952	 	10.1111/(ISSN)2151-6952	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Dean and Provost	1527-6562	1943-7587	2008	9	5	 	 	 	https://onlinelibrary.wiley.com/loi/19437587	 	10.1002/(ISSN)1943-7587	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Decision Sciences	0011-7315	1540-5915	1997	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/15405915	 	10.1111/(ISSN)1540-5915	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Decision Sciences Journal of Innovative Education	1540-4595	1540-4609	2003	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15404609	 	10.1111/(ISSN)1540-4609	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Developing World Bioethics	1471-8731	1471-8847	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14718847	 	10.1111/(ISSN)1471-8847	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Development and Alumni Relations Report	1523-5343	1945-6255	2008	10	9	2010	13	8	https://onlinelibrary.wiley.com/loi/19456255	 	10.1002/(ISSN)1945-6255	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Development and Change	0012-155X	1467-7660	1997	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/14677660	 	10.1111/(ISSN)1467-7660	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Development Policy Review	0950-6764	1467-7679	1997	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/14677679	 	10.1111/(ISSN)1467-7679	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Developmental Science	1363-755X	1467-7687	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14677687	 	10.1111/(ISSN)1467-7687	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Dialog	0012-2033	1540-6385	2000	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/15406385	 	10.1111/(ISSN)1540-6385	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Die Unterrichtspraxis/Teaching German	0042-062X	1756-1221	2004	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/17561221	 	10.1111/(ISSN)1756-1221	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Digest of Middle East Studies	1060-4367	1949-3606	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/19493606	 	10.1111/(ISSN)1949-3606	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Disability Compliance for Higher Education	1086-1335	1943-8001	2008	13	6	 	 	 	https://onlinelibrary.wiley.com/loi/19438001	 	10.1002/(ISSN)1943-8001	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Disasters	0361-3666	1467-7717	1997	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/14677717	 	10.1111/(ISSN)1467-7717	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Dyslexia	1076-9242	1099-0909	1996	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990909	 	10.1002/(ISSN)1099-0909	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Early Development and Parenting	1057-3593	1099-0917	1996	5	1	1998	7	4	https://onlinelibrary.wiley.com/loi/10990917	 	10.1002/(ISSN)1099-0917	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Early Medieval Europe	0963-9462	1468-0254	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680254	 	10.1111/(ISSN)1468-0254	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Econometrica	0012-9682	1468-0262	1999	67	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680262	 	10.1111/(ISSN)1468-0262	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economic Affairs	0265-0665	1468-0270	1997	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680270	 	10.1111/(ISSN)1468-0270	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economic Anthropology	2330-4847	2330-4847	2014	1	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/23304847	 	10.1002/(ISSN)2330-4847	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economic Inquiry	0095-2583	1465-7295	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/14657295	 	10.1111/(ISSN)1465-7295	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economic Notes	0391-5026	1468-0300	1999	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680300	 	10.1111/(ISSN)1468-0300	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economic Outlook	0140-489X	1468-0319	1997	21	2	 	 	 	https://onlinelibrary.wiley.com/loi/14680319	 	10.1111/(ISSN)1468-0319	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economic Papers; A journal of applied economics and policy	0812-0439	1759-3441	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/17593441	 	10.1111/(ISSN)1759-3441	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economic Record	0013-0249	1475-4932	1997	73	220	 	 	 	https://onlinelibrary.wiley.com/loi/14754932	 	10.1111/(ISSN)1475-4932	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economica	0013-0427	1468-0335	1997	64	253	 	 	 	https://onlinelibrary.wiley.com/loi/14680335	 	10.1111/(ISSN)1468-0335	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economics & Politics	0954-1985	1468-0343	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680343	 	10.1111/(ISSN)1468-0343	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economics of Transition	0967-0750	1468-0351	1997	5	1	2018	26	4	https://onlinelibrary.wiley.com/loi/14680351	 	10.1111/(ISSN)1468-0351	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Economics of Transition and Institutional Change	2577-6975	2577-6983	2019	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/25776983	 	10.1111/(ISSN)2577-6983	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-0351	P	 	 
+Educational Measurement: Issues and Practice	0731-1745	1745-3992	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/17453992	 	10.1111/(ISSN)1745-3992	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Educational Theory	0013-2004	1741-5446	1997	47	1	 	 	 	https://onlinelibrary.wiley.com/loi/17415446	 	10.1111/(ISSN)1741-5446	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Enrollment Management Report	1094-3757	1945-6263	2008	11	10	 	 	 	https://onlinelibrary.wiley.com/loi/19456263	 	10.1002/(ISSN)1945-6263	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Environmental Policy and Governance	1756-932X	1756-9338	2009	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/17569338	 	10.1002/(ISSN)1756-9338	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0976	P	 	 
+Environmental Quality Management	1088-1913	1520-6483	2000	9	3	 	 	 	https://onlinelibrary.wiley.com/loi/15206483	 	10.1002/(ISSN)1520-6483	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ethics & Human Research	2578-2355	2578-2363	2019	41	1	 	 	 	https://onlinelibrary.wiley.com/loi/25782363	 	10.1002/(ISSN)2578-2363	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2326-2222	P	 	 
+Ethos	0091-2131	1548-1352	1997	25	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481352	 	10.1111/(ISSN)1548-1352	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Environment	0961-0405	1099-0976	1996	6	1	2008	18	6	https://onlinelibrary.wiley.com/loi/10990976	 	10.1002/(ISSN)1099-0976	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Financial Management	1354-7798	1468-036X	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/1468036X	 	10.1111/(ISSN)1468-036X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of disorders of communication	0963-7273	1460-6984	1997	32	1	1997	32	6	https://onlinelibrary.wiley.com/loi/14606984	 	10.1111/(ISSN)1460-6984	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1460-6984	P	 	 
+European Journal of Philosophy	0966-8373	1468-0378	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680378	 	10.1111/(ISSN)1468-0378	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Journal of Social Psychology	0046-2772	1099-0992	1996	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990992	 	10.1002/(ISSN)1099-0992	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Law Journal	1351-5993	1468-0386	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680386	 	10.1111/(ISSN)1468-0386	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Management Review	1740-4754	1740-4762	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17404762	 	10.1002/(ISSN)1740-4762	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+European Policy Analysis	2380-6567	2380-6567	2015	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23806567	 	10.1002/(ISSN)2380-6567	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+EuroChoices	1478-0917	1746-692X	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1746692X	 	10.1111/(ISSN)1746-692X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Family & Consumer Sciences Research Journal	1077-727X	1552-3934	1997	25	3	 	 	 	https://onlinelibrary.wiley.com/loi/15523934	 	10.1002/(ISSN)1552-3934	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2374-8052	P	 	 
+Family Court Review	1531-2445	1744-1617	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/17441617	 	10.1111/(ISSN)1744-1617	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Family Process	0014-7370	1545-5300	1997	36	1	 	 	 	https://onlinelibrary.wiley.com/loi/15455300	 	10.1111/(ISSN)1545-5300	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Family Relations	0197-6664	1741-3729	2000	49	1	 	 	 	https://onlinelibrary.wiley.com/loi/17413729	 	10.1111/(ISSN)1741-3729	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Federal Grants & Contracts	1949-3177	1949-3185	2009	33	3	 	 	 	https://onlinelibrary.wiley.com/loi/19493185	 	10.1002/(ISSN)1949-3185	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Feminist Anthropology	 	2643-7961	2020	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26437961	 	10.1002/(ISSN)2643-7961	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Financial Accountability & Management	0267-4424	1468-0408	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680408	 	10.1111/(ISSN)1468-0408	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Financial Management	0046-3892	1755-053X	2005	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/1755053X	 	10.1111/(ISSN)1755-053X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Financial Markets, Institutions & Instruments	0963-8008	1468-0416	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680416	 	10.1111/(ISSN)1468-0416	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Fiscal Studies	0143-5671	1475-5890	1997	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/14755890	 	10.1111/(ISSN)1475-5890	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Foreign Language Annals	0015-718X	1944-9720	1997	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/19449720	 	10.1111/(ISSN)1944-9720	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Futures & Foresight Science	 	2573-5152	2019	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/25735152	 	10.1002/(ISSN)2573-5152	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Gender & History	0953-5233	1468-0424	1997	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680424	 	10.1111/(ISSN)1468-0424	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Gender, Work & Organization	0968-6673	1468-0432	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680432	 	10.1111/(ISSN)1468-0432	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+General Anthropology	1537-1727	1939-3466	1997	3	2	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/19393466	 	10.1111/(ISSN)1939-3466	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geographical Analysis	0016-7363	1538-4632	1997	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/15384632	 	10.1111/(ISSN)1538-4632	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Geographical Research	1745-5863	1745-5871	2005	43	1	 	 	 	https://onlinelibrary.wiley.com/loi/17455871	 	10.1111/(ISSN)1745-5871	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-8470	P	 	 
+Geography Compass	1749-8198	1749-8198	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17498198	 	10.1111/(ISSN)1749-8198	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+German Life and Letters	0016-8777	1468-0483	1997	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680483	 	10.1111/(ISSN)1468-0483	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Global Business and Organizational Excellence	1932-2054	1932-2062	2006	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/19322062	 	10.1002/(ISSN)1932-2062	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1531-6653	P	 	 
+Global Networks	1470-2266	1471-0374	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14710374	 	10.1111/(ISSN)1471-0374	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Global Policy	1758-5880	1758-5899	2010	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17585899	 	10.1111/(ISSN)1758-5899	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Global Strategy Journal	2042-5791	2042-5805	2011	1	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/20425805	 	10.1002/(ISSN)2042-5805	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Governance	0952-1895	1468-0491	1997	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680491	 	10.1111/(ISSN)1468-0491	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Growth and Change	0017-4815	1468-2257	1997	28	2	 	 	 	https://onlinelibrary.wiley.com/loi/14682257	 	10.1111/(ISSN)1468-2257	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Hastings Center Report	0093-0334	1552-146X	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/1552146X	 	10.1002/(ISSN)1552-146X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Health Economics	1057-9230	1099-1050	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991050	 	10.1002/(ISSN)1099-1050	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Health Promotion Journal of Australia	1036-1073	2201-1617	2002	13	3	 	 	 	https://onlinelibrary.wiley.com/loi/22011617	 	10.1002/(ISSN)2201-1617	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Health Services Research	0017-9124	1475-6773	2002	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/14756773	 	10.1111/(ISSN)1475-6773	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Higher Education Quarterly	0951-5224	1468-2273	1997	51	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682273	 	10.1111/(ISSN)1468-2273	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+History	0018-2648	1468-229X	1997	82	265	 	 	 	https://onlinelibrary.wiley.com/loi/1468229X	 	10.1111/(ISSN)1468-229X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+History Compass	1478-0542	1478-0542	2003	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14780542	 	10.1111/(ISSN)1478-0542	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Human Resource Development Quarterly	1044-8004	1532-1096	2000	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/15321096	 	10.1002/(ISSN)1532-1096	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Human Resource Management	0090-4848	1099-050X	1996	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/1099050X	 	10.1002/(ISSN)1099-050X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Human Resource Management Journal	0954-5395	1748-8583	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/17488583	 	10.1111/(ISSN)1748-8583	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Industrial Relations	0019-8676	1468-232X	1997	36	1	 	 	 	https://onlinelibrary.wiley.com/loi/1468232X	 	10.1111/(ISSN)1468-232X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Industrial Relations Journal	0019-8692	1468-2338	1997	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682338	 	10.1111/(ISSN)1468-2338	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Infancy	1525-0008	1532-7078	2000	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15327078	 	10.1111/(ISSN)1532-7078	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Infant and Child Development	1522-7227	1522-7219	1999	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/15227219	 	10.1002/(ISSN)1522-7219	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-0917	P	 	 
+Infant Mental Health Journal	0163-9641	1097-0355	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970355	 	10.1002/(ISSN)1097-0355	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Intelligent Systems in Accounting, Finance and Management	1550-1949	2160-0074	2004	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/21600074	 	10.1002/(ISSN)2160-0074	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1174	P	 	 
+International Economic Review	0020-6598	1468-2354	1999	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682354	 	10.1111/(ISSN)1468-2354	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Finance	1367-0271	1468-2362	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682362	 	10.1111/(ISSN)1468-2362	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Insolvency Review	1180-0518	1099-1107	1999	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991107	 	10.1002/(ISSN)1099-1107	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of intelligent Systems In Accounting, Finance & Management	1055-615X	1099-1174	1997	6	1	2002	11	4	https://onlinelibrary.wiley.com/loi/10991174	 	10.1002/(ISSN)1099-1174	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Applied Linguistics	0802-6106	1473-4192	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/14734192	 	10.1111/(ISSN)1473-4192	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Applied Psychoanalytic Studies	1742-3341	1556-9187	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15569187	 	10.1002/(ISSN)1556-9187	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Art & Design Education	1476-8062	1476-8070	2002	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/14768070	 	10.1111/(ISSN)1476-8070	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-5949	P	 	 
+International Journal of Auditing	1090-6738	1099-1123	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991123	 	10.1111/(ISSN)1099-1123	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Consumer Studies	1470-6423	1470-6431	2001	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/14706431	 	10.1111/(ISSN)1470-6431	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1470-6431	P	 	 
+International Journal of Economic Theory	1742-7355	1742-7363	2005	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17427363	 	10.1111/(ISSN)1742-7363	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Finance & Economics	1076-9307	1099-1158	1996	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991158	 	10.1002/(ISSN)1099-1158	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Japanese Sociology	0918-7545	1475-6781	1997	6	1	2021	30	1	https://onlinelibrary.wiley.com/loi/14756781	 	10.1111/(ISSN)1475-6781	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Language & Communication Disorders	1368-2822	1460-6984	1998	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/14606984	 	10.1111/(ISSN)1460-6984	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1460-6984	P	 	 
+International Journal of Management Reviews	1460-8545	1468-2370	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682370	 	10.1111/(ISSN)1468-2370	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Nonprofit and Voluntary Sector Marketing	1465-4520	1479-103X	1999	1	1	2020	25	4	https://onlinelibrary.wiley.com/loi/1479103X	 	10.1002/(ISSN)1479-103X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Population Geography	1077-3495	1099-1220	1997	3	1	2003	9	6	https://onlinelibrary.wiley.com/loi/10991220	 	10.1002/(ISSN)1099-1220	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Psychology	0020-7594	1464-066X	1997	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/1464066X	 	10.1002/(ISSN)1464-066X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Purchasing and Materials Management	1055-6001	1745-493X	1997	33	1	1998	34	4	https://onlinelibrary.wiley.com/loi/1745493Xa	 	10.1111/(ISSN)1745-493Xa	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1745-493X	P	 	 
+International Journal of Selection and Assessment	0965-075X	1468-2389	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682389	 	10.1111/(ISSN)1468-2389	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Social Welfare	1369-6866	1468-2397	1999	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682397	 	10.1111/(ISSN)1468-2397	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-2397	P	 	 
+International Journal of Systematic Theology	1463-1652	1468-2400	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682400	 	10.1111/(ISSN)1468-2400	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Tourism Research	1099-2340	1522-1970	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15221970	 	10.1002/(ISSN)1522-1970	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Training and Development	1360-3736	1468-2419	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682419	 	10.1111/(ISSN)1468-2419	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Journal of Urban and Regional Research	0309-1317	1468-2427	1997	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682427	 	10.1111/(ISSN)1468-2427	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Migration	0020-7985	1468-2435	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682435	 	10.1111/(ISSN)1468-2435	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-2435	P	 	 
+International Review of Finance	1369-412X	1468-2443	2000	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682443	 	10.1111/(ISSN)1468-2443	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Review of Mission	0020-8582	1758-6631	1997	86	340-341	 	 	 	https://onlinelibrary.wiley.com/loi/17586631	 	10.1002/(ISSN)1758-6631	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Social Science Journal	0020-8701	1468-2451	1997	49	151	 	 	 	https://onlinelibrary.wiley.com/loi/14682451	 	10.1111/(ISSN)1468-2451	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Social Security Review	0020-871X	1468-246X	1997	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/1468246X	 	10.1111/(ISSN)1468-246X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+International Transactions in Operational Research	0969-6016	1475-3995	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/14753995	 	10.1111/(ISSN)1475-3995	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+IPPR Progressive Review	2573-2323	2573-2331	2017	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/25732331	 	10.1111/(ISSN)2573-2331	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2050-5876	P	 	 
+IRB: Ethics & Human Research	0193-7758	2326-2222	2018	40	1	2018	40	6	https://onlinelibrary.wiley.com/loi/25782363	 	10.1002/(ISSN)2326-2222	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Japanese Journal of Sociology	2769-1365	2769-1357	2022	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/27691357	 	10.1111/(ISSN)2769-1357	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1475-6781	P	 	 
+Jeung'gweon hag'hoeji	1226-1165	2041-6156	2008	37	6	2009	38	6	https://onlinelibrary.wiley.com/loi/20416156	 	10.1111/(ISSN)2041-6156a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal for the Anthropology of North America	 	2475-5389	2018	21	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/24755389	 	10.1002/(ISSN)2475-5389	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1556-4819	P	 	 
+Journal for the Scientific Study of Religion	0021-8294	1468-5906	2000	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/14685906	 	10.1111/(ISSN)1468-5906	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal for the Theory of Social Behaviour	0021-8308	1468-5914	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/14685914	 	10.1111/(ISSN)1468-5914	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal for Eighteenth-Century Studies	1754-0194	1754-0208	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/17540208	 	10.1111/(ISSN)1754-0208	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the Experimental Analysis of Behavior	0022-5002	1938-3711	1997	67	1	 	 	 	https://onlinelibrary.wiley.com/loi/19383711	 	10.1002/(ISSN)1938-3711	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of the Royal Anthropological Institute	1359-0987	1467-9655	2000	6	1	 	 	 	https://rai.onlinelibrary.wiley.com/loi/14679655	 	10.1111/(ISSN)1467-9655	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Accounting Research	0021-8456	1475-679X	2001	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/1475679X	 	10.1111/(ISSN)1475-679X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Addictions & Offender Counseling	1055-3835	2161-1874	1997	17	2	 	 	 	https://onlinelibrary.wiley.com/loi/21611874	 	10.1002/(ISSN)2161-1874	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2164-4934	P	 	 
+Journal of Adolescence	0140-1971	1095-9254	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/10959254	 	10.1002/(ISSN)1095-9254	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Adolescent & Adult Literacy	1081-3004	1936-2706	2004	48	1	 	 	 	https://ila.onlinelibrary.wiley.com/loi/19362706	 	10.1002/(ISSN)1936-2706	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Agrarian Change	1471-0358	1471-0366	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14710366	 	10.1111/(ISSN)1471-0366	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Agricultural Economics	0021-857X	1477-9552	1997	48	1-3	 	 	 	https://onlinelibrary.wiley.com/loi/14779552	 	10.1111/(ISSN)1477-9552	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1477-9552	P	 	 
+Journal of American & Comparative Cultures	1537-4726	1540-594X	2000	23	1	2002	25	3-4	https://onlinelibrary.wiley.com/loi/1540594X	 	10.1111/(ISSN)1540-594X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1542-734X	P	 	 
+Journal of American Culture	0191-1813	1542-734X	1997	20	1	1999	22	4	https://onlinelibrary.wiley.com/loi/1542734X	 	10.1111/(ISSN)1542-734Xa	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Behavior Analysis	0021-8855	1938-3703	1997	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/19383703	 	10.1002/(ISSN)1938-3703	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Econometrics	0883-7252	1099-1255	1996	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991255	 	10.1002/(ISSN)1099-1255	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Philosophy	0264-3758	1468-5930	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/14685930	 	10.1111/(ISSN)1468-5930	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Applied Research in Intellectual Disabilities	1360-2322	1468-3148	1997	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/14683148	 	10.1111/(ISSN)1468-3148	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-3148	P	 	 
+Journal of Art & Design Education	0260-9991	1468-5949	1997	16	1	2001	20	3	https://onlinelibrary.wiley.com/loi/14685949	 	10.1111/(ISSN)1468-5949	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Behavioral Decision Making	0894-3257	1099-0771	1996	9	1	 	 	 	https://onlinelibrary.wiley.com/loi/10990771	 	10.1002/(ISSN)1099-0771	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Business Finance & Accounting	0306-686X	1468-5957	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/14685957	 	10.1111/(ISSN)1468-5957	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Business Logistics	0735-3766	2158-1592	2001	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/21581592	 	10.1002/(ISSN)2158-1592	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Child Psychology and Psychiatry	0021-9630	1469-7610	1997	38	1	 	 	 	https://acamh.onlinelibrary.wiley.com/loi/14697610	 	10.1111/(ISSN)1469-7610	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Clinical Psychology	0021-9762	1097-4679	1996	52	1	 	 	 	https://onlinelibrary.wiley.com/loi/10974679	 	10.1002/(ISSN)1097-4679	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Community & Applied Social Psychology	1052-9284	1099-1298	1996	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991298	 	10.1002/(ISSN)1099-1298	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Community Psychology	0090-4392	1520-6629	1996	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206629	 	10.1002/(ISSN)1520-6629	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Computer Assisted Learning	0266-4909	1365-2729	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652729	 	10.1111/(ISSN)1365-2729	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Consumer Affairs	0022-0078	1745-6606	1997	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/17456606	 	10.1111/(ISSN)1745-6606	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Consumer Behaviour	1472-0817	1479-1838	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14791838	 	10.1002/(ISSN)1479-1838	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Consumer Psychology	1057-7408	1532-7663	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/15327663	 	10.1002/(ISSN)1532-7663	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Consumer Studies & Home Economics	0309-3891	1470-6431	1997	21	1	2000	24	4	https://onlinelibrary.wiley.com/loi/14706431a	 	10.1111/(ISSN)1470-6431a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Contingencies and Crisis Management	0966-0879	1468-5973	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/14685973	 	10.1111/(ISSN)1468-5973	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Corporate Accounting & Finance	1044-8136	1097-0053	1999	10	2	 	 	 	https://onlinelibrary.wiley.com/loi/10970053	 	10.1002/(ISSN)1097-0053	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Counseling & Development	0748-9633	1556-6676	1997	75	3	 	 	 	https://onlinelibrary.wiley.com/loi/15566676	 	10.1002/(ISSN)1556-6676	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2164-4918	P	 	 
+Journal of Critical Infrastructure Policy	 	2693-3101	2020	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/26933101	 	10.1002/(ISSN)2693-3101	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Economic Surveys	0950-0804	1467-6419	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14676419	 	10.1111/(ISSN)1467-6419	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Economics & Management Strategy	1058-6407	1530-9134	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/15309134	 	10.1111/(ISSN)1530-9134	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Educational Measurement	0022-0655	1745-3984	1997	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/17453984	 	10.1111/(ISSN)1745-3984	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Elder Policy	 	2767-7451	2020	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/27677451	 	10.1002/(ISSN)2767-7451	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Empirical Legal Studies	1740-1453	1740-1461	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17401461	 	10.1111/(ISSN)1740-1461	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Employment Counseling	0022-0787	2161-1920	1997	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/21611920	 	10.1002/(ISSN)2161-1920	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Family Theory & Review	1756-2570	1756-2589	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17562589	 	10.1111/(ISSN)1756-2589	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Family Therapy	0163-4445	1467-6427	1997	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/14676427	 	10.1111/(ISSN)1467-6427	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Forecasting	0277-6693	1099-131X	1996	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/1099131X	 	10.1002/(ISSN)1099-131X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Healthcare Risk Management	1074-4797	2040-0861	1997	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/20400861	 	10.1002/(ISSN)2040-0861	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2040-0861	P	 	 
+Journal of Historical Sociology	0952-1909	1467-6443	1997	10	1	2022	35	4	https://onlinelibrary.wiley.com/loi/14676443	 	10.1111/(ISSN)1467-6443	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Intellectual Disability Research	0964-2633	1365-2788	1997	41	1	 	 	 	https://onlinelibrary.wiley.com/loi/13652788	 	10.1111/(ISSN)1365-2788	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of International Development	0954-1748	1099-1328	1996	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991328	 	10.1002/(ISSN)1099-1328	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of International Financial Management & Accounting	0954-1314	1467-646X	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467646X	 	10.1111/(ISSN)1467-646X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Investigative Psychology and Offender Profiling	1544-4759	1544-4767	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15444767	 	10.1002/(ISSN)1544-4767	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Latin American Anthropology	1085-7052	1548-7180	1997	2	2	2006	11	2	https://anthrosource.onlinelibrary.wiley.com/loi/15487180a	 	10.1111/(ISSN)1548-7180a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1548-7180	P	 	 
+Journal of Law and Society	0263-323X	1467-6478	1997	24	1	 	 	 	https://onlinelibrary.wiley.com/loi/14676478	 	10.1111/(ISSN)1467-6478	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Leadership Studies	1935-2611	1935-262X	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1935262X	 	10.1002/(ISSN)1935-262X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Legal Studies Education	0896-5811	1744-1722	1997	15	2	 	 	 	https://onlinelibrary.wiley.com/loi/17441722	 	10.1111/(ISSN)1744-1722	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Linguistic Anthropology	1055-1360	1548-1395	1997	7	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481395	 	10.1111/(ISSN)1548-1395	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Management Studies	0022-2380	1467-6486	1997	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/14676486	 	10.1111/(ISSN)1467-6486	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Marital and Family Therapy	0194-472X	1752-0606	1997	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/17520606	 	10.1111/(ISSN)1752-0606	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Marriage and Family	0022-2445	1741-3737	2000	62	1	 	 	 	https://onlinelibrary.wiley.com/loi/17413737	 	10.1111/(ISSN)1741-3737	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Money, Credit and Banking	0022-2879	1538-4616	2007	39	1	 	 	 	https://onlinelibrary.wiley.com/loi/15384616	 	10.1111/(ISSN)1538-4616	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Multi-Criteria Decision Analysis	1057-9214	1099-1360	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991360	 	10.1002/(ISSN)1099-1360	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Multicultural Counseling and Development	0883-8534	2161-1912	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/21611912	 	10.1002/(ISSN)2161-1912	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2164-4950	P	 	 
+Journal of Neuropsychology	1748-6645	1748-6653	2007	1	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/17486653	 	10.1111/(ISSN)1748-6653	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Occupational and Organizational Psychology	0963-1798	2044-8325	1997	70	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448325	 	10.1111/(ISSN)2044-8325	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2056-8142	P	 	 
+Journal of Operations Management	0272-6963	1873-1317	1997	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/18731317	 	10.1002/(ISSN)1873-1317	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Organizational Behavior	0894-3796	1099-1379	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991379	 	10.1002/(ISSN)1099-1379	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Organizational Excellence	1531-1864	1531-6653	2000	20	1	2006	25	4	https://onlinelibrary.wiley.com/loi/15316653	 	10.1002/(ISSN)1531-6653	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-6734	P	 	 
+Journal of Personality	0022-3506	1467-6494	1997	65	1	 	 	 	https://onlinelibrary.wiley.com/loi/14676494	 	10.1111/(ISSN)1467-6494	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Philanthropy	 	3064-7878	2025	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/30647878	 	10.1002/(ISSN)3064-7878	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2691-1361	P	 	 
+Journal of Philanthropy and Marketing	 	2691-1361	2021	26	1	2024	29	4	https://onlinelibrary.wiley.com/loi/26911361	 	10.1002/(ISSN)2691-1361	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1479-103X	P	 	 
+Journal of Policy and Practice in Intellectual Disabilities	1741-1122	1741-1130	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17411130	 	10.1111/(ISSN)1741-1130	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Policy Analysis and Management	0276-8739	1520-6688	1996	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206688	 	10.1002/(ISSN)1520-6688	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Product Innovation Management	0737-6782	1540-5885	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/15405885	 	10.1111/(ISSN)1540-5885	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Public Affairs	1472-3891	1479-1854	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14791854	 	10.1002/(ISSN)1479-1854	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Public Economic Theory	1097-3923	1467-9779	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679779	 	10.1111/(ISSN)1467-9779	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Regional Science	0022-4146	1467-9787	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679787	 	10.1111/(ISSN)1467-9787	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Religious Ethics	0384-9694	1467-9795	1999	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679795	 	10.1111/(ISSN)1467-9795	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Religious History	0022-4227	1467-9809	1997	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679809	 	10.1111/(ISSN)1467-9809	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Research in Reading	0141-0423	1467-9817	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679817	 	10.1111/(ISSN)1467-9817	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Research in Special Educational Needs	1471-3802	1471-3802	2001	1	1	 	 	 	https://nasenjournals.onlinelibrary.wiley.com/loi/14713802	 	10.1111/(ISSN)1471-3802	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Research on Adolescence	1050-8392	1532-7795	2001	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/15327795	 	10.1111/(ISSN)1532-7795	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Risk and Insurance	0022-4367	1539-6975	2002	69	1	 	 	 	https://onlinelibrary.wiley.com/loi/15396975	 	10.1111/(ISSN)1539-6975	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of School Health	0022-4391	1746-1561	1997	67	1	 	 	 	https://onlinelibrary.wiley.com/loi/17461561	 	10.1111/(ISSN)1746-1561	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Social Issues	0022-4537	1540-4560	1997	53	4	 	 	 	https://spssi.onlinelibrary.wiley.com/loi/15404560	 	10.1111/(ISSN)1540-4560	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Social Philosophy	0047-2786	1467-9833	1997	28	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679833	 	10.1111/(ISSN)1467-9833	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Sociolinguistics	1360-6441	1467-9841	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679841	 	10.1111/(ISSN)1467-9841	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Journal of Supply Chain Management	1523-2409	1745-493X	1999	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/1745493X	 	10.1111/(ISSN)1745-493X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1745-493X	P	 	 
+Journal of The History of the Behavioral Sciences	0022-5061	1520-6696	1996	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206696	 	10.1002/(ISSN)1520-6696	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Juncture	2050-5868	2050-5876	2013	20	1	2017	23	4	https://onlinelibrary.wiley.com/loi/20505876	 	10.1111/(ISSN)2050-5876	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1744-540X	P	 	 
+Juvenile & Family Court Journal	0161-7109	1755-6988	1997	48	1	 	 	 	https://onlinelibrary.wiley.com/loi/17556988	 	10.1111/(ISSN)1755-6988	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1755-6988	P	 	 
+JCMS: Journal of Common Market Studies	0021-9886	1468-5965	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/14685965	 	10.1111/(ISSN)1468-5965	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Knowledge and Process Management	1092-4604	1099-1441	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991441	 	10.1002/(ISSN)1099-1441	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Kyklos	0023-5962	1467-6435	1997	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/14676435	 	10.1111/(ISSN)1467-6435	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Language and Linguistics Compass	1749-818X	1749-818X	2007	1	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/1749818X	 	10.1111/(ISSN)1749-818X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Language Learning	0023-8333	1467-9922	1997	47	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679922	 	10.1111/(ISSN)1467-9922	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Latin American Policy	2041-7365	2041-7373	2010	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/20417373	 	10.1111/(ISSN)2041-7373	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Law & Policy	0265-8240	1467-9930	1997	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679930	 	10.1111/(ISSN)1467-9930	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Leader to Leader	1087-8149	1531-5355	2000	2000	15	 	 	 	https://onlinelibrary.wiley.com/loi/15315355	 	10.1002/(ISSN)1531-5355	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Legal and Criminological Psychology	1355-3259	2044-8333	1997	2	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448333	 	10.1111/(ISSN)2044-8333	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Legislative Studies Quarterly	0362-9805	1939-9162	2002	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/19399162	 	10.1002/(ISSN)1939-9162	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Literacy	1741-4350	1741-4369	2004	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/17414369	 	10.1111/(ISSN)1741-4369	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-9345	P	 	 
+Literature Compass	1741-4113	1741-4113	2004	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17414113	 	10.1111/(ISSN)1741-4113	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+LABOUR	1121-7081	1467-9914	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679914	 	10.1111/(ISSN)1467-9914	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Management Report for Nonunion Organizations	0745-4880	1530-8286	1995	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/15308286	 	10.1002/(ISSN)1530-8286	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Managerial and Decision Economics	0143-6570	1099-1468	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991468	 	10.1002/(ISSN)1099-1468	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Mathematical Finance	0960-1627	1467-9965	1997	7	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679965	 	10.1111/(ISSN)1467-9965	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Medical Anthropology Quarterly	0745-5194	1548-1387	1997	11	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481387	 	10.1111/(ISSN)1548-1387	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1937-6219	P	 	 
+Mental Health Weekly	1058-1103	1556-7583	2005	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/15567583	 	10.1002/(ISSN)1556-7583	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Metaphilosophy	0026-1068	1467-9973	1997	28	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/14679973	 	10.1111/(ISSN)1467-9973	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Metroeconomica	0026-1386	1467-999X	1997	48	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467999X	 	10.1111/(ISSN)1467-999X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Middle East Policy	1061-1924	1475-4967	1997	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/14754967	 	10.1111/(ISSN)1475-4967	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Milton Quarterly	0026-4326	1094-348X	1997	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/1094348X	 	10.1111/(ISSN)1094-348X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Mind & Language	0268-1064	1468-0017	1997	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680017	 	10.1111/(ISSN)1468-0017	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Mind, Brain, and Education	1751-2271	1751-228X	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1751228X	 	10.1111/(ISSN)1751-228X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Modern Theology	0266-7177	1468-0025	1997	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680025	 	10.1111/(ISSN)1468-0025	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Museum Anthropology	0892-8339	1548-1379	1997	21	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15481379	 	10.1111/(ISSN)1548-1379	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1938-5080	P	 	 
+Music Analysis	0262-5245	1468-2249	1999	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682249	 	10.1111/(ISSN)1468-2249	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+National Productivity Review	0277-8556	1520-6734	2000	19	2	2000	19	4	https://onlinelibrary.wiley.com/loi/15206734	 	10.1002/(ISSN)1520-6734	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nations and Nationalism	1354-5078	1469-8129	1997	3	1	 	 	 	https://onlinelibrary.wiley.com/loi/14698129	 	10.1111/(ISSN)1469-8129	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Natural Gas	0743-5665	1520-6742	2001	18	1	2003	20	2	https://onlinelibrary.wiley.com/loi/15206742	 	10.1002/(ISSN)1520-6742	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Natural Gas & Electricity	1545-7893	1545-7907	2003	20	3	2020	36	12	https://onlinelibrary.wiley.com/loi/15457907	 	10.1002/(ISSN)1545-7907	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1520-6742	P	 	 
+Natural Resources Forum	0165-0203	1477-8947	1997	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/14778947	 	10.1111/(ISSN)1477-8947	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Directions for Adult and Continuing Education	1052-2891	1536-0717	1997	1997	73	 	 	 	https://onlinelibrary.wiley.com/loi/15360717	 	10.1002/(ISSN)1536-0717	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Directions for Community Colleges	0194-3081	1536-0733	1997	1997	97	 	 	 	https://onlinelibrary.wiley.com/loi/15360733	 	10.1002/(ISSN)1536-0733	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Directions for Evaluation	1097-6736	1534-875X	2001	2001	89	 	 	 	https://onlinelibrary.wiley.com/loi/1534875X	 	10.1002/(ISSN)1534-875X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1551-2371	P	 	 
+New Directions for Higher Education	0271-0560	1536-0741	1997	1997	97	 	 	 	https://onlinelibrary.wiley.com/loi/15360741	 	10.1002/(ISSN)1536-0741	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Directions for Mental Health Services	0193-9416	1558-4453	1997	1997	73	2001	2001	91	https://onlinelibrary.wiley.com/loi/15584453	 	10.1002/(ISSN)1558-4453	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Directions for Student Leadership	2373-3349	2373-3357	2015	2015	145	 	 	 	https://onlinelibrary.wiley.com/loi/23733357	 	10.1002/(ISSN)2373-3357	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1537-5781	P	 	 
+New Directions for Student Services	0164-7970	1536-0695	1997	1997	77	 	 	 	https://onlinelibrary.wiley.com/loi/15360695	 	10.1002/(ISSN)1536-0695	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Directions for Teaching and Learning	0271-0633	1536-0768	1997	1997	69	 	 	 	https://onlinelibrary.wiley.com/loi/15360768	 	10.1002/(ISSN)1536-0768	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Directions for Youth Development	1533-8916	1537-5781	2001	2001	92	2014	2014	144	https://onlinelibrary.wiley.com/loi/15375781	 	10.1002/(ISSN)1537-5781	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1558-4453	P	 	 
+New Economy	1070-3535	1468-0041	1997	4	1	2004	11	4	https://onlinelibrary.wiley.com/loi/14680041	 	10.1111/(ISSN)1468-0041	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Technology, Work and Employment	0268-1072	1468-005X	1997	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/1468005X	 	10.1111/(ISSN)1468-005X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Water Policy & Practice	 	2380-6540	2014	1	1	2018	4	2	https://onlinelibrary.wiley.com/loi/23806540	 	10.1002/(ISSN)2380-6540	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+New Zealand Geographer	0028-8144	1745-7939	1997	53	1	 	 	 	https://onlinelibrary.wiley.com/loi/17457939a	 	10.1111/(ISSN)1745-7939a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1745-7939	P	 	 
+Nonprofit Business Advisor	1531-5428	1949-3193	2009	2009	232	 	 	 	https://onlinelibrary.wiley.com/loi/19493193	 	10.1002/(ISSN)1949-3193	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nonprofit Management & Leadership	1048-6682	1542-7854	1998	8	3	 	 	 	https://onlinelibrary.wiley.com/loi/15427854	 	10.1002/(ISSN)1542-7854	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Nontraditional Students Report	1523-5416	1943-7501	2008	10	4	2010	12	10	https://onlinelibrary.wiley.com/loi/19437501	 	10.1002/(ISSN)1943-7501	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+North American Dialogue	1539-2546	1556-4819	1997	2	1	2017	20	2	https://anthrosource.onlinelibrary.wiley.com/loi/15564819	 	10.1111/(ISSN)1556-4819	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2378-4660	P	 	 
+Noûs	0029-4624	1468-0068	1997	31	S11	 	 	 	https://onlinelibrary.wiley.com/loi/14680068	 	10.1111/(ISSN)1468-0068	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+NAPA Bulletin	1556-4789	1556-4797	1997	17	1	2010	34	1	https://anthrosource.onlinelibrary.wiley.com/loi/15564797	 	10.1111/(ISSN)1556-4797	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oceania	0029-8077	1834-4461	1997	67	3	 	 	 	https://onlinelibrary.wiley.com/loi/18344461	 	10.1002/(ISSN)1834-4461	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Orbis Litterarum	0105-7510	1600-0730	1997	52	1	 	 	 	https://onlinelibrary.wiley.com/loi/16000730	 	10.1111/(ISSN)1600-0730	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oxford Bulletin of Economics and Statistics	0305-9049	1468-0084	1997	59	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680084	 	10.1111/(ISSN)1468-0084	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Oxford Journal of Archaeology	0262-5253	1468-0092	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680092	 	10.1111/(ISSN)1468-0092	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pacific Economic Review	1361-374X	1468-0106	1997	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680106	 	10.1111/(ISSN)1468-0106	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pacific Focus	1225-4657	1976-5118	1997	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/19765118	 	10.1111/(ISSN)1976-5118	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Pacific Philosophical Quarterly	0279-0750	1468-0114	1997	78	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680114	 	10.1111/(ISSN)1468-0114	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-0114	P	 	 
+Parliamentary History	0264-2824	1750-0206	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/17500206	 	10.1111/(ISSN)1750-0206	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Peace & Change	0149-0508	1468-0130	1997	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680130	 	10.1111/(ISSN)1468-0130	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Personal Relationships	1350-4126	1475-6811	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/14756811	 	10.1111/(ISSN)1475-6811	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Personality and Mental Health	1932-8621	1932-863X	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/1932863X	 	10.1002/(ISSN)1932-863X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Personnel Psychology	0031-5826	1744-6570	1997	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/17446570	 	10.1111/(ISSN)1744-6570	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Perspectives on Sexual and Reproductive Health	1538-6341	1931-2393	2003	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/19312393	 	10.1111/(ISSN)1931-2393	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Philosophical Books	0031-8051	1468-0149	1997	38	1	2010	51	4	https://onlinelibrary.wiley.com/loi/14680149	 	10.1111/(ISSN)1468-0149	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Philosophical Investigations	0190-0536	1467-9205	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679205	 	10.1111/(ISSN)1467-9205	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Philosophical Issues	1533-6077	1758-2237	2000	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/17582237	 	10.1111/(ISSN)1758-2237	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Philosophical Perspectives	1520-8583	1758-2245	2003	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/15208583	 	10.1111/(ISSN)1520-8583	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Philosophy & Public Affairs	0048-3915	1088-4963	1997	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/10884963	 	10.1111/(ISSN)1088-4963	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Philosophy and Phenomenological Research	0031-8205	1933-1592	2001	62	1	 	 	 	https://onlinelibrary.wiley.com/loi/19331592	 	10.1111/(ISSN)1933-1592	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Philosophy Compass	1747-9991	1747-9991	2006	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17479991	 	10.1111/(ISSN)1747-9991	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Policy & Internet	1944-2866	1944-2866	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19442866	 	10.1002/(ISSN)1944-2866	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Policy Studies Journal	0190-292X	1541-0072	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/15410072	 	10.1111/(ISSN)1541-0072	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Political Psychology	0162-895X	1467-9221	1997	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679221	 	10.1111/(ISSN)1467-9221	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Politics & Policy	1555-5623	1747-1346	2001	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/17471346	 	10.1111/(ISSN)1747-1346	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2331-3153	P	 	 
+Popular Culture Review	1060-8125	2831-865X	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/2831865X	 	10.1002/(ISSN)2831-865X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Population and Development Review	0098-7921	1728-4457	1999	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/17284457	 	10.1111/(ISSN)1728-4457	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Population, Space and Place	1544-8444	1544-8452	2004	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/15448452	 	10.1002/(ISSN)1544-8452	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1220	P	 	 
+Poverty & Public Policy	1944-2858	1944-2858	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19442858	 	10.1002/(ISSN)1944-2858	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+PoLAR: Political and Legal Anthropology Review	1081-6976	1555-2934	1997	20	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15552934	 	10.1111/(ISSN)1555-2934	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Presidential Studies Quarterly	0360-4918	1741-5705	1999	29	1	 	 	 	https://onlinelibrary.wiley.com/loi/17415705	 	10.1111/(ISSN)1741-5705	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Psychology & Marketing	0742-6046	1520-6793	1996	13	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206793	 	10.1002/(ISSN)1520-6793	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Psychology and Psychotherapy: Theory, Research and Practice	1476-0835	2044-8341	2002	75	1	 	 	 	https://bpspsychub.onlinelibrary.wiley.com/loi/20448341	 	10.1111/(ISSN)2044-8341	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2056-5194	P	 	 
+Psychology in the Schools	0033-3085	1520-6807	1996	33	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206807	 	10.1002/(ISSN)1520-6807	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Psychophysiology	0048-5772	1469-8986	1997	34	1	 	 	 	https://onlinelibrary.wiley.com/loi/14698986	 	10.1111/(ISSN)1469-8986	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Public Administration	0033-3298	1467-9299	1997	75	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679299	 	10.1111/(ISSN)1467-9299	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Public Administration and Development	0271-2075	1099-162X	1996	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/1099162X	 	10.1002/(ISSN)1099-162X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Public Administration Review	0033-3352	1540-6210	2000	60	1	 	 	 	https://onlinelibrary.wiley.com/loi/15406210	 	10.1111/(ISSN)1540-6210	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Public Budgeting & Finance	0275-1100	1540-5850	1997	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/15405850	 	10.1111/(ISSN)1540-5850	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Public Policy Research	1744-5396	1744-540X	2005	12	1	2013	19	4	https://onlinelibrary.wiley.com/loi/1744540X	 	10.1111/(ISSN)1744-540X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-0041	P	 	 
+R&D Management	0033-6807	1467-9310	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679310	 	10.1111/(ISSN)1467-9310	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ratio	0034-0006	1467-9329	1997	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679329	 	10.1111/(ISSN)1467-9329	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Ratio Juris	0952-1917	1467-9337	1997	10	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679337	 	10.1111/(ISSN)1467-9337	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Reading	0034-0472	1467-9345	1997	31	1	2003	37	3	https://onlinelibrary.wiley.com/loi/14679345	 	10.1111/(ISSN)1467-9345	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Reading Research Quarterly	0034-0553	1936-2722	1996	31	1	 	 	 	https://ila.onlinelibrary.wiley.com/loi/19362722	 	10.1002/(ISSN)1936-2722	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Real Estate Economics	1080-8620	1540-6229	1997	25	1	 	 	 	https://onlinelibrary.wiley.com/loi/15406229	 	10.1111/(ISSN)1540-6229	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Recruiting & Retaining Adult Learners	2155-644X	2155-6458	2010	12	11	 	 	 	https://onlinelibrary.wiley.com/loi/21556458	 	10.1002/(ISSN)2155-6458	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1943-7501	P	 	 
+Regulation & Governance	1748-5983	1748-5991	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17485991	 	10.1111/(ISSN)1748-5991	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Religion Compass	1749-8171	1749-8171	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17498171	 	10.1111/(ISSN)1749-8171	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Religious Studies Review	0319-485X	1748-0922	1997	23	1	 	 	 	https://onlinelibrary.wiley.com/loi/17480922	 	10.1111/(ISSN)1748-0922	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Remediation	1051-5658	1520-6831	2001	11	3	 	 	 	https://onlinelibrary.wiley.com/loi/15206831	 	10.1002/(ISSN)1520-6831	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Renaissance Studies	0269-1213	1477-4658	1997	11	1	 	 	 	https://onlinelibrary.wiley.com/loi/14774658	 	10.1111/(ISSN)1477-4658	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Review of Agricultural Economics	1058-7195	1467-9353	1997	19	1	2009	31	4	https://onlinelibrary.wiley.com/loi/14679353	 	10.1111/(ISSN)1467-9353	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2325-5978	P	 	 
+Review of Development Economics	1363-6669	1467-9361	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679361	 	10.1111/(ISSN)1467-9361	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Review of Education	2049-6613	2049-6613	2013	1	1	 	 	 	https://bera-journals.onlinelibrary.wiley.com/loi/20496613	 	10.1002/(ISSN)2049-6613	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Review of European Community & International Environmental Law (RECIEL)	0962-8797	1467-9388	1997	6	1	2012	21	3	https://onlinelibrary.wiley.com/loi/14679388	 	10.1111/(ISSN)1467-9388	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Review of European, Comparative & International Environmental Law (RECIEL)	2050-0386	2050-0394	2013	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/20500394	 	10.1002/(ISSN)2050-0394	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-9388	P	 	 
+Review of Income and Wealth	0034-6586	1475-4991	1997	43	1	 	 	 	https://onlinelibrary.wiley.com/loi/14754991	 	10.1111/(ISSN)1475-4991	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Review of International Economics	0965-7576	1467-9396	1997	5	S	 	 	 	https://onlinelibrary.wiley.com/loi/14679396	 	10.1111/(ISSN)1467-9396	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Review of Policy Research	1541-132X	1541-1338	1998	15	1	 	 	 	https://onlinelibrary.wiley.com/loi/15411338	 	10.1111/(ISSN)1541-1338	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Reviews in Religion & Theology	1350-7303	1467-9418	1997	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679418	 	10.1111/(ISSN)1467-9418	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1479-2214	P	 	 
+Risk Analysis	0272-4332	1539-6924	1997	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/15396924	 	10.1111/(ISSN)1539-6924	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Risk Management and Insurance Review	1098-1616	1540-6296	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/15406296	 	10.1111/(ISSN)1540-6296	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Risk, Hazards & Crisis in Public Policy	1944-4079	1944-4079	2010	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19444079	 	10.1002/(ISSN)1944-4079	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Rural Sociology	0036-0112	1549-0831	1997	62	1	 	 	 	https://onlinelibrary.wiley.com/loi/15490831	 	10.1111/(ISSN)1549-0831	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Scandinavian Journal of Psychology	0036-5564	1467-9450	1997	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679450	 	10.1111/(ISSN)1467-9450	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Scandinavian Journal of Social Welfare	0907-2055	1468-2397	1997	6	1	1998	7	4	https://onlinelibrary.wiley.com/loi/14682397	 	10.1111/(ISSN)1468-2397a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Scandinavian Political Studies	0080-6757	1467-9477	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679477	 	10.1111/(ISSN)1467-9477	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+School Science and Mathematics	0036-6803	1949-8594	1997	97	1	 	 	 	https://onlinelibrary.wiley.com/loi/19498594	 	10.1111/(ISSN)1949-8594	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Scottish Journal of Political Economy	0036-9292	1467-9485	1997	44	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679485	 	10.1111/(ISSN)1467-9485	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sculpture Review	0747-5284	2632-3494	 	 	 	2023	72	3	https://onlinelibrary.wiley.com/loi/29933439	 	10.1002/(ISSN)2632-3494	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sculpture, Monuments and Open Space	0747-5284	2993-3439	2024	73	1	 	 	 	https://onlinelibrary.wiley.com/loi/29933439	 	10.1002/(ISSN)2993-3439	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2632-3494	P	 	 
+Singapore Journal of Tropical Geography	0129-7619	1467-9493	1997	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679493	 	10.1111/(ISSN)1467-9493	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Social and Personality Psychology Compass	1751-9004	1751-9004	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17519004	 	10.1111/(ISSN)1751-9004	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Social Development	0961-205X	1467-9507	1997	6	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679507	 	10.1111/(ISSN)1467-9507	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Social Issues and Policy Review	1751-2395	1751-2409	2007	1	1	 	 	 	https://spssi.onlinelibrary.wiley.com/loi/17512409	 	10.1111/(ISSN)1751-2409	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Social Policy & Administration	0144-5596	1467-9515	1997	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679515	 	10.1111/(ISSN)1467-9515	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Social Science Quarterly	0038-4941	1540-6237	2001	82	1	 	 	 	https://onlinelibrary.wiley.com/loi/15406237	 	10.1111/(ISSN)1540-6237	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sociologia Ruralis	0038-0199	1467-9523	1997	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679523	 	10.1111/(ISSN)1467-9523	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sociological Forum	0884-8971	1573-7861	2007	22	1	 	 	 	https://onlinelibrary.wiley.com/loi/15737861	 	10.1111/(ISSN)1573-7861	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sociological Inquiry	0038-0245	1475-682X	1997	67	1	 	 	 	https://onlinelibrary.wiley.com/loi/1475682X	 	10.1111/(ISSN)1475-682X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sociology of Health & Illness	0141-9889	1467-9566	1997	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679566	 	10.1111/(ISSN)1467-9566	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sociology Compass	1751-9020	1751-9020	2007	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17519020	 	10.1111/(ISSN)1751-9020	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sociology Lens	2832-5796	2832-580X	2023	36	1	 	 	 	https://onlinelibrary.wiley.com/loi/2832580X	 	10.1111/(ISSN)2832-580X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-6443	P	 	 
+Southeastern Political Review	0730-2177	2331-3153	1997	25	1	2000	28	4	https://onlinelibrary.wiley.com/loi/17471346a	 	10.1111/(ISSN)1747-1346a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1747-1346	P	 	 
+Southern Economic Journal	0038-4038	2325-8012	2009	76	1	 	 	 	https://onlinelibrary.wiley.com/loi/23258012	 	10.1002/(ISSN)2325-8012	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Strategic Change	1086-1718	1099-1697	1996	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991697	 	10.1002/(ISSN)1099-1697	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Strategic Entrepreneurship Journal	1932-4391	1932-443X	2007	1	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/1932443X	 	10.1002/(ISSN)1932-443X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Strategic Management Journal	0143-2095	1097-0266	1996	17	1	 	 	 	https://onlinelibrary.wiley.com/loi/10970266	 	10.1002/(ISSN)1097-0266	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Student Affairs Today	1098-5166	1943-7552	2008	10	10	 	 	 	https://onlinelibrary.wiley.com/loi/19437552	 	10.1002/(ISSN)1943-7552	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Studia Linguistica	0039-3193	1467-9582	1997	51	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679582	 	10.1111/(ISSN)1467-9582	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Studies in Ethnicity and Nationalism	1473-8481	1754-9469	2001	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17549469	 	10.1111/(ISSN)1754-9469	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Studies in Family Planning	0039-3665	1728-4465	1999	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/17284465	 	10.1111/(ISSN)1728-4465	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Suicide and Life-Threatening Behavior	0363-0234	1943-278X	1997	27	1	 	 	 	https://onlinelibrary.wiley.com/loi/1943278X	 	10.1111/(ISSN)1943-278X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Support for Learning	0268-2141	1467-9604	1997	12	1	 	 	 	https://nasenjournals.onlinelibrary.wiley.com/loi/14679604	 	10.1111/(ISSN)1467-9604	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Sustainable Development	0968-0802	1099-1719	1996	4	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991719	 	10.1002/(ISSN)1099-1719	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Swiss Political Science Review	1424-7755	1662-6370	1995	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/16626370	 	10.1002/(ISSN)1662-6370	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Symbolic Interaction	0195-6086	1533-8665	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/15338665	 	10.1002/(ISSN)1533-8665	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Syntax	1368-0005	1467-9612	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679612	 	10.1111/(ISSN)1467-9612	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+System Dynamics Review	0883-7066	1099-1727	1996	12	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991727	 	10.1002/(ISSN)1099-1727	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Systems Research and Behavioral Science	1092-7026	1099-1743	1997	14	1	 	 	 	https://onlinelibrary.wiley.com/loi/10991743a	 	10.1002/(ISSN)1099-1743a	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1099-1735	P	 	 
+Teaching Theology & Religion	1368-4868	1467-9647	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679647	 	10.1111/(ISSN)1467-9647	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The American Journal of Economics and Sociology	0002-9246	1536-7150	1997	56	1	 	 	 	https://onlinelibrary.wiley.com/loi/15367150	 	10.1111/(ISSN)1536-7150	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Australian Economic Review	0004-9018	1467-8462	1997	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678462	 	10.1111/(ISSN)1467-8462	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Australian Journal of Agricultural and Resource Economics	1364-985X	1467-8489	1997	41	1	 	 	 	https://onlinelibrary.wiley.com/loi/14678489	 	10.1111/(ISSN)1467-8489	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-8489	P	 	 
+The Australian Journal of Anthropology	1035-8811	1757-6547	1997	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/17576547	 	10.1111/(ISSN)1757-6547	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1835-9310	P	 	 
+The British Journal of Sociology	0007-1315	1468-4446	1999	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/14684446	 	10.1111/(ISSN)1468-4446	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Brown University Child & Adolescent Psychopharmacology Update	1527-8395	1556-7567	2005	7	S1	 	 	 	https://onlinelibrary.wiley.com/loi/15567567	 	10.1002/(ISSN)1556-7567	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Brown University Child and Adolescent Behavior Letter	1058-1073	1556-7575	2005	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/15567575	 	10.1002/(ISSN)1556-7575	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2376-8347	P	 	 
+The Brown University Digest of Addiction Theory and Application	1040-6328	1556-7559	2005	24	S1	2011	30	4	https://onlinelibrary.wiley.com/loi/15567559	 	10.1002/(ISSN)1556-7559	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Brown University Psychopharmacology Update	1068-5308	1556-7532	2005	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/15567532	 	10.1002/(ISSN)1556-7532	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Career Development Quarterly	0889-4019	2161-0045	1997	45	3	 	 	 	https://onlinelibrary.wiley.com/loi/21610045	 	10.1002/(ISSN)2161-0045	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2164-585X	P	 	 
+The Curriculum Journal	0958-5176	1469-3704	1997	8	1	 	 	 	https://bera-journals.onlinelibrary.wiley.com/loi/14693704	 	10.1002/(ISSN)1469-3704	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Department Chair	1049-3255	1936-4393	2007	18	1	 	 	 	https://onlinelibrary.wiley.com/loi/19364393	 	10.1002/(ISSN)1936-4393	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Developing Economies	0012-1533	1746-1049	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/17461049	 	10.1111/(ISSN)1746-1049	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Economic History Review	0013-0117	1468-0289	1997	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680289	 	10.1111/(ISSN)1468-0289	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Ecumenical Review	0013-0796	1758-6623	1997	49	1	 	 	 	https://onlinelibrary.wiley.com/loi/17586623	 	10.1111/(ISSN)1758-6623	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Financial Review	0732-8516	1540-6288	1997	32	1	 	 	 	https://onlinelibrary.wiley.com/loi/15406288	 	10.1111/(ISSN)1540-6288	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Geographical Journal	0016-7398	1475-4959	2000	166	1	 	 	 	https://rgs-ibg.onlinelibrary.wiley.com/loi/14754959	 	10.1111/(ISSN)1475-4959	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The German Quarterly	0016-8831	1756-1183	2005	78	1	 	 	 	https://onlinelibrary.wiley.com/loi/17561183	 	10.1111/(ISSN)1756-1183	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Heythrop Journal	0018-1196	1468-2265	1997	38	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682265	 	10.1111/(ISSN)1468-2265	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Howard Journal of Crime and Justice	2059-1098	2059-1101	2016	55	1	 	 	 	https://onlinelibrary.wiley.com/loi/20591101	 	10.1111/(ISSN)2059-1101	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1468-2311	P	 	 
+The Howard Journal of Criminal Justice	0265-5527	1468-2311	1997	36	1	2015	54	5	https://onlinelibrary.wiley.com/loi/14682311	 	10.1111/(ISSN)2059-1101	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of American Culture	1542-7331	1542-734X	2003	26	1	 	 	 	https://onlinelibrary.wiley.com/loi/1542734X	 	10.1111/(ISSN)1542-734X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1540-594X	P	 	 
+The Journal of Creative Behavior	0022-0175	2162-6057	1997	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/21626057	 	10.1002/(ISSN)2162-6057	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Finance	0022-1082	1540-6261	1997	52	1	 	 	 	https://onlinelibrary.wiley.com/loi/15406261	 	10.1111/(ISSN)1540-6261	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Financial Research	0270-2592	1475-6803	1998	21	1	 	 	 	https://onlinelibrary.wiley.com/loi/14756803	 	10.1111/(ISSN)1475-6803	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Futures Markets	0270-7314	1096-9934	1996	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/10969934	 	10.1002/(ISSN)1096-9934	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Humanistic Counseling	2159-0311	2161-1939	2011	50	1	 	 	 	https://onlinelibrary.wiley.com/loi/21611939	 	10.1002/(ISSN)2161-1939	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2164-490X	P	 	 
+The Journal of Humanistic Counseling, Education and Development	1931-0293	2164-490X	1999	37	4	2010	49	2	https://onlinelibrary.wiley.com/loi/2164490X	 	10.1002/(ISSN)2164-490X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2164-4683	P	 	 
+The Journal of Humanistic Education and Development	0735-6846	2164-4683	1997	35	3	1999	37	3	https://onlinelibrary.wiley.com/loi/21644683	 	10.1002/(ISSN)2164-4683	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2164-6163	P	 	 
+The Journal of Industrial Economics	0022-1821	1467-6451	1997	45	1	 	 	 	https://onlinelibrary.wiley.com/loi/14676451	 	10.1111/(ISSN)1467-6451	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of Latin American and Caribbean Anthropology	1935-4932	1935-4940	2007	12	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/19354940	 	10.1111/(ISSN)1935-4940	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1548-7180	P	 	 
+The Journal of Popular Culture	0022-3840	1540-5931	1997	30	4	 	 	 	https://onlinelibrary.wiley.com/loi/15405931	 	10.1111/(ISSN)1540-5931	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Journal of World Intellectual Property	1422-2213	1747-1796	1998	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17471796	 	10.1111/(ISSN)1747-1796	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Major Gifts Report	1527-7712	2325-8608	1999	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23258608	 	10.1002/(ISSN)2325-8608	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Manchester School	1463-6786	1467-9957	1997	65	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679957	 	10.1111/(ISSN)1467-9957	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Milbank Quarterly	0887-378X	1468-0009	1997	75	1	 	 	 	https://onlinelibrary.wiley.com/loi/14680009	 	10.1111/(ISSN)1468-0009	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Modern Language Journal	0026-7902	1540-4781	1997	81	1	 	 	 	https://onlinelibrary.wiley.com/loi/15404781	 	10.1111/(ISSN)1540-4781	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Modern Law Review	0026-7961	1468-2230	1997	60	1	 	 	 	https://onlinelibrary.wiley.com/loi/14682230	 	10.1111/(ISSN)1468-2230	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Muslim World	0027-4909	1478-1913	1997	87	1	 	 	 	https://onlinelibrary.wiley.com/loi/14781913	 	10.1111/(ISSN)1478-1913	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The National Teaching & Learning Forum	1057-2880	2166-3327	1997	6	2	 	 	 	https://onlinelibrary.wiley.com/loi/21663327	 	10.1002/(ISSN)2166-3327	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Philosophical Forum	0031-806X	1467-9191	1999	30	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679191	 	10.1111/(ISSN)1467-9191	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Photogrammetric Record	0031-868X	1477-9730	1997	15	89	 	 	 	https://onlinelibrary.wiley.com/loi/14779730	 	10.1111/(ISSN)1477-9730	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Political Quarterly	0032-3179	1467-923X	1997	68	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467923X	 	10.1111/(ISSN)1467-923X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Reading Teacher	0034-0561	1936-2714	2004	58	1	 	 	 	https://ila.onlinelibrary.wiley.com/loi/19362714	 	10.1002/(ISSN)1936-2714	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Russian Review	0036-0341	1467-9434	1998	57	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679434	 	10.1111/(ISSN)1467-9434	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The RAND Journal of Economics	0741-6261	1756-2171	2006	37	1	 	 	 	https://onlinelibrary.wiley.com/loi/17562171	 	10.1111/(ISSN)1756-2171	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Scandinavian Journal of Economics	0347-0520	1467-9442	1997	99	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679442	 	10.1111/(ISSN)1467-9442	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The South African Journal of Economics	0038-2280	1813-6982	1997	65	1	 	 	 	https://onlinelibrary.wiley.com/loi/18136982	 	10.1111/(ISSN)1813-6982	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Southern Journal of Philosophy	0038-4283	2041-6962	1997	35	1	 	 	 	https://onlinelibrary.wiley.com/loi/20416962	 	10.1111/(ISSN)2041-6962	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The Successful Registrar	1534-7710	1943-7560	2008	7	11	 	 	 	https://onlinelibrary.wiley.com/loi/19437560	 	10.1002/(ISSN)1943-7560	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+The World Economy	0378-5920	1467-9701	1997	20	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679701	 	10.1111/(ISSN)1467-9701	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Theoria	0040-5825	1755-2567	1997	63	1-2	 	 	 	https://onlinelibrary.wiley.com/loi/17552567	 	10.1111/(ISSN)1755-2567	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Thunderbird International Business Review	1096-4762	1520-6874	1998	40	1	 	 	 	https://onlinelibrary.wiley.com/loi/15206874	 	10.1002/(ISSN)1520-6874	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1522-709X	P	 	 
+Tijdschrift voor economische en sociale geografie	0040-747X	1467-9663	1997	88	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679663	 	10.1111/(ISSN)1467-9663	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Topics in Cognitive Science	1756-8757	1756-8765	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/17568765	 	10.1111/(ISSN)1756-8765	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Transactions in GIS	1361-1682	1467-9671	1997	2	1	 	 	 	https://onlinelibrary.wiley.com/loi/14679671	 	10.1111/(ISSN)1467-9671	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Transactions of the Institute of British Geographers	0020-2754	1475-5661	1997	22	3	 	 	 	https://rgs-ibg.onlinelibrary.wiley.com/loi/14755661	 	10.1111/(ISSN)1475-5661	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Transactions of the Philological Society	0079-1636	1467-968X	1997	95	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467968X	 	10.1111/(ISSN)1467-968X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	1467-968X	P	 	 
+Transportation Journal	0041-1612	2157-328X	2005	44	1	 	 	 	https://onlinelibrary.wiley.com/loi/2157328X	 	10.1002/(ISSN)2157-328X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+TESOL Journal	1056-7941	1949-3533	1999	8	1	 	 	 	https://onlinelibrary.wiley.com/loi/19493533	 	10.1002/(ISSN)1949-3533	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+TESOL Quarterly	0039-8322	1545-7249	1997	31	1	 	 	 	https://onlinelibrary.wiley.com/loi/15457249	 	10.1002/(ISSN)1545-7249	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+Visual Anthropology Review	1058-7187	1548-7458	1998	14	1	 	 	 	https://anthrosource.onlinelibrary.wiley.com/loi/15487458	 	10.1111/(ISSN)1548-7458	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2163-4238	P	 	 
+Women in Higher Education	1060-8303	2331-5466	2010	19	1	 	 	 	https://onlinelibrary.wiley.com/loi/23315466	 	10.1002/(ISSN)2331-5466	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+World Affairs	0043-8200	1940-1582	2016	179	1	 	 	 	https://onlinelibrary.wiley.com/loi/19401582	 	10.1002/(ISSN)1940-1582	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+World Englishes	0883-2919	1467-971X	1997	16	1	 	 	 	https://onlinelibrary.wiley.com/loi/1467971X	 	10.1111/(ISSN)1467-971X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+World Food Policy	 	2372-8639	2014	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/23728639	 	10.1002/(ISSN)2372-8639	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+World Medical & Health Policy	1948-4682	1948-4682	2009	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19484682	 	10.1002/(ISSN)1948-4682	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
+World Water Policy	 	2639-541X	2019	5	1	 	 	 	https://onlinelibrary.wiley.com/loi/2639541X	 	10.1002/(ISSN)2639-541X	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	2380-6540	P	 	 
+WIREs Cognitive Science	1939-5078	1939-5086	2010	1	1	 	 	 	https://onlinelibrary.wiley.com/loi/19395086	 	10.1002/(ISSN)1939-5086	 	fulltext	 	Wiley	Serial	 	 	 	 	 	 	 	P	 	 
