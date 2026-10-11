@@ -155,6 +155,10 @@ fresh = [...groups.values()].map(g => {
 const byTitle = new Map()
 for (const c of fresh) { const k = normTitle(c.title); byTitle.set(k, [...(byTitle.get(k) ?? []), c]) }
 const held = new Set()
+// --allow-title-overlap: a person has decided that candidates whose title equals an existing record's, with
+// no ISSN in common, are different journals (e.g. a different OpenAlex source id). Overlaps among the
+// candidates themselves are still held.
+const allowOverlap = process.argv.includes('--allow-title-overlap')
 for (const [k, g] of byTitle) {
   if (k && g.length > 1) { g.forEach(c => held.add(c)); review.title_overlaps.push({ title: g[0].title, candidates: g.map(c => ({ issns: c.ISSN, publisher: c.publisher })) }) }
 }
@@ -162,7 +166,7 @@ for (const [k, g] of byTitle) {
 // a relaunch or a different journal; for a person to decide.
 for (const c of fresh) {
   const ids = existingTitles.get(normTitle(c.title))
-  if (ids && !held.has(c)) { held.add(c); review.title_overlaps.push({ title: c.title, candidates: [{ issns: c.ISSN, publisher: c.publisher }], existing_ids: [...new Set(ids)] }) }
+  if (ids && !held.has(c) && !allowOverlap) { held.add(c); review.title_overlaps.push({ title: c.title, candidates: [{ issns: c.ISSN, publisher: c.publisher }], existing_ids: [...new Set(ids)] }) }
 }
 fresh = fresh.filter(c => !held.has(c))
 
