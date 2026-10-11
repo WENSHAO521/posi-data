@@ -1,0 +1,17 @@
+{
+  "site_records": 25676,
+  "upstream_records": 28122,
+  "matched": 25251,
+  "only_upstream": 3103,
+  "only_site": 348,
+  "ambiguous": 77,
+  "issns_shared_by_several_posi_ids": 63,
+  "differences_by_field": {
+    "issn_print": 803,
+    "issn_online": 509,
+    "publisher": 9271,
+    "title": 599,
+    "openalex_source_id": 498,
+    "open_access": 121
+  }
+}
