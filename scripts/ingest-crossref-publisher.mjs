@@ -27,8 +27,8 @@
  *   - a fresh journal with the same normalised title as another fresh journal or as a
  *     record already in posi-data, but no ISSN in common, is held for review rather
  *     than minted; the ISSNs written on the records count as well as the registry keys;
- *   - open_access is true for a DOAJ-listed journal and null otherwise: absence
- *     from DOAJ does not show that a journal is closed.
+ *   - open_access is true: a journal DOAJ lists is open access in DOAJ, one it does not
+ *     list is open access, not in DOAJ. A ceased journal DOAJ does not list is null.
  * Quarantined, conflicting and held candidates are written to review.json in the
  * audit directory. The registry and the records are written to temporary files
  * first and then renamed; if a rename fails the other file is restored, so a failed
@@ -185,10 +185,11 @@ fresh.forEach((c, n) => {
   const main = online ?? print ?? c.ISSN[0]
   const ours = !match || match.test(c.publisher ?? '')
   const doajId = typeof c.doaj === 'string' ? c.doaj : null
+  const openAccess = c.doaj || !c.ceased ? true : null
   lines.push(JSON.stringify({
     id: a.posi_id, title: c.title, short_title: c.title, status: 'discovered',
     publisher: c.publisher ?? null, country: null, language: null,
-    open_access: c.doaj ? true : null, license: null,
+    open_access: openAccess, license: null,
     website_url: c.website_url ?? (ours && site ? site.replace('{issn}', main.replace('-', '')) : null),
     identifiers: { issn_l: null, issn_print: print, issn_online: online ?? (print ? null : c.ISSN[0]), openalex_source_id: c.openalex_source_id ?? null, crossref_member_id: /^\d+$/.test(member ?? '') ? member : null, ror_publisher_id: null, doaj_id: doajId },
     classification: null, coverage: null, selection: null,
@@ -198,7 +199,7 @@ fresh.forEach((c, n) => {
       .map(p => ({ source: p.source, source_record_id: p.source_record_id ?? null, retrieved_at: retrievedAt, license: null })),
     created_at: retrievedAt, updated_at: retrievedAt,
   }))
-  mapping.push([a.posi_id, JSON.stringify(c.title), print ?? '', online ?? '', JSON.stringify(c.publisher ?? ''), c.doaj ? true : 'unknown', a.minted].join(','))
+  mapping.push([a.posi_id, JSON.stringify(c.title), print ?? '', online ?? '', JSON.stringify(c.publisher ?? ''), openAccess ?? 'unknown', a.minted].join(','))
 })
 
 // Both files are written aside first. If a rename then fails, the files already renamed are put back as they were,
