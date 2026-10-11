@@ -1,10 +1,13 @@
 {
   "site_records": 25676,
-  "imported": 25144,
+  "journals": 25204,
+  "site_records_covered": 25676,
+  "with_aliases": 470,
   "matched_by": {
-    "issn": 25119,
-    "openalex": 6,
-    "issn+openalex": 19
+    "issn": 25171,
+    "openalex": 13,
+    "issn+openalex": 19,
+    "issn+core": 1
   },
-  "unresolved": 532
+  "unresolved": 0
 }

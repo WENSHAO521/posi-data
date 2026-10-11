@@ -9,6 +9,7 @@
   "properties": {
     "posi_id": { "type": "string", "pattern": "^POSI-J-[0-9]{6,}$" },
     "journal_code": { "type": "string", "minLength": 1, "description": "The journal's code in website URLs (/journal/<code>/). Unique and stable; never reused for another journal." },
+    "journal_code_aliases": { "type": "array", "items": { "type": "string", "minLength": 1 }, "description": "Codes of other website records for this same journal (a rename kept as two records, a duplicate); their URLs redirect to journal_code." },
     "language": { "type": ["string", "null"] },
     "frequency": { "type": ["string", "null"] },
     "license": { "type": ["string", "null"] },

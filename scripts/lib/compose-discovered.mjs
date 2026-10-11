@@ -16,7 +16,7 @@ export function composeDiscovered(root = '.') {
     if (!j) throw new Error(`screening record ${s.posi_id} has no journal record`)
     const x = j.identifiers ?? {}
     out.push({
-      posi_id: j.id, journal_code: s.journal_code,
+      posi_id: j.id, journal_code: s.journal_code, journal_code_aliases: s.journal_code_aliases ?? [],
       title: j.title, short_title: j.short_title ?? null,
       issn_print: x.issn_print ?? null, issn_online: x.issn_online ?? null,
       publisher: j.publisher ?? null, country: j.country ?? null, open_access: j.open_access ?? null,
