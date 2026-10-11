@@ -46,11 +46,11 @@ The 183 were not found earlier because the Crossref scan looked at member 311 an
 
 ## Left for a decision
 
-- **`Sculpture Review` (POSI-J-027883) and `Sculpture, Monuments and Open Space` (POSI-J-027684) may be one journal.** The KBART list shows
+- **Resolved: `Sculpture Review` (POSI-J-027883) and `Sculpture, Monuments and Open Space` (POSI-J-027684) are one journal.** The KBART list shows
   the second as the 2024 successor of the first (`preceding_publication_title_id` 2632-3494), with the same print ISSN 0747-5284 and a new
-  online ISSN 2993-3439; Crossref gave 2993-3439 for both types of the second and omitted its print ISSN, so the registry holds two ids with no
-  ISSN in common. By the registry's ISSN rule these are one journal, which would be recorded in `registry/superseded-ids.csv`; that changes the
-  permanent registry, so it is not done here. This run did not touch either record.
+  online ISSN 2993-3439; Crossref omitted the second's print ISSN, so the registry held two ids with no ISSN in common. By the registry's ISSN rule
+  they are one journal: POSI-J-027684 is superseded by POSI-J-027883 (`registry/superseded-ids.csv`, 2026-10-11), its record is removed, and the
+  survivor keeps its title and lists the later title as an alternate title. The registry row of the old id stays, so ISSN 2993-3439 resolves to the survivor.
 - **724 Wiley or Hindawi records in posi-data are not in this list** (395 open access, 329 with unknown open access): open access titles
   (separate lists), Hindawi titles, and journals that have left the Wiley platform. Not checked further.
 - The 9 records with an ISSN that Crossref does not know (Aggregate, Carbon Energy, InfoMat, Animal Models and Experimental Medicine, SusMat,
