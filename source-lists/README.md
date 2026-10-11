@@ -11,7 +11,7 @@ exact file that was crawled/parsed.
 | `jnlactive.csv` | Elsevier's own active-journals export (Full Title, ISSN, Unformatted ISSN, Product ID, Change History, Shortcut URL) | 3433 | `audits/data-quality/elsevier-website-fix-2026/`, `audits/migrations/elsevier-jnlactive-expansion-2026/` |
 | `frontiers-titlelist-web-2026.csv` | Frontiers Media title list distributed via the Swiss Academic Libraries consortium ("Last update: 23.02.2026/AKO"); an 11-line preamble precedes the real `Journal,ISSN,URL` header | 234 (204 with a non-empty ISSN) | `audits/migrations/frontiers-expansion-2026/` |
 | `wiley-kbart-fullcollection-2027-2026-10-01.txt` | Wiley's KBART list of its Large Journal Collections, full collection for 2027, file dated 2026-10-01 (tab-separated) | 1521 serials | `audits/migrations/wiley-kbart-completion-2026/` |
-| `wiley-kbart-mn-2027-2026-10-01.txt`, `wiley-kbart-ssh-2027-2026-10-01.txt`, `wiley-kbart-stm-2027-2026-10-01.txt` | The same list split by subject collection: Mathematics & Natural Sciences (431 rows), Social Sciences & Humanities (548), Science, Technology & Medicine (973). Together they hold exactly the ISSNs of the full collection; kept for reference, nothing was ingested from them separately | 1952 | reference only |
+| `wiley-kbart-mn-2027-2026-10-01.txt`, `wiley-kbart-ssh-2027-2026-10-01.txt`, `wiley-kbart-stm-2027-2026-10-01.txt` | The same list split into Wiley's three subject files, named M&N (431 rows), SSH (548) and STM (973). Together they hold exactly the ISSNs of the full collection; kept for reference, nothing was ingested from them separately | 1952 | reference only |
 
 The two CSV files are not uniformly shaped — always parse them with
 `posi-engine/src/showjcr/csv.mjs`'s `parseCsv()` (RFC4180-correct: handles
