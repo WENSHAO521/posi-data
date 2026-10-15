@@ -2807,5 +2807,41 @@
     "transparency_score": 84,
     "indexing_readiness": "B",
     "article_count": 12
+  },
+  {
+    "id": "j-hndh",
+    "journal_code": "hndh",
+    "title": "Health Nexus: Digital Health and Medical AI",
+    "short_title": "HNDH",
+    "issn_print": null,
+    "issn_online": "3056-6177",
+    "publisher": "Panorama Scholarly Group",
+    "country": "China, Hong Kong SAR",
+    "language": "English",
+    "frequency": "Biannual",
+    "open_access": true,
+    "license": "CC BY 4.0",
+    "peer_review_type": "Double-blind",
+    "website_url": "https://journals.panorama-sg.com/hndh",
+    "cover_image_url": null,
+    "oai_base_url": null,
+    "registration_country": "Germany",
+    "doaj_status": "not_listed",
+    "openalex_source_id": null,
+    "pqf": null,
+    "early_stage_rating": null,
+    "psc_category": null,
+    "psc_confidence": null,
+    "created_at": "2026-10-15T00:00:00Z",
+    "updated_at": "2026-10-15T00:00:00Z",
+    "source_group": "psg",
+    "posi_id": "POSI-J-028380",
+    "apc": {
+      "amount": 400,
+      "currency": "USD",
+      "note": "USD 400 per accepted article, charged after editorial acceptance; not based on authors, pages, figures or tables.",
+      "source_url": "https://journals.panorama-sg.com/hndh/apc-and-waiver-policy",
+      "checked_at": "2026-10-15"
+    }
   }
 ]
