@@ -1,0 +1,434 @@
+[
+ {
+  "site_id": "j-disc-frontiers-in-neuroscienc",
+  "posi_id": "POSI-J-000094",
+  "title": "Frontiers in Neuroscience",
+  "issn_print": "1662-4548",
+  "issn_online": "1662-453X",
+  "crossref_lookup": "1662-453X"
+ },
+ {
+  "site_id": "j-disc-experimental-biology-and",
+  "posi_id": "POSI-J-000112",
+  "title": "Experimental Biology and Medicine",
+  "issn_print": "1535-3702",
+  "issn_online": "1535-3699",
+  "crossref_lookup": "1535-3702"
+ },
+ {
+  "site_id": "j-disc-issn-0021-9258",
+  "posi_id": "POSI-J-000506",
+  "title": "Journal of Biological Chemistry",
+  "issn_print": "0021-9258",
+  "issn_online": "1083-351X",
+  "crossref_lookup": "0021-9258"
+ },
+ {
+  "site_id": "j-disc-issn-0004-637X",
+  "posi_id": "POSI-J-000508",
+  "title": "The Astrophysical Journal",
+  "issn_print": "0004-637X",
+  "issn_online": "1538-4357",
+  "crossref_lookup": "0004-637X"
+ },
+ {
+  "site_id": "j-disc-issn-0146-0404",
+  "posi_id": "POSI-J-000510",
+  "title": "Investigative Ophthalmology & Visual Science",
+  "issn_print": "0146-0404",
+  "issn_online": "1552-5783",
+  "crossref_lookup": "0146-0404"
+ },
+ {
+  "site_id": "j-disc-issn-0035-8711",
+  "posi_id": "POSI-J-000511",
+  "title": "Monthly Notices of the Royal Astronomical Society",
+  "issn_print": "0035-8711",
+  "issn_online": "1365-8711",
+  "crossref_lookup": "0035-8711"
+ },
+ {
+  "site_id": "j-disc-issn-0305-1048",
+  "posi_id": "POSI-J-000521",
+  "title": "Nucleic Acids Research",
+  "issn_print": "0305-1048",
+  "issn_online": "1362-4962",
+  "crossref_lookup": "0305-1048"
+ },
+ {
+  "site_id": "j-disc-issn-0021-9193",
+  "posi_id": "POSI-J-000522",
+  "title": "Journal of Bacteriology",
+  "issn_print": "0021-9193",
+  "issn_online": "1098-5530",
+  "crossref_lookup": "0021-9193"
+ },
+ {
+  "site_id": "j-disc-issn-0004-6361",
+  "posi_id": "POSI-J-000523",
+  "title": "Astronomy and Astrophysics",
+  "issn_print": "0004-6361",
+  "issn_online": "1432-0746",
+  "crossref_lookup": "0004-6361"
+ },
+ {
+  "site_id": "j-disc-issn-0013-5194",
+  "posi_id": "POSI-J-000524",
+  "title": "Electronics Letters",
+  "issn_print": "0013-5194",
+  "issn_online": "1350-911X",
+  "crossref_lookup": "0013-5194"
+ },
+ {
+  "site_id": "j-disc-issn-0094-8276",
+  "posi_id": "POSI-J-000525",
+  "title": "Geophysical Research Letters",
+  "issn_print": "1944-8007",
+  "issn_online": "0094-8276",
+  "crossref_lookup": "0094-8276"
+ },
+ {
+  "site_id": "j-disc-issn-0022-538X",
+  "posi_id": "POSI-J-000526",
+  "title": "Journal of Virology",
+  "issn_print": "0022-538X",
+  "issn_online": "1098-5514",
+  "crossref_lookup": "0022-538X"
+ },
+ {
+  "site_id": "j-disc-issn-0025-7974",
+  "posi_id": "POSI-J-000527",
+  "title": "Medicine",
+  "issn_print": "0025-7974",
+  "issn_online": "1536-5964",
+  "crossref_lookup": "0025-7974"
+ },
+ {
+  "site_id": "j-disc-issn-1029-8479",
+  "posi_id": "POSI-J-000528",
+  "title": "Journal of High Energy Physics",
+  "issn_print": "1126-6708",
+  "issn_online": "1029-8479",
+  "crossref_lookup": "1029-8479"
+ },
+ {
+  "site_id": "j-disc-issn-0022-0302",
+  "posi_id": "POSI-J-000532",
+  "title": "Journal of Dairy Science",
+  "issn_print": "0022-0302",
+  "issn_online": "1525-3198",
+  "crossref_lookup": "0022-0302"
+ },
+ {
+  "site_id": "j-disc-issn-0099-2240",
+  "posi_id": "POSI-J-000534",
+  "title": "Applied and Environmental Microbiology",
+  "issn_print": "0099-2240",
+  "issn_online": "1098-5336",
+  "crossref_lookup": "0099-2240"
+ },
+ {
+  "site_id": "j-disc-issn-0021-9738",
+  "posi_id": "POSI-J-000535",
+  "title": "Journal of Clinical Investigation",
+  "issn_print": "0021-9738",
+  "issn_online": "1558-8238",
+  "crossref_lookup": "0021-9738"
+ },
+ {
+  "site_id": "j-disc-issn-0032-5791",
+  "posi_id": "POSI-J-000539",
+  "title": "Poultry Science",
+  "issn_print": "0032-5791",
+  "issn_online": "1525-3171",
+  "crossref_lookup": "0032-5791"
+ },
+ {
+  "site_id": "j-disc-issn-0019-9567",
+  "posi_id": "POSI-J-000541",
+  "title": "Infection and Immunity",
+  "issn_print": "0019-9567",
+  "issn_online": "1098-5522",
+  "crossref_lookup": "0019-9567"
+ },
+ {
+  "site_id": "j-disc-issn-0095-1137",
+  "posi_id": "POSI-J-000543",
+  "title": "Journal of Clinical Microbiology",
+  "issn_print": "0095-1137",
+  "issn_online": "1098-660X",
+  "crossref_lookup": "0095-1137"
+ },
+ {
+  "site_id": "j-disc-issn-0004-6256",
+  "posi_id": "POSI-J-000544",
+  "title": "The Astronomical Journal",
+  "issn_print": "0004-6256",
+  "issn_online": "1538-3881",
+  "crossref_lookup": "0004-6256"
+ },
+ {
+  "site_id": "j-disc-issn-0018-5345",
+  "posi_id": "POSI-J-000545",
+  "title": "HortScience",
+  "issn_print": "0018-5345",
+  "issn_online": "2327-9834",
+  "crossref_lookup": "0018-5345"
+ },
+ {
+  "site_id": "j-disc-issn-0273-1223",
+  "posi_id": "POSI-J-000552",
+  "title": "Water Science & Technology",
+  "issn_print": "0273-1223",
+  "issn_online": "1996-9732",
+  "crossref_lookup": "1996-9732"
+ },
+ {
+  "site_id": "j-disc-issn-1053-8119",
+  "posi_id": "POSI-J-000553",
+  "title": "NeuroImage",
+  "issn_print": "1053-8119",
+  "issn_online": "1095-9572",
+  "crossref_lookup": "1053-8119"
+ },
+ {
+  "site_id": "j-disc-issn-0091-6765",
+  "posi_id": "POSI-J-000556",
+  "title": "Environmental Health Perspectives",
+  "issn_print": "0091-6765",
+  "issn_online": "1552-9924",
+  "crossref_lookup": "0091-6765"
+ },
+ {
+  "site_id": "j-disc-issn-1434-6044",
+  "posi_id": "POSI-J-000560",
+  "title": "The European Physical Journal C",
+  "issn_print": "1434-6044",
+  "issn_online": "1434-6052",
+  "crossref_lookup": "1434-6044"
+ },
+ {
+  "site_id": "j-disc-issn-0043-1397",
+  "posi_id": "POSI-J-000561",
+  "title": "Water Resources Research",
+  "issn_print": "0043-1397",
+  "issn_online": "1944-7973",
+  "crossref_lookup": "0043-1397"
+ },
+ {
+  "site_id": "j-disc-issn-0932-0067",
+  "posi_id": "POSI-J-000562",
+  "title": "Archives of Gynecology and Obstetrics",
+  "issn_print": "0932-0067",
+  "issn_online": "1432-0711",
+  "crossref_lookup": "1432-0711"
+ },
+ {
+  "site_id": "j-disc-issn-0261-4189",
+  "posi_id": "POSI-J-000565",
+  "title": "The EMBO Journal",
+  "issn_print": "0261-4189",
+  "issn_online": "1460-2075",
+  "crossref_lookup": "0261-4189"
+ },
+ {
+  "site_id": "j-disc-issn-0175-7598",
+  "posi_id": "POSI-J-000566",
+  "title": "Applied Microbiology and Biotechnology",
+  "issn_print": "0175-7598",
+  "issn_online": "1432-0614",
+  "crossref_lookup": "0175-7598"
+ },
+ {
+  "site_id": "j-disc-issn-1364-8535",
+  "posi_id": "POSI-J-000574",
+  "title": "Critical Care",
+  "issn_print": "1364-8535",
+  "issn_online": "1875-7081",
+  "crossref_lookup": "1364-8535"
+ },
+ {
+  "site_id": "j-disc-issn-1367-4803",
+  "posi_id": "POSI-J-000582",
+  "title": "Bioinformatics",
+  "issn_print": "1367-4803",
+  "issn_online": "1367-4811",
+  "crossref_lookup": "1367-4803"
+ },
+ {
+  "site_id": "j-disc-issn-0002-9645",
+  "posi_id": "POSI-J-000595",
+  "title": "American Journal of Veterinary Research",
+  "issn_print": "0002-9645",
+  "issn_online": "1943-5681",
+  "crossref_lookup": "0002-9645"
+ },
+ {
+  "site_id": "j-disc-issn-0001-6349",
+  "posi_id": "POSI-J-000600",
+  "title": "Acta Obstetricia Et Gynecologica Scandinavica",
+  "issn_print": "0001-6349",
+  "issn_online": "1600-0412",
+  "crossref_lookup": "0001-6349"
+ },
+ {
+  "site_id": "j-disc-issn-0171-5216",
+  "posi_id": "POSI-J-000602",
+  "title": "Journal of Cancer Research and Clinical Oncology",
+  "issn_print": "0171-5216",
+  "issn_online": "1432-1335",
+  "crossref_lookup": "1432-1335"
+ },
+ {
+  "site_id": "j-disc-issn-0820-3946",
+  "posi_id": "POSI-J-000608",
+  "title": "Canadian Medical Association Journal",
+  "issn_print": "0820-3946",
+  "issn_online": "1488-2329",
+  "crossref_lookup": "0820-3946"
+ },
+ {
+  "site_id": "j-disc-issn-1080-6040",
+  "posi_id": "POSI-J-000612",
+  "title": "Emerging infectious diseases",
+  "issn_print": "1080-6040",
+  "issn_online": "1080-6059",
+  "crossref_lookup": "1080-6040"
+ },
+ {
+  "site_id": "j-disc-issn-1350-0872",
+  "posi_id": "POSI-J-000631",
+  "title": "Microbiology",
+  "issn_print": "1350-0872",
+  "issn_online": "1465-2080",
+  "crossref_lookup": "1350-0872"
+ },
+ {
+  "site_id": "j-disc-issn-0362-028X",
+  "posi_id": "POSI-J-000641",
+  "title": "Journal of Food Protection",
+  "issn_print": "0362-028X",
+  "issn_online": "1944-9097",
+  "crossref_lookup": "0362-028X"
+ },
+ {
+  "site_id": "j-disc-issn-1043-6618",
+  "posi_id": "POSI-J-000651",
+  "title": "Pharmacological Research",
+  "issn_print": "1043-6618",
+  "issn_online": "1096-1186",
+  "crossref_lookup": "1043-6618"
+ },
+ {
+  "site_id": "j-disc-issn-0950-5423",
+  "posi_id": "POSI-J-000653",
+  "title": "International Journal of Food Science & Technology",
+  "issn_print": "0950-5423",
+  "issn_online": "1365-2621",
+  "crossref_lookup": "0950-5423"
+ },
+ {
+  "site_id": "j-disc-issn-1226-3303",
+  "posi_id": "POSI-J-000750",
+  "title": "The Korean Journal of Internal Medicine",
+  "issn_print": "1226-3303",
+  "issn_online": "2005-6648",
+  "crossref_lookup": "1226-3303"
+ },
+ {
+  "site_id": "j-disc-issn-0010-0870",
+  "posi_id": "POSI-J-000781",
+  "title": "College & Research Libraries",
+  "issn_print": "0010-0870",
+  "issn_online": "2150-6701",
+  "crossref_lookup": "0010-0870"
+ },
+ {
+  "site_id": "j-disc-issn-2164-5515",
+  "posi_id": "POSI-J-000813",
+  "title": "Human Vaccines & Immunotherapeutics",
+  "issn_print": "2164-5515",
+  "issn_online": "2164-554X",
+  "crossref_lookup": "2164-5515"
+ },
+ {
+  "site_id": "j-disc-issn-0929-6646",
+  "posi_id": "POSI-J-000881",
+  "title": "Journal of the Formosan Medical Association",
+  "issn_print": "0929-6646",
+  "issn_online": "1876-0821",
+  "crossref_lookup": "0929-6646"
+ },
+ {
+  "site_id": "j-disc-issn-1049-9644",
+  "posi_id": "POSI-J-024439",
+  "title": "Biological Control",
+  "issn_print": "1049-9644",
+  "issn_online": "1090-2112",
+  "crossref_lookup": "1049-9644"
+ },
+ {
+  "site_id": "j-disc-issn-1998-9563",
+  "posi_id": "POSI-J-025089",
+  "title": "Hydrology Research",
+  "issn_print": "0029-1277",
+  "issn_online": "2224-7955",
+  "crossref_lookup": "1998-9563"
+ },
+ {
+  "site_id": "j-disc-issn-2765-1606",
+  "posi_id": "POSI-J-005251",
+  "title": "The Korean Journal of Thoracic and Cardiovascular Surgery",
+  "issn_print": "0301-2859",
+  "issn_online": "2093-6516",
+  "crossref_lookup": "0301-2859"
+ },
+ {
+  "site_id": "j-disc-issn-2992-7862",
+  "posi_id": "POSI-J-017542",
+  "title": "GénEroos Revista de investigación y divulgación sobre los estudios de género",
+  "issn_print": "1405-3098",
+  "issn_online": "2992-7862",
+  "crossref_lookup": "2992-7862"
+ },
+ {
+  "site_id": "j-disc-issn-2829-5919",
+  "posi_id": "POSI-J-019668",
+  "title": "Tarbiyah Islamiyah Jurnal Ilmiah Pendidikan Agama Islam",
+  "issn_print": "2579-714X",
+  "issn_online": "2829-5919",
+  "crossref_lookup": "2829-5919"
+ },
+ {
+  "site_id": "j-disc-issn-2980-7670",
+  "posi_id": "POSI-J-019905",
+  "title": "Journal of Medical Education Development",
+  "issn_print": "2251-9521",
+  "issn_online": "2345-4393",
+  "crossref_lookup": "2251-9521"
+ },
+ {
+  "site_id": "j-disc-issn-3083-6425",
+  "posi_id": "POSI-J-022799",
+  "title": "Освіта та розвиток обдарованої особистості",
+  "issn_print": "2309-3935",
+  "issn_online": "3083-6425",
+  "crossref_lookup": "2309-3935"
+ },
+ {
+  "site_id": "j-disc-issn-0066-4804",
+  "posi_id": "POSI-J-023580",
+  "title": "Antimicrobial Agents and Chemotherapy",
+  "issn_print": "0066-4804",
+  "issn_online": "1098-6596",
+  "crossref_lookup": "0066-4804"
+ },
+ {
+  "site_id": "j-disc-issn-1099-0690",
+  "posi_id": "POSI-J-023523",
+  "title": "European Journal of Organic Chemistry",
+  "issn_print": "1434-193X",
+  "issn_online": "1099-0690",
+  "crossref_lookup": "1099-0690"
+ }
+]
