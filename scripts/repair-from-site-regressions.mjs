@@ -11,6 +11,8 @@
  *     the same publisher's other records (reported, not silent).
  *  2. ISSN pair. issn-resolved.json lists records whose print and electronic ISSN were both read from
  *     Crossref under the same title. issn_print and issn_online are set to that pair; issn_l is kept.
+ *     A pair is skipped when either ISSN fails its check digit or is already held by another record,
+ *     so the repair cannot create an invalid ISSN or a new shared one.
  *
  * Every changed record gets a posi_curation provenance entry and a new updated_at.
  *
@@ -36,6 +38,7 @@ const site = JSON.parse(readFileSync(arg('site'), 'utf8'))
 const siteById = new Map(site.map((s) => [s.id, s]))
 const codeOf = new Map()
 for (const l of readFileSync(join(ROOT, 'screening/discovered-screening.jsonl'), 'utf8').split('\n')) if (l.trim()) { const s = JSON.parse(l); codeOf.set(s.posi_id, s.journal_code) }
+const checkOk = (v) => { const d = String(v).replace('-', ''); if (!/^\d{7}[\dX]$/.test(d)) return false; let t = 0; for (let i = 0; i < 7; i++) t += (8 - i) * Number(d[i]); const c = (11 - (t % 11)) % 11; return d[7] === (c === 10 ? 'X' : String(c)) }
 const issn = new Map(JSON.parse(readFileSync(join(AUDIT, 'issn-resolved.json'), 'utf8')).map((x) => [x.posi_id, x]))
 
 const dir = join(ROOT, 'journals/discovered')
@@ -51,8 +54,14 @@ for (const lines of parsed.values()) for (const l of lines) if (l.trim()) {
 }
 const modeCountry = (p) => { const t = tally.get(p); return t ? [...t].sort((a, b) => b[1] - a[1])[0][0] : null }
 
+// ISSNs held by each record (superseded ids excluded), to refuse a pair another record already holds.
+const { loadJournalRecords } = await import('./lib/journal-records.mjs')
+const holders = new Map()
+for (const r of loadJournalRecords(ROOT).values()) for (const v of Object.values(r.identifiers ?? {})) if (/^\d{4}-\d{3}[\dX]$/.test(v ?? '')) (holders.get(v) ?? holders.set(v, new Set()).get(v)).add(r.id)
+const pairUsable = (p) => [p.issn_print, p.issn_online].every((v) => checkOk(v) && [...(holders.get(v) ?? [])].every((h) => h === p.posi_id))
+
 const NOW = new Date().toISOString()
-const stats = { country_filled: 0, country_from_publisher: 0, country_unresolved: 0, issn_pair_set: 0, unchanged: 0 }
+const stats = { country_filled: 0, country_from_publisher: 0, country_unresolved: 0, issn_pair_set: 0, issn_pair_skipped: 0, unchanged: 0 }
 const notes = []
 for (const f of files) {
   let changed = false
@@ -69,7 +78,8 @@ for (const f of files) {
       if (c) { r.country = c; touched = true }
     }
     const p = issn.get(r.id)
-    if (p) {
+    if (p && !pairUsable(p)) { stats.issn_pair_skipped++; notes.push(`${r.id}: Crossref pair ${p.issn_print}/${p.issn_online} fails a check digit or is held by another record; left unchanged`) }
+    else if (p) {
       const x = (r.identifiers ??= {})
       if (x.issn_print !== p.issn_print || x.issn_online !== p.issn_online) { x.issn_print = p.issn_print; x.issn_online = p.issn_online; stats.issn_pair_set++; touched = true }
     }
