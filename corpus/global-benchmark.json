@@ -7535,7 +7535,7 @@
     "issn_print": "0273-1223",
     "issn_online": "1996-9732",
     "publisher": "Pergamon Press",
-    "country": "Unknown",
+    "country": "GB",
     "language": "English",
     "frequency": "",
     "open_access": true,
@@ -7570,7 +7570,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.392Z",
-    "updated_at": "2026-10-15T10:23:17.669Z",
+    "updated_at": "2026-10-15T10:43:49.000Z",
     "posi_id": "POSI-J-000552",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -23839,7 +23839,7 @@
     "issn_print": "0950-5423",
     "issn_online": "1365-2621",
     "publisher": "Oxford University Press",
-    "country": null,
+    "country": "GB",
     "language": "English",
     "frequency": "",
     "open_access": true,
@@ -23874,7 +23874,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.399Z",
-    "updated_at": "2026-10-15T10:23:17.669Z",
+    "updated_at": "2026-10-15T10:43:49.000Z",
     "posi_id": "POSI-J-000653",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
