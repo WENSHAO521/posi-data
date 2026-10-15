@@ -388,8 +388,8 @@
     "journal_code": "bench-the-astrophysical-journal-0009",
     "title": "The Astrophysical Journal",
     "short_title": "The Astrophysical Journal",
-    "issn_print": null,
-    "issn_online": "0004-637X",
+    "issn_print": "0004-637X",
+    "issn_online": "1538-4357",
     "publisher": "IOP Publishing",
     "country": "GB",
     "language": "English",
@@ -434,7 +434,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.390Z",
-    "updated_at": "2026-08-10T03:49:42.390Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000508",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -2300,8 +2300,8 @@
     "journal_code": "bench-astronomy-and-astrophysics-0048",
     "title": "Astronomy and Astrophysics",
     "short_title": "Astronomy and Astrophysics",
-    "issn_print": null,
-    "issn_online": "0004-6361",
+    "issn_print": "0004-6361",
+    "issn_online": "1432-0746",
     "publisher": "EDP Sciences",
     "country": "FR",
     "language": "English",
@@ -2338,7 +2338,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.390Z",
-    "updated_at": "2026-08-10T03:49:42.390Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000523",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -2396,8 +2396,8 @@
     "journal_code": "bench-electronics-letters-0050",
     "title": "Electronics Letters",
     "short_title": "Electronics Letters",
-    "issn_print": null,
-    "issn_online": "0013-5194",
+    "issn_print": "0013-5194",
+    "issn_online": "1350-911X",
     "publisher": "Institution of Engineering and Technology",
     "country": "US",
     "language": "English",
@@ -2434,7 +2434,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.390Z",
-    "updated_at": "2026-08-10T03:49:42.390Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000524",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -2604,7 +2604,7 @@
     "journal_code": "bench-geophysical-research-letters-0054",
     "title": "Geophysical Research Letters",
     "short_title": "Geophysical Research Letters",
-    "issn_print": null,
+    "issn_print": "1944-8007",
     "issn_online": "0094-8276",
     "publisher": "American Geophysical Union",
     "country": "US",
@@ -2642,7 +2642,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.391Z",
-    "updated_at": "2026-08-10T03:49:42.391Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000525",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -3468,7 +3468,7 @@
     "journal_code": "bench-journal-of-high-energy-physics-0072",
     "title": "Journal of High Energy Physics",
     "short_title": "Journal of High Energy Physics",
-    "issn_print": null,
+    "issn_print": "1126-6708",
     "issn_online": "1029-8479",
     "publisher": "Springer Nature",
     "country": "IT",
@@ -3506,7 +3506,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.391Z",
-    "updated_at": "2026-08-10T03:49:42.391Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000528",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -5284,8 +5284,8 @@
     "journal_code": "bench-applied-and-environmental-microbiology-0109",
     "title": "Applied and Environmental Microbiology",
     "short_title": "Applied and Environmental Microbiology",
-    "issn_print": null,
-    "issn_online": "0099-2240",
+    "issn_print": "0099-2240",
+    "issn_online": "1098-5336",
     "publisher": "American Society for Microbiology",
     "country": "US",
     "language": "English",
@@ -5322,7 +5322,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.391Z",
-    "updated_at": "2026-08-10T03:49:42.391Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000534",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -6436,8 +6436,8 @@
     "journal_code": "bench-the-astronomical-journal-0133",
     "title": "The Astronomical Journal",
     "short_title": "The Astronomical Journal",
-    "issn_print": null,
-    "issn_online": "0004-6256",
+    "issn_print": "0004-6256",
+    "issn_online": "1538-3881",
     "publisher": "Institute of Physics",
     "country": "US",
     "language": "English",
@@ -6482,7 +6482,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.392Z",
-    "updated_at": "2026-08-10T03:49:42.392Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000544",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -7532,8 +7532,8 @@
     "journal_code": "bench-water-science-technology-0155",
     "title": "Water Science & Technology",
     "short_title": "Water Science & Technology",
-    "issn_print": null,
-    "issn_online": "0273-1223",
+    "issn_print": "0273-1223",
+    "issn_online": "1996-9732",
     "publisher": "Pergamon Press",
     "country": "Unknown",
     "language": "English",
@@ -7570,7 +7570,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.392Z",
-    "updated_at": "2026-08-10T03:49:42.392Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000552",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -9332,8 +9332,8 @@
     "journal_code": "bench-environmental-health-perspectives-0192",
     "title": "Environmental Health Perspectives",
     "short_title": "Environmental Health Perspectives",
-    "issn_print": null,
-    "issn_online": "0091-6765",
+    "issn_print": "0091-6765",
+    "issn_online": "1552-9924",
     "publisher": "National Institute of Environmental Health Sciences",
     "country": "US",
     "language": "English",
@@ -9370,7 +9370,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.392Z",
-    "updated_at": "2026-08-10T03:49:42.392Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000556",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -9972,8 +9972,8 @@
     "journal_code": "bench-the-european-physical-journal-c-0205",
     "title": "The European Physical Journal C",
     "short_title": "The European Physical Journal C",
-    "issn_print": null,
-    "issn_online": "1434-6044",
+    "issn_print": "1434-6044",
+    "issn_online": "1434-6052",
     "publisher": "Springer Science+Business Media",
     "country": "DE",
     "language": "English",
@@ -10018,7 +10018,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.393Z",
-    "updated_at": "2026-08-10T03:49:42.393Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000560",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -10276,7 +10276,7 @@
     "journal_code": "bench-european-journal-of-organic-chemistry-0212",
     "title": "European Journal of Organic Chemistry",
     "short_title": "European Journal of Organic Chemistry",
-    "issn_print": null,
+    "issn_print": "1434-193X",
     "issn_online": "1099-0690",
     "publisher": "Wiley",
     "country": "DE",
@@ -10314,7 +10314,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.393Z",
-    "updated_at": "2026-08-10T03:49:42.393Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-023523",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -10468,8 +10468,8 @@
     "journal_code": "bench-water-resources-research-0216",
     "title": "Water Resources Research",
     "short_title": "Water Resources Research",
-    "issn_print": null,
-    "issn_online": "0043-1397",
+    "issn_print": "0043-1397",
+    "issn_online": "1944-7973",
     "publisher": "Wiley",
     "country": "US",
     "language": "English",
@@ -10506,7 +10506,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.393Z",
-    "updated_at": "2026-08-10T03:49:42.393Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000561",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -12164,8 +12164,8 @@
     "journal_code": "bench-journal-of-biological-chemistry-0251",
     "title": "Journal of Biological Chemistry",
     "short_title": "Journal of Biological Chemistry",
-    "issn_print": null,
-    "issn_online": "0021-9258",
+    "issn_print": "0021-9258",
+    "issn_online": "1083-351X",
     "publisher": "Elsevier BV",
     "country": "US",
     "language": "English",
@@ -12202,7 +12202,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000506",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -12612,8 +12612,8 @@
     "journal_code": "bench-nucleic-acids-research-0260",
     "title": "Nucleic Acids Research",
     "short_title": "Nucleic Acids Research",
-    "issn_print": null,
-    "issn_online": "0305-1048",
+    "issn_print": "0305-1048",
+    "issn_online": "1362-4962",
     "publisher": "Oxford University Press",
     "country": "GB",
     "language": "English",
@@ -12650,7 +12650,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000521",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -12660,8 +12660,8 @@
     "journal_code": "bench-journal-of-bacteriology-0261",
     "title": "Journal of Bacteriology",
     "short_title": "Journal of Bacteriology",
-    "issn_print": null,
-    "issn_online": "0021-9193",
+    "issn_print": "0021-9193",
+    "issn_online": "1098-5530",
     "publisher": "American Society for Microbiology",
     "country": "US",
     "language": "English",
@@ -12698,7 +12698,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000522",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -12756,8 +12756,8 @@
     "journal_code": "bench-journal-of-virology-0263",
     "title": "Journal of Virology",
     "short_title": "Journal of Virology",
-    "issn_print": null,
-    "issn_online": "0022-538X",
+    "issn_print": "0022-538X",
+    "issn_online": "1098-5514",
     "publisher": "American Society for Microbiology",
     "country": "US",
     "language": "English",
@@ -12794,7 +12794,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000526",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -12908,8 +12908,8 @@
     "journal_code": "bench-journal-of-dairy-science-0266",
     "title": "Journal of Dairy Science",
     "short_title": "Journal of Dairy Science",
-    "issn_print": null,
-    "issn_online": "0022-0302",
+    "issn_print": "0022-0302",
+    "issn_online": "1525-3198",
     "publisher": "Elsevier BV",
     "country": "US",
     "language": "English",
@@ -12946,7 +12946,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000532",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -13364,8 +13364,8 @@
     "journal_code": "bench-journal-of-clinical-investigation-0275",
     "title": "Journal of Clinical Investigation",
     "short_title": "Journal of Clinical Investigation",
-    "issn_print": null,
-    "issn_online": "0021-9738",
+    "issn_print": "0021-9738",
+    "issn_online": "1558-8238",
     "publisher": "American Society for Clinical Investigation",
     "country": "US",
     "language": "English",
@@ -13402,7 +13402,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000535",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -13708,8 +13708,8 @@
     "journal_code": "bench-poultry-science-0282",
     "title": "Poultry Science",
     "short_title": "Poultry Science",
-    "issn_print": null,
-    "issn_online": "0032-5791",
+    "issn_print": "0032-5791",
+    "issn_online": "1525-3171",
     "publisher": "Elsevier BV",
     "country": "US",
     "language": "English",
@@ -13746,7 +13746,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000539",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -13852,8 +13852,8 @@
     "journal_code": "bench-infection-and-immunity-0285",
     "title": "Infection and Immunity",
     "short_title": "Infection and Immunity",
-    "issn_print": null,
-    "issn_online": "0019-9567",
+    "issn_print": "0019-9567",
+    "issn_online": "1098-5522",
     "publisher": "American Society for Microbiology",
     "country": "US",
     "language": "English",
@@ -13890,7 +13890,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000541",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -13948,8 +13948,8 @@
     "journal_code": "bench-antimicrobial-agents-and-chemotherapy-0287",
     "title": "Antimicrobial Agents and Chemotherapy",
     "short_title": "Antimicrobial Agents and Chemotherapy",
-    "issn_print": null,
-    "issn_online": "0066-4804",
+    "issn_print": "0066-4804",
+    "issn_online": "1098-6596",
     "publisher": "American Society for Microbiology",
     "country": "US",
     "language": "English",
@@ -13986,7 +13986,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-023580",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -14052,8 +14052,8 @@
     "journal_code": "bench-journal-of-clinical-microbiology-0289",
     "title": "Journal of Clinical Microbiology",
     "short_title": "Journal of Clinical Microbiology",
-    "issn_print": null,
-    "issn_online": "0095-1137",
+    "issn_print": "0095-1137",
+    "issn_online": "1098-660X",
     "publisher": "American Society for Microbiology",
     "country": "US",
     "language": "English",
@@ -14090,7 +14090,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.396Z",
-    "updated_at": "2026-08-10T03:49:42.396Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000543",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -14388,8 +14388,8 @@
     "journal_code": "bench-hortscience-0296",
     "title": "HortScience",
     "short_title": "HortScience",
-    "issn_print": null,
-    "issn_online": "0018-5345",
+    "issn_print": "0018-5345",
+    "issn_online": "2327-9834",
     "publisher": "American Society for Horticultural Science",
     "country": "US",
     "language": "English",
@@ -14426,7 +14426,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.397Z",
-    "updated_at": "2026-08-10T03:49:42.397Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000545",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -15028,8 +15028,8 @@
     "journal_code": "bench-neuroimage-0309",
     "title": "NeuroImage",
     "short_title": "NeuroImage",
-    "issn_print": null,
-    "issn_online": "1053-8119",
+    "issn_print": "1053-8119",
+    "issn_online": "1095-9572",
     "publisher": "Elsevier BV",
     "country": "US",
     "language": "English",
@@ -15066,7 +15066,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.397Z",
-    "updated_at": "2026-08-10T03:49:42.397Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000553",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -16852,8 +16852,8 @@
     "journal_code": "bench-the-embo-journal-0346",
     "title": "The EMBO Journal",
     "short_title": "The EMBO Journal",
-    "issn_print": null,
-    "issn_online": "0261-4189",
+    "issn_print": "0261-4189",
+    "issn_online": "1460-2075",
     "publisher": "Springer Nature",
     "country": "DE",
     "language": "English",
@@ -16890,7 +16890,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.397Z",
-    "updated_at": "2026-08-10T03:49:42.397Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000565",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -16900,8 +16900,8 @@
     "journal_code": "bench-applied-microbiology-and-biotechnology-0347",
     "title": "Applied Microbiology and Biotechnology",
     "short_title": "Applied Microbiology and Biotechnology",
-    "issn_print": null,
-    "issn_online": "0175-7598",
+    "issn_print": "0175-7598",
+    "issn_online": "1432-0614",
     "publisher": "Springer Science+Business Media",
     "country": "DE",
     "language": "English",
@@ -16938,7 +16938,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.397Z",
-    "updated_at": "2026-08-10T03:49:42.397Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000566",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -17964,8 +17964,8 @@
     "journal_code": "bench-bioinformatics-0369",
     "title": "Bioinformatics",
     "short_title": "Bioinformatics",
-    "issn_print": null,
-    "issn_online": "1367-4803",
+    "issn_print": "1367-4803",
+    "issn_online": "1367-4811",
     "publisher": "Oxford University Press",
     "country": "GB",
     "language": "English",
@@ -18002,7 +18002,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.397Z",
-    "updated_at": "2026-08-10T03:49:42.397Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000582",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -18012,7 +18012,7 @@
     "journal_code": "bench-frontiers-in-neuroscience-0370",
     "title": "Frontiers in Neuroscience",
     "short_title": "Frontiers in Neuroscience",
-    "issn_print": null,
+    "issn_print": "1662-4548",
     "issn_online": "1662-453X",
     "publisher": "Frontiers Media",
     "country": "CH",
@@ -18050,7 +18050,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.397Z",
-    "updated_at": "2026-08-12T12:29:58.993Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000094",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -21892,8 +21892,8 @@
     "journal_code": "bench-microbiology-0449",
     "title": "Microbiology",
     "short_title": "Microbiology",
-    "issn_print": null,
-    "issn_online": "1350-0872",
+    "issn_print": "1350-0872",
+    "issn_online": "1465-2080",
     "publisher": "Microbiology Society",
     "country": "GB",
     "language": "English",
@@ -21930,7 +21930,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.399Z",
-    "updated_at": "2026-08-10T03:49:42.399Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000631",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -22812,8 +22812,8 @@
     "journal_code": "bench-journal-of-food-protection-0468",
     "title": "Journal of Food Protection",
     "short_title": "Journal of Food Protection",
-    "issn_print": null,
-    "issn_online": "0362-028X",
+    "issn_print": "0362-028X",
+    "issn_online": "1944-9097",
     "publisher": "Elsevier BV",
     "country": "US",
     "language": "English",
@@ -22850,7 +22850,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.399Z",
-    "updated_at": "2026-08-10T03:49:42.399Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000641",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -23740,8 +23740,8 @@
     "journal_code": "bench-pharmacological-research-0488",
     "title": "Pharmacological Research",
     "short_title": "Pharmacological Research",
-    "issn_print": null,
-    "issn_online": "1043-6618",
+    "issn_print": "1043-6618",
+    "issn_online": "1096-1186",
     "publisher": "Elsevier BV",
     "country": "GB",
     "language": "English",
@@ -23778,7 +23778,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.399Z",
-    "updated_at": "2026-08-10T03:49:42.399Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000651",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -23836,8 +23836,8 @@
     "journal_code": "bench-international-journal-of-food-science-te-0490",
     "title": "International Journal of Food Science & Technology",
     "short_title": "International Journal of Food Science...",
-    "issn_print": null,
-    "issn_online": "0950-5423",
+    "issn_print": "0950-5423",
+    "issn_online": "1365-2621",
     "publisher": "Oxford University Press",
     "country": null,
     "language": "English",
@@ -23874,7 +23874,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.399Z",
-    "updated_at": "2026-10-10T00:00:00.000Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000653",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -30220,8 +30220,8 @@
     "journal_code": "bench-the-korean-journal-of-internal-medicine-0622",
     "title": "The Korean Journal of Internal Medicine",
     "short_title": "The Korean Journal of Internal Medicine",
-    "issn_print": null,
-    "issn_online": "1226-3303",
+    "issn_print": "1226-3303",
+    "issn_online": "2005-6648",
     "publisher": "Korean Association of Internal Medicine",
     "country": "KR",
     "language": "English",
@@ -30266,7 +30266,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.401Z",
-    "updated_at": "2026-08-10T03:49:42.401Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000750",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -31020,8 +31020,8 @@
     "journal_code": "bench-college-research-libraries-0638",
     "title": "College & Research Libraries",
     "short_title": "College & Research Libraries",
-    "issn_print": null,
-    "issn_online": "0010-0870",
+    "issn_print": "0010-0870",
+    "issn_online": "2150-6701",
     "publisher": "Association of College and Research Libraries",
     "country": "US",
     "language": "English",
@@ -31058,7 +31058,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.401Z",
-    "updated_at": "2026-08-10T03:49:42.401Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000781",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -31932,8 +31932,8 @@
     "journal_code": "bench-human-vaccines-immunotherapeutics-0657",
     "title": "Human Vaccines & Immunotherapeutics",
     "short_title": "Human Vaccines & Immunotherapeutics",
-    "issn_print": null,
-    "issn_online": "2164-5515",
+    "issn_print": "2164-5515",
+    "issn_online": "2164-554X",
     "publisher": "Taylor & Francis",
     "country": "US",
     "language": "English",
@@ -31970,7 +31970,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.402Z",
-    "updated_at": "2026-08-10T03:49:42.402Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000813",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -33084,8 +33084,8 @@
     "journal_code": "bench-the-korean-journal-of-thoracic-and-cardi-0681",
     "title": "The Korean Journal of Thoracic and Cardiovascular Surgery",
     "short_title": "The Korean Journal of Thoracic and Ca...",
-    "issn_print": null,
-    "issn_online": "0301-2859",
+    "issn_print": "0301-2859",
+    "issn_online": "2093-6516",
     "publisher": "Korean Society for Thoracic and Cardiovascular Surgery",
     "country": "KR",
     "language": "English",
@@ -33122,7 +33122,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.402Z",
-    "updated_at": "2026-08-10T03:49:42.402Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-005251",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -34452,8 +34452,8 @@
     "journal_code": "bench-journal-of-the-formosan-medical-associat-0709",
     "title": "Journal of the Formosan Medical Association",
     "short_title": "Journal of the Formosan Medical Assoc...",
-    "issn_print": null,
-    "issn_online": "0929-6646",
+    "issn_print": "0929-6646",
+    "issn_online": "1876-0821",
     "publisher": "Elsevier BV",
     "country": "NL",
     "language": "English",
@@ -34490,7 +34490,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.403Z",
-    "updated_at": "2026-08-10T03:49:42.403Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000881",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -36868,8 +36868,8 @@
     "journal_code": "bench-investigative-ophthalmology-visual-scien-0759",
     "title": "Investigative Ophthalmology & Visual Science",
     "short_title": "Investigative Ophthalmology & Visual ...",
-    "issn_print": null,
-    "issn_online": "0146-0404",
+    "issn_print": "0146-0404",
+    "issn_online": "1552-5783",
     "publisher": "Cadmus Press",
     "country": "US",
     "language": "English",
@@ -36906,7 +36906,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.403Z",
-    "updated_at": "2026-08-10T03:49:42.403Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000510",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -38076,8 +38076,8 @@
     "journal_code": "bench-medicine-0784",
     "title": "Medicine",
     "short_title": "Medicine",
-    "issn_print": null,
-    "issn_online": "0025-7974",
+    "issn_print": "0025-7974",
+    "issn_online": "1536-5964",
     "publisher": "Wolters Kluwer",
     "country": "US",
     "language": "English",
@@ -38114,7 +38114,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.404Z",
-    "updated_at": "2026-08-10T03:49:42.404Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000527",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -38420,8 +38420,8 @@
     "journal_code": "bench-experimental-biology-and-medicine-0791",
     "title": "Experimental Biology and Medicine",
     "short_title": "Experimental Biology and Medicine",
-    "issn_print": null,
-    "issn_online": "0071-3384",
+    "issn_print": "1535-3702",
+    "issn_online": "1535-3699",
     "publisher": "SAGE Publishing",
     "country": "GB",
     "language": "English",
@@ -38458,7 +38458,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.404Z",
-    "updated_at": "2026-08-10T03:49:42.404Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000112",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -42652,8 +42652,8 @@
     "journal_code": "bench-archives-of-gynecology-and-obstetrics-0878",
     "title": "Archives of Gynecology and Obstetrics",
     "short_title": "Archives of Gynecology and Obstetrics",
-    "issn_print": null,
-    "issn_online": "0003-9128",
+    "issn_print": "0932-0067",
+    "issn_online": "1432-0711",
     "publisher": "Springer Science+Business Media",
     "country": "DE",
     "language": "English",
@@ -42690,7 +42690,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.405Z",
-    "updated_at": "2026-08-10T03:49:42.405Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000562",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -43428,8 +43428,8 @@
     "journal_code": "bench-critical-care-0895",
     "title": "Critical Care",
     "short_title": "Critical Care",
-    "issn_print": null,
-    "issn_online": "1364-8535",
+    "issn_print": "1364-8535",
+    "issn_online": "1875-7081",
     "publisher": "BioMed Central",
     "country": "GB",
     "language": "English",
@@ -43474,7 +43474,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.405Z",
-    "updated_at": "2026-08-10T03:49:42.405Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000574",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -45756,8 +45756,8 @@
     "journal_code": "bench-american-journal-of-veterinary-research-0944",
     "title": "American Journal of Veterinary Research",
     "short_title": "American Journal of Veterinary Research",
-    "issn_print": null,
-    "issn_online": "0002-9645",
+    "issn_print": "0002-9645",
+    "issn_online": "1943-5681",
     "publisher": "American Veterinary Medical Association",
     "country": "US",
     "language": "English",
@@ -45794,7 +45794,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.406Z",
-    "updated_at": "2026-08-10T03:49:42.406Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000595",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -46340,8 +46340,8 @@
     "journal_code": "bench-journal-of-cancer-research-and-clinical--0956",
     "title": "Journal of Cancer Research and Clinical Oncology",
     "short_title": "Journal of Cancer Research and Clinic...",
-    "issn_print": null,
-    "issn_online": "0084-5353",
+    "issn_print": "0171-5216",
+    "issn_online": "1432-1335",
     "publisher": "Springer Science+Business Media",
     "country": "DE",
     "language": "English",
@@ -46378,7 +46378,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.406Z",
-    "updated_at": "2026-08-10T03:49:42.406Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000602",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -46388,8 +46388,8 @@
     "journal_code": "bench-acta-obstetricia-et-gynecologica-scandin-0957",
     "title": "Acta Obstetricia Et Gynecologica Scandinavica",
     "short_title": "Acta Obstetricia Et Gynecologica Scan...",
-    "issn_print": null,
-    "issn_online": "0001-6349",
+    "issn_print": "0001-6349",
+    "issn_online": "1600-0412",
     "publisher": "Wiley",
     "country": "GB",
     "language": "English",
@@ -46426,7 +46426,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.406Z",
-    "updated_at": "2026-08-10T03:49:42.406Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000600",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -47348,8 +47348,8 @@
     "journal_code": "bench-canadian-medical-association-journal-0977",
     "title": "Canadian Medical Association Journal",
     "short_title": "Canadian Medical Association Journal",
-    "issn_print": null,
-    "issn_online": "0820-3946",
+    "issn_print": "0820-3946",
+    "issn_online": "1488-2329",
     "publisher": "Canadian Medical Association",
     "country": "CA",
     "language": "English",
@@ -47386,7 +47386,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.406Z",
-    "updated_at": "2026-08-10T03:49:42.406Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000608",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
@@ -48028,8 +48028,8 @@
     "journal_code": "bench-emerging-infectious-diseases-0991",
     "title": "Emerging infectious diseases",
     "short_title": "Emerging infectious diseases",
-    "issn_print": null,
-    "issn_online": "1080-6040",
+    "issn_print": "1080-6040",
+    "issn_online": "1080-6059",
     "publisher": "Centers for Disease Control and Prevention",
     "country": "US",
     "language": "English",
@@ -48066,7 +48066,7 @@
       ]
     },
     "created_at": "2026-08-10T03:49:42.406Z",
-    "updated_at": "2026-08-10T03:49:42.406Z",
+    "updated_at": "2026-10-15T10:23:17.669Z",
     "posi_id": "POSI-J-000612",
     "benchmark_source_group": "curated_benchmark_seed",
     "collection_status": "discovered"
