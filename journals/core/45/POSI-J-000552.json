@@ -4,7 +4,7 @@
   "short_title": "Water Science & Technology",
   "status": "discovered",
   "publisher": "Pergamon Press",
-  "country": null,
+  "country": "GB",
   "language": [
     "en"
   ],
@@ -41,8 +41,14 @@
       "source_record_id": "crossref:1996-9732",
       "retrieved_at": "2026-10-15T10:23:17.669Z",
       "license": null
+    },
+    {
+      "source": "posi_curation",
+      "source_record_id": "registration_country:United Kingdom",
+      "retrieved_at": "2026-10-15T10:43:49.000Z",
+      "license": null
     }
   ],
   "created_at": "2026-08-10T03:49:42.392Z",
-  "updated_at": "2026-10-15T10:23:17.669Z"
+  "updated_at": "2026-10-15T10:43:49.000Z"
 }
