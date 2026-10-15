@@ -13,8 +13,8 @@
   "website_url": "http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1944-7973/",
   "identifiers": {
     "issn_l": "0043-1397",
-    "issn_print": null,
-    "issn_online": "0043-1397",
+    "issn_print": "0043-1397",
+    "issn_online": "1944-7973",
     "openalex_source_id": "S204847658",
     "crossref_member_id": null,
     "ror_publisher_id": null,
@@ -35,8 +35,14 @@
       "source_record_id": "S204847658",
       "retrieved_at": "2026-08-12T03:43:43.105Z",
       "license": "CC0-1.0"
+    },
+    {
+      "source": "posi_curation",
+      "source_record_id": "crossref:0043-1397",
+      "retrieved_at": "2026-10-15T10:23:17.669Z",
+      "license": null
     }
   ],
   "created_at": "2026-08-10T03:49:42.393Z",
-  "updated_at": "2026-08-12T03:43:43.105Z"
+  "updated_at": "2026-10-15T10:23:17.669Z"
 }
