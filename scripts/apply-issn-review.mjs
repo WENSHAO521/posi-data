@@ -47,11 +47,17 @@ const bench = JSON.parse(readFileSync(benchPath, 'utf8'))
 const benchById = new Map(bench.map((j) => [j.posi_id, j]))
 const all = loadJournalRecords(ROOT)
 
+// Rows checked after the review file was written: verified-<date>.json (id -> evidence) counts as verified.
+const alsoVerified = new Set()
+for (const f of readdirSync(join(ROOT, 'audits/data-quality', 'issn-regression-review-2026-10-17')).filter((f) => /^verified-.*\.json$/.test(f))) {
+  for (const id of Object.keys(JSON.parse(readFileSync(join(ROOT, 'audits/data-quality', 'issn-regression-review-2026-10-17', f), 'utf8')))) alsoVerified.add(id)
+}
+
 const plan = new Map(), skipped = []
 for (const r of rows) {
   if (r.length < head.length) continue
   const id = r[C.id]
-  if (!/^(已核实|印刷版已核)/.test(r[C.auth])) { skipped.push(`${id}: not verified (${r[C.auth]})`); continue }
+  if (!/^(已核实|印刷版已核)/.test(r[C.auth]) && !alsoVerified.has(id)) { skipped.push(`${id}: not verified (${r[C.auth]})`); continue }
   if (/#102/.test(r[C.note])) { skipped.push(`${id}: in the ISSN conflict queue (#102)`); continue }
   if (all.get(id)?.status === 'indexed') { skipped.push(`${id}: Core Collection journal (indexed); not changed`); continue }
   const bad = [r[C.p], r[C.o]].filter((v) => v && (!checkOk(v) || [...(holders.get(v) ?? [])].some((h) => h !== id)))
