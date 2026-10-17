@@ -1,0 +1,33 @@
+POSI-J-005000: CI (Croatia) but the website says "Côte d’Ivoire"; left unchanged
+POSI-J-018978: CI (Croatia) but the website says "Côte d’Ivoire"; left unchanged
+POSI-J-019298: CI (Croatia) but the website says "Côte d’Ivoire"; left unchanged
+POSI-J-020102: NE (Netherlands) but the website says "Niger"; left unchanged
+POSI-J-023044: CI (Croatia) but the website says "Côte d’Ivoire"; left unchanged
+POSI-J-023173: CI (Croatia) but the website says "Côte d’Ivoire"; left unchanged
+POSI-J-023223: CI (Croatia) but the website says "Côte d’Ivoire"; left unchanged
+POSI-J-023232: CI (Croatia) but the website says "Côte d’Ivoire"; left unchanged
+POSI-J-023236: CI (Croatia) but the website says "Côte d’Ivoire"; left unchanged
+POSI-J-024235: NE has no website record to confirm it
+POSI-J-024275: CC has no website record to confirm it
+POSI-J-024313: NE has no website record to confirm it
+POSI-J-024672: NE has no website record to confirm it
+POSI-J-024748: NE has no website record to confirm it
+POSI-J-024857: NE has no website record to confirm it
+POSI-J-025026: NE has no website record to confirm it
+POSI-J-025039: NE has no website record to confirm it
+POSI-J-025040: NE has no website record to confirm it
+POSI-J-025128: NE has no website record to confirm it
+POSI-J-025340: NE has no website record to confirm it
+POSI-J-025667: NE has no website record to confirm it
+POSI-J-025782: NE has no website record to confirm it
+POSI-J-025807: NE has no website record to confirm it
+POSI-J-025831: NE has no website record to confirm it
+POSI-J-025903: CC has no website record to confirm it
+POSI-J-025959: NE has no website record to confirm it
+POSI-J-026179: NE has no website record to confirm it
+POSI-J-026197: NE has no website record to confirm it
+POSI-J-026249: NE has no website record to confirm it
+POSI-J-026265: NE has no website record to confirm it
+POSI-J-026278: NE has no website record to confirm it
+POSI-J-026293: NE has no website record to confirm it
+POSI-J-026377: CC has no website record to confirm it
