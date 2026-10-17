@@ -47,7 +47,8 @@ function decide(r, s, review) {
   if (!theirs || String(mine ?? '') === String(theirs)) return null
   if (FIELD === 'website_url') {
     if (mine && url(mine) === url(theirs)) return null
-    return theirs
+    // The schema wants an ASCII URI: an internationalised host goes in as punycode.
+    return /^[\x00-\x7f]*$/.test(theirs) ? theirs : new URL(theirs).href
   }
   if (!mine) return null
   if (FIELD === 'publisher') {
