@@ -1,0 +1,74 @@
+{
+  "POSI-J-002173": [
+    "Universidad Espíritu Santo",
+    "Data layer held a Cuban university; journal site is revistas.uees.edu.ec (Ecuador)"
+  ],
+  "POSI-J-004946": [
+    "Medical Society of the Republic of Srpska, Banja Luka, University of Banja Luka. Faculty of Medicine",
+    "Data layer held the publisher of a different journal (Faculty of Agronomy in Čačak)"
+  ],
+  "POSI-J-010271": [
+    "Ukrainian Association of Neurosurgeons",
+    "Typo 'Ukranian'; publisher otherwise kept"
+  ],
+  "POSI-J-011264": [
+    "AVES YAYINCILIK A.S.",
+    "Published by AVES since 2020; Istanbul University is the owner, not the publisher"
+  ],
+  "POSI-J-014581": [
+    "Academia Diplomatica del Peru Javier Perez de Cuellar",
+    "Journal site is revista.adp.edu.pe; data layer held the Cuban ISRI of a different journal of the same name"
+  ],
+  "POSI-J-019697": [
+    "Universitas Negeri Semarang",
+    "Data layer named a department (Jurusan Ilmu Komputer) of another journal"
+  ],
+  "POSI-J-019947": [
+    "Universitas Negeri Semarang",
+    "Same as POSI-J-019697"
+  ],
+  "POSI-J-024880": [
+    "KeAi",
+    "Published by KeAi; Elsevier BV is the platform. 'KeAi' is the spelling of 14 other records"
+  ],
+  "POSI-J-025089": [
+    "IWA Publishing",
+    "Hydrology Research is an IWA journal; its website_url points at ScienceDirect and needs a separate check"
+  ],
+  "POSI-J-025722": [
+    "KeAi",
+    "Same as POSI-J-024880"
+  ],
+  "POSI-J-026054": [
+    "KeAi",
+    "Same as POSI-J-024880"
+  ],
+  "POSI-J-027942": [
+    "Wiley",
+    "Hindawi journals moved to Wiley; the journal site is on onlinelibrary.wiley.com"
+  ],
+  "POSI-J-027943": [
+    "Wiley-VCH",
+    "Wiley-VCH imprint"
+  ],
+  "POSI-J-027952": [
+    "Wiley-VCH",
+    "Wiley-VCH imprint (Chemistry Europe)"
+  ],
+  "POSI-J-026437": [
+    "Wiley",
+    "Crossref qualifier removed; the website's 'Project MUSE' is a platform, not the publisher"
+  ],
+  "POSI-J-027420": [
+    "Wiley",
+    "Crossref qualifier removed; the website's 'Georg Thieme Verlag KG' is wrong for a Wiley-hosted journal"
+  ],
+  "POSI-J-027508": [
+    "Wiley",
+    "Crossref qualifier removed; AAFCS is the society, not the publisher"
+  ],
+  "POSI-J-021520": [
+    "Universitas Negeri Semarang",
+    "Publisher kept (ISSN 1978-8304 / 2580-4154 is the Semarang journal). website_url corrected by the owner to https://journal.unnes.ac.id/journals/jpp: the earlier ejournal.upi.edu/JER address belongs to a UPI journal"
+  ]
+}
