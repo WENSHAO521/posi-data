@@ -1,2 +1,3 @@
 identity_type,identity_value,reason,date
 issn_pair,2950-5771,"ghost_record_no_external_evidence: same title as an established journal (Clinical Traditional Medicine and Pharmacology, 2097-3829) but this ISSN is not registered in Crossref (404), has no OpenAlex Source, and 0 articles -- excluded from elsevier-jnlactive-expansion-2026, POSI-J-024583 left unused (not superseded, no confirmed surviving identity to point to)",2026-08-12
+issn_pair,3135-0011,"deleted_at_owner_request: Digital Intelligence Frontiers (dif-rfp, POSI-J-000030) was removed from the database entirely, not just withdrawn; the id POSI-J-000030 stays in journal-id-map.csv and is never reused",2026-10-17

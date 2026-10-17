@@ -10,7 +10,7 @@ candidate, see `AJR-SPEC.md` § "Global Benchmark Collection").
 
 A journal taken out of the database after admission is not deleted from `core-collection.json`: its record stays, so its `POSI-J-######` id and history are kept, with `collection_status: "withdrawn"`. Everything downstream skips it: `scripts/publish-data-snapshot.mjs` leaves it out of the published collections, the per-journal PCS/PCI records and every count, and posi-engine's crawls and monthly rerate do not process it. The website lists the same journals in its own `withdrawn-journals.json`. To index one again, remove the status (and the website entry).
 
-So far one journal is withdrawn: Digital Intelligence Frontiers (`dif-rfp`, `POSI-J-000030`), 2026-10-03, no DOIs registered.
+No journal is withdrawn at present. Digital Intelligence Frontiers (`dif-rfp`, `POSI-J-000030`), the one withdrawn on 2026-10-03 (no DOIs registered), was deleted from the database entirely on 2026-10-17 at the owner's request; its ISSN is in `registry/excluded-identities.csv` and its id stays in `registry/journal-id-map.csv`, never reused.
 
 ## Why this is not `journals/`
 
