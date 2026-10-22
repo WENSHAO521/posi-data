@@ -1,0 +1,45 @@
+[
+ {
+  "title": "Value in Health Regional Issues",
+  "issns": [
+   "2212-1099",
+   "2212-1102"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-026355"
+ },
+ {
+  "title": "Mucosal Immunology",
+  "issns": [
+   "1933-0219",
+   "1935-3456"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025755"
+ },
+ {
+  "title": "Journal of Arid Land",
+  "issns": [
+   "1674-6767",
+   "2194-7783"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025267"
+ },
+ {
+  "title": "Psychiatry Research Case Reports",
+  "issns": [
+   "2773-0212"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-026009"
+ },
+ {
+  "title": "Neuroimmunology Reports",
+  "issns": [
+   "2667-257X"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025779"
+ }
+]
