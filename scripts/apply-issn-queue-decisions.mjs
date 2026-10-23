@@ -6,7 +6,8 @@
  * Portal and publishers the same day) on the nine rows of
  * audits/data-quality/issn-integrity/open-issues.csv: corrects the ISSNs and other attributes listed in
  * DECISIONS, supersedes the second id of the four journals minted twice (registry/superseded-ids.csv; ids
- * are never reassigned), and removes the rows from the queue. The evidence for each row is in the issue.
+ * are never reassigned), moves a superseded id's screening record into the survivor's journal_code_aliases, and
+ * removes the rows from the queue. The evidence for each row is in the issue.
  *
  * A record in journals/core is edited there, a record in journals/discovered in its .jsonl; the record's copy
  * in corpus/global-benchmark.json (matched by posi_id) gets the same ISSNs, so the two stay in step. A
@@ -101,11 +102,30 @@ const queue = readFileSync(queuePath, 'utf8').split('\n')
 const doneIssn = new Set(done.map((d) => d.issn))
 const keep = queue.filter((l, i) => i === 0 || !l.trim() || !doneIssn.has(l.split(',')[1]))
 
+// A superseded id keeps no screening record of its own: compose-discovered needs a live journal for each one. Its
+// website code (and aliases) move to the survivor's journal_code_aliases, so the old journal page redirects.
+const screenPath = join(ROOT, 'screening/discovered-screening.jsonl')
+const screening = readFileSync(screenPath, 'utf8').split('\n').filter(Boolean).map((l) => JSON.parse(l))
+const screenById = new Map(screening.map((x) => [x.posi_id, x]))
+const dropped = new Set()
+for (const d of DECISIONS) {
+  if (!d.supersede) continue
+  const old = screenById.get(d.supersede.old), live = screenById.get(d.id)
+  if (!old) continue
+  if (!live) { skipped.push(`${d.id}: no screening record to take ${d.supersede.old}'s code ${old.journal_code}`); continue }
+  const { posi_id, journal_code, journal_code_aliases, ...rest } = live
+  const aliases = [...new Set([...(journal_code_aliases ?? []), old.journal_code, ...(old.journal_code_aliases ?? [])])].filter((c) => c !== journal_code).sort()
+  Object.keys(live).forEach((k) => delete live[k])
+  Object.assign(live, { posi_id, journal_code, journal_code_aliases: aliases, ...rest, updated_at: NOW })
+  dropped.add(d.supersede.old)
+}
+
 if (WRITE) {
+  if (dropped.size) writeFileSync(screenPath, screening.filter((x) => !dropped.has(x.posi_id)).map((x) => JSON.stringify(x)).join('\n') + '\n', 'utf8')
   for (const f of changed.disc) writeFileSync(join(discDir, f), disc.get(f).join('\n'), 'utf8')
   if (changed.bench) writeFileSync(benchPath, JSON.stringify(bench, null, 2) + '\n', 'utf8')
   if (newSup.length) writeFileSync(supPath, supText.replace(/\n?$/, '\n') + newSup.join('\n') + '\n', 'utf8')
   writeFileSync(queuePath, keep.join('\n'), 'utf8')
 }
-console.log(WRITE ? 'written' : 'dry run', { applied: done.length, superseded: newSup.length, queue_rows_removed: queue.length - keep.length, benchmark_changed: changed.bench })
+console.log(WRITE ? 'written' : 'dry run', { applied: done.length, superseded: newSup.length, queue_rows_removed: queue.length - keep.length, benchmark_changed: changed.bench, screening_merged: [...dropped] })
 for (const s of skipped) console.log('  ' + s)
