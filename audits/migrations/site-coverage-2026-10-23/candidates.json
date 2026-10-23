@@ -1,0 +1,887 @@
+[
+ {
+  "title": "Journal of PACS",
+  "publisher": "Jaypee Brothers Medical Publisher",
+  "ISSN": [
+   "3107-9016"
+  ],
+  "issn-type": [
+   {
+    "value": "3107-9016",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.pacsjournal.com/journalDetails/JPACS",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3107-9016"
+   }
+  ]
+ },
+ {
+  "title": "Applied Mathematics on Science and Engineering",
+  "publisher": "Further Science",
+  "ISSN": [
+   "3048-8362"
+  ],
+  "issn-type": [
+   {
+    "value": "3048-8362",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://furthersci.org/journal-details.php?journal-id=49",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3048-8362"
+   }
+  ]
+ },
+ {
+  "title": "Statistics and Data Science in Imaging",
+  "publisher": "Taylor & Francis Group",
+  "ISSN": [
+   "2997-9676"
+  ],
+  "issn-type": [
+   {
+    "value": "2997-9676",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.tandfonline.com/journals/usdi20",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2997-9676"
+   }
+  ]
+ },
+ {
+  "title": "Advances in Translational Research",
+  "publisher": "Akadémiai Kiadó",
+  "ISSN": [
+   "3141-7094"
+  ],
+  "issn-type": [
+   {
+    "value": "3141-7094",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.akjournals.com/view/journals/1661/1661-overview.xml",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3141-7094"
+   }
+  ]
+ },
+ {
+  "title": "International Journal of English Language and Pedagogy",
+  "publisher": "Universitas Terbuka",
+  "ISSN": [
+   "3025-4310"
+  ],
+  "issn-type": [
+   {
+    "value": "3025-4310",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://jurnal.ut.ac.id/index.php/ijelp",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3025-4310"
+   }
+  ]
+ },
+ {
+  "title": "Journal of Advanced Health Research & Clinical Medicine",
+  "publisher": "Wolters Kluwer Medknow Publications",
+  "ISSN": [
+   "3050-595X",
+   "3050-5941"
+  ],
+  "issn-type": [
+   {
+    "value": "3050-595X",
+    "type": "electronic"
+   },
+   {
+    "value": "3050-5941",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.ovid.com/jnls/hrcm",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3050-595X"
+   }
+  ]
+ },
+ {
+  "title": "Journal of Architecture and Built Environment Research",
+  "publisher": "University of Lahore, Lahore, Pakistan",
+  "ISSN": [
+   "3079-1960"
+  ],
+  "issn-type": [
+   {
+    "value": "3079-1960",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://journals.uol.edu.pk/JABER/index",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3079-1960"
+   }
+  ]
+ },
+ {
+  "title": "Global Environmental Science",
+  "publisher": "Scilight Press Pty Ltd",
+  "ISSN": [
+   "2982-3358"
+  ],
+  "issn-type": [
+   {
+    "value": "2982-3358",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.sciltp.com/journals/ges",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2982-3358"
+   }
+  ]
+ },
+ {
+  "title": "RELART",
+  "publisher": "Asociación Argentina de Artroscopia",
+  "ISSN": [
+   "3072-8010"
+  ],
+  "issn-type": [
+   {
+    "value": "3072-8010",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://revistarelart.com/index.php/revista/index",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3072-8010"
+   }
+  ]
+ },
+ {
+  "title": "Slovo",
+  "publisher": "Uppsala University",
+  "ISSN": [
+   "2001-7359"
+  ],
+  "issn-type": [
+   {
+    "value": "2001-7359",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://journals.uu.se/slovo",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2001-7359"
+   }
+  ]
+ },
+ {
+  "title": "HiMA",
+  "publisher": "Presses Universitaires de Franche-Comté (PUFC)",
+  "ISSN": [
+   "2981-2984",
+   "2491-6943"
+  ],
+  "issn-type": [
+   {
+    "value": "2981-2984",
+    "type": "electronic"
+   },
+   {
+    "value": "2491-6943",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://preo.ube.fr/hima",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2981-2984"
+   }
+  ]
+ },
+ {
+  "title": "Proskuneo",
+  "publisher": "Program Studi Teologi STT Transformasi Indonesia",
+  "ISSN": [
+   "3064-3767"
+  ],
+  "issn-type": [
+   {
+    "value": "3064-3767",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://e-journal.stttransformasi-indonesia.ac.id/index.php/pjt",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3064-3767"
+   }
+  ]
+ },
+ {
+  "title": "Integration of Mankind and Society",
+  "publisher": "AMMANIF",
+  "ISSN": [
+   "3105-3920"
+  ],
+  "issn-type": [
+   {
+    "value": "3105-3920",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://ammanif.com/journal/ims/index.php/home/index",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3105-3920"
+   }
+  ]
+ },
+ {
+  "title": "Journal of Sustainable Education",
+  "publisher": "The Univeristy of Lahore",
+  "ISSN": [
+   "3079-0948",
+   "3079-093X"
+  ],
+  "issn-type": [
+   {
+    "value": "3079-0948",
+    "type": "electronic"
+   },
+   {
+    "value": "3079-093X",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://journals.uol.edu.pk/jse",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3079-0948"
+   }
+  ]
+ },
+ {
+  "title": "Syntactic Theory and Research",
+  "publisher": "Open Library of Humanities",
+  "ISSN": [
+   "3049-8228"
+  ],
+  "issn-type": [
+   {
+    "value": "3049-8228",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://star-linguistics.org/",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3049-8228"
+   }
+  ]
+ },
+ {
+  "title": "Journal of Visualization and Interaction",
+  "publisher": "Aalborg University Open Publishing",
+  "ISSN": [
+   "2794-5502"
+  ],
+  "issn-type": [
+   {
+    "value": "2794-5502",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.journalovi.org/",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2794-5502"
+   }
+  ]
+ },
+ {
+  "title": "حسابرسی سیستم‌ها و فناوری اطلاعات",
+  "publisher": "Iranian Information Technology Audit Scientific Association",
+  "ISSN": [
+   "3115-8773"
+  ],
+  "issn-type": [
+   {
+    "value": "3115-8773",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.iitasa.org.ir/?lang=en",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3115-8773"
+   }
+  ]
+ },
+ {
+  "title": "Evidence-Based Chinese Medicine and Technology Assessment",
+  "publisher": "Tsinghua University Press",
+  "ISSN": [
+   "3078-7963"
+  ],
+  "issn-type": [
+   {
+    "value": "3078-7963",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.sciopen.com/journal/3078-7963",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3078-7963"
+   }
+  ]
+ },
+ {
+  "title": "广东畜牧兽医科技",
+  "publisher": "Editorial Office of Guangdong Journal of Animal and Veterinary Science",
+  "ISSN": [
+   "1005-8567"
+  ],
+  "issn-type": [
+   {
+    "value": "1005-8567",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "http://www.gdxmsykj.cn/EN/1005-8567/home.shtml",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-1005-8567"
+   }
+  ]
+ },
+ {
+  "title": "Opto-Electronic Technology",
+  "publisher": "Editorial Office of Opto-Electronic Journals Group, Institute of Optics and Electronics, CAS, China",
+  "ISSN": [
+   "2097-6003"
+  ],
+  "issn-type": [
+   {
+    "value": "2097-6003",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.oejournal.org/oet/en/",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2097-6003"
+   }
+  ]
+ },
+ {
+  "title": "Shijie Shiyou Gongye",
+  "publisher": "Editorial Office of World Petroleum Industry",
+  "ISSN": [
+   "1006-0030"
+  ],
+  "issn-type": [
+   {
+    "value": "1006-0030",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://wpi.org.cn/homeNav?lang=en",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-1006-0030"
+   }
+  ]
+ },
+ {
+  "title": "分布式能源",
+  "publisher": "Tsinghua University Press",
+  "ISSN": [
+   "2096-2185"
+  ],
+  "issn-type": [
+   {
+    "value": "2096-2185",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.sciopen.com/journal/2096-2185",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2096-2185"
+   }
+  ]
+ },
+ {
+  "title": "IIMBG Journal of Sustainable Business and Innovation",
+  "publisher": "Emerald Publishing",
+  "ISSN": [
+   "2753-4022",
+   "2976-8500"
+  ],
+  "issn-type": [
+   {
+    "value": "2753-4022",
+    "type": "electronic"
+   },
+   {
+    "value": "2976-8500",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.emerald.com/ijsbi",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2753-4022"
+   }
+  ]
+ },
+ {
+  "title": "Gobierno & Sociedad",
+  "publisher": "Instituto de Estudios Democráticos",
+  "ISSN": [
+   "2805-1912",
+   "2805-1920"
+  ],
+  "issn-type": [
+   {
+    "value": "2805-1912",
+    "type": "electronic"
+   },
+   {
+    "value": "2805-1920",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://revistas.ined.ac.pa/index.php/gys",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2805-1912"
+   }
+  ]
+ },
+ {
+  "title": "Critical Insights in Aquaculture",
+  "publisher": "Taylor & Francis Group",
+  "ISSN": [
+   "2993-2181"
+  ],
+  "issn-type": [
+   {
+    "value": "2993-2181",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.tandfonline.com/taqu",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2993-2181"
+   }
+  ]
+ },
+ {
+  "title": "Central Asian Journal of Veterinary Science",
+  "publisher": "S. Seifullin Kazakh Agrotechnical University",
+  "ISSN": [
+   "3135-2421",
+   "3135-2413"
+  ],
+  "issn-type": [
+   {
+    "value": "3135-2421",
+    "type": "electronic"
+   },
+   {
+    "value": "3135-2413",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://bulletinofscience.kazatu.edu.kz/index.php/veterinary-science/index",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3135-2421"
+   }
+  ]
+ },
+ {
+  "title": "Ecosistema",
+  "publisher": "Universidad Nacional Ecológica",
+  "ISSN": [
+   "3079-7748"
+  ],
+  "issn-type": [
+   {
+    "value": "3079-7748",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://revistaecosistema.org/index.php/ecosistema/",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3079-7748"
+   }
+  ]
+ },
+ {
+  "title": "Literary Druid",
+  "publisher": "Maheswari Publishers",
+  "ISSN": [
+   "2582-4155"
+  ],
+  "issn-type": [
+   {
+    "value": "2582-4155",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://literarydruid.com/",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2582-4155"
+   }
+  ]
+ },
+ {
+  "title": "Critical Insights in Agriculture",
+  "publisher": "Taylor & Francis Group",
+  "ISSN": [
+   "2993-2106"
+  ],
+  "issn-type": [
+   {
+    "value": "2993-2106",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.tandfonline.com/tagr",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2993-2106"
+   }
+  ]
+ },
+ {
+  "title": "Shuili fazhan yanjiu",
+  "publisher": "Editorial Office of Water Resources Development Research",
+  "ISSN": [
+   "1671-1408"
+  ],
+  "issn-type": [
+   {
+    "value": "1671-1408",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://slfz.cbpt.cnki.net/portal",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-1671-1408"
+   }
+  ]
+ },
+ {
+  "title": "Journal of Clinical Insights and Research in Dentistry",
+  "publisher": "Jaypee Brothers Medical Publisher",
+  "ISSN": [
+   "3107-510X"
+  ],
+  "issn-type": [
+   {
+    "value": "3107-510X",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.jocird.org/journalDetails/JCIRD",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3107-510X"
+   }
+  ]
+ },
+ {
+  "title": "Journal of Robotics Research",
+  "publisher": "Academic Edge Press ltd",
+  "ISSN": [
+   "2978-4344"
+  ],
+  "issn-type": [
+   {
+    "value": "2978-4344",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://www.academicedgepress.co.uk/JRR",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-2978-4344"
+   }
+  ]
+ },
+ {
+  "title": "مطالعات طراحی شهری ایران",
+  "publisher": "Shiraz University Press",
+  "ISSN": [
+   "3060-8260"
+  ],
+  "issn-type": [
+   {
+    "value": "3060-8260",
+    "type": "electronic"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://iuds.shirazu.ac.ir/?lang=en",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3060-8260"
+   }
+  ]
+ },
+ {
+  "title": "Pakistan Journal of Integrated Social Sciences",
+  "publisher": "University of Lahore",
+  "ISSN": [
+   "3104-3771",
+   "3104-3763"
+  ],
+  "issn-type": [
+   {
+    "value": "3104-3771",
+    "type": "electronic"
+   },
+   {
+    "value": "3104-3763",
+    "type": "print"
+   }
+  ],
+  "doaj": true,
+  "website_url": "https://journals.uol.edu.pk/PJISS/index",
+  "provenance": [
+   {
+    "source": "doaj",
+    "source_record_id": null
+   },
+   {
+    "source": "posi_curation",
+    "source_record_id": "j-disc-issn-3104-3771"
+   }
+  ]
+ }
+]
