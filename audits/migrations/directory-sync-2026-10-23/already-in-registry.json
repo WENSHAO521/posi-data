@@ -1,0 +1,51 @@
+[
+ {
+  "title": "Journal of Medicine Surgery and Public Health",
+  "issns": [
+   "2949-916X"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025048"
+ },
+ {
+  "title": "The Lancet Regional Health - Africa",
+  "issns": [
+   "3050-5011"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025617"
+ },
+ {
+  "title": "Data Science and Informetrics",
+  "issns": [
+   "2694-6106",
+   "2694-6114"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-024732"
+ },
+ {
+  "title": "Geopsychiatry",
+  "issns": [
+   "3050-7138"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025033"
+ },
+ {
+  "title": "Animals and zoonoses.",
+  "issns": [
+   "2950-2489"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-024313"
+ },
+ {
+  "title": "Journal of Hazardous Materials Plastics",
+  "issns": [
+   "3051-0600"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025403"
+ }
+]
