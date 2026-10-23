@@ -10,10 +10,10 @@
  *     print and online ones differently (a print ISSN missing here, or the two swapped), the website's
  *     roles are taken, unless an ISSN would then also belong to another record;
  *   - short title: a short title cut off with "..." is replaced by the website's when that begins the same.
- * Any other value that is set is never changed. Dry run unless --write;
+ * Any other value that is set is never changed. --no-issn-roles leaves ISSN roles alone. Dry run unless --write;
  * safe to re-run. journals/core is not touched.
  *
- *   node scripts/fill-from-site.mjs --site <discovered-journals.json> --countries <country-codes.mjs> [--write]
+ *   node scripts/fill-from-site.mjs --site <discovered-journals.json> --countries <country-codes.mjs> [--no-issn-roles] [--write]
  */
 import { readFileSync, readdirSync, writeFileSync } from 'fs'
 import { join, resolve } from 'path'
@@ -21,6 +21,7 @@ import { pathToFileURL } from 'url'
 
 const arg = (n) => { const i = process.argv.indexOf(`--${n}`); return i > 0 ? process.argv[i + 1] : null }
 const WRITE = process.argv.includes('--write')
+const ISSN_ROLES = !process.argv.includes('--no-issn-roles')
 if (!arg('site') || !arg('countries')) { console.error('usage: --site <json> --countries <country-codes.mjs> [--write]'); process.exit(2) }
 const { isoToCountry } = await import(pathToFileURL(resolve(arg('countries'))).href)
 const nameToIso = new Map()
@@ -56,7 +57,7 @@ for (const f of files) {
     if (!r.website_url && s.website_url) { r.website_url = s.website_url; stats.website_url++; touched = true }
     if (r.open_access == null && s.open_access === true && s.doaj_status === 'listed') { r.open_access = true; stats.open_access++; touched = true }
     if (!r.publisher && s.publisher) { r.publisher = s.publisher; stats.publisher++; touched = true }
-    {
+    if (ISSN_ROLES) {
       const mine = [r.identifiers.issn_print, r.identifiers.issn_online].filter(Boolean)
       const theirs = [s.issn_print, s.issn_online].filter(Boolean)
       const differs = (r.identifiers.issn_print ?? null) !== (s.issn_print ?? null) || (r.identifiers.issn_online ?? null) !== (s.issn_online ?? null)
