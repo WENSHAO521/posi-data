@@ -1,0 +1,64 @@
+action,site_id,title,posi_id,screening_code
+alias,j-disc-issn-2525-6203,Revista Espaço,POSI-J-028407,issn-0103-7668
+alias,j-disc-issn-1488-5581,The Canadian Journal of Urology,POSI-J-028472,issn-1195-9479
+alias,j-disc-issn-2062-3690,Magyar Gerontológia,POSI-J-028439,issn-2062-3682
+alias,j-disc-issn-3072-1997,Muzealnictwo Wojskowe,POSI-J-028520,issn-0541-475X
+alias,j-disc-issn-2090-9926,The Egyptian Orthopaedic Journal,POSI-J-028408,issn-1110-1148
+alias,j-disc-issn-2664-4460,Ukrainian Journal of Forest and Wood Science,POSI-J-028475,issn-2664-4452
+alias,j-disc-issn-2223-3660,Cardiovascular Diagnosis and Therapy,POSI-J-028399,issn-2223-3652
+alias,j-disc-issn-2581-8295,Journal of Drug Research in Ayurvedic Sciences,POSI-J-028446,issn-2279-0357
+alias,j-disc-issn-2250-1452,Thyroid Research & Practice,POSI-J-028426,issn-0973-0354
+alias,j-disc-issn-2571-0605,Přehled výzkumů,POSI-J-028543,issn-1211-7250
+alias,j-disc-issn-2541-6944,Jurnal Penelitian,POSI-J-028466,issn-1829-9903
+alias,j-disc-issn-2785-4256,Rivista Italiana di Filosofia Politica,POSI-J-028527,issn-2785-3330
+alias,j-disc-issn-2411-1511,Исторический вестник,POSI-J-028459,issn-2306-4978
+alias,j-disc-issn-2706-9230,"Гуманітарні студії: педагогіка, психологія, філософія",POSI-J-028435,issn-2706-9222
+alias,j-disc-issn-3041-234X,Автоматичне зварювання,POSI-J-028405,issn-0005-111X
+alias,j-disc-issn-2578-062X,ES Materials and Manufacturing,POSI-J-028449,issn-2578-0611
+alias,j-disc-issn-2974-3141,International Maritime Transport and Logistic Journal,POSI-J-028496,issn-2974-3133
+alias,j-disc-issn-3080-8626,Zanin Journal of Science and Engineering,POSI-J-028546,issn-3080-8618
+alias,j-disc-issn-2737-6680,Revista Científica El Capacho,POSI-J-028509,issn-2224-3623
+alias,j-disc-issn-2602-1781,Euro-Atlantic Studies,POSI-J-028549,issn-1454-2153
+alias,j-disc-issn-2663-1342,Machinery & Energetics,POSI-J-028443,issn-2663-1334
+alias,j-disc-issn-2226-4477,Translational Lung Cancer Research,POSI-J-028384,issn-2218-6751
+alias,j-disc-issn-2667-369X,Kerala Surgical Journal,POSI-J-028486,issn-0973-3051
+alias,j-disc-issn-2687-7309,ES Food and Agroforestry,POSI-J-028476,issn-2687-7295
+alias,j-disc-issn-0719-7462,Revista de Derecho Económico,POSI-J-028423,issn-0716-310X
+alias,j-disc-issn-2718-7845,Actualizaciones en Sida e Infectología,POSI-J-028478,issn-2314-3193
+alias,j-disc-issn-1658-7367,Saudi Journal of Internal Medicine,POSI-J-028506,issn-1658-5763
+alias,j-disc-issn-2687-0290,Государственное и муниципальное управление: Учёные записки,POSI-J-028400,issn-2079-1690
+alias,j-disc-issn-2193-8865,Journal of Nanostructure in Chemistry,POSI-J-028431,issn-2008-9244
+new,j-disc-issn-3107-9016,Journal of PACS,POSI-J-028568,issn-3107-9016
+new,j-disc-issn-3048-8362,Applied Mathematics on Science and Engineering,POSI-J-028569,issn-3048-8362
+new,j-disc-issn-2997-9676,Statistics and Data Science in Imaging,POSI-J-028570,issn-2997-9676
+new,j-disc-issn-3141-7094,Advances in Translational Research,POSI-J-028571,issn-3141-7094
+new,j-disc-issn-3025-4310,International Journal of English Language and Pedagogy,POSI-J-028572,issn-3025-4310
+new,j-disc-issn-3050-595X,Journal of Advanced Health Research & Clinical Medicine,POSI-J-028573,issn-3050-595X
+new,j-disc-issn-3079-1960,Journal of Architecture and Built Environment Research,POSI-J-028574,issn-3079-1960
+new,j-disc-issn-2982-3358,Global Environmental Science,POSI-J-028575,issn-2982-3358
+new,j-disc-issn-3072-8010,RELART,POSI-J-028576,issn-3072-8010
+new,j-disc-issn-2001-7359,Slovo,POSI-J-028577,issn-2001-7359
+new,j-disc-issn-2981-2984,HiMA,POSI-J-028578,issn-2981-2984
+new,j-disc-issn-3064-3767,Proskuneo,POSI-J-028579,issn-3064-3767
+new,j-disc-issn-3105-3920,Integration of Mankind and Society,POSI-J-028580,issn-3105-3920
+new,j-disc-issn-3079-0948,Journal of Sustainable Education,POSI-J-028581,issn-3079-0948
+new,j-disc-issn-3049-8228,Syntactic Theory and Research,POSI-J-028582,issn-3049-8228
+new,j-disc-issn-2794-5502,Journal of Visualization and Interaction,POSI-J-028583,issn-2794-5502
+new,j-disc-issn-3115-8773,حسابرسی سیستم‌ها و فناوری اطلاعات,POSI-J-028584,issn-3115-8773
+new,j-disc-issn-3078-7963,Evidence-Based Chinese Medicine and Technology Assessment,POSI-J-028585,issn-3078-7963
+new,j-disc-issn-1005-8567,广东畜牧兽医科技,POSI-J-028586,issn-1005-8567
+new,j-disc-issn-2097-6003,Opto-Electronic Technology,POSI-J-028587,issn-2097-6003
+new,j-disc-issn-1006-0030,Shijie Shiyou Gongye,POSI-J-028588,issn-1006-0030
+new,j-disc-issn-2096-2185,分布式能源,POSI-J-028589,issn-2096-2185
+new,j-disc-issn-2753-4022,IIMBG Journal of Sustainable Business and Innovation,POSI-J-028590,issn-2753-4022
+new,j-disc-issn-2805-1912,Gobierno & Sociedad,POSI-J-028591,issn-2805-1912
+new,j-disc-issn-2993-2181,Critical Insights in Aquaculture,POSI-J-028592,issn-2993-2181
+new,j-disc-issn-3135-2421,Central Asian Journal of Veterinary Science,POSI-J-028593,issn-3135-2421
+new,j-disc-issn-3079-7748,Ecosistema,POSI-J-028594,issn-3079-7748
+new,j-disc-issn-2582-4155,Literary Druid,POSI-J-028595,issn-2582-4155
+new,j-disc-issn-2993-2106,Critical Insights in Agriculture,POSI-J-028596,issn-2993-2106
+new,j-disc-issn-1671-1408,Shuili fazhan yanjiu,POSI-J-028597,issn-1671-1408
+new,j-disc-issn-3107-510X,Journal of Clinical Insights and Research in Dentistry,POSI-J-028598,issn-3107-510X
+new,j-disc-issn-2978-4344,Journal of Robotics Research,POSI-J-028599,issn-2978-4344
+new,j-disc-issn-3060-8260,مطالعات طراحی شهری ایران,POSI-J-028600,issn-3060-8260
+new,j-disc-issn-3104-3771,Pakistan Journal of Integrated Social Sciences,POSI-J-028601,issn-3104-3771
