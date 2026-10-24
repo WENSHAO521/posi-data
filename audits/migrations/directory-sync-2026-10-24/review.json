@@ -1,0 +1,23 @@
+{
+ "quarantined": [],
+ "conflicts": [],
+ "title_overlaps": [
+  {
+   "title": "Revista de ciencias sociales.",
+   "candidates": [
+    {
+     "issns": [
+      "0717-2257",
+      "0718-3631"
+     ],
+     "publisher": "Arturo Prat University"
+    }
+   ],
+   "existing_ids": [
+    "POSI-J-003368",
+    "POSI-J-005006",
+    "POSI-J-011694"
+   ]
+  }
+ ]
+}
