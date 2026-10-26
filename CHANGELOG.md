@@ -10,6 +10,25 @@ whether two PCI values across years were computed the same way." This file
 existing at all is itself new — no top-level CHANGELOG previously existed
 despite PJR-SPEC.md referencing one since v1.0.
 
+## 2026-10-26 — DataCite fallback for article-level data
+
+**No version change.** Formulas, weights and thresholds are unchanged, and
+so is every value for a journal with works in Crossref. Journals whose
+DOIs are registered with DataCite (Zenodo included) had no article-level
+data at all; they now get it from DataCite.
+
+### Changed
+
+- PCS-1.0-SPEC.md § 3 / § 9 and `schema/metric.schema.json`: a journal with
+  no works in Crossref under any of its ISSNs is read from DataCite;
+  `pcs_source` may be `"datacite"`. A `datacite` PCS uses DataCite's
+  citation counts and is not directly comparable with a `crossref` one.
+- Article-Sample ETL (posi-engine `scripts/run-works-etl.mjs`, AJR
+  dimensions 3–6): the same fallback; each journal's works record states
+  `works_source` (`crossref` or `datacite`). DataCite records carry no
+  archiving (CLOCKSS/Portico/LOCKSS) field, so a DataCite-read journal's
+  digital-preservation item is `unknown`, never `not_met`.
+
 ## 2026-10-03 — AJR-E-1.2, AJR-M-1.2, Evidence Coverage EC-1.1
 
 **New versions.** The AJR-E and AJR-M formulas, weights and thresholds are
