@@ -53,8 +53,8 @@
     },
     "pcs_source": {
       "type": ["string", "null"],
-      "enum": ["crossref", null],
-      "description": "Always 'crossref' once populated — explicit so a reader never has to assume which citation graph a pcs value came from, unlike pci/pci_5yr/pnci which are OpenAlex-sourced."
+      "enum": ["crossref", "datacite", null],
+      "description": "Where the works and their citation counts came from: 'crossref', or 'datacite' for a journal with no works in Crossref under any of its ISSNs (DOIs registered with DataCite, Zenodo included; PCS-1.0-SPEC.md § 3). Explicit so a reader never has to assume which citation graph a pcs value came from, unlike pci/pci_5yr/pnci which are OpenAlex-sourced."
     },
     "pcs_source_retrieved_at": {
       "type": ["string", "null"],

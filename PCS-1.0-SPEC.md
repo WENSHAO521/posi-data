@@ -64,6 +64,21 @@ that DOI, populated from publishers and other sources depositing citation
 data with Crossref. This is a single aggregate integer per DOI, not a
 per-citing-work list.
 
+**DataCite fallback (2026-10-26).** A journal with no works in Crossref
+under any of its ISSNs (its DOIs are registered with DataCite, as for
+journals hosted on Zenodo) is read from the **DataCite REST API**
+(`api.datacite.org`) instead: the records naming the journal's ISSN as
+their container or as an `IsPartOf` related identifier, Zenodo concept
+DOIs left out so each article counts once, with DataCite's `citationCount`
+in place of `is-referenced-by-count`. Records of type Dataset, Text or
+Other filed under a journal's ISSN count as journal articles (Zenodo-hosted
+journals commonly type their articles that way). `pcs_source` says which
+registry a value came from. DataCite's citation counts come from a
+different, generally sparser citation graph than Crossref's, so a
+`datacite` PCS is not directly comparable with a `crossref` one; it is
+reported rather than leaving the journal with no PCS at all. Journals
+with works in Crossref are unaffected, so PCS stays at 1.0.
+
 ## 4. Eligible works
 
 Same normalized citable-document-type set PCI uses (PJR-SPEC.md's citable-
@@ -170,9 +185,10 @@ retrieved, and how complete the underlying fetch was:
   post-document-type-filtering), and is separate from, and not fed into,
   the platform's general Evidence Coverage model (AJR-SPEC.md § 6), which
   governs AJR-E/AJR-M rating eligibility, not citation-indicator display.
-- `pcs_source` — always `"crossref"` once populated, stated explicitly so
-  a reader never has to assume which citation graph a `pcs` value came
-  from (unlike `pci`/`pci_5yr`/`pnci`, which are OpenAlex-sourced).
+- `pcs_source` — `"crossref"`, or `"datacite"` for a journal read from
+  DataCite (§ 3), stated explicitly so a reader never has to assume which
+  citation graph a `pcs` value came from (unlike `pci`/`pci_5yr`/`pnci`,
+  which are OpenAlex-sourced).
 - `pcs_source_retrieved_at` — the date the Crossref fetch for this
   snapshot ran. Kept separate from `snapshot_date` (when the overall
   metric snapshot was frozen) and `data_cutoff`, since PCS's Crossref

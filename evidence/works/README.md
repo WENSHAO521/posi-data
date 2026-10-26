@@ -58,6 +58,7 @@ scale.
   "title": "Global Review of Humanities, Arts, and Society",
   "issn_queried": "3052-539X",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 40,
   "works_fetched": 40,
   "article_sample": [ /* up to 30 normalized works, spread across issues -- see below */ ],
