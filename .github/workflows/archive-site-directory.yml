@@ -1,0 +1,104 @@
+name: Archive the website's journal directory
+
+# The website kept its own copy of the discovered-journal directory in
+# src/lib/discovered-journals.json, written by its Daily Journal Sync and DOAJ
+# Journal Sync until 2026-10-23. Since then the website reads the
+# discovered-journals collection of this repository (website issue #99), and the
+# copy is removed (website issue #100). This publishes the final copy as a
+# release of this repository, like a ROR data dump: the JSON exactly as the
+# website committed it, a gzipped copy, SHA256SUMS and a README.
+#
+# Run by hand once; a tag that already has a release is left as it is. The
+# file is fetched from the public website repository at a fixed commit and
+# must match the expected SHA-256, so the release cannot pick up anything else.
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: Website commit holding the final copy
+        default: cb3e60d891a834a17964ed2b2e2d9b8275a09979
+      sha256:
+        description: Expected SHA-256 of src/lib/discovered-journals.json at that commit
+        default: 83cbf9cdb36c144e5f3202569794212dcfa2759983e45a59172911f6187f67b6
+      tag:
+        description: Release tag
+        default: site-discovered-journals-2026-10-23
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+      COMMIT: ${{ inputs.commit }}
+      SHA256: ${{ inputs.sha256 }}
+      TAG: ${{ inputs.tag }}
+    steps:
+      - name: Skip if released
+        id: check
+        run: |
+          if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "Release $TAG exists; nothing to do." | tee -a "$GITHUB_STEP_SUMMARY"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Fetch and verify
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          set -euo pipefail
+          mkdir -p out && cd out
+          curl -fsSL --retry 3 -o discovered-journals.json \
+            "https://raw.githubusercontent.com/WENSHAO521/Panorama-Open-Scholarly-Index/$COMMIT/src/lib/discovered-journals.json"
+          echo "$SHA256  discovered-journals.json" | sha256sum -c -
+          gzip -9 -n -k discovered-journals.json
+          COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('discovered-journals.json','utf8')).length)")
+          DATE=$(curl -fsSL "https://api.github.com/repos/WENSHAO521/Panorama-Open-Scholarly-Index/commits/$COMMIT" | node -e "let s='';process.stdin.on('data',d=>s+=d).on('end',()=>console.log(JSON.parse(s).commit.committer.date))")
+          cat > README.md <<EOF
+          # POSI website journal directory, final copy ($TAG)
+
+          The discovered-journal directory as the POSI website (posi.panorama-sg.com) kept it in
+          \`src/lib/discovered-journals.json\`, at website commit
+          [\`$COMMIT\`](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index/blob/$COMMIT/src/lib/discovered-journals.json)
+          ($DATE). $COUNT journal records.
+
+          The website's Daily Journal Sync (DOAJ and OpenAlex discovery, Crossref publisher lookup, metadata
+          quality scores, auto-PQF) and DOAJ Journal Sync wrote this file until 2026-10-23. Since then the
+          website builds its directory from the \`discovered-journals\` collection of
+          [posi-data](https://github.com/WENSHAO521/posi-data), which posi-engine's directory-sync keeps
+          current, and this file is no longer updated or used
+          ([#99](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index/issues/99),
+          [#100](https://github.com/WENSHAO521/Panorama-Open-Scholarly-Index/issues/100)).
+
+          Use it to see what the website listed at the switch, or to trace a journal code, id or score from
+          before it. For current records use the data layer (https://data.posi.panorama-sg.com).
+
+          ## Files
+
+          - \`discovered-journals.json\`: the file byte for byte, a JSON array of journal records in the
+            website's \`Journal\` shape (\`src/lib/types.ts\` at that commit)
+          - \`discovered-journals.json.gz\`: the same, gzipped
+          - \`SHA256SUMS\`: checksums of both; check with \`sha256sum -c SHA256SUMS\`
+
+          ## Licence
+
+          POSI's own fields (metadata quality score, auto-PQF scores and flags, journal codes and ids) are
+          CC BY 4.0. Bibliographic fields aggregated from DOAJ, OpenAlex and Crossref keep their sources'
+          terms (DOAJ, OpenAlex, Crossref).
+          EOF
+          sha256sum discovered-journals.json discovered-journals.json.gz > SHA256SUMS
+          cat SHA256SUMS
+          echo "COUNT=$COUNT" >> "$GITHUB_ENV"
+
+      - name: Release
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          set -euo pipefail
+          cd out
+          gh release create "$TAG" --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" \
+            --title "Website journal directory, final copy (2026-10-23)" --notes-file README.md \
+            discovered-journals.json discovered-journals.json.gz SHA256SUMS README.md
+          echo "Released $TAG: $COUNT records, https://github.com/$GITHUB_REPOSITORY/releases/tag/$TAG" | tee -a "$GITHUB_STEP_SUMMARY"
