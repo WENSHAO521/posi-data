@@ -1,0 +1,51 @@
+[
+ {
+  "title": "Software Impacts",
+  "issns": [
+   "2665-9638"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-026185"
+ },
+ {
+  "title": "Journal of Mass Spectrometry and Advances in the Clinical Lab",
+  "issns": [
+   "2667-145X",
+   "2667-1468"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025450"
+ },
+ {
+  "title": "Sustainable Cities and Society Advances",
+  "issns": [
+   "3051-052X"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-026235"
+ },
+ {
+  "title": "AI Thermal Fluids",
+  "issns": [
+   "3050-5852"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-024284"
+ },
+ {
+  "title": "Glycoscience & Therapy",
+  "issns": [
+   "3050-6085"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-025052"
+ },
+ {
+  "title": "Agricultural Environment and Sustainability",
+  "issns": [
+   "3117-4094"
+  ],
+  "dropped_invalid": [],
+  "posi_id": "POSI-J-024280"
+ }
+]
