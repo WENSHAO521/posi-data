@@ -120,7 +120,7 @@ walk(join(root, 'journals'), j => {
   if (!j?.id || !j.identifiers || superseded.has(j.id)) return
   for (const k of ['issn_print', 'issn_online', 'issn_l']) if (j.identifiers[k]) note(j.identifiers[k], j.id)
   const t = normTitle(j.title)
-  if (t) existingTitles.set(t, [...(existingTitles.get(t) ?? []), j.id])
+  if (t) existingTitles.set(t, [...(existingTitles.get(t) ?? []), { id: j.id, publisher: normTitle(j.publisher) }])
 })
 
 const review = { quarantined: [], conflicts: [], title_overlaps: [] }
@@ -163,10 +163,15 @@ for (const [k, g] of byTitle) {
   if (k && g.length > 1) { g.forEach(c => held.add(c)); review.title_overlaps.push({ title: g[0].title, candidates: g.map(c => ({ issns: c.ISSN, publisher: c.publisher })) }) }
 }
 // The same title as a record already in posi-data, but no ISSN in common (an ISSN in common would have matched above):
-// a relaunch or a different journal; for a person to decide.
+// a relaunch or a different journal. When both sides name a publisher and every same-title record has a different
+// one, it is a different journal with a common title (e.g. "Revista de Ciencias Sociales" at four universities) and
+// is minted. Otherwise (same publisher, or a publisher missing) it may be a relaunch: for a person to decide.
 for (const c of fresh) {
-  const ids = existingTitles.get(normTitle(c.title))
-  if (ids && !held.has(c) && !allowOverlap) { held.add(c); review.title_overlaps.push({ title: c.title, candidates: [{ issns: c.ISSN, publisher: c.publisher }], existing_ids: [...new Set(ids)] }) }
+  const same = existingTitles.get(normTitle(c.title))
+  if (!same || held.has(c) || allowOverlap) continue
+  const pub = normTitle(c.publisher)
+  if (pub && same.every(e => e.publisher && e.publisher !== pub)) continue
+  held.add(c); review.title_overlaps.push({ title: c.title, candidates: [{ issns: c.ISSN, publisher: c.publisher }], existing_ids: [...new Set(same.map(e => e.id))] })
 }
 fresh = fresh.filter(c => !held.has(c))
 
