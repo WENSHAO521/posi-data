@@ -4,6 +4,7 @@
   "title": "Climate Sustainability & Global Systems",
   "issn_queried": "3054-9663",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 3,
   "works_fetched": 3,
   "article_sample": [
@@ -16,7 +17,7 @@
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-04-21",
-      "depositDate": "2026-05-01",
+      "depositDate": "2026-10-18",
       "issueOrPeriod": "v1i1",
       "containerTitle": "Climate Sustainability &amp; Global Systems",
       "authors": [
@@ -43,7 +44,7 @@
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-03-04",
-      "depositDate": "2026-05-01",
+      "depositDate": "2026-10-18",
       "issueOrPeriod": "v1i1",
       "containerTitle": "Climate Sustainability &amp; Global Systems",
       "authors": [
@@ -76,7 +77,7 @@
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-03-03",
-      "depositDate": "2026-05-01",
+      "depositDate": "2026-10-18",
       "issueOrPeriod": "v1i1",
       "containerTitle": "Climate Sustainability &amp; Global Systems",
       "authors": [
@@ -152,10 +153,10 @@
       "totalWindows": 3,
       "activeWindows": 1
     },
-    "deposit_timeliness": "met"
+    "deposit_timeliness": "not_met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2026-03-03",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

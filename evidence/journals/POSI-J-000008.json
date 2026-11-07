@@ -11,8 +11,8 @@
     },
     {
       "url": "https://journals.panorama-sg.com/rggd/about",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/rggd/about/aims-and-scope",
@@ -26,13 +26,13 @@
     },
     {
       "url": "https://journals.panorama-sg.com/rggd/about/editorialMasthead",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/rggd/about/submissions",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/rggd/aims-and-scope",
@@ -125,17 +125,7 @@
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/rggd/about-rggd",
-      "fetch_status": "ok",
-      "http_status": 200
-    },
-    {
       "url": "https://journals.panorama-sg.com/rggd/aims-scope",
-      "fetch_status": "ok",
-      "http_status": 200
-    },
-    {
-      "url": "https://journals.panorama-sg.com/rggd/indexing-discovery-archiving",
       "fetch_status": "ok",
       "http_status": 200
     },
@@ -153,6 +143,41 @@
       "url": "https://journals.panorama-sg.com/rggd/low-carbon-policy",
       "fetch_status": "ok",
       "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/rggd/submission-guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/rggd/peer-review-process",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/rggd/apc-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/rggd/reviewer-guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/rggd/review-ethics",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/rggd/announcement/view/59",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/rggd/about/aboutThisPublishingSystem",
+      "fetch_status": "not_found",
+      "http_status": 404
     }
   ],
   "evidence_items": [
@@ -161,140 +186,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "retrieved_at": "2026-11-07T10:42:26.728Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/editorial-board",
+      "retrieved_at": "2026-11-07T10:42:27.947Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/editorial-board",
+      "retrieved_at": "2026-11-07T10:42:27.947Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/peer-review-process",
+      "retrieved_at": "2026-11-07T10:42:34.191Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/reviewer-guidelines",
+      "retrieved_at": "2026-11-07T10:42:34.191Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
-      "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/rggd/publication-ethics",
+      "retrieved_at": "2026-11-07T10:42:28.967Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/publication-ethics",
+      "retrieved_at": "2026-11-07T10:42:28.967Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/rggd/publication-ethics",
-      "retrieved_at": "2026-10-07T10:35:24.148Z"
+      "retrieved_at": "2026-11-07T10:42:28.967Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd/about/submissions",
-      "retrieved_at": "2026-10-07T10:35:23.289Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/publication-ethics",
+      "retrieved_at": "2026-11-07T10:42:28.967Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd/about/submissions",
-      "retrieved_at": "2026-10-07T10:35:23.289Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/publication-ethics",
+      "retrieved_at": "2026-11-07T10:42:28.967Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/plagiarism-policy",
+      "retrieved_at": "2026-11-07T10:42:32.829Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/rggd/publication-ethics",
-      "retrieved_at": "2026-10-07T10:35:24.148Z"
+      "retrieved_at": "2026-11-07T10:42:28.967Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "retrieved_at": "2026-11-07T10:42:26.728Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd/plagiarism-policy",
-      "retrieved_at": "2026-10-07T10:35:27.491Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/publication-ethics",
+      "retrieved_at": "2026-11-07T10:42:28.967Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/apc-policy",
+      "retrieved_at": "2026-11-07T10:42:34.191Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/submission-guidelines",
+      "retrieved_at": "2026-11-07T10:42:34.190Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/apc-policy",
+      "retrieved_at": "2026-11-07T10:42:34.191Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "retrieved_at": "2026-11-07T10:42:26.728Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "source_url": "https://journals.panorama-sg.com/rggd/submission-guidelines",
+      "retrieved_at": "2026-11-07T10:42:34.190Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
-      "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/rggd",
-      "retrieved_at": "2026-10-07T10:35:22.387Z"
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/rggd/publication-ethics",
+      "retrieved_at": "2026-11-07T10:42:28.967Z"
     },
     {
       "id": "other_applicable_terms",
@@ -306,8 +331,8 @@
   ],
   "crossref_evidence": {
     "articles": 3,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -325,12 +350,12 @@
   },
   "dimension_scores": {
     "editorial_governance": {
-      "score": 13,
+      "score": 15,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 15,
         "resolved_weight": 15,
-        "met_weight": 13,
+        "met_weight": 15,
         "not_applicable_weight": 0
       }
     },
@@ -345,12 +370,12 @@
       }
     },
     "transparency": {
-      "score": 6.67,
+      "score": 7.78,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 9,
         "resolved_weight": 9,
-        "met_weight": 6,
+        "met_weight": 7,
         "not_applicable_weight": 1
       }
     }
@@ -359,12 +384,12 @@
     "coverage_percent": 100,
     "applicable_weight": 39,
     "resolved_weight": 39,
-    "met_weight": 33,
+    "met_weight": 36,
     "not_applicable_weight": 1
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

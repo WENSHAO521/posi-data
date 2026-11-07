@@ -4,6 +4,7 @@
   "title": "Journal of Asia Social Science Practice",
   "issn_queried": "3079-7659",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 51,
   "works_fetched": 51,
   "article_sample": [
@@ -616,7 +617,7 @@
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2025-03-16",
-      "depositDate": "2026-01-25",
+      "depositDate": "2026-10-27",
       "issueOrPeriod": "v1i1",
       "containerTitle": "Journal of Asia Social Science Practice",
       "authors": [
@@ -629,14 +630,14 @@
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "XIAOTIAN",
-          "family_name": "CUI"
+          "given_name": "ZIYING",
+          "family_name": "ZHANG"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "YIRAN",
-          "family_name": "LI"
+          "given_name": "XIAOTIAN",
+          "family_name": "CUI"
         }
       ]
     },
@@ -769,7 +770,7 @@
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-06-02",
-      "depositDate": "2026-09-20",
+      "depositDate": "2026-10-27",
       "issueOrPeriod": "v2i2",
       "containerTitle": "Journal of Asia Social Science Practice",
       "authors": [
@@ -885,5 +886,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-02-23",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

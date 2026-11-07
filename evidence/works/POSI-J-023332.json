@@ -4,9 +4,37 @@
   "title": "Contemporary Review of Political Thought",
   "issn_queried": "3056-0977",
   "crossref_status": 200,
-  "total_results": 3,
-  "works_fetched": 3,
+  "works_source": "crossref",
+  "total_results": 4,
+  "works_fetched": 4,
   "article_sample": [
+    {
+      "doi": "10.63802/cropt.2026.363",
+      "title": "From Urban–Rural Antagonism to Urban–Rural Integration: A Contemporary Interpretation of Marx’s Theory of Urban–Rural Relations",
+      "hasAbstract": true,
+      "referenceCount": 21,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-12",
+      "depositDate": "2026-10-12",
+      "issueOrPeriod": "v1i?",
+      "containerTitle": "Contemporary Review of Political Thought",
+      "authors": [
+        {
+          "affiliation": "Anhui Technical College of Industry and Economy",
+          "orcid": null,
+          "given_name": "Xinmeng",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Beijing Normal University",
+          "orcid": null,
+          "given_name": "Junyu",
+          "family_name": "Zhu"
+        }
+      ]
+    },
     {
       "doi": "10.63802/cropt.2026.335",
       "title": "The Political Economy of Disease: Marx, Social Medicine, and the Production of Health Inequality",
@@ -115,20 +143,26 @@
   ],
   "sample_adequacy": {
     "sufficient": false,
-    "size": 3,
+    "size": 4,
     "meets_target": false,
     "spans_multiple_periods": false,
-    "note": "sample of 3 is below the minimum of 10 — Output Signals cannot be reliably scored"
+    "note": "sample of 4 is below the minimum of 10 — Output Signals cannot be reliably scored"
   },
   "infrastructure_item_statuses": {
     "doi_resolution_reliability": "met",
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "met",
-    "oai_pmh_schema_org_machine_readable": "blocked",
+    "oai_pmh_schema_org_machine_readable": "met",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
+    {
+      "doi": "10.63802/cropt.2026.363",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
     {
       "doi": "10.63802/cropt.2026.335",
       "resolved": true,
@@ -150,9 +184,9 @@
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": false,
-    "http_status": 403,
-    "error": "HTTP 403"
+    "ok": true,
+    "http_status": 200,
+    "error": null
   },
   "publishing_stability": {
     "cadence": {
@@ -168,5 +202,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": null,
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

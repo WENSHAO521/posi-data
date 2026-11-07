@@ -143,6 +143,16 @@
       "url": "https://ojs.shiharr.com/index.php/zgfx/about/aboutThisPublishingSystem",
       "fetch_status": "ok",
       "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/zgfx/about/%7B$submissionGuidelinesUrl%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/zgfx/user/register?source=%2Findex.php%2Fzgfx%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -151,140 +161,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx/about/editorialTeam",
-      "retrieved_at": "2026-10-07T10:37:36.832Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx/about/submissions",
-      "retrieved_at": "2026-10-07T10:37:37.625Z"
+      "retrieved_at": "2026-11-07T10:45:39.517Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx/about/submissions",
-      "retrieved_at": "2026-10-07T10:37:37.625Z"
+      "retrieved_at": "2026-11-07T10:45:39.517Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx/about/submissions",
-      "retrieved_at": "2026-10-07T10:37:37.625Z"
+      "retrieved_at": "2026-11-07T10:45:39.517Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx/about/submissions",
-      "retrieved_at": "2026-10-07T10:37:37.625Z"
+      "retrieved_at": "2026-11-07T10:45:39.517Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx/about/contact",
-      "retrieved_at": "2026-10-07T10:37:41.341Z"
+      "retrieved_at": "2026-11-07T10:45:42.951Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx/about/submissions",
-      "retrieved_at": "2026-10-07T10:37:37.625Z"
+      "retrieved_at": "2026-11-07T10:45:39.517Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/zgfx",
-      "retrieved_at": "2026-10-07T10:37:36.831Z"
+      "retrieved_at": "2026-11-07T10:45:38.621Z"
     },
     {
       "id": "other_applicable_terms",
@@ -296,8 +306,8 @@
   ],
   "crossref_evidence": {
     "articles": 11,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -354,7 +364,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

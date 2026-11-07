@@ -138,6 +138,26 @@
       "url": "https://ojs.shiharr.com/index.php/rwxk/about/aboutThisPublishingSystem",
       "fetch_status": "ok",
       "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rwxk/issue/archive/2",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rwxk/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rwxk/about/%7B$submissionGuidelinesUrl%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rwxk/user/register?source=%2Findex.php%2Frwxk%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -146,140 +166,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk/about",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "source_url": "https://ojs.shiharr.com/index.php/rwxk/about/editorialTeam",
+      "retrieved_at": "2026-11-07T10:44:40.332Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk/about/editorialTeam",
-      "retrieved_at": "2026-10-07T10:36:39.190Z"
+      "retrieved_at": "2026-11-07T10:44:40.332Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk/about/submissions",
-      "retrieved_at": "2026-10-07T10:36:41.043Z"
+      "retrieved_at": "2026-11-07T10:44:42.404Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk/about/submissions",
-      "retrieved_at": "2026-10-07T10:36:41.043Z"
+      "retrieved_at": "2026-11-07T10:44:42.404Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk/issue/archive",
-      "retrieved_at": "2026-10-07T10:36:44.789Z"
+      "retrieved_at": "2026-11-07T10:44:45.880Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "source_url": "https://ojs.shiharr.com/index.php/rwxk/apc",
+      "retrieved_at": "2026-11-07T10:44:43.899Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk/about/submissions",
-      "retrieved_at": "2026-10-07T10:36:41.043Z"
+      "retrieved_at": "2026-11-07T10:44:42.404Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "source_url": "https://ojs.shiharr.com/index.php/rwxk/apc",
+      "retrieved_at": "2026-11-07T10:44:43.899Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "source_url": "https://ojs.shiharr.com/index.php/rwxk/about/contact",
+      "retrieved_at": "2026-11-07T10:44:46.189Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk/about/submissions",
-      "retrieved_at": "2026-10-07T10:36:41.043Z"
+      "retrieved_at": "2026-11-07T10:44:42.404Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rwxk",
-      "retrieved_at": "2026-10-07T10:36:39.187Z"
+      "retrieved_at": "2026-11-07T10:44:40.330Z"
     },
     {
       "id": "other_applicable_terms",
@@ -291,8 +311,8 @@
   ],
   "crossref_evidence": {
     "articles": 100,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -349,7 +369,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

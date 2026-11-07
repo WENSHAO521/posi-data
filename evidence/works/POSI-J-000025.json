@@ -4,6 +4,7 @@
   "title": "Engineering Frontiers",
   "issn_queried": "3106-0749",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 15,
   "works_fetched": 15,
   "article_sample": [
@@ -540,5 +541,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-12-02",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }
