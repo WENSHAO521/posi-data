@@ -153,6 +153,61 @@
       "url": "https://ojs.shiharr.com/index.php/rae/gateway/plugin/WebFeedGatewayPlugin/rss",
       "fetch_status": "ok",
       "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/about/aboutThisPublishingSystem",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/setLocale/zh_CN?source=%2Findex.php%2Frae%2Fabout",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/setLocale/zh_CN?source=%2Findex.php%2Frae%2Fabout%2FeditorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/setLocale/zh_CN?source=%2Findex.php%2Frae%2Fissue%2Farchive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/setLocale/zh_CN?source=%2Findex.php%2Frae%2Fabout%2Fprivacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/setLocale/zh_CN?source=%2Findex.php%2Frae%2Fabout%2Fcontact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/setLocale/zh_CN?source=%2Findex.php%2Frae%2Fabout%2FaboutThisPublishingSystem",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/about/%7B$submissionGuidelinesUrl%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/setLocale/zh_CN?source=%2Findex.php%2Frae%2Fabout%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/register?source=%2Findex.php%2Frae%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/rae/user/setLocale/zh_CN?source=%2Findex.php%2Frae%2Flogin%3Fsource%3D%252Findex.php%252Frae%252Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -161,140 +216,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rae/about/submissions",
-      "retrieved_at": "2026-10-07T10:38:01.660Z"
+      "retrieved_at": "2026-11-07T10:46:04.208Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rae/about/submissions",
-      "retrieved_at": "2026-10-07T10:38:01.660Z"
+      "retrieved_at": "2026-11-07T10:46:04.208Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rae/about",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rae/about/contact",
-      "retrieved_at": "2026-10-07T10:38:05.339Z"
+      "retrieved_at": "2026-11-07T10:46:07.634Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/rae/about/submissions",
-      "retrieved_at": "2026-10-07T10:38:01.660Z"
+      "retrieved_at": "2026-11-07T10:46:04.208Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/rae",
-      "retrieved_at": "2026-10-07T10:38:00.878Z"
+      "retrieved_at": "2026-11-07T10:46:03.475Z"
     },
     {
       "id": "other_applicable_terms",
@@ -305,9 +360,9 @@
     }
   ],
   "crossref_evidence": {
-    "articles": 25,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "articles": 28,
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -317,7 +372,7 @@
       }
     ],
     "item_shares": {
-      "articles": 25,
+      "articles": 28,
       "copyright_licensing": 0,
       "corrections_retractions_policy": 0
     },
@@ -364,7 +419,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

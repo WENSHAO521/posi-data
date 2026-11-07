@@ -4,9 +4,31 @@
   "title": "AI & Future Society",
   "issn_queried": "3053-4011",
   "crossref_status": 200,
-  "total_results": 11,
-  "works_fetched": 11,
+  "works_source": "crossref",
+  "total_results": 13,
+  "works_fetched": 13,
   "article_sample": [
+    {
+      "doi": "10.63802/afs.v2.i2.324",
+      "title": "From AI Adoption to Institutional Preparedness: Governing Enterprises for AGI",
+      "hasAbstract": true,
+      "referenceCount": 54,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-22",
+      "depositDate": "2026-10-22",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": "Dongshin University",
+          "orcid": null,
+          "given_name": "Fang",
+          "family_name": "Sun"
+        }
+      ]
+    },
     {
       "doi": "10.63802/afs.v2.i1.207",
       "title": "AI literacy beyond tools: Safeguarding human judgment in research and higher education",
@@ -46,6 +68,27 @@
           "orcid": "0009-0005-8873-0503",
           "given_name": "Yun",
           "family_name": "Pei"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/afs.v2.i2.364",
+      "title": "When AI Delegation Becomes Dependence: Administrative Judgment at Risk",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-20",
+      "depositDate": "2026-10-22",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "AI &amp; Future Society",
+      "authors": [
+        {
+          "affiliation": "Kookmin University",
+          "orcid": "0009-0000-4622-6177",
+          "given_name": "Chengwen",
+          "family_name": "Song"
         }
       ]
     },
@@ -247,20 +290,26 @@
   ],
   "sample_adequacy": {
     "sufficient": true,
-    "size": 11,
+    "size": 13,
     "meets_target": false,
     "spans_multiple_periods": true,
-    "note": "sample of 11 clears the minimum (10) but is below the target of 30"
+    "note": "sample of 13 clears the minimum (10) but is below the target of 30"
   },
   "infrastructure_item_statuses": {
     "doi_resolution_reliability": "met",
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "met",
-    "oai_pmh_schema_org_machine_readable": "blocked",
+    "oai_pmh_schema_org_machine_readable": "met",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
+    {
+      "doi": "10.63802/afs.v2.i2.324",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
     {
       "doi": "10.63802/afs.v2.i1.207",
       "resolved": true,
@@ -269,6 +318,12 @@
     },
     {
       "doi": "10.63802/afs.v1.i1.96",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/afs.v2.i2.364",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -308,25 +363,13 @@
       "resolved": true,
       "http_status": 302,
       "error": null
-    },
-    {
-      "doi": "10.63802/afs.v2.i1.215",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.63802/afs.v1.i1.79",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
     }
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": false,
-    "http_status": 403,
-    "error": "HTTP 403"
+    "ok": true,
+    "http_status": 200,
+    "error": null
   },
   "publishing_stability": {
     "cadence": {
@@ -335,12 +378,12 @@
     },
     "continuity": {
       "totalWindows": 5,
-      "activeWindows": 3
+      "activeWindows": 4
     },
     "deposit_timeliness": "met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-09-22",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

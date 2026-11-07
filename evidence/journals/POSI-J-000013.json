@@ -26,8 +26,8 @@
     },
     {
       "url": "https://atripress.org/index.php/jmss/about/editorialMasthead",
-      "fetch_status": "server_error",
-      "http_status": 500
+      "fetch_status": "forbidden",
+      "http_status": 403
     },
     {
       "url": "https://atripress.org/index.php/jmss/about/submissions",
@@ -125,34 +125,189 @@
       "http_status": 404
     },
     {
-      "url": "https://atripress.org/index.php/$%7BdashUrl%7D",
+      "url": "https://atripress.org/jmss/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/about",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/APC",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/Copyright",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/Ethics",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/Long-term_Preservation_Services",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/about/privacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/about/editorialMasthead",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/article/view/3-2-647",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/announcement/view/9",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/announcement/view/3",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/gateway/plugin/WebFeedGatewayPlugin/atom",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/gateway/plugin/WebFeedGatewayPlugin/rss2",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/gateway/plugin/WebFeedGatewayPlugin/rss",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/EditorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/about/aboutThisPublishingSystem",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/jmss/about/%7B%24submissionGuidelinesUrl%7D",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/Editorial_office",
+      "url": "https://atripress.org/jmss/about/%7B%24submissionGuidelinesUrl%7D",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/about",
+      "url": "https://atripress.org/jmss/about/editorialHistory",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/acm-sig-proceedings?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/issue/archive",
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/acs-nano?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/submission",
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/apa?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
       "fetch_status": "not_found",
       "http_status": 404
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/Editorial_Policies",
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
       "fetch_status": "not_found",
       "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/chicago-author-date?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/harvard-cite-them-right?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/ieee?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/modern-language-association?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/vancouver?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/get/ama?submissionId=647&amp;publicationId=656&amp;issueId=21&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/download/ris?submissionId=647&amp;publicationId=656&amp;issueId=21",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/citationstylelanguage/download/bibtex?submissionId=647&amp;publicationId=656&amp;issueId=21",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://atripress.org/jmss/article/view/2-1-152",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/article/view/2-4-426",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jmss/user/register?source=%2Findex.php%2Fjmss%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -161,140 +316,140 @@
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "retrieved_at": "2026-11-07T10:43:51.442Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "source_url": "https://atripress.org/jmss/EditorialTeam",
+      "retrieved_at": "2026-11-07T10:44:06.428Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jmss/ethics",
-      "retrieved_at": "2026-08-12T10:19:23.808Z"
+      "source_url": "https://atripress.org/jmss/EditorialTeam",
+      "retrieved_at": "2026-11-07T10:44:06.428Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "source_url": "https://atripress.org/index.php/jmss/about",
+      "retrieved_at": "2026-11-07T10:43:51.443Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "retrieved_at": "2026-11-07T10:43:51.442Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jmss/ethics",
-      "retrieved_at": "2026-08-12T10:19:23.808Z"
+      "retrieved_at": "2026-11-07T10:43:54.409Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "source_url": "https://atripress.org/index.php/jmss/ethics",
+      "retrieved_at": "2026-11-07T10:43:54.409Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jmss/ethics",
-      "retrieved_at": "2026-08-12T10:19:23.808Z"
+      "retrieved_at": "2026-11-07T10:43:54.409Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "retrieved_at": "2026-11-07T10:43:51.442Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jmss/ethics",
-      "retrieved_at": "2026-08-12T10:19:23.808Z"
+      "retrieved_at": "2026-11-07T10:43:54.409Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jmss/ethics",
-      "retrieved_at": "2026-08-12T10:19:23.808Z"
+      "retrieved_at": "2026-11-07T10:43:54.409Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jmss/ethics",
-      "retrieved_at": "2026-08-12T10:19:23.808Z"
+      "retrieved_at": "2026-11-07T10:43:54.409Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "retrieved_at": "2026-11-07T10:43:51.442Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "retrieved_at": "2026-11-07T10:43:51.442Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "source_url": "https://atripress.org/jmss/APC",
+      "retrieved_at": "2026-11-07T10:43:59.403Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jmss/copyright",
-      "retrieved_at": "2026-08-12T10:19:26.280Z"
+      "retrieved_at": "2026-11-07T10:43:57.552Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "source_url": "https://atripress.org/jmss/APC",
+      "retrieved_at": "2026-11-07T10:43:59.403Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "source_url": "https://atripress.org/jmss/APC",
+      "retrieved_at": "2026-11-07T10:43:59.403Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "source_url": "https://atripress.org/index.php/jmss/about/submissions",
+      "retrieved_at": "2026-11-07T10:43:53.329Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jmss",
-      "retrieved_at": "2026-08-12T10:19:21.339Z"
+      "retrieved_at": "2026-11-07T10:43:51.442Z"
     },
     {
       "id": "other_applicable_terms",
@@ -304,6 +459,25 @@
       "retrieved_at": null
     }
   ],
+  "crossref_evidence": {
+    "articles": 54,
+    "since": "2023-11-07",
+    "until": "2026-11-07",
+    "failed": false,
+    "attempts": [
+      {
+        "issn": "3078-4441",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "item_shares": {
+      "articles": 54,
+      "copyright_licensing": 0,
+      "corrections_retractions_policy": 0
+    },
+    "upgraded": []
+  },
   "dimension_scores": {
     "editorial_governance": {
       "score": 13,
@@ -344,8 +518,8 @@
     "not_applicable_weight": 1
   },
   "site_evidence_coverage_percent": 100,
-  "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-08-12",
+  "evidence_methodology_version": "EC-1.1",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

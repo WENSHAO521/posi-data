@@ -4,9 +4,37 @@
   "title": "Journal of Modern Social Sciences",
   "issn_queried": "3078-4441",
   "crossref_status": 200,
-  "total_results": 49,
-  "works_fetched": 49,
+  "works_source": "crossref",
+  "total_results": 54,
+  "works_fetched": 54,
   "article_sample": [
+    {
+      "doi": "10.71113/jmss.v3i2.643",
+      "title": "Compliance Architecture as Strategy: A Conceptual Framework for Firm Competition Under Fragmented Global Regulation",
+      "hasAbstract": true,
+      "referenceCount": 33,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-08",
+      "depositDate": "2026-10-19",
+      "issueOrPeriod": "v3i2",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhou",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Siyu",
+          "family_name": "Lin"
+        }
+      ]
+    },
     {
       "doi": "10.71113/jmss.v3i1.498",
       "title": "Income Inequality and Fertility Decline in China",
@@ -16,8 +44,8 @@
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-06-17",
-      "depositDate": "2026-08-30",
-      "issueOrPeriod": "2026-Q2",
+      "depositDate": "2026-10-19",
+      "issueOrPeriod": "v3i1",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
@@ -25,33 +53,6 @@
           "orcid": null,
           "given_name": "Weijia",
           "family_name": "Wang"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jmss.v3i1.485",
-      "title": "How Metadiscourse Enhances Cross-Cultural Risk Communication in Public Health Emergencies: Evidence from Reciprocal Letters between Chinese and U.S. Universities",
-      "hasAbstract": true,
-      "referenceCount": 31,
-      "hasLicense": false,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-01-29",
-      "depositDate": "2026-01-30",
-      "issueOrPeriod": "v3i1",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
-          "affiliation": "Capital University of Economics and Business , CN",
-          "orcid": "0000-0001-7840-8995",
-          "given_name": "Xinyue",
-          "family_name": "Dai"
-        },
-        {
-          "affiliation": "Capital University of Economics and Business , CN",
-          "orcid": null,
-          "given_name": "Tingting",
-          "family_name": "Zhang"
         }
       ]
     },
@@ -182,35 +183,29 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v1i2.109",
-      "title": "Research on the Multidimensional Value and Communication Practice of Adolescent Sex Education in China",
+      "doi": "10.71113/jmss.v1i2.51",
+      "title": "Research on Data Security Governance from the Perspective of New Quality Productive Forces",
       "hasAbstract": true,
-      "referenceCount": 22,
+      "referenceCount": 20,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2024-12-25",
-      "depositDate": "2025-10-26",
+      "depositDate": "2026-10-30",
       "issueOrPeriod": "v1i2",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
-          "affiliation": null,
+          "affiliation": "Xi'an Jiaotong University",
           "orcid": null,
-          "given_name": "Shaoxin",
-          "family_name": "Zheng"
+          "given_name": "Zimeng",
+          "family_name": "Zhao"
         },
         {
-          "affiliation": null,
+          "affiliation": "Xi'an Jiaotong University",
           "orcid": null,
-          "given_name": "Mujie",
-          "family_name": "Song"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Ming",
-          "family_name": "Han"
+          "given_name": "Zhongqi",
+          "family_name": "Jiang"
         }
       ]
     },
@@ -242,29 +237,56 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v3i1.467",
-      "title": "Error Reflection and Incentive Guidance: Practical Path of Junior High School Mathematics Long-Term Homework Evaluation from the Perspective of Growth Mindset",
+      "doi": "10.71113/jmss.v3i1.596",
+      "title": "Market Effects of Price Limits in the Chinese Stock Market: Evidence from the Shanghai, Shenzhen, and Beijing Stock Exchanges",
       "hasAbstract": true,
-      "referenceCount": 28,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-08",
+      "depositDate": "2026-10-19",
+      "issueOrPeriod": "v3i2",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": "University of Shanghai for Science and Technology",
+          "orcid": null,
+          "given_name": "Zichen",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Yuewen",
+          "family_name": "Xiao"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jmss.v3i1.485",
+      "title": "How Metadiscourse Enhances Cross-Cultural Risk Communication in Public Health Emergencies: Evidence from Reciprocal Letters between Chinese and U.S. Universities",
+      "hasAbstract": true,
+      "referenceCount": 31,
       "hasLicense": false,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2025-12-29",
-      "depositDate": "2026-01-10",
+      "publishedDate": "2026-01-29",
+      "depositDate": "2026-01-30",
       "issueOrPeriod": "v3i1",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
-          "affiliation": "Cangzhou Normal University , CN",
-          "orcid": null,
-          "given_name": "Ning",
-          "family_name": "Luo"
+          "affiliation": "Capital University of Economics and Business , CN",
+          "orcid": "0000-0001-7840-8995",
+          "given_name": "Xinyue",
+          "family_name": "Dai"
         },
         {
-          "affiliation": "Cangzhou Xinhua Experimental School, CN",
+          "affiliation": "Capital University of Economics and Business , CN",
           "orcid": null,
-          "given_name": "Xiaorui",
-          "family_name": "Ma"
+          "given_name": "Tingting",
+          "family_name": "Zhang"
         }
       ]
     },
@@ -383,50 +405,89 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v1i2.35",
-      "title": "Analysis Digital Transformation on Corporate ESG Performance: A Qualitative Study",
+      "doi": "10.71113/jmss.v1i2.109",
+      "title": "Research on the Multidimensional Value and Communication Practice of Adolescent Sex Education in China",
       "hasAbstract": true,
-      "referenceCount": 14,
+      "referenceCount": 22,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2024-12-25",
-      "depositDate": "2025-03-08",
+      "depositDate": "2025-10-26",
       "issueOrPeriod": "v1i2",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Jun",
-          "family_name": "Cui"
+          "given_name": "Shaoxin",
+          "family_name": "Zheng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Mujie",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ming",
+          "family_name": "Han"
         }
       ]
     },
     {
-      "doi": "10.71113/jmss.v3i1.479",
-      "title": "Digitalization, ESG-Oriented Innovation, and Corporate Resilience under Environmental Policy Shocks",
+      "doi": "10.71113/jmss.v3i2.598",
+      "title": "&lt;b&gt;Tax Collection Dilemma and Optimization for Gig Workers&lt;/b&gt;",
       "hasAbstract": true,
-      "referenceCount": 11,
+      "referenceCount": 10,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2025-12-23",
+      "publishedDate": "2026-08-04",
+      "depositDate": "2026-10-19",
+      "issueOrPeriod": "v3i2",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ruina",
+          "family_name": "Qu"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Fa",
+          "family_name": "Tian"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jmss.v3i1.467",
+      "title": "Error Reflection and Incentive Guidance: Practical Path of Junior High School Mathematics Long-Term Homework Evaluation from the Perspective of Growth Mindset",
+      "hasAbstract": true,
+      "referenceCount": 28,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-29",
       "depositDate": "2026-01-10",
       "issueOrPeriod": "v3i1",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
-          "affiliation": "Solbridge International School of Business, CN",
-          "orcid": "0009-0002-9693-9145",
-          "given_name": "Jun",
-          "family_name": "Cui"
+          "affiliation": "Cangzhou Normal University , CN",
+          "orcid": null,
+          "given_name": "Ning",
+          "family_name": "Luo"
         },
         {
-          "affiliation": "Hanyang University , KR",
-          "orcid": "0009-0007-9087-8237",
-          "given_name": "Gongchao",
-          "family_name": "Wan"
+          "affiliation": "Cangzhou Xinhua Experimental School, CN",
+          "orcid": null,
+          "given_name": "Xiaorui",
+          "family_name": "Ma"
         }
       ]
     },
@@ -521,15 +582,15 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v1i2.101",
-      "title": "Theoretical construction and application path of cultural tourism metaverse empowering rural revitalization",
+      "doi": "10.71113/jmss.v1i2.35",
+      "title": "Analysis Digital Transformation on Corporate ESG Performance: A Qualitative Study",
       "hasAbstract": true,
-      "referenceCount": 9,
+      "referenceCount": 14,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2024-12-25",
-      "depositDate": "2025-12-03",
+      "depositDate": "2025-03-08",
       "issueOrPeriod": "v1i2",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
@@ -537,40 +598,61 @@
           "affiliation": null,
           "orcid": null,
           "given_name": "Jun",
-          "family_name": "Deng"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Weiwei",
-          "family_name": "Deng"
+          "family_name": "Cui"
         }
       ]
     },
     {
-      "doi": "10.71113/jmss.v3i1.463",
-      "title": "Financing Decisions in a Green Closed-Loop Supply Chain under Demand Uncertainty and Government Consumer Subsidies",
+      "doi": "10.71113/jmss.v3i2.647",
+      "title": "Monetary Policy Transmission, Inflation Dynamics, and Industrial Growth in China, 2018-2025",
       "hasAbstract": true,
       "referenceCount": 16,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2025-12-17",
+      "publishedDate": "2026-08-03",
+      "depositDate": "2026-10-19",
+      "issueOrPeriod": "v3i2",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Siyu",
+          "family_name": "Lin"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ziying",
+          "family_name": "Liu"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jmss.v3i1.479",
+      "title": "Digitalization, ESG-Oriented Innovation, and Corporate Resilience under Environmental Policy Shocks",
+      "hasAbstract": true,
+      "referenceCount": 11,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2025-12-23",
       "depositDate": "2026-01-10",
       "issueOrPeriod": "v3i1",
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
-          "affiliation": "Shanghai Institute of Technology , CN",
-          "orcid": null,
-          "given_name": "Liangcan",
-          "family_name": "Mao"
+          "affiliation": "Solbridge International School of Business, CN",
+          "orcid": "0009-0002-9693-9145",
+          "given_name": "Jun",
+          "family_name": "Cui"
         },
         {
-          "affiliation": "Shanghai Institute of Technology , CN",
-          "orcid": null,
-          "given_name": "JiangXiang",
-          "family_name": "Ju"
+          "affiliation": "Hanyang University , KR",
+          "orcid": "0009-0007-9087-8237",
+          "given_name": "Gongchao",
+          "family_name": "Wan"
         }
       ]
     },
@@ -695,10 +777,37 @@
       ]
     },
     {
-      "doi": "10.71113/jmss.v3i1.457",
-      "title": "Too Much to Owe, Too Little to Grow? Debt-to-Asset Ratio and Stock Market Performance of Nigerian Banks",
+      "doi": "10.71113/jmss.v1i2.101",
+      "title": "Theoretical construction and application path of cultural tourism metaverse empowering rural revitalization",
       "hasAbstract": true,
-      "referenceCount": 24,
+      "referenceCount": 9,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2024-12-25",
+      "depositDate": "2025-12-03",
+      "issueOrPeriod": "v1i2",
+      "containerTitle": "Journal of Modern Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Jun",
+          "family_name": "Deng"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Weiwei",
+          "family_name": "Deng"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jmss.v3i1.463",
+      "title": "Financing Decisions in a Green Closed-Loop Supply Chain under Demand Uncertainty and Government Consumer Subsidies",
+      "hasAbstract": true,
+      "referenceCount": 16,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
@@ -708,118 +817,16 @@
       "containerTitle": "Journal of Modern Social Sciences",
       "authors": [
         {
-          "affiliation": "Nnamdi Azikiwe University , NG",
-          "orcid": null,
-          "given_name": "Chiamaka",
-          "family_name": "Anaike"
-        },
-        {
-          "affiliation": "Southwestern University , NG",
-          "orcid": null,
-          "given_name": "Emmanuel",
-          "family_name": "Ihekwereme"
-        },
-        {
-          "affiliation": "Ukoro Odah Statisticals, Amansea, Anambra State, Nigeria, NG",
-          "orcid": "0000-0003-0357-0175",
-          "given_name": "Gilbert",
-          "family_name": "Nworie"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jmss.v2i4.389",
-      "title": "A Study on the Audience of Cantonese Short-Form Video Content from the Perspective of Place Identity Theory",
-      "hasAbstract": true,
-      "referenceCount": 26,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-08-06",
-      "depositDate": "2025-10-10",
-      "issueOrPeriod": "v2i4",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Ziyuan",
-          "family_name": "Liu"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jmss.v2i2.191",
-      "title": "A Citespace-based Research on English Writing Instruction as a Foreign Language in China from 1995 to 2025",
-      "hasAbstract": true,
-      "referenceCount": 29,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-04-24",
-      "depositDate": "2025-04-25",
-      "issueOrPeriod": "v2i2",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Nana",
-          "family_name": "Han"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jmss.v2i1.161",
-      "title": "Reimagining Private Museums: Challenging Collecting Ethics and Shaping Public Cultural Practices in China",
-      "hasAbstract": true,
-      "referenceCount": 32,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-02-25",
-      "depositDate": "2025-03-03",
-      "issueOrPeriod": "v2i1",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "Juewei",
-          "family_name": "Fan"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jmss.v3i1.468",
-      "title": "Geopolitical Pressure and Strategic Responses of MNEs in China",
-      "hasAbstract": true,
-      "referenceCount": 30,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-10",
-      "depositDate": "2026-01-10",
-      "issueOrPeriod": "v3i1",
-      "containerTitle": "Journal of Modern Social Sciences",
-      "authors": [
-        {
           "affiliation": "Shanghai Institute of Technology , CN",
           "orcid": null,
-          "given_name": "Qihu",
-          "family_name": "Wang"
+          "given_name": "Liangcan",
+          "family_name": "Mao"
         },
         {
           "affiliation": "Shanghai Institute of Technology , CN",
           "orcid": null,
-          "given_name": "Chunyang",
-          "family_name": "Zhang"
-        },
-        {
-          "affiliation": "Shanghai Institute of Technology , CN",
-          "orcid": null,
-          "given_name": "Yilan",
-          "family_name": "Gao"
+          "given_name": "JiangXiang",
+          "family_name": "Ju"
         }
       ]
     }
@@ -841,13 +848,13 @@
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.71113/jmss.v3i1.498",
+      "doi": "10.71113/jmss.v3i2.643",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71113/jmss.v3i1.485",
+      "doi": "10.71113/jmss.v3i1.498",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -877,7 +884,7 @@
       "error": null
     },
     {
-      "doi": "10.71113/jmss.v1i2.109",
+      "doi": "10.71113/jmss.v1i2.51",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -889,13 +896,13 @@
       "error": null
     },
     {
-      "doi": "10.71113/jmss.v3i1.467",
+      "doi": "10.71113/jmss.v3i1.596",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71113/jmss.v2i4.426",
+      "doi": "10.71113/jmss.v3i1.485",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -909,12 +916,12 @@
     },
     "continuity": {
       "totalWindows": 8,
-      "activeWindows": 6
+      "activeWindows": 7
     },
     "deposit_timeliness": "met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2024-12-25",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

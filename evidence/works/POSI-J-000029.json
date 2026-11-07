@@ -4,33 +4,73 @@
   "title": "The Journal of Interactive Social Sciences",
   "issn_queried": "3030-5322",
   "crossref_status": 200,
-  "total_results": 36,
-  "works_fetched": 36,
+  "works_source": "crossref",
+  "total_results": 39,
+  "works_fetched": 39,
   "article_sample": [
     {
-      "doi": "10.64744/tjiss.2026.257",
-      "title": "&lt;b&gt;Examining the Effects of Teacher Support and Collaborative Learning on Critical Thinking in College English Classrooms: The Mediating Role of Learning Engagement&lt;/b&gt;",
+      "doi": "10.64744/tjiss.2026.332",
+      "title": "&lt;b&gt;Developmental Characteristics of Achievement Motivation and Its Longitudinal Relations with Social Support Among Undergraduates: A Three-Wave Study&lt;/b&gt;",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-09-04",
-      "depositDate": "2026-07-27",
+      "publishedDate": "2026-10-08",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Aohan",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Ying",
+          "family_name": "Zhan"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.319",
+      "title": "&lt;b&gt;A Study on Differences in Consumer Behavior and Typical Consumer Profiles Under the \"Full Refund\" Policy in E-commerce Platforms&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-22",
+      "depositDate": "2026-10-19",
       "issueOrPeriod": "v2i3",
       "containerTitle": "The Journal of Interactive Social Sciences",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Jing",
-          "family_name": "Yang"
+          "given_name": "Bichang",
+          "family_name": "Zou"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "Suthagar",
-          "family_name": "Narasuman"
+          "given_name": "Jingjing",
+          "family_name": "Li"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Xinyi",
+          "family_name": "Hou"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Liping",
+          "family_name": "Xiang"
         }
       ]
     },
@@ -179,23 +219,29 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2026.256",
-      "title": "&lt;b&gt;Synchronicity in Generative Art: Empowering Depression Healing&lt;/b&gt;",
+      "doi": "10.64744/tjiss.2026.257",
+      "title": "&lt;b&gt;Examining the Effects of Teacher Support and Collaborative Learning on Critical Thinking in College English Classrooms: The Mediating Role of Learning Engagement&lt;/b&gt;",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-09-02",
-      "depositDate": "2026-07-13",
+      "publishedDate": "2026-09-04",
+      "depositDate": "2026-07-27",
       "issueOrPeriod": "v2i3",
       "containerTitle": "The Journal of Interactive Social Sciences",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "1",
-          "family_name": "1"
+          "given_name": "Jing",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Suthagar",
+          "family_name": "Narasuman"
         }
       ]
     },
@@ -338,47 +384,35 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2026.253",
-      "title": "A Study on the Design of Portable Hand Exercise Toys for the Elderly Based on Multisensory Interaction",
+      "doi": "10.64744/tjiss.2026.317",
+      "title": "&lt;b&gt;A Study on Pathways for Cultivating Aesthetic Expression Skills in the Course “Rendering Techniques for Product Design” in the Context of Digital and Intelligent Transformation&lt;/b&gt;",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-09-01",
-      "depositDate": "2026-07-03",
+      "publishedDate": "2026-09-03",
+      "depositDate": "2026-10-10",
       "issueOrPeriod": "v2i3",
       "containerTitle": "The Journal of Interactive Social Sciences",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "Junquan Zhu"
+          "given_name": "Hongling",
+          "family_name": "Jiang"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "Shishuo Zheng"
+          "given_name": "Zhijun",
+          "family_name": "Zhu"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "Siying Fang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "Hongling Jiang"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "Hong Li"
+          "given_name": "Dan",
+          "family_name": "Cai"
         }
       ]
     },
@@ -523,6 +557,27 @@
           "orcid": null,
           "given_name": "Ziyi",
           "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.64744/tjiss.2026.256",
+      "title": "&lt;b&gt;Synchronicity in Generative Art: Empowering Depression Healing&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-02",
+      "depositDate": "2026-07-13",
+      "issueOrPeriod": "v2i3",
+      "containerTitle": "The Journal of Interactive Social Sciences",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "1",
+          "family_name": "1"
         }
       ]
     },
@@ -719,71 +774,47 @@
       ]
     },
     {
-      "doi": "10.64744/tjiss.2026.234",
-      "title": "&lt;b&gt;Construction Management Factors Influencing Concrete Crack Formation and Quality Control in Building Projects&lt;/b&gt;",
+      "doi": "10.64744/tjiss.2026.253",
+      "title": "A Study on the Design of Portable Hand Exercise Toys for the Elderly Based on Multisensory Interaction",
       "hasAbstract": true,
       "referenceCount": 0,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-06-15",
-      "depositDate": "2026-05-21",
-      "issueOrPeriod": "v2i2",
+      "publishedDate": "2026-09-01",
+      "depositDate": "2026-07-03",
+      "issueOrPeriod": "v2i3",
       "containerTitle": "The Journal of Interactive Social Sciences",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "RAN XU"
-        }
-      ]
-    },
-    {
-      "doi": "10.64744/tjiss.2026.54",
-      "title": "Blood Letters of Edo: Emotional Compression in 17th–18th-Century Japan’s Christian Ban",
-      "hasAbstract": true,
-      "referenceCount": 22,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-03-05",
-      "depositDate": "2026-03-12",
-      "issueOrPeriod": "v2i1",
-      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
-      "authors": [
-        {
-          "affiliation": "Zhongshan College of Dalian Medicial University",
-          "orcid": null,
-          "given_name": "Ziyuan",
-          "family_name": "Liu"
+          "family_name": "Junquan Zhu"
         },
         {
-          "affiliation": "Institute of European Civilization, Tianjin Normal University, China.",
+          "affiliation": null,
           "orcid": null,
-          "given_name": "XiangYi",
-          "family_name": "Luo"
-        }
-      ]
-    },
-    {
-      "doi": "10.64744/tjiss.2025.38",
-      "title": "&lt;b&gt;Hallucination as Pragmatic Failure: A Theoretical Reframing of Large Language Models&lt;/b&gt;",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-06",
-      "depositDate": "2026-03-15",
-      "issueOrPeriod": "v1i4",
-      "containerTitle": "THE JOURNAL OF INTERACTIVE SOCIAL SCIENCES",
-      "authors": [
+          "given_name": null,
+          "family_name": "Shishuo Zheng"
+        },
         {
-          "affiliation": "Central South University",
+          "affiliation": null,
           "orcid": null,
-          "given_name": "Anni",
-          "family_name": "Li"
+          "given_name": null,
+          "family_name": "Siying Fang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Hongling Jiang"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "Hong Li"
         }
       ]
     }
@@ -805,7 +836,13 @@
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.64744/tjiss.2026.257",
+      "doi": "10.64744/tjiss.2026.332",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.64744/tjiss.2026.319",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -847,19 +884,13 @@
       "error": null
     },
     {
-      "doi": "10.64744/tjiss.2026.256",
+      "doi": "10.64744/tjiss.2026.257",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
       "doi": "10.64744/tjiss.2026.238",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.64744/tjiss.2026.127",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -885,5 +916,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-03-16",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

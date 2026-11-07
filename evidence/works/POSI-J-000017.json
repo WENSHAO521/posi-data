@@ -4,39 +4,61 @@
   "title": "教育与教法",
   "issn_queried": "3080-8847",
   "crossref_status": 200,
-  "total_results": 265,
-  "works_fetched": 265,
+  "works_source": "crossref",
+  "total_results": 293,
+  "works_fetched": 293,
   "article_sample": [
     {
-      "doi": "10.71411/jyyjx.2026.v1i7.1574",
-      "title": "人工智能赋能新商科应用型人才培养的实践路径与反思——以南宁学院工商管理专业《市场调查与预测》课程改革为例",
+      "doi": "10.71411/jyyjx.2026.v1i9.1879",
+      "title": "&lt;b&gt;邮政代理的金融财富管理转型的研究——基 &lt;/b&gt;&lt;b&gt;于数字化背景&lt;/b&gt;",
       "hasAbstract": true,
-      "referenceCount": 9,
+      "referenceCount": 15,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-08-20",
-      "depositDate": "2026-08-28",
+      "publishedDate": "2026-10-15",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "2026-Q4",
+      "containerTitle": "教育与教法",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "姚",
+          "family_name": "家鹏"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i9.1963",
+      "title": "AI Agent“双重嵌入”《内部控制与风险管理》课程的教学模式构建——基于“教学媒介—治理对象”的双重角色设计",
+      "hasAbstract": true,
+      "referenceCount": 21,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-25",
+      "depositDate": "2026-10-27",
       "issueOrPeriod": "2026-Q3",
       "containerTitle": "教育与教法",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "郑忠"
+          "given_name": "邢",
+          "family_name": "秋航"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "蒋丽君"
+          "given_name": "王",
+          "family_name": "砚萍"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "张翔"
+          "given_name": "王",
+          "family_name": "西子"
         }
       ]
     },
@@ -176,23 +198,29 @@
       ]
     },
     {
-      "doi": "10.71411/jyyjx.2026.v1i7.1656",
-      "title": "基于学习进阶理论的《数字财务》课程改革：框架设计与内容创新",
+      "doi": "10.71411/jyyjx.2026.v1i8.1790",
+      "title": "互联网金融背景下的财富管理研究",
       "hasAbstract": true,
-      "referenceCount": 9,
+      "referenceCount": 16,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-07-25",
-      "depositDate": "2026-08-28",
+      "publishedDate": "2026-08-25",
+      "depositDate": "2026-10-14",
       "issueOrPeriod": "2026-Q3",
       "containerTitle": "教育与教法",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "时",
-          "family_name": "昊天"
+          "given_name": "潘",
+          "family_name": "鹏伟"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "许",
+          "family_name": "晴"
         }
       ]
     },
@@ -308,23 +336,47 @@
       ]
     },
     {
-      "doi": "10.71411/jyyjx.2026.v1i7.1575",
-      "title": "人工智能时代高职管理会计人才培养模式改革路径探讨",
+      "doi": "10.71411/jyyjx.2026.v1i8.1809",
+      "title": "热度消退：初创综艺续季的大众娱乐度与接受度衰减现象研究",
       "hasAbstract": true,
-      "referenceCount": 8,
+      "referenceCount": 45,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-07-25",
-      "depositDate": "2026-08-28",
+      "publishedDate": "2026-08-25",
+      "depositDate": "2026-10-14",
       "issueOrPeriod": "2026-Q3",
       "containerTitle": "教育与教法",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "黄",
-          "family_name": "业妙"
+          "given_name": null,
+          "family_name": "刘晓柔"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "甘芷柔"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "陈静琪"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "姚成业"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "郑少鑫"
         }
       ]
     },
@@ -464,23 +516,23 @@
       ]
     },
     {
-      "doi": "10.71411/jyyjx.2026.v1i7.1735",
-      "title": "“六优”体系下艺术设计类专业课程思政构建路径探析——以《印刷设计》课程为例",
+      "doi": "10.71411/jyyjx.2026.v1i8.1756",
+      "title": "依托西部艺术资源培育本土青少年审美素养",
       "hasAbstract": true,
-      "referenceCount": 11,
+      "referenceCount": 6,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-07-25",
-      "depositDate": "2026-08-28",
+      "publishedDate": "2026-08-25",
+      "depositDate": "2026-10-14",
       "issueOrPeriod": "2026-Q3",
       "containerTitle": "教育与教法",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "郭",
-          "family_name": "铁"
+          "given_name": "闫",
+          "family_name": "双玲"
         }
       ]
     },
@@ -614,29 +666,29 @@
       ]
     },
     {
-      "doi": "10.71411/jyyjx.2026.v1i7.1726",
-      "title": "电动汽车驱动系统键合图模型建模过程分析",
+      "doi": "10.71411/jyyjx.2026.v1i8.1794",
+      "title": "双碳背景下中国农业发展银行普洱市分行绿色信贷存在的问题分析",
       "hasAbstract": true,
-      "referenceCount": 11,
+      "referenceCount": 16,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-07-25",
-      "depositDate": "2026-08-28",
+      "publishedDate": "2026-08-25",
+      "depositDate": "2026-10-14",
       "issueOrPeriod": "2026-Q3",
       "containerTitle": "教育与教法",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "陈",
-          "family_name": "晴晴"
+          "given_name": "杨",
+          "family_name": "凤雪"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "王",
-          "family_name": "诺言"
+          "given_name": "杨",
+          "family_name": "梦姣"
         }
       ]
     },
@@ -741,27 +793,6 @@
           "family_name": "韦宁燕"
         }
       ]
-    },
-    {
-      "doi": "10.71411/jyyjx.2025.v1i1.83",
-      "title": "美育嵌入心育：高中美术课堂中绘画教学的路径探析",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-06-16",
-      "depositDate": "2025-06-16",
-      "issueOrPeriod": "2025-Q2",
-      "containerTitle": "教育与教法",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "曾垂法"
-        }
-      ]
     }
   ],
   "sample_adequacy": {
@@ -781,7 +812,13 @@
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.71411/jyyjx.2026.v1i7.1574",
+      "doi": "10.71411/jyyjx.2026.v1i9.1879",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/jyyjx.2026.v1i9.1963",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -817,7 +854,7 @@
       "error": null
     },
     {
-      "doi": "10.71411/jyyjx.2026.v1i7.1656",
+      "doi": "10.71411/jyyjx.2026.v1i8.1790",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -833,12 +870,6 @@
       "resolved": true,
       "http_status": 302,
       "error": null
-    },
-    {
-      "doi": "10.71411/jyyjx.2025.v1i8.951",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
     }
   ],
   "oai_pmh_check": {
@@ -849,8 +880,8 @@
   },
   "publishing_stability": {
     "cadence": {
-      "expectedWindows": 17,
-      "metWindows": 16
+      "expectedWindows": 18,
+      "metWindows": 18
     },
     "continuity": {
       "totalWindows": 6,
@@ -861,5 +892,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-05-12",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

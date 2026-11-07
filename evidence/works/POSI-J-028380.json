@@ -1,0 +1,267 @@
+{
+  "posi_id": "POSI-J-028380",
+  "journal_code": "hndh",
+  "title": "Health Nexus: Digital Health and Medical AI",
+  "issn_queried": "3056-6177",
+  "crossref_status": 200,
+  "works_source": "crossref",
+  "total_results": 4,
+  "works_fetched": 4,
+  "article_sample": [
+    {
+      "doi": "10.63802/hndh.v1.i1.361",
+      "title": "Quality and Reliability of Chinese-Language Lumbar Disc Herniation Videos on TikTok and Bilibili: A Cross-Sectional Multiplatform Study",
+      "hasAbstract": true,
+      "referenceCount": 52,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-11",
+      "depositDate": "2026-10-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Health Nexus: Digital Health and Medical AI",
+      "authors": [
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Chen",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Inner Mongolia University of Science and Technology; Inner Mongolia People's Hospital",
+          "orcid": null,
+          "given_name": "Chao",
+          "family_name": "Yan"
+        },
+        {
+          "affiliation": "Yangzhou Hospital of Soochow University",
+          "orcid": null,
+          "given_name": "Yibo",
+          "family_name": "Ma"
+        },
+        {
+          "affiliation": "Affiliated Hospital of Qingdao University",
+          "orcid": null,
+          "given_name": "Guoyi",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Sir Run Run Shaw Hospital",
+          "orcid": null,
+          "given_name": "Yuyu",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "Sir Run Run Shaw Hospital",
+          "orcid": null,
+          "given_name": "Yayan",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Qian",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Xin",
+          "family_name": "Qi"
+        },
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Qilong",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Panorama Research Institute",
+          "orcid": null,
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/hndh.v1.i1.362",
+      "title": "Human Oversight Is Not Enough: Rethinking Accountability in AI-Assisted Clinical Decision-Making",
+      "hasAbstract": true,
+      "referenceCount": 24,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-11",
+      "depositDate": "2026-10-16",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Health Nexus: Digital Health and Medical AI",
+      "authors": [
+        {
+          "affiliation": "Shaanxi University of Chinese Medicine",
+          "orcid": null,
+          "given_name": "Yangyi",
+          "family_name": "Ren"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/hndh.v1.i1.356",
+      "title": "Assessing the quality and reliability of short video platforms as sources of information on depression among Chinese adolescents: a comparative study with data from Douyin, Bilibili, WeChat, and Xiaohongshu APPs",
+      "hasAbstract": true,
+      "referenceCount": 46,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-09",
+      "depositDate": "2026-10-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Health Nexus: Digital Health and Medical AI",
+      "authors": [
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Qilong",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "James Cook University Singapore",
+          "orcid": null,
+          "given_name": "Xixi",
+          "family_name": "Fan"
+        },
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Xin",
+          "family_name": "Qi"
+        },
+        {
+          "affiliation": "Sir Run Run Shaw Hospital",
+          "orcid": null,
+          "given_name": "Yuyu",
+          "family_name": "Zhang"
+        },
+        {
+          "affiliation": "Sir Run Run Shaw Hospital",
+          "orcid": null,
+          "given_name": "Yayan",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Chen",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Qian",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": "Panorama Research Institute, Hong Kong, China",
+          "orcid": null,
+          "given_name": "Chengwen",
+          "family_name": "Song"
+        },
+        {
+          "affiliation": "Xijing Hospital",
+          "orcid": null,
+          "given_name": "Siheng",
+          "family_name": "Ma"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/hndh.v1.i1.358",
+      "title": "Digital Phenotyping for Relapse Prediction in Depression and Schizophrenia: A Narrative Review of Signals, Models, and Clinical Translation",
+      "hasAbstract": true,
+      "referenceCount": 35,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-08",
+      "depositDate": "2026-10-13",
+      "issueOrPeriod": "v1i1",
+      "containerTitle": "Health Nexus: Digital Health and Medical AI",
+      "authors": [
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Qian",
+          "family_name": "Wu"
+        },
+        {
+          "affiliation": "James Cook University Singapore",
+          "orcid": null,
+          "given_name": "Xixi",
+          "family_name": "Fan"
+        },
+        {
+          "affiliation": "Gansu University of Traditional Chinese Medicine",
+          "orcid": null,
+          "given_name": "Xin",
+          "family_name": "Qi"
+        }
+      ]
+    }
+  ],
+  "sample_adequacy": {
+    "sufficient": false,
+    "size": 4,
+    "meets_target": false,
+    "spans_multiple_periods": false,
+    "note": "sample of 4 is below the minimum of 10 — Output Signals cannot be reliably scored"
+  },
+  "infrastructure_item_statuses": {
+    "doi_resolution_reliability": "met",
+    "crossref_metadata_completeness": "met",
+    "abstract_reference_license_metadata": "met",
+    "structured_author_affiliation_identifiers": "met",
+    "oai_pmh_schema_org_machine_readable": "unknown",
+    "digital_preservation_archiving": "not_met"
+  },
+  "doi_resolution_checks": [
+    {
+      "doi": "10.63802/hndh.v1.i1.361",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/hndh.v1.i1.362",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/hndh.v1.i1.356",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.63802/hndh.v1.i1.358",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    }
+  ],
+  "oai_pmh_check": null,
+  "publishing_stability": {
+    "cadence": {
+      "expectedWindows": 0,
+      "metWindows": 0
+    },
+    "continuity": {
+      "totalWindows": 0,
+      "activeWindows": 0
+    },
+    "deposit_timeliness": "met"
+  },
+  "frequency_disclosed": "unknown",
+  "first_publication_date_used": null,
+  "works_methodology_version": "WORKS-1.0",
+  "snapshot_date": "2026-11-07"
+}

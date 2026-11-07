@@ -4,6 +4,7 @@
   "title": "Global Review of Humanities, Arts, and Society",
   "issn_queried": "3052-539X",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 40,
   "works_fetched": 40,
   "article_sample": [
@@ -794,7 +795,7 @@
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "met",
-    "oai_pmh_schema_org_machine_readable": "blocked",
+    "oai_pmh_schema_org_machine_readable": "met",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
@@ -861,9 +862,9 @@
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": false,
-    "http_status": 403,
-    "error": "HTTP 403"
+    "ok": true,
+    "http_status": 200,
+    "error": null
   },
   "publishing_stability": {
     "cadence": {
@@ -871,7 +872,7 @@
       "metWindows": 6
     },
     "continuity": {
-      "totalWindows": 6,
+      "totalWindows": 7,
       "activeWindows": 5
     },
     "deposit_timeliness": "not_met"
@@ -879,5 +880,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-04-03",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

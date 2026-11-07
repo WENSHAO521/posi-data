@@ -26,8 +26,8 @@
     },
     {
       "url": "https://atripress.org/index.php/jcsis/about/editorialMasthead",
-      "fetch_status": "server_error",
-      "http_status": 500
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
       "url": "https://atripress.org/index.php/jcsis/about/submissions",
@@ -125,176 +125,246 @@
       "http_status": 404
     },
     {
-      "url": "https://atripress.org/index.php/$%7BdashUrl%7D",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://atripress.org/jcsis/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/Editorial_office",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://atripress.org/jcsis/about/submissions",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/about",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://atripress.org/jcsis/about",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/archive",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://atripress.org/jcsis/editors",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/submission",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://atripress.org/jcsis/APC",
+      "fetch_status": "ok",
+      "http_status": 200
     },
     {
-      "url": "https://atripress.org/index.php/$%7Bbase%7D/Editorial_Policies",
-      "fetch_status": "not_found",
-      "http_status": 404
+      "url": "https://atripress.org/jcsis/editorial_office",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/about/privacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/about/editorialMasthead",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/announcement/view/5",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/gateway/plugin/AnnouncementFeedGatewayPlugin/atom",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/gateway/plugin/AnnouncementFeedGatewayPlugin/rss",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/about/aboutThisPublishingSystem",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/about/editorialHistory",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/index/Charge",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/index/about/payment",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/index/about/Discount",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/index.php/JCSIS/editors",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://atripress.org/jcsis/user/register?source=%2Findex.php%2Fjcsis%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
     {
       "id": "aims_scope_explicit",
       "weight": 2,
-      "status": "not_met",
+      "status": "met",
       "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "retrieved_at": "2026-11-07T10:44:14.948Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "source_url": "https://atripress.org/index.php/jcsis/about/editorialMasthead",
+      "retrieved_at": "2026-11-07T10:44:16.252Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "source_url": "https://atripress.org/jcsis/editors",
+      "retrieved_at": "2026-11-07T10:44:22.116Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "source_url": "https://atripress.org/index.php/jcsis/about/submissions",
+      "retrieved_at": "2026-11-07T10:44:16.253Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "retrieved_at": "2026-11-07T10:44:14.948Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "retrieved_at": "2026-11-07T10:44:14.948Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcsis/about",
-      "retrieved_at": "2026-08-12T10:19:28.930Z"
+      "retrieved_at": "2026-11-07T10:44:14.949Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
-      "status": "not_met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "status": "met",
+      "source_url": "https://atripress.org/jcsis/gateway/plugin/AnnouncementFeedGatewayPlugin/atom",
+      "retrieved_at": "2026-11-07T10:44:24.655Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcsis/about/submissions",
-      "retrieved_at": "2026-08-12T10:19:30.142Z"
+      "retrieved_at": "2026-11-07T10:44:16.253Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://atripress.org/index.php/jcsis/about/submissions",
-      "retrieved_at": "2026-08-12T10:19:30.142Z"
+      "retrieved_at": "2026-11-07T10:44:16.253Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "retrieved_at": "2026-11-07T10:44:14.948Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "retrieved_at": "2026-11-07T10:44:14.948Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "retrieved_at": "2026-11-07T10:44:14.948Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "retrieved_at": "2026-11-07T10:44:14.948Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "source_url": "https://atripress.org/jcsis/APC",
+      "retrieved_at": "2026-11-07T10:44:23.399Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
-      "status": "not_met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/index/Charge",
+      "retrieved_at": "2026-11-07T10:44:26.563Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "source_url": "https://atripress.org/jcsis/APC",
+      "retrieved_at": "2026-11-07T10:44:23.399Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "source_url": "https://atripress.org/jcsis/gateway/plugin/AnnouncementFeedGatewayPlugin/atom",
+      "retrieved_at": "2026-11-07T10:44:24.655Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "source_url": "https://atripress.org/index.php/jcsis/about/submissions",
+      "retrieved_at": "2026-11-07T10:44:16.253Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
-      "status": "not_met",
-      "source_url": "https://atripress.org/index.php/jcsis",
-      "retrieved_at": "2026-08-12T10:19:28.929Z"
+      "status": "met",
+      "source_url": "https://atripress.org/index.php/index/Charge",
+      "retrieved_at": "2026-11-07T10:44:26.563Z"
     },
     {
       "id": "other_applicable_terms",
@@ -304,34 +374,53 @@
       "retrieved_at": null
     }
   ],
+  "crossref_evidence": {
+    "articles": 61,
+    "since": "2023-11-07",
+    "until": "2026-11-07",
+    "failed": false,
+    "attempts": [
+      {
+        "issn": "3078-5324",
+        "status": 200,
+        "error": null
+      }
+    ],
+    "item_shares": {
+      "articles": 61,
+      "copyright_licensing": 0,
+      "corrections_retractions_policy": 0
+    },
+    "upgraded": []
+  },
   "dimension_scores": {
     "editorial_governance": {
-      "score": 9,
+      "score": 11,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 15,
         "resolved_weight": 15,
-        "met_weight": 9,
+        "met_weight": 11,
         "not_applicable_weight": 0
       }
     },
     "research_integrity": {
-      "score": 7,
+      "score": 10,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 15,
         "resolved_weight": 15,
-        "met_weight": 7,
+        "met_weight": 10,
         "not_applicable_weight": 0
       }
     },
     "transparency": {
-      "score": 6.67,
+      "score": 10,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 9,
         "resolved_weight": 9,
-        "met_weight": 6,
+        "met_weight": 9,
         "not_applicable_weight": 1
       }
     }
@@ -340,12 +429,12 @@
     "coverage_percent": 100,
     "applicable_weight": 39,
     "resolved_weight": 39,
-    "met_weight": 22,
+    "met_weight": 30,
     "not_applicable_weight": 1
   },
   "site_evidence_coverage_percent": 100,
-  "evidence_methodology_version": "EC-1.0",
-  "snapshot_date": "2026-08-12",
+  "evidence_methodology_version": "EC-1.1",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

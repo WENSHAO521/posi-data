@@ -4,6 +4,7 @@
   "title": "Health Nexus",
   "issn_queried": "3053-7037",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 12,
   "works_fetched": 12,
   "article_sample": [
@@ -554,7 +555,7 @@
       "metWindows": 1
     },
     "continuity": {
-      "totalWindows": 4,
+      "totalWindows": 5,
       "activeWindows": 4
     },
     "deposit_timeliness": "met"
@@ -562,5 +563,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-10-15",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

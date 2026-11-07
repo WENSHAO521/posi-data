@@ -4,9 +4,43 @@
   "title": "人文学刊",
   "issn_queried": "3104-5022",
   "crossref_status": 200,
-  "total_results": 192,
-  "works_fetched": 192,
+  "works_source": "crossref",
+  "total_results": 209,
+  "works_fetched": 209,
   "article_sample": [
+    {
+      "doi": "10.71411/rwxk.2026.v1i9.1835",
+      "title": "数智化背景下高校设计教育管理模式创新与实践路径研究",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-25",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "2026-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "王",
+          "family_name": "峥"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "何",
+          "family_name": "海"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "洪",
+          "family_name": "婷"
+        }
+      ]
+    },
     {
       "doi": "10.71411/rwxk.2026.v1i5.1475",
       "title": "Z世代数字文化消费的动因与行为研究",
@@ -143,6 +177,27 @@
       ]
     },
     {
+      "doi": "10.71411/rwxk.2026.v1i8.806",
+      "title": "&lt;b&gt;《商务数据分析》&lt;/b&gt;&lt;b&gt;赋能&lt;/b&gt;&lt;b&gt;财经素养提升研究&lt;/b&gt;",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-12",
+      "depositDate": "2026-10-14",
+      "issueOrPeriod": "2026-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "麟耘",
+          "family_name": "谭"
+        }
+      ]
+    },
+    {
       "doi": "10.71411/rwxk.2026.v1i6.1647",
       "title": "近代潮汕地区《图画新报》革命叙事研究",
       "hasAbstract": true,
@@ -266,6 +321,27 @@
       ]
     },
     {
+      "doi": "10.71411/rwxk.2026.v1i7.1727",
+      "title": "乡土与情感地理：乔治·艾略特小说《织工马南》中的怀旧叙事研究",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-09",
+      "depositDate": "2026-10-14",
+      "issueOrPeriod": "2026-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "霍",
+          "family_name": "舒缓"
+        }
+      ]
+    },
+    {
       "doi": "10.71411/rwxk.2026.v1i6.1605",
       "title": "基层治理中数字形式主义的成因与对策研究",
       "hasAbstract": true,
@@ -287,15 +363,15 @@
       ]
     },
     {
-      "doi": "10.71411/rwxk.2026.v1i3.1225",
-      "title": "艺术作品集体记忆建构中的人民性",
+      "doi": "10.71411/rwxk.2026.v1i3.1400",
+      "title": "从“一人食”到“饭搭子”：城市青年饭搭子社交的情感补偿机制与心理动因",
       "hasAbstract": true,
-      "referenceCount": 18,
+      "referenceCount": 13,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-03-25",
-      "depositDate": "2026-09-04",
+      "depositDate": "2026-10-27",
       "issueOrPeriod": "2026-Q1",
       "containerTitle": "人文学刊",
       "authors": [
@@ -303,19 +379,7 @@
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "匡睿颖"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "常子博"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "毛毳*"
+          "family_name": "谭瑞将*"
         }
       ]
     },
@@ -383,6 +447,27 @@
       ]
     },
     {
+      "doi": "10.71411/rwxk.2026.v1i8.1755",
+      "title": "高质量发展理念下美育融入职校艺术设计的教学策略",
+      "hasAbstract": true,
+      "referenceCount": 8,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-08-25",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "2026-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "刘",
+          "family_name": "飞"
+        }
+      ]
+    },
+    {
       "doi": "10.71411/rwxk.2026.v1i6.1440",
       "title": "GAI赋能国际中文教育数字教学资源建设的应用路径研究",
       "hasAbstract": true,
@@ -410,15 +495,15 @@
       ]
     },
     {
-      "doi": "10.71411/rwxk.2026.v1i1.1065",
-      "title": "产教融合视域下岭南文化虚拟现实交互设计人才培养路径研究",
+      "doi": "10.71411/rwxk.2026.v1i3.1225",
+      "title": "艺术作品集体记忆建构中的人民性",
       "hasAbstract": true,
-      "referenceCount": 10,
+      "referenceCount": 18,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-01-25",
-      "depositDate": "2026-02-05",
+      "publishedDate": "2026-03-25",
+      "depositDate": "2026-09-04",
       "issueOrPeriod": "2026-Q1",
       "containerTitle": "人文学刊",
       "authors": [
@@ -426,7 +511,19 @@
           "affiliation": null,
           "orcid": null,
           "given_name": null,
-          "family_name": "潘雨沛"
+          "family_name": "匡睿颖"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "常子博"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": null,
+          "family_name": "毛毳*"
         }
       ]
     },
@@ -512,6 +609,39 @@
       ]
     },
     {
+      "doi": "10.71411/rwxk.2026.v1i8.1781",
+      "title": "从“横渠四句”到家国情怀：关学精神在思政课的价值重塑与实践路向",
+      "hasAbstract": true,
+      "referenceCount": 6,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-08-25",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "2026-Q3",
+      "containerTitle": "人文学刊",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "曹",
+          "family_name": "栋"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "孙",
+          "family_name": "若涵"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "苗",
+          "family_name": "斯彤"
+        }
+      ]
+    },
+    {
       "doi": "10.71411/rwxk.2026.v1i6.1611",
       "title": "三星堆文化IP的科技创新赋能、产业链协同整合与高质量就业耦合机制研究",
       "hasAbstract": true,
@@ -533,29 +663,23 @@
       ]
     },
     {
-      "doi": "10.71411/rwxk.2026.v1i1.1088",
-      "title": "AIGC工具在实践导向影视课程中的教学嵌入逻辑研究——以《故事片创作》课程为例",
+      "doi": "10.71411/rwxk.2026.v1i1.1065",
+      "title": "产教融合视域下岭南文化虚拟现实交互设计人才培养路径研究",
       "hasAbstract": true,
       "referenceCount": 10,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-01-25",
-      "depositDate": "2026-09-04",
+      "depositDate": "2026-02-05",
       "issueOrPeriod": "2026-Q1",
       "containerTitle": "人文学刊",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": "木英",
-          "family_name": "罗"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "禹明",
-          "family_name": "邱"
+          "given_name": null,
+          "family_name": "潘雨沛"
         }
       ]
     },
@@ -620,206 +744,47 @@
       ]
     },
     {
-      "doi": "10.71411/rwxk.2026.v1i6.1585",
-      "title": "潮汐式停车治理研究——以共和新路街道“停车联盟”为例",
+      "doi": "10.71411/rwxk.2026.v1i8.1875",
+      "title": "数智时代数字技术赋能高校图书馆阅读推广的SWOT分析",
       "hasAbstract": true,
-      "referenceCount": 11,
+      "referenceCount": 13,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-06-25",
-      "depositDate": "2026-08-28",
-      "issueOrPeriod": "2026-Q2",
+      "publishedDate": "2026-08-25",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "2026-Q3",
       "containerTitle": "人文学刊",
       "authors": [
         {
           "affiliation": null,
           "orcid": null,
           "given_name": "王",
-          "family_name": "若蓝"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/rwxk.2026.v1i1.1100",
-      "title": "多重因素下印巴克什米尔问题的成因探究",
-      "hasAbstract": true,
-      "referenceCount": 15,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-01-25",
-      "depositDate": "2026-02-05",
-      "issueOrPeriod": "2026-Q1",
-      "containerTitle": "人文学刊",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "杨长红"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/rwxk.2025.v1i7.998",
-      "title": "小学生“乡土乡情”研学实施策略与反思——以范公亭研学为例",
-      "hasAbstract": true,
-      "referenceCount": 16,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-25",
-      "depositDate": "2026-02-05",
-      "issueOrPeriod": "2025-Q4",
-      "containerTitle": "人文学刊",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "刘佳佳"
+          "family_name": "江"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "刘卓娅"
+          "given_name": "白",
+          "family_name": "天昊"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "刘紫玥"
+          "given_name": "孟",
+          "family_name": "繁晶"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "何睦"
+          "given_name": "潘",
+          "family_name": "辉"
         },
         {
           "affiliation": null,
           "orcid": null,
-          "given_name": null,
-          "family_name": "韩东旭"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "刘丰惠"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "朱增柔"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "翟培宇"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "许美奕"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "刘滨雁"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/rwxk.2025.v1i4.555",
-      "title": "纪实与展现：体育报告文学中的身体叙事研究",
-      "hasAbstract": true,
-      "referenceCount": 0,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-09-25",
-      "depositDate": "2025-11-13",
-      "issueOrPeriod": "2025-Q3",
-      "containerTitle": "人文学刊",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "统舟",
-          "family_name": "张"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "祥明",
-          "family_name": "朱"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/rwxk.2026.v1i6.1636",
-      "title": "共青精神背景下航空运动与低空经济融合发展模式研究",
-      "hasAbstract": true,
-      "referenceCount": 9,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-06-25",
-      "depositDate": "2026-08-28",
-      "issueOrPeriod": "2026-Q2",
-      "containerTitle": "人文学刊",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "胡",
-          "family_name": "滨滨"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": "胡",
-          "family_name": "晓龙"
-        }
-      ]
-    },
-    {
-      "doi": "10.71411/rwxk.2026.v1i1.1023",
-      "title": "基于综合策略的名人故居保护与活化研究——以嵊州袁雪芬故居为例",
-      "hasAbstract": true,
-      "referenceCount": 6,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-01-25",
-      "depositDate": "2026-02-05",
-      "issueOrPeriod": "2026-Q1",
-      "containerTitle": "人文学刊",
-      "authors": [
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "陈甜甜"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "吴晓珍"
-        },
-        {
-          "affiliation": null,
-          "orcid": null,
-          "given_name": null,
-          "family_name": "何情达"
+          "given_name": "姚",
+          "family_name": "鑫"
         }
       ]
     }
@@ -840,6 +805,12 @@
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
+    {
+      "doi": "10.71411/rwxk.2026.v1i9.1835",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
     {
       "doi": "10.71411/rwxk.2026.v1i5.1475",
       "resolved": true,
@@ -871,6 +842,12 @@
       "error": null
     },
     {
+      "doi": "10.71411/rwxk.2026.v1i8.806",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
       "doi": "10.71411/rwxk.2026.v1i6.1647",
       "resolved": true,
       "http_status": 302,
@@ -884,18 +861,6 @@
     },
     {
       "doi": "10.71411/rwxk.2025.v1i7.350",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/rwxk.2025.v1i4.233",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/rwxk.2025.v1i1.206",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -914,12 +879,12 @@
     },
     "continuity": {
       "totalWindows": 6,
-      "activeWindows": 5
+      "activeWindows": 6
     },
     "deposit_timeliness": "met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-06-06",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

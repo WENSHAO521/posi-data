@@ -153,6 +153,56 @@
       "url": "https://ojs.shiharr.com/index.php/eaou/gateway/plugin/WebFeedGatewayPlugin/rss",
       "fetch_status": "ok",
       "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/about/aboutThisPublishingSystem",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/setLocale/en?source=%2Findex.php%2Feaou%2Fabout",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/setLocale/en?source=%2Findex.php%2Feaou%2Fabout%2FeditorialTeam",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/setLocale/en?source=%2Findex.php%2Feaou%2Fissue%2Farchive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/setLocale/en?source=%2Findex.php%2Feaou%2Fabout%2Fprivacy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/setLocale/en?source=%2Findex.php%2Feaou%2Fabout%2Fcontact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/setLocale/en?source=%2Findex.php%2Feaou%2Fabout%2FaboutThisPublishingSystem",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/setLocale/en?source=%2Findex.php%2Feaou%2Fabout%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/register?source=%2Findex.php%2Feaou%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/eaou/user/setLocale/en?source=%2Findex.php%2Feaou%2Flogin%3Fsource%3D%252Findex.php%252Feaou%252Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -160,141 +210,141 @@
       "id": "aims_scope_explicit",
       "weight": 2,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "source_url": "https://ojs.shiharr.com/index.php/eaou/about",
+      "retrieved_at": "2026-11-07T10:46:13.219Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou/about/editorialTeam",
-      "retrieved_at": "2026-10-07T10:38:09.422Z"
+      "retrieved_at": "2026-11-07T10:46:13.219Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou/about/submissions",
-      "retrieved_at": "2026-10-07T10:38:10.701Z"
+      "retrieved_at": "2026-11-07T10:46:13.973Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou/about/submissions",
-      "retrieved_at": "2026-10-07T10:38:10.701Z"
+      "retrieved_at": "2026-11-07T10:46:13.973Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/eaou",
-      "retrieved_at": "2026-10-07T10:38:09.421Z"
+      "retrieved_at": "2026-11-07T10:46:13.218Z"
     },
     {
       "id": "other_applicable_terms",
@@ -306,8 +356,8 @@
   ],
   "crossref_evidence": {
     "articles": 89,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -364,7 +414,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

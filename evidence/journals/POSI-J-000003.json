@@ -11,8 +11,8 @@
     },
     {
       "url": "https://journals.panorama-sg.com/jlpcs/about",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/jlpcs/about/aims-and-scope",
@@ -26,13 +26,13 @@
     },
     {
       "url": "https://journals.panorama-sg.com/jlpcs/about/editorialMasthead",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/jlpcs/about/submissions",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/jlpcs/aims-and-scope",
@@ -125,6 +125,11 @@
       "http_status": 404
     },
     {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.dashboard||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
       "url": "https://journals.panorama-sg.com/$%7Bsite.archive||site.issues||",
       "fetch_status": "not_found",
       "http_status": 404
@@ -150,9 +155,224 @@
       "http_status": 404
     },
     {
-      "url": "https://journals.panorama-sg.com/$%7Bsite.submission||",
+      "url": "https://journals.panorama-sg.com/$%7Bsite.archive||",
       "fetch_status": "not_found",
       "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.aims||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.submissionInfo%20||%20site.guidelines%20||%20site.announcements%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/aims-scope",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/instructions-for-authors",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/submission-guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/article-processing-charges-apc",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/peer-review-process",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/ai-use-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/open-access-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/copyright-licensing",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/archiving-digital-preservation",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.guidelines||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.apc||site.openAccess||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.ethics||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.indexing||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.submissionInfo||site.guidelines||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.guidelines%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/$%7Bsite.joinBoard%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/double-blind-review-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/reviewer-guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/editorial-decision-process",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/special-issue-review-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.dashboard||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.archive||site.issues||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.about||site.overview||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.guidelines||site.submissions||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.peerReview||site.ethics||site.policies||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7BsubmitEntryUrl%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.archive||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.aims||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.submissionInfo%20||%20site.guidelines%20||%20site.announcements%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.guidelines||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.apc||site.openAccess||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.ethics||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.indexing||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.submissionInfo||site.guidelines||",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.guidelines%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/$%7Bsite.joinBoard%7D",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/data-availability-reproducibility",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/corrections-retractions-expressions-of-concern",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/complaints-appeals",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/jlpcs/apc-waiver-policy",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -160,141 +380,141 @@
       "id": "aims_scope_explicit",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/submission-guidelines",
+      "retrieved_at": "2026-11-07T10:41:07.408Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/editorial-board",
+      "retrieved_at": "2026-11-07T10:40:59.435Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs/about/editorialMasthead",
-      "retrieved_at": "2026-10-07T10:34:39.850Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/editorial-board",
+      "retrieved_at": "2026-11-07T10:40:59.435Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/peer-review-process",
+      "retrieved_at": "2026-11-07T10:41:07.408Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/reviewer-guidelines",
+      "retrieved_at": "2026-11-07T10:41:10.609Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/complaints-appeals",
+      "retrieved_at": "2026-11-07T10:41:15.859Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/publication-ethics",
+      "retrieved_at": "2026-11-07T10:41:00.616Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/corrections-retractions-expressions-of-concern",
+      "retrieved_at": "2026-11-07T10:41:15.859Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/publication-ethics",
+      "retrieved_at": "2026-11-07T10:41:00.616Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/publication-ethics",
+      "retrieved_at": "2026-11-07T10:41:00.616Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/publication-ethics",
+      "retrieved_at": "2026-11-07T10:41:00.616Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/publication-ethics",
+      "retrieved_at": "2026-11-07T10:41:00.616Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/data-availability-reproducibility",
+      "retrieved_at": "2026-11-07T10:41:15.859Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs/about/submissions",
-      "retrieved_at": "2026-10-07T10:34:39.850Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/publication-ethics",
+      "retrieved_at": "2026-11-07T10:41:00.616Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/article-processing-charges-apc",
+      "retrieved_at": "2026-11-07T10:41:07.408Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/copyright-licensing",
+      "retrieved_at": "2026-11-07T10:41:08.658Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/open-access-policy",
+      "retrieved_at": "2026-11-07T10:41:08.658Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs/about/submissions",
-      "retrieved_at": "2026-10-07T10:34:39.850Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/double-blind-review-policy",
+      "retrieved_at": "2026-11-07T10:41:10.609Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs",
-      "retrieved_at": "2026-10-07T10:34:38.903Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/submission-guidelines",
+      "retrieved_at": "2026-11-07T10:41:07.408Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/jlpcs/about/submissions",
-      "retrieved_at": "2026-10-07T10:34:39.850Z"
+      "source_url": "https://journals.panorama-sg.com/jlpcs/publication-ethics",
+      "retrieved_at": "2026-11-07T10:41:00.616Z"
     },
     {
       "id": "other_applicable_terms",
@@ -306,8 +526,8 @@
   ],
   "crossref_evidence": {
     "articles": 22,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -364,7 +584,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

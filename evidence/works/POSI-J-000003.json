@@ -4,6 +4,7 @@
   "title": "Journal of Law, Psychology, and Communication Studies",
   "issn_queried": "3052-9654",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 22,
   "works_fetched": 22,
   "article_sample": [
@@ -566,7 +567,7 @@
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "not_met",
-    "oai_pmh_schema_org_machine_readable": "blocked",
+    "oai_pmh_schema_org_machine_readable": "met",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
@@ -633,9 +634,9 @@
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": false,
-    "http_status": 403,
-    "error": "HTTP 403"
+    "ok": true,
+    "http_status": 200,
+    "error": null
   },
   "publishing_stability": {
     "cadence": {
@@ -643,7 +644,7 @@
       "metWindows": 2
     },
     "continuity": {
-      "totalWindows": 5,
+      "totalWindows": 6,
       "activeWindows": 4
     },
     "deposit_timeliness": "not_met"
@@ -651,5 +652,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-07-22",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

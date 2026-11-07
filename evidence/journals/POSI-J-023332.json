@@ -11,8 +11,8 @@
     },
     {
       "url": "https://journals.panorama-sg.com/cropt/about",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/cropt/about/aims-and-scope",
@@ -26,13 +26,13 @@
     },
     {
       "url": "https://journals.panorama-sg.com/cropt/about/editorialMasthead",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/cropt/about/submissions",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/cropt/aims-and-scope",
@@ -153,6 +153,121 @@
       "url": "https://journals.panorama-sg.com/cropt/ai-and-research-integrity-policy",
       "fetch_status": "ok",
       "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/conflict-of-interest-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/corrections-and-retractions",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/complaints-and-appeals",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/archiving-and-preservation",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/article/view/317",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/about/aboutThisPublishingSystem",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/open-access",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/acm-sig-proceedings?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/acs-nano?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/ama?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/apa?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/chicago-author-date?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/harvard-cite-them-right?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/ieee?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/modern-language-association?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/psg?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/get/vancouver?submissionId=317&amp;publicationId=321&amp;issueId=43&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/download/ris?submissionId=317&amp;publicationId=321&amp;issueId=43",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/citationstylelanguage/download/bibtex?submissionId=317&amp;publicationId=321&amp;issueId=43",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/cropt/search/search?query=Chinese-style%20modernization%20spatial%20governance%20regional%20coordination%20Fifteenth%20Five-Year%20Plan%20policy%20and%20institutional%20analysis%20cross-jurisdictional%20cooperation",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -160,141 +275,141 @@
       "id": "aims_scope_explicit",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/peer-review-policy",
+      "retrieved_at": "2026-11-07T10:46:39.930Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/editorial-board",
+      "retrieved_at": "2026-11-07T10:46:34.554Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/editorial-board",
+      "retrieved_at": "2026-11-07T10:46:34.554Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/peer-review-policy",
+      "retrieved_at": "2026-11-07T10:46:39.930Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "retrieved_at": "2026-11-07T10:46:32.842Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/complaints-and-appeals",
+      "retrieved_at": "2026-11-07T10:46:42.660Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/publication-ethics",
+      "retrieved_at": "2026-11-07T10:46:35.745Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/corrections-and-retractions",
+      "retrieved_at": "2026-11-07T10:46:41.274Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt/publication-ethics",
-      "retrieved_at": "2026-10-07T10:38:34.935Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/author-guidelines",
+      "retrieved_at": "2026-11-07T10:46:36.961Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/conflict-of-interest-policy",
+      "retrieved_at": "2026-11-07T10:46:41.274Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/publication-ethics",
+      "retrieved_at": "2026-11-07T10:46:35.745Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt/about/submissions",
-      "retrieved_at": "2026-10-07T10:38:33.873Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/publication-ethics",
+      "retrieved_at": "2026-11-07T10:46:35.745Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt/about/submissions",
-      "retrieved_at": "2026-10-07T10:38:33.873Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/author-guidelines",
+      "retrieved_at": "2026-11-07T10:46:36.961Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt/about/submissions",
-      "retrieved_at": "2026-10-07T10:38:33.873Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/publication-ethics",
+      "retrieved_at": "2026-11-07T10:46:35.745Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/apc-waiver-policy",
+      "retrieved_at": "2026-11-07T10:46:39.930Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/copyright-licensing",
+      "retrieved_at": "2026-11-07T10:46:41.274Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/open-access",
+      "retrieved_at": "2026-11-07T10:46:44.430Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/cropt/submission-process",
-      "retrieved_at": "2026-10-07T10:38:38.801Z"
+      "retrieved_at": "2026-11-07T10:46:39.929Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt",
-      "retrieved_at": "2026-10-07T10:38:32.478Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/author-guidelines",
+      "retrieved_at": "2026-11-07T10:46:36.961Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/cropt/publication-ethics",
-      "retrieved_at": "2026-10-07T10:38:34.935Z"
+      "source_url": "https://journals.panorama-sg.com/cropt/conflict-of-interest-policy",
+      "retrieved_at": "2026-11-07T10:46:41.274Z"
     },
     {
       "id": "other_applicable_terms",
@@ -305,9 +420,9 @@
     }
   ],
   "crossref_evidence": {
-    "articles": 3,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "articles": 4,
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -317,7 +432,7 @@
       }
     ],
     "item_shares": {
-      "articles": 3,
+      "articles": 4,
       "copyright_licensing": 0,
       "corrections_retractions_policy": 0
     },
@@ -364,7 +479,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }
