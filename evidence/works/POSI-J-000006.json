@@ -4,9 +4,37 @@
   "title": "Journal of Engineering Systems and Applications",
   "issn_queried": "3053-478X",
   "crossref_status": 200,
-  "total_results": 4,
-  "works_fetched": 4,
+  "works_source": "crossref",
+  "total_results": 5,
+  "works_fetched": 5,
   "article_sample": [
+    {
+      "doi": "10.63802/jesa.v2.2026.351",
+      "title": "A Lightweight Traffic Sign Recognition Network for Autonomous Driving: Integrating Dual-Branch Attention and Weather-Robust Augmentation",
+      "hasAbstract": true,
+      "referenceCount": 18,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-18",
+      "depositDate": "2026-10-18",
+      "issueOrPeriod": "v2i?",
+      "containerTitle": "Journal of Engineering Systems and Applications",
+      "authors": [
+        {
+          "affiliation": "Changsha Medical University",
+          "orcid": null,
+          "given_name": "Ting",
+          "family_name": "Wang"
+        },
+        {
+          "affiliation": "Zhejiang Automotive Engineering Advanced Research Institute",
+          "orcid": "0009-0004-5239-9321",
+          "given_name": "Zhihao",
+          "family_name": "Weng"
+        }
+      ]
+    },
     {
       "doi": "10.63802/jesa.v1.2025.151",
       "title": "Development and Empirical Study of a Multimodal Educational Agent System in Metaverse for Engineering Education Digital Transformation​",
@@ -106,10 +134,10 @@
   ],
   "sample_adequacy": {
     "sufficient": false,
-    "size": 4,
+    "size": 5,
     "meets_target": false,
-    "spans_multiple_periods": false,
-    "note": "sample of 4 is below the minimum of 10 — Output Signals cannot be reliably scored"
+    "spans_multiple_periods": true,
+    "note": "sample of 5 is below the minimum of 10 — Output Signals cannot be reliably scored"
   },
   "infrastructure_item_statuses": {
     "doi_resolution_reliability": "met",
@@ -120,6 +148,12 @@
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
+    {
+      "doi": "10.63802/jesa.v2.2026.351",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
     {
       "doi": "10.63802/jesa.v1.2025.151",
       "resolved": true,
@@ -153,12 +187,12 @@
     },
     "continuity": {
       "totalWindows": 5,
-      "activeWindows": 2
+      "activeWindows": 3
     },
     "deposit_timeliness": "not_met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-08-13",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

@@ -4,6 +4,7 @@
   "title": "Journal of the European Academy Open University",
   "issn_queried": "3105-5850",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 89,
   "works_fetched": 89,
   "article_sample": [
@@ -1191,5 +1192,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-09-15",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

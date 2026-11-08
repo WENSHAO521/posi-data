@@ -4,27 +4,34 @@
   "title": "Resonance: Journal of Global Music Studies",
   "issn_queried": "3053-4410",
   "crossref_status": 200,
-  "total_results": 19,
-  "works_fetched": 19,
+  "works_source": "crossref",
+  "total_results": 20,
+  "works_fetched": 20,
   "article_sample": [
     {
-      "doi": "10.63802/rjgms.v2.i2.354",
-      "title": "In Transit",
+      "doi": "10.63802/rjgms.v2.i2.360",
+      "title": "Liturgical Sonic Order in the Catholic Mass: Music, Participation, and the German-Language Gotteslob",
       "hasAbstract": true,
-      "referenceCount": 4,
+      "referenceCount": 32,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-10-02",
-      "depositDate": "2026-10-01",
+      "publishedDate": "2026-10-10",
+      "depositDate": "2026-10-10",
       "issueOrPeriod": "v2i2",
       "containerTitle": "Resonance: Journal of Global Music Studies",
       "authors": [
         {
-          "affiliation": "Chuanqi Technology (Beijing) Co., Ltd., Beijing 100176, China",
+          "affiliation": "Panorama Research Institute, Hong Kong, China",
           "orcid": null,
-          "given_name": "Linxi",
-          "family_name": "Zhang"
+          "given_name": "Yanlin",
+          "family_name": "Feng"
+        },
+        {
+          "affiliation": "Panorama Research Institute, Hong Kong, China",
+          "orcid": null,
+          "given_name": "Sebastian",
+          "family_name": "Lenz"
         }
       ]
     },
@@ -128,23 +135,23 @@
       ]
     },
     {
-      "doi": "10.63802/rjgms.v2.i2.321",
-      "title": "From Lyrics to Legibility: Translation, Vernacular Metadata, and Transnational Music Publics in East Asian and Sinophone Platform Ecologies",
+      "doi": "10.63802/rjgms.v2.i2.354",
+      "title": "In Transit",
       "hasAbstract": true,
-      "referenceCount": 48,
+      "referenceCount": 4,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-09-09",
-      "depositDate": "2026-09-08",
+      "publishedDate": "2026-10-02",
+      "depositDate": "2026-10-01",
       "issueOrPeriod": "v2i2",
       "containerTitle": "Resonance: Journal of Global Music Studies",
       "authors": [
         {
-          "affiliation": "University of Hong Kong",
-          "orcid": "0009-0006-4864-5395",
-          "given_name": "Haoyang",
-          "family_name": "He"
+          "affiliation": "Chuanqi Technology (Beijing) Co., Ltd., Beijing 100176, China",
+          "orcid": null,
+          "given_name": "Linxi",
+          "family_name": "Zhang"
         }
       ]
     },
@@ -187,6 +194,27 @@
           "orcid": "0000-0002-3622-0887",
           "given_name": "Lei",
           "family_name": "Xiang"
+        }
+      ]
+    },
+    {
+      "doi": "10.63802/rjgms.v2.i2.321",
+      "title": "From Lyrics to Legibility: Translation, Vernacular Metadata, and Transnational Music Publics in East Asian and Sinophone Platform Ecologies",
+      "hasAbstract": true,
+      "referenceCount": 48,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-09-09",
+      "depositDate": "2026-09-08",
+      "issueOrPeriod": "v2i2",
+      "containerTitle": "Resonance: Journal of Global Music Studies",
+      "authors": [
+        {
+          "affiliation": "University of Hong Kong",
+          "orcid": "0009-0006-4864-5395",
+          "given_name": "Haoyang",
+          "family_name": "He"
         }
       ]
     },
@@ -445,22 +473,22 @@
   ],
   "sample_adequacy": {
     "sufficient": true,
-    "size": 19,
+    "size": 20,
     "meets_target": false,
     "spans_multiple_periods": true,
-    "note": "sample of 19 clears the minimum (10) but is below the target of 30"
+    "note": "sample of 20 clears the minimum (10) but is below the target of 30"
   },
   "infrastructure_item_statuses": {
     "doi_resolution_reliability": "met",
     "crossref_metadata_completeness": "met",
     "abstract_reference_license_metadata": "met",
     "structured_author_affiliation_identifiers": "met",
-    "oai_pmh_schema_org_machine_readable": "blocked",
+    "oai_pmh_schema_org_machine_readable": "met",
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
     {
-      "doi": "10.63802/rjgms.v2.i2.354",
+      "doi": "10.63802/rjgms.v2.i2.360",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -484,7 +512,7 @@
       "error": null
     },
     {
-      "doi": "10.63802/rjgms.v2.i2.321",
+      "doi": "10.63802/rjgms.v2.i2.354",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -502,6 +530,12 @@
       "error": null
     },
     {
+      "doi": "10.63802/rjgms.v2.i2.321",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
       "doi": "10.63802/rjgms.v2.i1.310",
       "resolved": true,
       "http_status": 302,
@@ -512,19 +546,13 @@
       "resolved": true,
       "http_status": 302,
       "error": null
-    },
-    {
-      "doi": "10.63802/resonance.v2.i1.257",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
     }
   ],
   "oai_pmh_check": {
     "attempted": true,
-    "ok": false,
-    "http_status": 403,
-    "error": "HTTP 403"
+    "ok": true,
+    "http_status": 200,
+    "error": null
   },
   "publishing_stability": {
     "cadence": {
@@ -540,5 +568,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-08-24",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

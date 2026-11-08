@@ -153,6 +153,101 @@
       "url": "https://ojs.shiharr.com/index.php/jassp/peerviewpolicies",
       "fetch_status": "ok",
       "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/openaccesspolicy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/payment",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/article/view/1772",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/about/aboutThisPublishingSystem",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/acm-sig-proceedings?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/acs-nano?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/apa?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/chicago-author-date?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/harvard-cite-them-right?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/ieee?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/modern-language-association?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/vancouver?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/get/ama?submissionId=1772&amp;publicationId=1773&amp;issueId=84&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/download/ris?submissionId=1772&amp;publicationId=1773&amp;issueId=84",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/citationstylelanguage/download/bibtex?submissionId=1772&amp;publicationId=1773&amp;issueId=84",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/search/search?query=IHEC%20Internationalisation%20policy%20International%20collaboration%20Structural%20equation%20modelling%20Double%20First-Class%20universities",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://ojs.shiharr.com/index.php/jassp/user/register?source=%2Findex.php%2Fjassp%2Fsubmissions",
+      "fetch_status": "ok",
+      "http_status": 200
     }
   ],
   "evidence_items": [
@@ -160,141 +255,141 @@
       "id": "aims_scope_explicit",
       "weight": 2,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/about",
+      "retrieved_at": "2026-11-07T10:44:52.892Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/about/editorialTeam",
+      "retrieved_at": "2026-11-07T10:44:52.893Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/about/editorialTeam",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "retrieved_at": "2026-11-07T10:44:52.893Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/peerviewpolicies",
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "retrieved_at": "2026-11-07T10:44:52.892Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
-      "retrieved_at": "2026-10-07T10:36:58.939Z"
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/jassp/apc",
-      "retrieved_at": "2026-10-07T10:36:55.020Z"
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
-      "retrieved_at": "2026-10-07T10:36:58.939Z"
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
-      "retrieved_at": "2026-10-07T10:36:58.939Z"
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/jassp/about/submissions",
-      "retrieved_at": "2026-10-07T10:36:53.418Z"
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
-      "retrieved_at": "2026-10-07T10:36:58.939Z"
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
-      "retrieved_at": "2026-10-07T10:36:58.939Z"
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/publicationethics",
-      "retrieved_at": "2026-10-07T10:36:58.939Z"
+      "retrieved_at": "2026-11-07T10:44:59.312Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/apc",
+      "retrieved_at": "2026-11-07T10:44:55.762Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/copyright",
-      "retrieved_at": "2026-10-07T10:36:56.103Z"
+      "retrieved_at": "2026-11-07T10:44:56.745Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "source_url": "https://ojs.shiharr.com/index.php/jassp/apc",
+      "retrieved_at": "2026-11-07T10:44:55.762Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "retrieved_at": "2026-11-07T10:44:52.892Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp/about/submissions",
-      "retrieved_at": "2026-10-07T10:36:53.418Z"
+      "retrieved_at": "2026-11-07T10:44:54.252Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
       "status": "not_met",
       "source_url": "https://ojs.shiharr.com/index.php/jassp",
-      "retrieved_at": "2026-10-07T10:36:52.170Z"
+      "retrieved_at": "2026-11-07T10:44:52.892Z"
     },
     {
       "id": "other_applicable_terms",
@@ -306,8 +401,8 @@
   ],
   "crossref_evidence": {
     "articles": 51,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -364,7 +459,7 @@
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }

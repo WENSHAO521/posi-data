@@ -4,9 +4,37 @@
   "title": "Journal of Current Social Issues Studies",
   "issn_queried": "3078-5324",
   "crossref_status": 200,
-  "total_results": 59,
-  "works_fetched": 59,
+  "works_source": "crossref",
+  "total_results": 61,
+  "works_fetched": 61,
   "article_sample": [
+    {
+      "doi": "10.71113/jcsis.v3i2.597",
+      "title": "Research on the Sustainable Development Strategies of Traditional Suona Ensembles in the Digital Era",
+      "hasAbstract": true,
+      "referenceCount": 31,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-27",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "v3i2",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "National Academy of Music “Professor Pancho Vladigerov”, Sofia; National Academy of Music Prof. Pancho Vladigerov",
+          "orcid": null,
+          "given_name": "Gengyue",
+          "family_name": "Zhong"
+        },
+        {
+          "affiliation": "SEGi University",
+          "orcid": null,
+          "given_name": "Xue",
+          "family_name": "Chong"
+        }
+      ]
+    },
     {
       "doi": "10.71113/jcsis.v3i1.509",
       "title": "Optimizing Regulatory Pathways for Generative Artificial Intelligence in China: A Policy-Analytic Study",
@@ -16,8 +44,8 @@
       "hasArchive": false,
       "documentType": "journal-article",
       "publishedDate": "2026-05-11",
-      "depositDate": "2026-06-09",
-      "issueOrPeriod": "2026-Q2",
+      "depositDate": "2026-10-19",
+      "issueOrPeriod": "v3i1",
       "containerTitle": "Journal of Current Social Issues Studies",
       "authors": [
         {
@@ -37,6 +65,27 @@
           "orcid": null,
           "given_name": "Jing",
           "family_name": "Zhang"
+        }
+      ]
+    },
+    {
+      "doi": "10.71113/jcsis.v3i1.454",
+      "title": "Changes in Australia’s Perception of External Threats—— Analysis Based on Lowy Institute Poll Reports from 2005-2023",
+      "hasAbstract": true,
+      "referenceCount": 10,
+      "hasLicense": false,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-04-14",
+      "depositDate": "2026-04-25",
+      "issueOrPeriod": "2026-Q2",
+      "containerTitle": "Journal of Current Social Issues Studies",
+      "authors": [
+        {
+          "affiliation": "China University of Mining and Technology",
+          "orcid": null,
+          "given_name": "Qian",
+          "family_name": "Liu"
         }
       ]
     },
@@ -76,33 +125,6 @@
           "orcid": null,
           "given_name": "Rubin",
           "family_name": "Cao"
-        }
-      ]
-    },
-    {
-      "doi": "10.71113/jcsis.v3i1.472",
-      "title": "Bricolage Under Constraint: Community-Led Regional Branding through the Zuojhen Lantern Festival, Taiwan",
-      "hasAbstract": true,
-      "referenceCount": 47,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2026-02-28",
-      "depositDate": "2026-03-02",
-      "issueOrPeriod": "v3i1",
-      "containerTitle": "Journal of Current Social Issues Studies",
-      "authors": [
-        {
-          "affiliation": "National Cheng Kung University",
-          "orcid": null,
-          "given_name": "Ting-Yu",
-          "family_name": "YANG"
-        },
-        {
-          "affiliation": "National Cheng Kung University",
-          "orcid": null,
-          "given_name": "Chia-Han",
-          "family_name": "YANG"
         }
       ]
     },
@@ -311,44 +333,74 @@
       ]
     },
     {
-      "doi": "10.71113/jcsis.v3i1.454",
-      "title": "Changes in Australia’s Perception of External Threats—— Analysis Based on Lowy Institute Poll Reports from 2005-2023",
+      "doi": "10.71113/jcsis.v3i2.667",
+      "title": "&lt;b&gt;Assessment of the Potential of Music Soundscape Therapy in Psychological Stress Management Among University Students: Water Sound Material and Resonance Effect&lt;/b&gt;",
       "hasAbstract": true,
-      "referenceCount": 10,
-      "hasLicense": false,
+      "referenceCount": 27,
+      "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2026-04-14",
-      "depositDate": "2026-04-25",
-      "issueOrPeriod": "2026-Q2",
+      "publishedDate": "2026-10-15",
+      "depositDate": "2026-10-19",
+      "issueOrPeriod": "v3i2",
       "containerTitle": "Journal of Current Social Issues Studies",
       "authors": [
         {
-          "affiliation": "China University of Mining and Technology",
+          "affiliation": null,
           "orcid": null,
-          "given_name": "Qian",
+          "given_name": "Weijia",
+          "family_name": "Yang"
+        },
+        {
+          "affiliation": "The Nueva School. 131 E 28th Ave, San Mateo, CA 94403",
+          "orcid": null,
+          "given_name": "Jing Yang Catherine",
+          "family_name": "Chen"
+        },
+        {
+          "affiliation": "Shanghai Conservatory of Music",
+          "orcid": null,
+          "given_name": "Jiawei",
+          "family_name": "Su"
+        },
+        {
+          "affiliation": "Shanghai Conservatory of Music",
+          "orcid": null,
+          "given_name": "Fan",
+          "family_name": "Shi"
+        },
+        {
+          "affiliation": "Shanghai Conservatory of Music",
+          "orcid": null,
+          "given_name": "Hao",
           "family_name": "Liu"
         }
       ]
     },
     {
-      "doi": "10.71113/jcsis.v3i1.471",
-      "title": "Academic, Social, and Institutional Adaptation of Turkish Graduate Students in U.S. Higher Education",
+      "doi": "10.71113/jcsis.v3i1.472",
+      "title": "Bricolage Under Constraint: Community-Led Regional Branding through the Zuojhen Lantern Festival, Taiwan",
       "hasAbstract": true,
-      "referenceCount": 32,
+      "referenceCount": 47,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2025-12-26",
-      "depositDate": "2026-03-18",
+      "publishedDate": "2026-02-28",
+      "depositDate": "2026-03-02",
       "issueOrPeriod": "v3i1",
       "containerTitle": "Journal of Current Social Issues Studies",
       "authors": [
         {
-          "affiliation": "Adnan Menderes University , TR",
-          "orcid": "0000-0003-2474-5106",
-          "given_name": "Ömer Cem",
-          "family_name": "Karacaoğlu"
+          "affiliation": "National Cheng Kung University",
+          "orcid": null,
+          "given_name": "Ting-Yu",
+          "family_name": "YANG"
+        },
+        {
+          "affiliation": "National Cheng Kung University",
+          "orcid": null,
+          "given_name": "Chia-Han",
+          "family_name": "YANG"
         }
       ]
     },
@@ -569,35 +621,23 @@
       ]
     },
     {
-      "doi": "10.71113/jcsis.v3i1.458",
-      "title": "When Profits Lie: How Book-Tax Differences Signal Declining Firm Performance",
+      "doi": "10.71113/jcsis.v3i1.471",
+      "title": "Academic, Social, and Institutional Adaptation of Turkish Graduate Students in U.S. Higher Education",
       "hasAbstract": true,
-      "referenceCount": 22,
+      "referenceCount": 32,
       "hasLicense": true,
       "hasArchive": false,
       "documentType": "journal-article",
-      "publishedDate": "2025-12-16",
+      "publishedDate": "2025-12-26",
       "depositDate": "2026-03-18",
       "issueOrPeriod": "v3i1",
       "containerTitle": "Journal of Current Social Issues Studies",
       "authors": [
         {
-          "affiliation": "Nnamdi Azikiwe University , NG",
-          "orcid": null,
-          "given_name": "Chiamaka",
-          "family_name": "Anaike"
-        },
-        {
-          "affiliation": "Nnamdi Azikiwe University , NG",
-          "orcid": null,
-          "given_name": "Gilbert",
-          "family_name": "Nworie"
-        },
-        {
-          "affiliation": "University of Ilorin , NG",
-          "orcid": null,
-          "given_name": "Titilayo",
-          "family_name": "Shehu"
+          "affiliation": "Adnan Menderes University , TR",
+          "orcid": "0000-0003-2474-5106",
+          "given_name": "Ömer Cem",
+          "family_name": "Karacaoğlu"
         }
       ]
     },
@@ -801,33 +841,6 @@
           "family_name": "Feng"
         }
       ]
-    },
-    {
-      "doi": "10.71113/jcsis.v3i1.480",
-      "title": "How AI-Driven Agile Project Management Affects Corporate Sustainability Performance: Evidence from Chinese Listed Firms?",
-      "hasAbstract": true,
-      "referenceCount": 9,
-      "hasLicense": true,
-      "hasArchive": false,
-      "documentType": "journal-article",
-      "publishedDate": "2025-12-16",
-      "depositDate": "2026-03-18",
-      "issueOrPeriod": "v3i1",
-      "containerTitle": "Journal of Current Social Issues Studies",
-      "authors": [
-        {
-          "affiliation": "solbridge international school of business, KR",
-          "orcid": "0009-0002-9693-9145",
-          "given_name": "Jun",
-          "family_name": "Cui"
-        },
-        {
-          "affiliation": "Hanyang University , KR",
-          "orcid": "0009-0007-9087-8237",
-          "given_name": "Gongchao",
-          "family_name": "Wan"
-        }
-      ]
     }
   ],
   "sample_adequacy": {
@@ -847,19 +860,25 @@
   },
   "doi_resolution_checks": [
     {
+      "doi": "10.71113/jcsis.v3i2.597",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
       "doi": "10.71113/jcsis.v3i1.509",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71113/jcsis.v3i1.562",
+      "doi": "10.71113/jcsis.v3i1.454",
       "resolved": true,
       "http_status": 302,
       "error": null
     },
     {
-      "doi": "10.71113/jcsis.v3i1.472",
+      "doi": "10.71113/jcsis.v3i1.562",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -899,12 +918,6 @@
       "resolved": true,
       "http_status": 302,
       "error": null
-    },
-    {
-      "doi": "10.71113/jcsis.2025v2i1.61-82",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
     }
   ],
   "oai_pmh_check": null,
@@ -915,12 +928,12 @@
     },
     "continuity": {
       "totalWindows": 8,
-      "activeWindows": 6
+      "activeWindows": 7
     },
     "deposit_timeliness": "met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2024-12-05",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

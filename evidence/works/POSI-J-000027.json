@@ -4,9 +4,37 @@
   "title": "Research on Architecture and Environment",
   "issn_queried": "3105-5842",
   "crossref_status": 200,
-  "total_results": 25,
-  "works_fetched": 25,
+  "works_source": "crossref",
+  "total_results": 28,
+  "works_fetched": 28,
   "article_sample": [
+    {
+      "doi": "10.71411/rae.2026.v2i4.2043",
+      "title": "Theory and Practical Reflections on \"Planning and Post-Evaluation\"——Review and Analysis of a Series of Design Competitions in Xiangcheng District",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-17",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhang",
+          "family_name": "Rui"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Hong",
+          "family_name": "Bin"
+        }
+      ]
+    },
     {
       "doi": "10.71411/rae.2026.v2i3.1691",
       "title": "在地文化的现代重塑：埃及“沙漠水晶”大数据中心设计探析",
@@ -104,6 +132,39 @@
       ]
     },
     {
+      "doi": "10.71411/rae.2026.v2i4.2041",
+      "title": "Design Practice of Transformation of GRiD Project in Singapore",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-17",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Pimbley",
+          "family_name": "Stephen"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Lim",
+          "family_name": "Wenhui"
+        },
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Leong",
+          "family_name": "Jessica"
+        }
+      ]
+    },
+    {
       "doi": "10.71411/rae.2026.v2i3.1689",
       "title": "城市缝隙中的活力热点：上海凯旋南路桥下空间更新",
       "hasAbstract": true,
@@ -190,6 +251,27 @@
           "orcid": null,
           "given_name": null,
           "family_name": "叶赛"
+        }
+      ]
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i4.2042",
+      "title": "Breaking New Ground through Innovation, Gathering Wisdom via Planning—— Practices and Reflections on High-Quality Resource Planning Support for Xiangcheng during the 15th Five-Year Plan Period",
+      "hasAbstract": true,
+      "referenceCount": 0,
+      "hasLicense": true,
+      "hasArchive": false,
+      "documentType": "journal-article",
+      "publishedDate": "2026-10-17",
+      "depositDate": "2026-10-27",
+      "issueOrPeriod": "v2i4",
+      "containerTitle": "建筑与环境研究",
+      "authors": [
+        {
+          "affiliation": null,
+          "orcid": null,
+          "given_name": "Zhou",
+          "family_name": "Xuefeng"
         }
       ]
     },
@@ -673,10 +755,10 @@
   ],
   "sample_adequacy": {
     "sufficient": true,
-    "size": 25,
+    "size": 28,
     "meets_target": false,
     "spans_multiple_periods": true,
-    "note": "sample of 25 clears the minimum (10) but is below the target of 30"
+    "note": "sample of 28 clears the minimum (10) but is below the target of 30"
   },
   "infrastructure_item_statuses": {
     "doi_resolution_reliability": "met",
@@ -687,6 +769,12 @@
     "digital_preservation_archiving": "not_met"
   },
   "doi_resolution_checks": [
+    {
+      "doi": "10.71411/rae.2026.v2i4.2043",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
     {
       "doi": "10.71411/rae.2026.v2i3.1691",
       "resolved": true,
@@ -707,6 +795,12 @@
     },
     {
       "doi": "10.71411/rae.2025.v1i3.989",
+      "resolved": true,
+      "http_status": 302,
+      "error": null
+    },
+    {
+      "doi": "10.71411/rae.2026.v2i4.2041",
       "resolved": true,
       "http_status": 302,
       "error": null
@@ -734,18 +828,6 @@
       "resolved": true,
       "http_status": 302,
       "error": null
-    },
-    {
-      "doi": "10.71411/rae.2026.v2i3.1690",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
-    },
-    {
-      "doi": "10.71411/rae.2026.v2i2.1453",
-      "resolved": true,
-      "http_status": 302,
-      "error": null
     }
   ],
   "oai_pmh_check": {
@@ -761,12 +843,12 @@
     },
     "continuity": {
       "totalWindows": 4,
-      "activeWindows": 3
+      "activeWindows": 4
     },
     "deposit_timeliness": "met"
   },
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-12-17",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

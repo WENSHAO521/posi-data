@@ -4,6 +4,7 @@
   "title": "Journal of Contemporary Art Criticism",
   "issn_queried": "3079-7489",
   "crossref_status": 200,
+  "works_source": "crossref",
   "total_results": 13,
   "works_fetched": 13,
   "article_sample": [
@@ -407,7 +408,7 @@
       "metWindows": 0
     },
     "continuity": {
-      "totalWindows": 6,
+      "totalWindows": 7,
       "activeWindows": 2
     },
     "deposit_timeliness": "met"
@@ -415,5 +416,5 @@
   "frequency_disclosed": "unknown",
   "first_publication_date_used": "2025-04-03",
   "works_methodology_version": "WORKS-1.0",
-  "snapshot_date": "2026-10-07"
+  "snapshot_date": "2026-11-07"
 }

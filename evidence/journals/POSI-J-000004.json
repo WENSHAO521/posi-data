@@ -11,8 +11,8 @@
     },
     {
       "url": "https://journals.panorama-sg.com/HealthNexus/about",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/HealthNexus/about/aims-and-scope",
@@ -26,13 +26,13 @@
     },
     {
       "url": "https://journals.panorama-sg.com/HealthNexus/about/editorialMasthead",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/HealthNexus/about/submissions",
-      "fetch_status": "ok",
-      "http_status": 200
+      "fetch_status": "not_found",
+      "http_status": 404
     },
     {
       "url": "https://journals.panorama-sg.com/HealthNexus/aims-and-scope",
@@ -153,6 +153,176 @@
       "url": "https://journals.panorama-sg.com/HealthNexus/apc-waiver-policy",
       "fetch_status": "ok",
       "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/ai-research-integrity-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/publication-ethics-requirements",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/reviewer-guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/ethical-standards",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/issue/archive",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/open-access-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/retraction-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/corrections-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/complaints-appeals-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/conflict-of-interest-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/plagiarism-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/announcement/view/101",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/article/view/154",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/about/aboutThisPublishingSystem",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/Author-Guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/APC-Waiver-Policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/ai-research-integrity-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/complaints-appeals-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/open-access-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/data-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/copyright-licensing",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/publication-ethics",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/submission",
+      "fetch_status": "forbidden",
+      "http_status": 403
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/peer-review-process",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/Reviewer-Guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/apc-waiver-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/archiving-preservation",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/corrections-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/retraction-policy",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/about/contact",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/healthnexus/Reviewer-Guidelines",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/announcement/view/93",
+      "fetch_status": "ok",
+      "http_status": 200
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=154&amp;publicationId=155&amp;issueId=33&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
+    },
+    {
+      "url": "https://journals.panorama-sg.com/HealthNexus/citationstylelanguage/get/acm-sig-proceedings?submissionId=154&amp;publicationId=155&amp;issueId=33&amp;return=json",
+      "fetch_status": "not_found",
+      "http_status": 404
     }
   ],
   "evidence_items": [
@@ -160,141 +330,141 @@
       "id": "aims_scope_explicit",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/author-guidelines",
+      "retrieved_at": "2026-11-07T10:41:22.152Z"
     },
     {
       "id": "editorial_board_public",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/editorial-board",
+      "retrieved_at": "2026-11-07T10:41:19.963Z"
     },
     {
       "id": "editor_identity_affiliation_verifiable",
       "weight": 2,
       "status": "met",
       "source_url": "https://journals.panorama-sg.com/HealthNexus/editorial-board",
-      "retrieved_at": "2026-10-07T10:34:47.833Z"
+      "retrieved_at": "2026-11-07T10:41:19.963Z"
     },
     {
       "id": "peer_review_process_disclosed",
       "weight": 4,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/peer-review-process",
+      "retrieved_at": "2026-11-07T10:41:25.347Z"
     },
     {
       "id": "reviewer_editorial_guidelines",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/reviewer-guidelines",
+      "retrieved_at": "2026-11-07T10:41:27.865Z"
     },
     {
       "id": "complaints_appeals",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/complaints-appeals-policy",
+      "retrieved_at": "2026-11-07T10:41:29.120Z"
     },
     {
       "id": "publication_ethics_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/publication-ethics-requirements",
+      "retrieved_at": "2026-11-07T10:41:26.683Z"
     },
     {
       "id": "corrections_retractions_policy",
       "weight": 3,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/retraction-policy",
+      "retrieved_at": "2026-11-07T10:41:29.120Z"
     },
     {
       "id": "authorship_contributorship_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus/publication-ethics",
-      "retrieved_at": "2026-10-07T10:34:48.784Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/publication-ethics-requirements",
+      "retrieved_at": "2026-11-07T10:41:26.683Z"
     },
     {
       "id": "conflict_of_interest_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/conflict-of-interest-policy",
+      "retrieved_at": "2026-11-07T10:41:29.120Z"
     },
     {
       "id": "plagiarism_similarity_policy",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/plagiarism-policy",
+      "retrieved_at": "2026-11-07T10:41:30.322Z"
     },
     {
       "id": "human_animal_ethics_consent",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus/about/submissions",
-      "retrieved_at": "2026-10-07T10:34:47.832Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/publication-ethics-requirements",
+      "retrieved_at": "2026-11-07T10:41:26.683Z"
     },
     {
       "id": "data_availability_sharing",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/data-policy",
+      "retrieved_at": "2026-11-07T10:41:24.657Z"
     },
     {
       "id": "ai_use_policy",
       "weight": 1,
-      "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/author-guidelines",
+      "retrieved_at": "2026-11-07T10:41:22.152Z"
     },
     {
       "id": "fee_disclosure",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/apc-waiver-policy",
+      "retrieved_at": "2026-11-07T10:41:26.683Z"
     },
     {
       "id": "copyright_licensing",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/copyright-licensing",
+      "retrieved_at": "2026-11-07T10:41:25.347Z"
     },
     {
       "id": "access_model_disclosure",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/open-access-policy",
+      "retrieved_at": "2026-11-07T10:41:27.866Z"
     },
     {
       "id": "publisher_ownership_contact",
       "weight": 2,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus/about/submissions",
-      "retrieved_at": "2026-10-07T10:34:47.832Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/complaints-appeals-policy",
+      "retrieved_at": "2026-11-07T10:41:29.120Z"
     },
     {
       "id": "author_guidelines",
       "weight": 1,
       "status": "met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/author-guidelines",
+      "retrieved_at": "2026-11-07T10:41:22.152Z"
     },
     {
       "id": "advertising_sponsorship_disclosure",
       "weight": 1,
-      "status": "not_met",
-      "source_url": "https://journals.panorama-sg.com/HealthNexus",
-      "retrieved_at": "2026-10-07T10:34:46.716Z"
+      "status": "met",
+      "source_url": "https://journals.panorama-sg.com/HealthNexus/conflict-of-interest-policy",
+      "retrieved_at": "2026-11-07T10:41:29.120Z"
     },
     {
       "id": "other_applicable_terms",
@@ -306,8 +476,8 @@
   ],
   "crossref_evidence": {
     "articles": 12,
-    "since": "2023-10-07",
-    "until": "2026-10-07",
+    "since": "2023-11-07",
+    "until": "2026-11-07",
     "failed": false,
     "attempts": [
       {
@@ -335,22 +505,22 @@
       }
     },
     "research_integrity": {
-      "score": 14,
+      "score": 15,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 15,
         "resolved_weight": 15,
-        "met_weight": 14,
+        "met_weight": 15,
         "not_applicable_weight": 0
       }
     },
     "transparency": {
-      "score": 8.89,
+      "score": 10,
       "coverage": {
         "coverage_percent": 100,
         "applicable_weight": 9,
         "resolved_weight": 9,
-        "met_weight": 8,
+        "met_weight": 9,
         "not_applicable_weight": 1
       }
     }
@@ -359,12 +529,12 @@
     "coverage_percent": 100,
     "applicable_weight": 39,
     "resolved_weight": 39,
-    "met_weight": 37,
+    "met_weight": 39,
     "not_applicable_weight": 1
   },
   "site_evidence_coverage_percent": 100,
   "evidence_methodology_version": "EC-1.1",
-  "snapshot_date": "2026-10-07",
+  "snapshot_date": "2026-11-07",
   "evidence_snapshot_status": "complete",
   "recrawl_required": false
 }
